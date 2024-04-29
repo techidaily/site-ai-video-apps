@@ -9,7 +9,7 @@ const path = require('path');
 const https = require('https');
 
 const indexNowKey = '321605a882c746fda06905c0fda48dc4'; // 替换为你的API密钥
-const siteHostName = 'ai-vdieo-apps.techidaily.com'; // 替换为你的网站URL
+const siteHostName = 'ai-video-apps.techidaily.com'; // 替换为你的网站URL
 const groupItemCount = 100; // 每组最多个URL
 
 

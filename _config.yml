@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Ai Vdieo Apps
+title: Ai Video Apps
 subtitle: 'Enjoy life easier but more creative!'
-description: 'Ai Vdieo Apps is the largest, most trusted online solution for everyone to learn, share their knowledge, and help other people.'
+description: 'Ai Video Apps is the largest, most trusted online solution for everyone to learn, share their knowledge, and help other people.'
 keywords: 'video editor, video converter, video software, video player, ai video software, ai video editor, Tools, File explorer, Convert, Repair tools, data recovery'
 author: Lauer
 language: en
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://ai-vdieo-apps.techidaily.com
+url: https://ai-video-apps.techidaily.com
 permalink: :title/
 permalink_defaults:
 pretty_urls:
@@ -112,10 +112,10 @@ sitemap:
 ## 执行 hexo clean && hexo deploy 。
 ## 如果提交失败
 ## cd .deploy_git
-## git push -u https://$GITHUB_DEPLOY_TOKEN@github.com/techidaily/site-ai-vdieo-apps.git HEAD:gh-pages --force
+## git push -u https://$GITHUB_DEPLOY_TOKEN@github.com/techidaily/site-ai-video-apps.git HEAD:gh-pages --force
 deploy:
   type: git
   repo:  
-    url: https://github.com/techidaily/site-ai-vdieo-apps.git
+    url: https://github.com/techidaily/site-ai-video-apps.git
     branch: gh-pages
     token: $GITHUB_DEPLOY_TOKEN

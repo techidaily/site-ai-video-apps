@@ -1,6 +1,6 @@
 # Ai Vdieo Apps Site
 
-Welcome to [https://ai-vdieo-apps.techidaily.com](https://ai-vdieo-apps.techidaily.com)
+Welcome to [https://ai-video-apps.techidaily.com](https://ai-video-apps.techidaily.com)
 
 ## Publish
 

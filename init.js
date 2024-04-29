@@ -31,8 +31,11 @@ function replaceFileContent(filePath) {
 
   const content = fs.readFileSync(filePath, 'utf-8');
   let newContent = content.replaceAll(`android-transfer.techidaily.com`, `${subDomainName}.techidaily.com`);
+  newContent = content.replaceAll(`ai-vdieo-apps.techidaily.com`, `${subDomainName}.techidaily.com`);
   newContent = newContent.replaceAll(`site-android-transfer.git`, `site-${subDomainName}.git`);
+  newContent = newContent.replaceAll(`site-ai-vdieo-apps.git`, `site-${subDomainName}.git`);
   newContent = newContent.replaceAll(`hexo-site-android-transfer`, `hexo-site-${subDomainName}`);
+  newContent = newContent.replaceAll(`hexo-site-ai-vdieo-apps`, `hexo-site-${subDomainName}`);
 
   // 标题替换
   newContent = newContent.replaceAll(`title: TechiDaily`, `title: ${subSiteTitle}`);
