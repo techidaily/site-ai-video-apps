@@ -1,7 +1,7 @@
 ---
 title: New Ken Burns Effect Tutorial From Basics to Pro for 2024
-date: 2024-04-28T01:09:59.420Z
-updated: 2024-04-29T01:09:59.420Z
+date: 2024-06-08T14:05:51.785Z
+updated: 2024-06-09T14:05:51.785Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Ken Burns Effect Tutorial From Basics to Pro for 2024
 excerpt: This Article Describes New Ken Burns Effect Tutorial From Basics to Pro for 2024
 keywords: from beginner to pro fcp 2024 tutorial collection,from still to stunning how to use ken burns effect in final cut pro for maximum impact,from basic to brilliant using ken burns effect in final cut pro like a pro,ken burns effect tutorial from basics to pro,final cut pro ken burns effects,how to make ken burns effect in final cut pro,ken burns effect tutorial add movement to your photos
-thumbnail: https://www.lifewire.com/thmb/NVfSH4Rjse-W0WAejPd1W9V_3ag=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1253176532-e5ce8e507433489f87c8b37818c13a01.jpg
+thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36feed408fdb0ec7f3ca8b4ddc2.jpg
 ---
 
 ## Ken Burns Effect Tutorial: From Basics to Pro

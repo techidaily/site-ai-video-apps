@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Camtasia Video Editing Essentials How to Adjust Playback Speed
-date: 2024-05-19T09:40:31.799Z
-updated: 2024-05-20T09:40:31.799Z
+date: 2024-06-08T14:06:18.402Z
+updated: 2024-06-09T14:06:18.402Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Camtasia Video Editing Essentials How to Adjust Playback Speed
 excerpt: This Article Describes Updated 2024 Approved Camtasia Video Editing Essentials How to Adjust Playback Speed
 keywords: camtasia essentials how to adjust video speed with ease,camtasia video editing essentials how to adjust playback speed,camtasia video editing pro mastering playback speed and more,camtasia essentials how to adjust video playback speed,camtasia essentials adjusting video speed for better engagement,adjust video playback speed in camtasia,ai animation adjust video playback speed in camtasia
-thumbnail: https://www.lifewire.com/thmb/eYcaBBIZ1vACwviFbibN_RqgtSY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-measuring-tv-size-102761115-getty-5bf8513246e0fb008321de5f.jpg
+thumbnail: https://thmb.techidaily.com/5b0ce9c020094ad31bdc87530c31e032109184ed98794f1ba27d0b681ad3c785.jpg
 ---
 
 ## Camtasia Video Editing Essentials: How to Adjust Playback Speed

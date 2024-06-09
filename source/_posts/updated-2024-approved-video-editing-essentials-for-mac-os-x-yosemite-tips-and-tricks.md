@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Video Editing Essentials for Mac OS X Yosemite Tips and Tricks
-date: 2024-04-28T01:21:26.622Z
-updated: 2024-04-29T01:21:26.622Z
+date: 2024-06-08T14:06:20.700Z
+updated: 2024-06-09T14:06:20.700Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Video Editing Essentials for Mac OS X Yosemite Tips and Tricks
 excerpt: This Article Describes Updated 2024 Approved Video Editing Essentials for Mac OS X Yosemite Tips and Tricks
 keywords: the ultimate yosemite video editing guide tips tricks and tutorials,gopro video editing for mac users tips tricks and tutorials,ai animation os x mavericks video editing essentials tips and tricks,apple video editing essentials top picks for pros and beginners,yosemite video editing essentials tips and tricks,os x mavericks video editing essentials tips and tricks,video editing essentials for mac os x yosemite tips and tricks
-thumbnail: https://www.lifewire.com/thmb/lKoxPMpdBOHt8yxn5M8d3rrvNWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOS-wwdc-7d655ca37a3b43b99fd9dac09bec13c4.jpg
+thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b7b5c93436a642cc91c8c39d.jpg
 ---
 
 ## Video Editing Essentials for Mac OS X Yosemite: Tips and Tricks

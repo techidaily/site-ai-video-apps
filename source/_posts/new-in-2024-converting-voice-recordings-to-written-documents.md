@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Converting Voice Recordings to Written Documents
-date: 2024-05-19T09:40:33.764Z
-updated: 2024-05-20T09:40:33.764Z
+date: 2024-06-08T14:06:16.155Z
+updated: 2024-06-09T14:06:16.155Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Converting Voice Recordings to Written Documents
 excerpt: This Article Describes New In 2024, Converting Voice Recordings to Written Documents
 keywords: converting voice recordings to written documents,the ultimate guide to converting text to voice recordings,quick tips on recording voice over with final cut pro,converting voice to written language a guide,voice recognition converting spoken words to text,speak record transcribe converting voice to text with ease,from script to screen mastering voice over recordings in fcp
-thumbnail: https://www.lifewire.com/thmb/85rwStNr21lvFIjCfmY8ErdogYI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wimbledonlivestream-c22d5eefbf8f40e9b25ba4cab1734ece.jpg
+thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c12bd8c02f2b01f747786c25.jpg
 ---
 
 ## Converting Voice Recordings to Written Documents

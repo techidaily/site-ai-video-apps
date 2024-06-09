@@ -1,7 +1,7 @@
 ---
 title: Resize Videos in Minutes A Beginners Tutorial for 2024
-date: 2024-05-19T09:39:33.575Z
-updated: 2024-05-20T09:39:33.575Z
+date: 2024-06-08T14:06:14.417Z
+updated: 2024-06-09T14:06:14.417Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Resize Videos in Minutes A Beginners Tutorial for 2024
 excerpt: This Article Describes Resize Videos in Minutes A Beginners Tutorial for 2024
 keywords: free video editing made easy a jaycut tutorial for beginners,video editing mastery online tutorials for beginners and pros,mastering 3d video effects a windows tutorial for beginners,yosemite video editing 101 a beginners tutorial for mac os x,free video editing made easy a wax tutorial for beginners,resize videos in minutes a beginners tutorial,resize your video in minutes a quick tutorial
-thumbnail: https://www.lifewire.com/thmb/gOgqwLvt0rf3-WdwEBSByMeqIHo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1353420724-65161751b9924195880d3273e327cb54.jpg
+thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc6fdf0b1b999475eb2576da4.jpg
 ---
 
 ## Resize Videos in Minutes: A Beginner's Tutorial

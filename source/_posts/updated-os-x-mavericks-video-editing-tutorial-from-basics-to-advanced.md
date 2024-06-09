@@ -1,7 +1,7 @@
 ---
 title: Updated OS X Mavericks Video Editing Tutorial From Basics to Advanced
-date: 2024-05-19T09:39:31.457Z
-updated: 2024-05-20T09:39:31.457Z
+date: 2024-06-08T14:06:15.399Z
+updated: 2024-06-09T14:06:15.399Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated OS X Mavericks Video Editing Tutorial From Basics to Advanced
 excerpt: This Article Describes Updated OS X Mavericks Video Editing Tutorial From Basics to Advanced
 keywords: effortless video editing on mac os x mavericks tutorial,gopro video editing on mac tips tricks and tutorials,os x mavericks video editing tutorial from basics to advanced,gopro video editing for mac users tips tricks and tutorials,os x mavericks video editing tutorial mastering the basics,fcp audio editing tutorial from basics to advanced techniques,os x mavericks video editing essentials tips and tricks
-thumbnail: https://www.lifewire.com/thmb/qNtT0Vit1jn8RftUFX6Xcsv5x4o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-best-texting-apps-for-android-tablets-in-2023-a5a6329d6b744167acf0a02f6a413ff2.jpg
+thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee45db635b3f848c5daefbda2.jpg
 ---
 
 ## OS X Mavericks Video Editing Tutorial: From Basics to Advanced

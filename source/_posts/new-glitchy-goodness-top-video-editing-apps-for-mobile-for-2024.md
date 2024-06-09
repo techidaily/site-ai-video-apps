@@ -1,7 +1,7 @@
 ---
 title: New Glitchy Goodness Top Video Editing Apps for Mobile for 2024
-date: 2024-04-28T01:09:06.224Z
-updated: 2024-04-29T01:09:06.224Z
+date: 2024-06-08T14:05:57.679Z
+updated: 2024-06-09T14:05:57.679Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Glitchy Goodness Top Video Editing Apps for Mobile for 2024
 excerpt: This Article Describes New Glitchy Goodness Top Video Editing Apps for Mobile for 2024
 keywords: unconventional editing top 10 glitch art video apps for mobile,unleash the chaos top glitch art video editing apps for mobile,the ultimate list top 10 glitch video editing apps for mobile creatives,glitchy goodness top video editing apps for mobile,speed up or slow down top 10 free video editing apps for mobile,distort disrupt delight the top 10 glitch video editing apps for mobile,distort disrupt delight top glitch video editing apps for mobile
-thumbnail: https://www.lifewire.com/thmb/bOmeScOWFc7_QUmHNXKw7Hqwkm0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bestfirestickapps-5bcba08546e0fb005177a983-0591296fac8241ccb8497f9f29901acd.jpg
+thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d6a73268fe3b019a529c7811.jpg
 ---
 
 ## Glitchy Goodness: Top Video Editing Apps for Mobile

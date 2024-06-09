@@ -1,7 +1,7 @@
 ---
 title: Updated Video Editing on a Budget? Try These Top 10 Free Ubuntu Options
-date: 2024-05-19T09:39:59.817Z
-updated: 2024-05-20T09:39:59.817Z
+date: 2024-06-08T14:06:09.032Z
+updated: 2024-06-09T14:06:09.032Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Video Editing on a Budget? Try These Top 10 Free Ubuntu Options
 excerpt: This Article Describes Updated Video Editing on a Budget? Try These Top 10 Free Ubuntu Options
 keywords: video editing on a budget 10 free ubuntu compatible options,video editing on a budget try these top 10 free ubuntu options,open source video editing on a budget top 10 free options,webm video editing on a budget top 10 free options,mod video editing on a budget top 5 free options,video editing on a budget top free ubuntu options,mod video editing on a budget the best free options
-thumbnail: https://www.lifewire.com/thmb/1giCJ_GI0g5IPS2wzD1NWNQqoBs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-see-who-shared-your-tiktok-5271091-8fc5445938ed433d830a2b5275079c62.jpg
+thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad7a99594a73a26d6b57f4450.jpg
 ---
 
 ## Video Editing on a Budget? Try These Top 10 Free Ubuntu Options

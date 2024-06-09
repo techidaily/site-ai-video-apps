@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Ultimate List 8 Best Video Editing Apps for 4K Proxy Videos
-date: 2024-05-19T09:42:32.720Z
-updated: 2024-05-20T09:42:32.720Z
+date: 2024-06-08T14:05:53.983Z
+updated: 2024-06-09T14:05:53.983Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, The Ultimate List 8 Best Video Editing Apps for 4K Proxy Videos
 excerpt: This Article Describes In 2024, The Ultimate List 8 Best Video Editing Apps for 4K Proxy Videos
 keywords: the ultimate list best free video editing software for 4k videos,the ultimate list 2024s best free video editing programs for everyone,the ultimate list 10 best video editing apps for vloggers,the ultimate list best video editing apps for vloggers ios android,the ultimate list 8 best video editing apps for 4k proxy videos,the ultimate list 10 best android apps for video editing,the ultimate list 5 best video editing apps for ipad
-thumbnail: https://www.lifewire.com/thmb/HkQrnB6Inkx8Rh4KIo-rh5RAck0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/computerkeyboard-5c070d3ec9e77c0001b19701.jpg
+thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9da7986f6cee296d3fed5998.jpg
 ---
 
 ## The Ultimate List: 8 Best Video Editing Apps for 4K Proxy Videos

@@ -1,7 +1,7 @@
 ---
 title: New Lego Animation All-Stars The Top Creators for 2024
-date: 2024-04-28T01:10:07.992Z
-updated: 2024-04-29T01:10:07.992Z
+date: 2024-06-08T14:06:01.708Z
+updated: 2024-06-09T14:06:01.708Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Lego Animation All-Stars The Top Creators for 2024
 excerpt: This Article Describes New Lego Animation All-Stars The Top Creators for 2024
 keywords: create stunning animations on the go top free 3d apps for mobile,top lego animation creators,lego stop motion mavens the top creators,lego animation all stars the top creators,ai animation top apple video editors for creators,the top rated lego animation teams,top cartoon animation creators for mobile devices
-thumbnail: https://www.lifewire.com/thmb/UgZFn1LjdiPD7yj2MRRWCGpAQWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/d-link-default-password-list-2619152-d6281a924f45426f879c8707220ce92d.png
+thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01fc1cf31d37490fb679a3c33d.png
 ---
 
 ## Lego Animation All-Stars: The Top Creators

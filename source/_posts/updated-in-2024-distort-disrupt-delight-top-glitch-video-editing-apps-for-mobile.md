@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Distort, Disrupt, Delight Top Glitch Video Editing Apps for Mobile
-date: 2024-05-19T09:40:39.173Z
-updated: 2024-05-20T09:40:39.173Z
+date: 2024-06-08T14:06:24.107Z
+updated: 2024-06-09T14:06:24.107Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, Distort, Disrupt, Delight Top Glitch Video Editing Apps for Mobile
 excerpt: This Article Describes Updated In 2024, Distort, Disrupt, Delight Top Glitch Video Editing Apps for Mobile
 keywords: glitchy goodness top video editing apps for mobile,the ultimate list top 10 glitch video editing apps for mobile creatives,distort disrupt delight top glitch video editing apps for mobile,distort disrupt delight the top 10 glitch video editing apps for mobile,brighten up the best video editing apps for mobile devices,distort disrupt delight 10 glitch video editing apps for ios and android,brighten up best video editing apps for mobile devices
-thumbnail: https://www.lifewire.com/thmb/Z7QL7-14ToGxatBbyXkMA5egnao=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-wh-1000xm2-wireless-noise-cancelling-headphones-59c91370c412440010f51191.PNG
+thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51b39e47e7a2ccf645d397043.PNG
 ---
 
 ## Distort, Disrupt, Delight: Top Glitch Video Editing Apps for Mobile

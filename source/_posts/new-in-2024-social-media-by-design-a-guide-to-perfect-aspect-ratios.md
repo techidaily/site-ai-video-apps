@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Social Media by Design A Guide to Perfect Aspect Ratios
-date: 2024-04-28T01:14:29.859Z
-updated: 2024-04-29T01:14:29.859Z
+date: 2024-06-08T14:06:26.395Z
+updated: 2024-06-09T14:06:26.395Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Social Media by Design A Guide to Perfect Aspect Ratios
 excerpt: This Article Describes New In 2024, Social Media by Design A Guide to Perfect Aspect Ratios
 keywords: social media by design a guide to perfect aspect ratios,optimize your online presence a guide to social media aspect ratios,up to date guide to social media aspect ratio,social media image mastery a guide to perfect aspect ratios and dimensions,an up to date guide to social media aspect ratio,aspect ratio essentials a beginners guide to social media visuals,visual victory a guide to perfect social media aspect ratios
-thumbnail: https://www.lifewire.com/thmb/x5hFLtVYVUkR-_nqhbxS_f11j5E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netgear-default-password-list-2619154-b581fdcf136848d29e944638cd2ad444.png
+thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe2bd45f2ec6f3eb305fb3d58.png
 ---
 
 ## Social Media by Design: A Guide to Perfect Aspect Ratios

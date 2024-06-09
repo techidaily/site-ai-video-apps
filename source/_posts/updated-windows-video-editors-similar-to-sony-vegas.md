@@ -1,7 +1,7 @@
 ---
 title: Updated Windows Video Editors Similar to Sony Vegas
-date: 2024-05-19T09:40:03.456Z
-updated: 2024-05-20T09:40:03.456Z
+date: 2024-06-08T14:06:09.257Z
+updated: 2024-06-09T14:06:09.257Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Windows Video Editors Similar to Sony Vegas
 excerpt: This Article Describes Updated Windows Video Editors Similar to Sony Vegas
 keywords: looking beyond sony vegas top video editors for windows,the best mac video editors similar to windows movie maker 2024 update,top rated mac video editors similar to windows movie maker,top rated video editing software for windows similar to imovie,windows video editors similar to sony vegas,ai animation looking beyond sony vegas top video editors for windows,5 free online video editors similar to imovie updated 2023
-thumbnail: https://www.lifewire.com/thmb/4ql928fMUKkO_EPWrgDkfeEcVtE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/family-hanging-out-watching-videos-online-1166432791-309c6f7ac8cb4cc99875db5a77fd6f35.jpg
+thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28dd2151c249d15e615be6f528.jpg
 ---
 
 ## Windows Video Editors Similar to Sony Vegas

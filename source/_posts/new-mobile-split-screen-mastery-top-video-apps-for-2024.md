@@ -1,7 +1,7 @@
 ---
 title: New Mobile Split Screen Mastery Top Video Apps for 2024
-date: 2024-04-28T01:11:46.211Z
-updated: 2024-04-29T01:11:46.211Z
+date: 2024-06-08T14:06:23.376Z
+updated: 2024-06-09T14:06:23.376Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Mobile Split Screen Mastery Top Video Apps for 2024
 excerpt: This Article Describes New Mobile Split Screen Mastery Top Video Apps for 2024
 keywords: split screen merge creativity top video editing apps for mobile devices,the ultimate guide to split screen video apps for mobile,top rated split screen video creators for mobile phones,mobile split screen mastery top video apps,mobile video mastery top split screen apps for iphone and android,the ultimate list of split screen video apps for mobile,split your screen double the fun top video apps for mobile
-thumbnail: https://www.lifewire.com/thmb/CJ67ETb2O4uuEo78S2gUHwX4efQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheWolfAmongUsBigby-793544cded2749488ae1d20113d8d73a.jpg
+thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8f5029c9276b28fff4f6f7be.jpg
 ---
 
 ## Mobile Split Screen Mastery: Top Video Apps

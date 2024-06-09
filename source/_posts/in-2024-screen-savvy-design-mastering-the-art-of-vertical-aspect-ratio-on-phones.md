@@ -1,7 +1,7 @@
 ---
 title: In 2024, Screen-Savvy Design Mastering the Art of Vertical Aspect Ratio on Phones
-date: 2024-05-19T09:39:36.012Z
-updated: 2024-05-20T09:39:36.012Z
+date: 2024-06-08T14:05:46.029Z
+updated: 2024-06-09T14:05:46.029Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, Screen-Savvy Design Mastering the Art of Vertical Aspect Ratio on Phones
 excerpt: This Article Describes In 2024, Screen-Savvy Design Mastering the Art of Vertical Aspect Ratio on Phones
 keywords: the art of vertical storytelling phone aspect ratio best practices,optimizing mobile screen design a guide to vertical aspect ratios,mastering mobile video tips for vertical aspect ratio on smartphones,from snap to cinema mastering vertical aspect ratio on your phone,vertical vibes mastering phone aspect ratio design,phone friendly design the art of vertical aspect ratio creation,screen savvy design mastering the art of vertical aspect ratio on phones
-thumbnail: https://www.lifewire.com/thmb/VhWXwk4rULRvURLd-ts4rpfPSxw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1250476440-2ff779100e984029aa752236f9791b11.jpg
+thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653067a4110ec11928ef11818a.jpg
 ---
 
 ## Screen-Savvy Design: Mastering the Art of Vertical Aspect Ratio on Phones

@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Social Media Dimensions Decoded A Complete Aspect Ratio Guide
-date: 2024-04-28T01:14:30.861Z
-updated: 2024-04-29T01:14:30.861Z
+date: 2024-06-08T14:06:21.316Z
+updated: 2024-06-09T14:06:21.316Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Social Media Dimensions Decoded A Complete Aspect Ratio Guide
 excerpt: This Article Describes New 2024 Approved Social Media Dimensions Decoded A Complete Aspect Ratio Guide
 keywords: ai animation social media visuals 101 a comprehensive aspect ratio guide,social media dimensions decoded a complete aspect ratio guide,the complete guide to social media image optimization aspect ratios and more,social media image mastery a guide to perfect aspect ratios and dimensions,ai animation ai animation social media visuals 101 a comprehensive aspect ratio guide,social media visuals 101 a comprehensive aspect ratio guide,social media sizing made easy a comprehensive aspect ratio guide
-thumbnail: https://www.lifewire.com/thmb/OvgDF4DN2kQY2wqfN-oCDktYpM4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-time-of-day-to-instagram-3485858-1-5bb3cc9046e0fb002612537d.jpg
+thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00c96089d339b8e4537366b75.jpg
 ---
 
 ## Social Media Dimensions Decoded: A Complete Aspect Ratio Guide

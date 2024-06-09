@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Resize and Refine The Art of Cropping Videos in Avidemux
-date: 2024-04-28T01:13:16.418Z
-updated: 2024-04-29T01:13:16.418Z
+date: 2024-06-08T14:06:28.402Z
+updated: 2024-06-09T14:06:28.402Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, Resize and Refine The Art of Cropping Videos in Avidemux
 excerpt: This Article Describes Updated In 2024, Resize and Refine The Art of Cropping Videos in Avidemux
 keywords: crop resize and refine mastering video editing with avidemux,resize and refine the art of cropping videos in avidemux,trim and refine a step by step guide to cropping videos in avidemux,avidemux video editing a beginners guide to cropping and resizing,the ultimate guide to cropping videos in avidemux tips and tricks,the ultimate guide to cropping and resizing videos,from start to finish cropping and editing videos with avidemux
-thumbnail: https://www.lifewire.com/thmb/cgUXvRRGmHncjkXVnnc2mDDxd-k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AnneParkShedloskytvOS-2d4178dd6b7d46a08c34ab8b750fe23e.jpg
+thumbnail: https://thmb.techidaily.com/1a0a225965c2ce4acfd77f7b81b0abb5e4b211b4f6a739d5a50d45eaa5fd443d.jpg
 ---
 
 ## Resize and Refine: The Art of Cropping Videos in Avidemux

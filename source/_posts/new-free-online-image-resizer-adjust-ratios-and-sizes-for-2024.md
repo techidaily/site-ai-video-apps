@@ -1,7 +1,7 @@
 ---
 title: New Free Online Image Resizer Adjust Ratios and Sizes for 2024
-date: 2024-04-28T01:07:02.097Z
-updated: 2024-04-29T01:07:02.097Z
+date: 2024-06-08T14:05:57.079Z
+updated: 2024-06-09T14:05:57.079Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Free Online Image Resizer Adjust Ratios and Sizes for 2024
 excerpt: This Article Describes New Free Online Image Resizer Adjust Ratios and Sizes for 2024
 keywords: resize and refine image aspect ratio,8 free online image resizers for custom dimensions,free online image resizer adjust ratios and sizes,10 essential online image resizers for any ratio,discover the best online image resizers for any ratio,the art of image resizing calculating and adjusting ratios for perfection,resize your images online quick and simple ratio changers
-thumbnail: https://www.lifewire.com/thmb/vyzcJX9d4xPRDFBKmvNTGXpael0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-944229620-9cff560054804b72a431e9492c7445b4.jpg
+thumbnail: https://thmb.techidaily.com/e271cbb6eb6a65ff2648f6dddd1fc0c078a843660eba98a715724fa951b431ee.jpg
 ---
 
 ## Free Online Image Resizer: Adjust Ratios and Sizes

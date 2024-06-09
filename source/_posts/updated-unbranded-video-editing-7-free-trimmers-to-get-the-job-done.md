@@ -1,7 +1,7 @@
 ---
 title: Updated Unbranded Video Editing 7 Free Trimmers to Get the Job Done
-date: 2024-05-19T09:39:55.520Z
-updated: 2024-05-20T09:39:55.520Z
+date: 2024-06-08T14:05:51.712Z
+updated: 2024-06-09T14:05:51.712Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Unbranded Video Editing 7 Free Trimmers to Get the Job Done
 excerpt: This Article Describes Updated Unbranded Video Editing 7 Free Trimmers to Get the Job Done
 keywords: unbranded and unbeatable the best free online video editors,the ultimate guide to free vob video editing tools,zero cost flv video editing top 5 tools to get the job done,unbranded video editing 7 free trimmers to get the job done,the ultimate guide to free video trimming on windows 10,the ultimate guide to 3d video editing on windows tips and tricks,no watermark video editing 7 free trimmers reviewed
-thumbnail: https://www.lifewire.com/thmb/vmRvggsBE9toSpXM8p1WS8O5Wjc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6-things-to-consider-before-buying-a-gaming-pc-5221042-8a79710a1e4549edbc357125123fb04e.jpg
+thumbnail: https://thmb.techidaily.com/290af97afad1802ce323c8e9ce6f1c1f031089327fdc749a381a84624fdbd2f2.jpg
 ---
 
 ## Unbranded Video Editing: 7 Free Trimmers to Get the Job Done

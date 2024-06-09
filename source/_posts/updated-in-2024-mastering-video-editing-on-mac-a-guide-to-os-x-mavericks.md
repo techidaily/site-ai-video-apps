@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Mastering Video Editing on Mac A Guide to OS X Mavericks
-date: 2024-05-19T09:40:17.085Z
-updated: 2024-05-20T09:40:17.085Z
+date: 2024-06-08T14:05:48.670Z
+updated: 2024-06-09T14:05:48.670Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, Mastering Video Editing on Mac A Guide to OS X Mavericks
 excerpt: This Article Describes Updated In 2024, Mastering Video Editing on Mac A Guide to OS X Mavericks
 keywords: mastering video editing in os x mavericks a comprehensive guide,mastering video editing on mac a guide to os x mavericks,mastering gopro video editing on mac a 2023 guide,mastering video editing on mac a yosemite guide,video editing on mac os x mavericks a beginners guide,video editing mastery on mac os x mavericks edition,ai animation mastering video editing on mac a guide to os x mavericks
-thumbnail: https://www.lifewire.com/thmb/hXsx55Jq_t9VhBh8GdAq7SriZ7k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-check-ram-in-android-5192499-8e8b91b6d94b4ab98c3bfa9ba41a4f66.jpg
+thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5486b2d51ee08c850ba80fdd.jpg
 ---
 
 ## Mastering Video Editing on Mac: A Guide to OS X Mavericks

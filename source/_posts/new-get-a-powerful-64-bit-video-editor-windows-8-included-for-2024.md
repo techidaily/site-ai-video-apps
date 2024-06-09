@@ -1,7 +1,7 @@
 ---
 title: New Get a Powerful 64-Bit Video Editor (Windows 8 Included) for 2024
-date: 2024-05-19T09:40:08.086Z
-updated: 2024-05-20T09:40:08.087Z
+date: 2024-06-08T14:05:45.375Z
+updated: 2024-06-09T14:05:45.375Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Get a Powerful 64-Bit Video Editor (Windows 8 Included) for 2024
 excerpt: This Article Describes New Get a Powerful 64-Bit Video Editor (Windows 8 Included) for 2024
 keywords: get a powerful 64 bit video editor windows 8 included,the ultimate avi editor for windows 8 powerful video editing tools,get a powerful 64 bit video editor windows 810 included,ai animation get a powerful 64 bit video editor windows 8 included,flv file editor for windows 8 a simple and powerful video editing tool,edit like a pro 64 bit video editor for windows 8 and up,get ready to edit powerful 64 bit video software for windows 8
-thumbnail: https://www.lifewire.com/thmb/xo05oNjxuGAf4v7-INYwiifcGHo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-instagram-filters-for-2018-4177148-1-5bc5e4b6c9e77c00517f198d.jpg
+thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad2338e40c998d0c7dc6ff96d9a.jpg
 ---
 
 ## Get a Powerful 64-Bit Video Editor (Windows 8 Included)

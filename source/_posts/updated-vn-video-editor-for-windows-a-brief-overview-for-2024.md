@@ -1,7 +1,7 @@
 ---
 title: Updated VN Video Editor for Windows A Brief Overview for 2024
-date: 2024-05-19T09:40:22.197Z
-updated: 2024-05-20T09:40:22.197Z
+date: 2024-06-08T14:06:11.761Z
+updated: 2024-06-09T14:06:11.761Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated VN Video Editor for Windows A Brief Overview for 2024
 excerpt: This Article Describes Updated VN Video Editor for Windows A Brief Overview for 2024
 keywords: review vn video editor windows,vn video editor for windows a concise review,vn video editor for pc a brief review,vn video editor for windows a brief overview,ai animation vn video editor for windows a brief overview,top rated movie editors for windows a 2024 review,the lowdown on vn video editor for pc a brief but informative review
-thumbnail: https://www.lifewire.com/thmb/AN-vaCH0aY3tX6ZltU1G0m3Htm0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/watch-free-movies-online-1356647-32f79b8cc3ed484ca1f9f898f503e416.png
+thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faab0414036ff801745dc15189.png
 ---
 
 ## VN Video Editor for Windows: A Brief Overview

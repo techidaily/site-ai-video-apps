@@ -1,7 +1,7 @@
 ---
 title: Updated The Mini Movie Mogul A Step-by-Step Guide for Kids
-date: 2024-05-19T09:39:43.397Z
-updated: 2024-05-20T09:39:43.397Z
+date: 2024-06-08T14:05:52.036Z
+updated: 2024-06-09T14:05:52.036Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated The Mini Movie Mogul A Step-by-Step Guide for Kids
 excerpt: This Article Describes Updated The Mini Movie Mogul A Step-by-Step Guide for Kids
 keywords: ai animation movie magic made simple a step by step guide,top movie making software for mac a step by step selection guide,the mini movie mogul a step by step guide for kids,get started with minitool movie maker a step by step guide and alternatives,the mini moviemaker a fun guide for kids to make their own movies,master movie making a step by step guide to pro level videos,movie magic for kids a step by step guide
-thumbnail: https://www.lifewire.com/thmb/gOgqwLvt0rf3-WdwEBSByMeqIHo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1353420724-65161751b9924195880d3273e327cb54.jpg
+thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc6fdf0b1b999475eb2576da4.jpg
 ---
 
 ## The Mini Movie Mogul: A Step-by-Step Guide for Kids

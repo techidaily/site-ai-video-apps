@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Top Sources for Free Public Domain Video Downloads
-date: 2024-04-28T01:24:17.057Z
-updated: 2024-04-29T01:24:17.057Z
+date: 2024-06-08T14:06:07.672Z
+updated: 2024-06-09T14:06:07.672Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Top Sources for Free Public Domain Video Downloads
 excerpt: This Article Describes 2024 Approved Top Sources for Free Public Domain Video Downloads
 keywords: ai animation top resources for free public domain video downloads,top resources for free public domain video downloads,download free public domain videos from these top websites,top sources for free public domain video downloads,free video assets galore top public domain download sites,public domain video heaven top sites for free downloads,free and clear top websites for public domain video downloads
-thumbnail: https://www.lifewire.com/thmb/YPMhKL59WGdTUpxCrpaB_OS--cc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-set-up-speech-to-text-on-android-0-928c48ab121248f9aa543a136d971f9a.jpg
+thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afdff538e1080a5add013b39bf.jpg
 ---
 
 ## Top Sources for Free Public Domain Video Downloads

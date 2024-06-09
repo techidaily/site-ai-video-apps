@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Ultimate Cheat Sheet Mastering Social Media Image Sizes
-date: 2024-04-28T01:23:52.570Z
-updated: 2024-04-29T01:23:52.570Z
+date: 2024-06-08T14:06:20.261Z
+updated: 2024-06-09T14:06:20.261Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved The Ultimate Cheat Sheet Mastering Social Media Image Sizes
 excerpt: This Article Describes 2024 Approved The Ultimate Cheat Sheet Mastering Social Media Image Sizes
 keywords: the ultimate final cut pro saving cheat sheet,the ultimate cheat sheet social media image and video aspect ratios,ai animation the ultimate cheat sheet social media image and video aspect ratios,the ultimate cheat sheet social media image sizes and ratios,social media dimensions the ultimate cheat sheet,the ultimate cheat sheet mastering social media image sizes,the ultimate aspect ratio cheat sheet for social media success
-thumbnail: https://www.lifewire.com/thmb/v4AbqnTlju8lMmkS1DJOcvntGsY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-839864362-59c51d1daf5d3a0010919ae9.jpg
+thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4ff28b2032ed8b7104437026.jpg
 ---
 
 ## The Ultimate Cheat Sheet: Mastering Social Media Image Sizes

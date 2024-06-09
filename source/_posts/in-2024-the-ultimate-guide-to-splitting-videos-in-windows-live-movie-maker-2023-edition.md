@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Ultimate Guide to Splitting Videos in Windows Live Movie Maker (2023 Edition)
-date: 2024-05-19T09:39:45.892Z
-updated: 2024-05-20T09:39:45.892Z
+date: 2024-06-08T14:06:18.877Z
+updated: 2024-06-09T14:06:18.877Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, The Ultimate Guide to Splitting Videos in Windows Live Movie Maker (2023 Edition)
 excerpt: This Article Describes In 2024, The Ultimate Guide to Splitting Videos in Windows Live Movie Maker (2023 Edition)
 keywords: cutting it up a beginners guide to splitting videos in windows live movie maker,the ultimate guide to video editing splitting videos in windows live movie maker,the ultimate guide to slow motion video editing with windows live movie maker,the ultimate guide to video editing on windows using movie maker,the ultimate guide to splitting videos in windows live movie maker for beginners,the ultimate guide to splitting videos in windows live movie maker 2023 edition,the ultimate guide to slow motion in windows live movie maker
-thumbnail: https://www.lifewire.com/thmb/15bm4Bz9ubVpUvwkdmj9lzc-OUM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-un65nu7100fxza-aaa-5b3bf3f1c9e77c00370afe54.jpg
+thumbnail: https://thmb.techidaily.com/2ca46c2a129dc1360b713c04a30f75e3e36c2cb0f971400d44a0a7430d69515d.jpg
 ---
 
 ## The Ultimate Guide to Splitting Videos in Windows Live Movie Maker (2023 Edition)

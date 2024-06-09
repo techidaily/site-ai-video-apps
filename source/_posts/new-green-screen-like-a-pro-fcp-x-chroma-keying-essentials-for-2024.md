@@ -1,7 +1,7 @@
 ---
 title: New Green Screen Like a Pro FCP X Chroma Keying Essentials for 2024
-date: 2024-04-28T01:09:11.151Z
-updated: 2024-04-29T01:09:11.151Z
+date: 2024-06-08T14:05:44.970Z
+updated: 2024-06-09T14:05:44.970Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Green Screen Like a Pro FCP X Chroma Keying Essentials for 2024
 excerpt: This Article Describes New Green Screen Like a Pro FCP X Chroma Keying Essentials for 2024
 keywords: fcp x essentials how to achieve professional chroma keying results,chroma key green screen in final cut pro x,green screen like a pro fcp x chroma keying essentials,ai animation fcp x create a chroma key green screen effect,fcp x create a chroma key green screen effect,fcp x essentials how to achieve flawless green screen effects,green screen magic in fcp x a beginners guide to chroma keying
-thumbnail: https://www.lifewire.com/thmb/NJLgSOS-_Qq21qgfdWY713OPYzI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-527803604-ad6f389c89ff4be1b953a3c2cdc64c09.jpg
+thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d2518f12f424f4610cd1ffe517b.jpg
 ---
 
 ## Green Screen Like a Pro: FCP X Chroma Keying Essentials

@@ -1,7 +1,7 @@
 ---
 title: Updated Record Your Desktop in Minutes A Quick Start Guide to Filmora Scrn for 2024
-date: 2024-04-28T01:13:09.134Z
-updated: 2024-04-29T01:13:09.134Z
+date: 2024-06-08T14:05:49.006Z
+updated: 2024-06-09T14:05:49.006Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Record Your Desktop in Minutes A Quick Start Guide to Filmora Scrn for 2024
 excerpt: This Article Describes Updated Record Your Desktop in Minutes A Quick Start Guide to Filmora Scrn for 2024
 keywords: get started with filmora scrn a quick and easy guide to desktop recording,record your desktop in minutes a quick start guide to filmora scrn,record your desktop like a pro a filmora scrn guide,filmora scrn essentials recording your desktop in minutes,easy desktop recording with filmora scrn a quick start guide,mastering filmora scrn a beginners guide to desktop recording,capture your screen a beginners guide to filmora scrn desktop recording
-thumbnail: https://www.lifewire.com/thmb/EAqZr-HjkZo5i0jwoEEUqZxRCpc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1437209125-b47ae60035f248e2b01b781f50f919c1.jpg
+thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c2584c8d35c887e62fae8bb62c7.jpg
 ---
 
 ## Record Your Desktop in Minutes: A Quick Start Guide to Filmora Scrn

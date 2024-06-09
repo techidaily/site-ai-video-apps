@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Create Engaging Videos with the Ken Burns Effect A Step-by-Step Tutorial
-date: 2024-05-19T09:40:34.378Z
-updated: 2024-05-20T09:40:34.378Z
+date: 2024-06-08T14:05:46.667Z
+updated: 2024-06-09T14:05:46.667Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Create Engaging Videos with the Ken Burns Effect A Step-by-Step Tutorial
 excerpt: This Article Describes New 2024 Approved Create Engaging Videos with the Ken Burns Effect A Step-by-Step Tutorial
 keywords: bring your videos to life a step by step guide to the ken burns effect in final cut pro,final cut pro tutorial adding emotional depth with the ken burns effect updated 2023,mastering the ken burns effect in final cut pro a step by step guide,create engaging videos with these top split screen apps,create engaging videos with the ken burns effect a step by step tutorial,final cut pro essentials how to create engaging videos with the ken burns effect,mastering the ken burns effect a step by step guide for final cut pro users
-thumbnail: https://www.lifewire.com/thmb/iQjRSYdl3d8RlM-9oprGSEgt6gU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-667603173-fac0b8f4b1d9453c866d332dc73821f8.jpg
+thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fbb42dbd4e99eb8971ba63ab6.jpg
 ---
 
 ## Create Engaging Videos with the Ken Burns Effect: A Step-by-Step Tutorial

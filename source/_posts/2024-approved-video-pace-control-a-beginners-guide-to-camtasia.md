@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Video Pace Control A Beginners Guide to Camtasia
-date: 2024-05-19T09:40:00.376Z
-updated: 2024-05-20T09:40:00.376Z
+date: 2024-06-08T14:05:47.057Z
+updated: 2024-06-09T14:05:47.057Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Video Pace Control A Beginners Guide to Camtasia
 excerpt: This Article Describes 2024 Approved Video Pace Control A Beginners Guide to Camtasia
 keywords: quicktime video speed control a beginners tutorial,video to cartoon conversion made easy a beginners guide,video pace control a beginners guide to camtasia speed adjustment,video pace control a beginners guide to camtasia,pixel power a beginners guide to hd video production,effortless video editing a beginners guide to camtasia speed adjustment,stream your personal video collection to chromecast a beginners guide
-thumbnail: https://www.lifewire.com/thmb/EfVcCvt847EIyGogkSGXl-6NCV8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1139785112-76d1d0f975934233883a19f33b8cd813.jpg
+thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660de659b232891d22eb2e884d9.jpg
 ---
 
 ## Video Pace Control: A Beginner's Guide to Camtasia

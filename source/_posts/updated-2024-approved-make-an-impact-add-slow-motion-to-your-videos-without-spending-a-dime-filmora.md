@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Make an Impact Add Slow Motion to Your Videos without Spending a Dime - Filmora
-date: 2024-04-28T01:10:52.648Z
-updated: 2024-04-29T01:10:52.648Z
+date: 2024-06-08T14:06:24.821Z
+updated: 2024-06-09T14:06:24.821Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Make an Impact Add Slow Motion to Your Videos without Spending a Dime - Filmora
 excerpt: This Article Describes Updated 2024 Approved Make an Impact Add Slow Motion to Your Videos without Spending a Dime - Filmora
 keywords: unlock cinematic style add slow motion to your videos without spending a dime,make an impact add slow motion to your videos without spending a dime filmora,ai animation slow down time add free slow mo effects to your videos with filmora,make an impact add dramatic slow motion to your videos without cost,get ready to wow add slow motion to your videos without spending a dime filmora,get ready to wow add slow mo to your videos without spending a dime,create dramatic slow mo videos without spending a dime filmora
-thumbnail: https://www.lifewire.com/thmb/wnN-qVO61jMEVKBE1HStiKTk2xY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-channels-guide-1800-x-0f720f6afeb842c299c88baa42f3bd88.jpg
+thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b5686d5a4ad72e83eea7dc08de2.jpg
 ---
 
 ## Make an Impact: Add Slow Motion to Your Videos without Spending a Dime - Filmora

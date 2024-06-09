@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Aspect Ratio 101 A Beginners Guide to Calculating
-date: 2024-05-19T09:40:23.344Z
-updated: 2024-05-20T09:40:23.345Z
+date: 2024-06-08T14:06:00.080Z
+updated: 2024-06-09T14:06:00.080Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Aspect Ratio 101 A Beginners Guide to Calculating
 excerpt: This Article Describes New In 2024, Aspect Ratio 101 A Beginners Guide to Calculating
 keywords: aspect ratio calculations simplified a beginners guide,mastering aspect ratio in final cut pro a beginners guide,aspect ratio made simple a beginners guide to calculating image sizes,mastering aspect ratios in final cut pro a beginners guide,final cut pro aspect ratio settings a beginners guide,aspect ratio 101 a beginners guide to calculating,sizing up success a beginners guide to image ratio calculation
-thumbnail: https://www.lifewire.com/thmb/NJLgSOS-_Qq21qgfdWY713OPYzI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-527803604-ad6f389c89ff4be1b953a3c2cdc64c09.jpg
+thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d2518f12f424f4610cd1ffe517b.jpg
 ---
 
 ## Aspect Ratio 101: A Beginner's Guide to Calculating

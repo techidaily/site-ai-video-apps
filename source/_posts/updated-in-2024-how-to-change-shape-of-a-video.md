@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Change Shape of a Video?
-date: 2024-05-19T09:40:16.510Z
-updated: 2024-05-20T09:40:16.510Z
+date: 2024-06-08T14:05:44.815Z
+updated: 2024-06-09T14:05:44.815Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, How to Change Shape of a Video?
 excerpt: This Article Describes Updated In 2024, How to Change Shape of a Video?
 keywords: get the right fit how to change video shape and size,how to change shape of video,how to change ratio of video in a quick way,ai animation how to change shape of a video,how to change ratio of video in a quick easy way,ai animation how to change ratio of video in a quick way,how to change shape of a video
-thumbnail: https://www.lifewire.com/thmb/vyzcJX9d4xPRDFBKmvNTGXpael0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-944229620-9cff560054804b72a431e9492c7445b4.jpg
+thumbnail: https://thmb.techidaily.com/e271cbb6eb6a65ff2648f6dddd1fc0c078a843660eba98a715724fa951b431ee.jpg
 ---
 
 ## Customize Your Video Layout: Tips and Tricks for Changing Shape

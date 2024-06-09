@@ -1,7 +1,7 @@
 ---
 title: Updated No More Jitters Mastering Video Stabilization in After Effects
-date: 2024-05-19T09:39:30.333Z
-updated: 2024-05-20T09:39:30.333Z
+date: 2024-06-08T14:06:19.348Z
+updated: 2024-06-09T14:06:19.348Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated No More Jitters Mastering Video Stabilization in After Effects
 excerpt: This Article Describes Updated No More Jitters Mastering Video Stabilization in After Effects
 keywords: shake rattle and roll no more video stabilization in after effects,from shaky to steady mastering video stabilization in after effects,from jitters to smooth mastering video stabilization in after effects,ai animation from shaky to steady mastering video stabilization in after effects,no more jitters mastering video stabilization in after effects,unshakeable mastering video stabilization techniques in after effects,the art of stability mastering video stabilization in after effects
-thumbnail: https://www.lifewire.com/thmb/21o2y5NdnwK9g8j7z_eUWi12JAw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-504331578-cheering-football-on-tv-5a231ffdaad52b00372ae2a6.jpg
+thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde2fed4f7c2aee477f6b93402.jpg
 ---
 
 ## No More Jitters: Mastering Video Stabilization in After Effects

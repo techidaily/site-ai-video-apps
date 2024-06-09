@@ -1,7 +1,7 @@
 ---
 title: New Camtasia Tutorial Change Video Speed and Pitch for 2024
-date: 2024-05-19T09:40:31.758Z
-updated: 2024-05-20T09:40:31.758Z
+date: 2024-06-08T14:06:18.720Z
+updated: 2024-06-09T14:06:18.720Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Camtasia Tutorial Change Video Speed and Pitch for 2024
 excerpt: This Article Describes New Camtasia Tutorial Change Video Speed and Pitch for 2024
 keywords: camtasia tutorial change video speed and pitch,customize your video flow a camtasia tutorial on speed adjustment,camtasia tutorial control video speed,mastering video speed a step by step camtasia tutorial,effortless video editing a guide to changing speed in camtasia,camtasia tutorial change video speed,change video speed with ease top picks for windows mac and web
-thumbnail: https://www.lifewire.com/thmb/YoFEWWlqY0abEBrjSUdesHbTeyU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dts-play-fi-lifestyle-aaa-5a4c211daad52b00366a3575.jpg
+thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc8061abd47262715b07e4d29cd.jpg
 ---
 
 ## Camtasia Tutorial: Change Video Speed and Pitch

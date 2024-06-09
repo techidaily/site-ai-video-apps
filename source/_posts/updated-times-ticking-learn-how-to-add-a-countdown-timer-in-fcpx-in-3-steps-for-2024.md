@@ -1,7 +1,7 @@
 ---
 title: Updated Times Ticking! Learn How to Add a Countdown Timer in FCPX in 3 Steps for 2024
-date: 2024-04-28T01:18:13.944Z
-updated: 2024-04-29T01:18:13.944Z
+date: 2024-06-08T14:05:58.239Z
+updated: 2024-06-09T14:05:58.239Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Times Ticking! Learn How to Add a Countdown Timer in FCPX in 3 Steps for 2024
 excerpt: This Article Describes Updated Times Ticking! Learn How to Add a Countdown Timer in FCPX in 3 Steps for 2024
 keywords: times running out learn to add a countdown timer in fcpx fast,timer tutorial how to create a countdown in fcpx fast,times ticking learn how to add a countdown timer in fcpx in 3 steps,times running out learn to add a countdown timer in fcpx now,get ready set go adding a countdown timer in fcpx in just 3 steps,fcpx essentials how to add a countdown timer in 3 easy steps,create a sense of anticipation 3 steps to add a countdown timer in fcpx
-thumbnail: https://www.lifewire.com/thmb/cnbU86cA88gNmLB_6vGsp1ZnxFM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/asian-woman-talking-into-microphone-722208887-5b2a989730371300373a0447.jpg
+thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed3226ebe1d118a70909568e6.jpg
 ---
 
 ## Time's Ticking! Learn How to Add a Countdown Timer in FCPX in 3 Steps

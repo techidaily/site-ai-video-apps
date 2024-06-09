@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Ultimate List of Glitch Art Video Editors for Mobile Devices
-date: 2024-05-19T09:39:48.045Z
-updated: 2024-05-20T09:39:48.045Z
+date: 2024-06-08T14:05:51.298Z
+updated: 2024-06-09T14:05:51.298Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved The Ultimate List of Glitch Art Video Editors for Mobile Devices
 excerpt: This Article Describes 2024 Approved The Ultimate List of Glitch Art Video Editors for Mobile Devices
 keywords: the ultimate list of glitch art video editors for mobile devices,the ultimate list top 10 glitch video editing apps for mobile creatives,the ultimate list of glitch art video editing apps for ios and android,the ultimate list of video maker apps with music for mobile devices,from noise to masterpiece 10 glitch art video editing apps for mobile devices,the ultimate list of top mobile video editors for iphone and android,the best of the best video animation apps for mobile devices 2024 edition
-thumbnail: https://www.lifewire.com/thmb/z0FcObDyImu70neTKRlkwzqQTeM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-17-best-graphic-design-software-2024-1dd6c15b34124b25b65e4b096e4e6ba4.jpg
+thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a044e30e2240a2331d8bec84.jpg
 ---
 
 ## The Ultimate List of Glitch Art Video Editors for Mobile Devices

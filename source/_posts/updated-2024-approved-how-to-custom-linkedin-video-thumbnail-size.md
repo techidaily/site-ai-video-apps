@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Custom LinkedIn Video Thumbnail Size
-date: 2024-05-19T09:40:11.885Z
-updated: 2024-05-20T09:40:11.885Z
+date: 2024-06-08T14:06:26.638Z
+updated: 2024-06-09T14:06:26.638Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved How to Custom LinkedIn Video Thumbnail Size
 excerpt: This Article Describes Updated 2024 Approved How to Custom LinkedIn Video Thumbnail Size
 keywords: ai animation ai animation how to custom linkedin video thumbnail size,ai animation how to custom linkedin video thumbnail size,resize for success how to customize linkedin video thumbnails,how to custom linkedin video thumbnail size,ai animation ways to custom linkedin video thumbnail size,optimize your linkedin video how to create custom thumbnails,ways to custom linkedin video thumbnail size
-thumbnail: https://www.lifewire.com/thmb/x5hFLtVYVUkR-_nqhbxS_f11j5E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netgear-default-password-list-2619154-b581fdcf136848d29e944638cd2ad444.png
+thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe2bd45f2ec6f3eb305fb3d58.png
 ---
 
 ## Elevate Your Brand: How to Create Eye-Catching LinkedIn Video Thumbnails

@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved The Aspect Ratio Handbook A Step-by-Step Guide to Social Media Visuals
-date: 2024-04-28T01:15:27.583Z
-updated: 2024-04-29T01:15:27.583Z
+date: 2024-06-08T14:05:46.262Z
+updated: 2024-06-09T14:05:46.262Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved The Aspect Ratio Handbook A Step-by-Step Guide to Social Media Visuals
 excerpt: This Article Describes New 2024 Approved The Aspect Ratio Handbook A Step-by-Step Guide to Social Media Visuals
 keywords: visual victory the definitive guide to social media aspect ratios,ai animation the aspect ratio handbook mastering social media visual content,the aspect ratio handbook a step by step guide to social media visuals,up to date guide to social media aspect ratio,an up to date guide to social media aspect ratio,the aspect ratio handbook mastering social media visual content,social media visuals 101 a comprehensive aspect ratio guide
-thumbnail: https://www.lifewire.com/thmb/mQGqL0eWRfBieVMGM5ZlJAtwh3c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-a-mobile-boarding-pass-eb61458058f44011ad7ed012566127e4.jpg
+thumbnail: https://thmb.techidaily.com/aefba9f0ac6f593076f657b0dfeebc66593ffd1b9ade996e1956601a5424d0a8.jpg
 ---
 
 ## The Aspect Ratio Handbook: A Step-by-Step Guide to Social Media Visuals

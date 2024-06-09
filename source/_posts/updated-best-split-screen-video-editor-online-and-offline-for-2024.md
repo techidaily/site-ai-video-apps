@@ -1,7 +1,7 @@
 ---
 title: Updated Best Split Screen Video Editor Online & Offline for 2024
-date: 2024-05-19T09:40:28.544Z
-updated: 2024-05-20T09:40:28.544Z
+date: 2024-06-08T14:06:05.657Z
+updated: 2024-06-09T14:06:05.657Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Best Split Screen Video Editor Online & Offline for 2024
 excerpt: This Article Describes Updated Best Split Screen Video Editor Online & Offline for 2024
 keywords: create split screen videos for free online and offline editor reviews,create split screen videos for free online and offline editors,best zero cost video editors for split screen effects online offline,best split screen video editor online offline,ai animation best free split screen video editor online offline,split your screen for free top online and offline video editors,best free split screen video editor online offline
-thumbnail: https://www.lifewire.com/thmb/vIq8aJ1XOE0Q97nXhFUuoQCZpKI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/youtube-s-free-streaming-movies-and-tv-shows-1357439-ddbc3cf482e24a539c67009c07310ae1.png
+thumbnail: https://thmb.techidaily.com/be42a9800526c31b5bfdef3ed18cce59bd7b3192524b647f6f87b51df7e044d8.png
 ---
 
 ## Best Split Screen Video Editor [Online & Offline]

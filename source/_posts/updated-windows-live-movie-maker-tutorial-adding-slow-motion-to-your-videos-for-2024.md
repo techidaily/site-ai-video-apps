@@ -1,7 +1,7 @@
 ---
 title: Updated Windows Live Movie Maker Tutorial Adding Slow Motion to Your Videos for 2024
-date: 2024-04-28T01:22:41.213Z
-updated: 2024-04-29T01:22:41.213Z
+date: 2024-06-08T14:06:04.747Z
+updated: 2024-06-09T14:06:04.747Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Windows Live Movie Maker Tutorial Adding Slow Motion to Your Videos for 2024
 excerpt: This Article Describes Updated Windows Live Movie Maker Tutorial Adding Slow Motion to Your Videos for 2024
 keywords: take your videos to the next level using slow motion in windows live movie maker 2023,windows live movie maker tutorial adding slow motion to your videos,ai animation windows movie maker tutorial editing videos like a pro,windows live movie maker tutorial creating stunning slow motion videos,create stunning slow mo videos with windows live movie maker updated 2023,windows live movie maker tutorial adding a slow motion effect to your videos,make your videos epic how to add slow motion in windows live movie maker
-thumbnail: https://www.lifewire.com/thmb/eyPEW_zh-5Xw0J7hoJ-kChdCQ1M=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-transfer-data-from-ps4-to-ps5-3392eb400af3482fabad65cabb2a1a91.jpg
+thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc721b43b4dca709d022c56e41.jpg
 ---
 
 ## Windows Live Movie Maker Tutorial: Adding Slow Motion to Your Videos

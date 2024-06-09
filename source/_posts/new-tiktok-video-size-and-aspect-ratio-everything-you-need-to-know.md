@@ -1,7 +1,7 @@
 ---
 title: New TikTok Video Size and Aspect Ratio Everything You Need to Know
-date: 2024-05-19T09:39:49.897Z
-updated: 2024-05-20T09:39:49.897Z
+date: 2024-06-08T14:05:47.681Z
+updated: 2024-06-09T14:05:47.681Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New TikTok Video Size and Aspect Ratio Everything You Need to Know
 excerpt: This Article Describes New TikTok Video Size and Aspect Ratio Everything You Need to Know
 keywords: tiktok resolution and aspect ratio everything you need to know,final cut pro aspect ratio settings everything you need to know,guide to facebook video aspect ratios youll ever need to know,tiktok video size and aspect ratio everything you need to know,facebook video success everything you need to know about aspect ratios,tiktok video size and aspect ratio a beginners guide,ai animation guide to facebook video aspect ratios youll ever need to know
-thumbnail: https://www.lifewire.com/thmb/21o2y5NdnwK9g8j7z_eUWi12JAw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-504331578-cheering-football-on-tv-5a231ffdaad52b00372ae2a6.jpg
+thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde2fed4f7c2aee477f6b93402.jpg
 ---
 
 ## TikTok Video Size and Aspect Ratio: Everything You Need to Know

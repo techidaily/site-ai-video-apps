@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, From Basic to Brilliant Transforming Your Videos with Cool Effects
-date: 2024-04-28T01:07:37.024Z
-updated: 2024-04-29T01:07:37.024Z
+date: 2024-06-08T14:06:24.225Z
+updated: 2024-06-09T14:06:24.225Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, From Basic to Brilliant Transforming Your Videos with Cool Effects
 excerpt: This Article Describes Updated In 2024, From Basic to Brilliant Transforming Your Videos with Cool Effects
 keywords: from basic to brilliant transforming your videos with cool effects,from basic to brilliant adding effects in fcp x with 3 simple steps,from basic to brilliant enhancing your lower thirds in fcpx,from basic to brilliant mastering video editing effects for beginners,transform your photos into a breathtaking video with final cut pro,effects mastery transform your videos with cutting edge techniques,transform your videos adding effects in fcp x with just 3 clicks
-thumbnail: https://www.lifewire.com/thmb/85rwStNr21lvFIjCfmY8ErdogYI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wimbledonlivestream-c22d5eefbf8f40e9b25ba4cab1734ece.jpg
+thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c12bd8c02f2b01f747786c25.jpg
 ---
 
 ## From Basic to Brilliant: Transforming Your Videos with Cool Effects

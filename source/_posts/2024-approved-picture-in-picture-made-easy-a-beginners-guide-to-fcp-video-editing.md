@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Picture-in-Picture Made Easy A Beginners Guide to FCP Video Editing
-date: 2024-05-19T09:39:31.705Z
-updated: 2024-05-20T09:39:31.705Z
+date: 2024-06-08T14:06:05.571Z
+updated: 2024-06-09T14:06:05.571Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Picture-in-Picture Made Easy A Beginners Guide to FCP Video Editing
 excerpt: This Article Describes 2024 Approved Picture-in-Picture Made Easy A Beginners Guide to FCP Video Editing
 keywords: online video editing made easy a practical guide for beginners and pros,mp4 video editing made easy a beginners guide for mac and windows,mac movie making made easy a beginners guide to top video editors,canon video editing made easy a beginners guide to professional results,nikon video editing made easy a beginners guide to pro results,mac video editing made easy a beginners guide to movie creation,picture in picture made easy a beginners guide to fcp video editing
-thumbnail: https://www.lifewire.com/thmb/wnN-qVO61jMEVKBE1HStiKTk2xY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-channels-guide-1800-x-0f720f6afeb842c299c88baa42f3bd88.jpg
+thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b5686d5a4ad72e83eea7dc08de2.jpg
 ---
 
 ## Picture-in-Picture Made Easy: A Beginner's Guide to FCP Video Editing
