@@ -1,7 +1,7 @@
 ---
 title: Updated Love in Motion How to Create a Heartwarming Valentines Day Video for Your Significant Other for 2024
-date: 2024-04-28T01:10:19.970Z
-updated: 2024-04-29T01:10:19.970Z
+date: 2024-06-16T04:21:29.263Z
+updated: 2024-06-17T04:21:29.263Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Love in Motion How to Create a Heartwarming Valentines Day Video for Your Significant Other for 2024
 excerpt: This Article Describes Updated Love in Motion How to Create a Heartwarming Valentines Day Video for Your Significant Other for 2024
 keywords: ai animation how to make a valentines day video for the person you love,from the heart a beginners guide to making a valentines day video for your loved one,show your love how to create a beautiful valentines day video montage,love in motion how to create a heartwarming valentines day video for your significant other,love in motion how to craft a romantic valentines day video,speak from the heart how to make a sincere and emotional valentines day video,ai animation ai animation how to make a valentines day video for the person you love
-thumbnail: https://www.lifewire.com/thmb/cnbU86cA88gNmLB_6vGsp1ZnxFM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/asian-woman-talking-into-microphone-722208887-5b2a989730371300373a0447.jpg
+thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed3226ebe1d118a70909568e6.jpg
 ---
 
 ## Love in Motion: How to Create a Heartwarming Valentine's Day Video for Your Significant Other

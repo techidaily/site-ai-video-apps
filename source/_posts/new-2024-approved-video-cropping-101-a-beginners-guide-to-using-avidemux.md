@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Video Cropping 101 A Beginners Guide to Using Avidemux
-date: 2024-04-28T01:21:25.227Z
-updated: 2024-04-29T01:21:25.227Z
+date: 2024-06-16T04:21:09.795Z
+updated: 2024-06-17T04:21:09.795Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Video Cropping 101 A Beginners Guide to Using Avidemux
 excerpt: This Article Describes New 2024 Approved Video Cropping 101 A Beginners Guide to Using Avidemux
 keywords: video cropping 101 a beginners guide to using avidemux,video cropping made easy a comprehensive guide to using avidemux,yosemite video editing 101 a beginners guide to editing videos on mac,avidemux video editing a beginners guide to cropping and resizing,cropping videos in avidemux a comprehensive guide for beginners and pros,video trimming 101 a beginners guide to using kapwing editor,avidemux crop video a beginners guide to trimming and resizing
-thumbnail: https://www.lifewire.com/thmb/gOgqwLvt0rf3-WdwEBSByMeqIHo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1353420724-65161751b9924195880d3273e327cb54.jpg
+thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc6fdf0b1b999475eb2576da4.jpg
 ---
 
 ## Video Cropping 101: A Beginner's Guide to Using Avidemux

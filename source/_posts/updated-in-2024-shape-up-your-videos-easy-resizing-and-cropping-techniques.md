@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Shape Up Your Videos Easy Resizing and Cropping Techniques
-date: 2024-04-28T01:14:12.749Z
-updated: 2024-04-29T01:14:12.749Z
+date: 2024-06-16T04:21:14.537Z
+updated: 2024-06-17T04:21:14.537Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, Shape Up Your Videos Easy Resizing and Cropping Techniques
 excerpt: This Article Describes Updated In 2024, Shape Up Your Videos Easy Resizing and Cropping Techniques
 keywords: elevate your canon videos expert video editing software and techniques,unleash your creativity advanced video editing techniques and effects,crop resize and rotate mastering video shape editing,easy video cutting and joining software for starters 2023 update,unleash your creativity simple gopro hd video editing techniques,shape up your videos easy resizing and cropping techniques,bringing your nikon videos to life editing software and techniques
-thumbnail: https://www.lifewire.com/thmb/AOVQTNyOWIZPYiKZehcoYQS3DNU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-820926684-5c7747ebc45847708ac311b709bdc1f2.jpg
+thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343ebf5ad117060d9466fac18ee3.jpg
 ---
 
 ## Shape Up Your Videos: Easy Resizing and Cropping Techniques

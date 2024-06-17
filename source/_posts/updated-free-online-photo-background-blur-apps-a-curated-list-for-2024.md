@@ -1,7 +1,7 @@
 ---
 title: Updated Free Online Photo Background Blur Apps A Curated List for 2024
-date: 2024-04-28T01:07:03.504Z
-updated: 2024-04-29T01:07:03.504Z
+date: 2024-06-16T04:21:31.977Z
+updated: 2024-06-17T04:21:31.977Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Free Online Photo Background Blur Apps A Curated List for 2024
 excerpt: This Article Describes Updated Free Online Photo Background Blur Apps A Curated List for 2024
 keywords: the ultimate list of free online photo background blur tools,best free online photo background blur tools,blur photo backgrounds for free top online editors,free online photo background blur apps a curated list,best free photo background blur online tools,top rated free online photo background blur applications,edit photos like a pro free online background blur tools
-thumbnail: https://www.lifewire.com/thmb/jkTzGxTQj6GZdoRByOnef64Ubf0=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows_search-56aa11bd3df78cf772ac3ea5.jpg
+thumbnail: https://thmb.techidaily.com/650f46c8db195bf984ecb592d4a15814bfd7afa085c1775706e382ffb2952424.jpg
 ---
 
 ## Free Online Photo Background Blur Apps: A Curated List

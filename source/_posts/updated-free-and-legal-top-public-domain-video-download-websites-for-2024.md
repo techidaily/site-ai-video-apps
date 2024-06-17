@@ -1,7 +1,7 @@
 ---
 title: Updated Free and Legal Top Public Domain Video Download Websites for 2024
-date: 2024-05-19T09:40:48.957Z
-updated: 2024-05-20T09:40:48.957Z
+date: 2024-06-16T04:21:27.511Z
+updated: 2024-06-17T04:21:27.511Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Free and Legal Top Public Domain Video Download Websites for 2024
 excerpt: This Article Describes Updated Free and Legal Top Public Domain Video Download Websites for 2024
 keywords: best websites to download public domain videos,public domain video heaven top sites for free downloads,download free public domain videos from these top websites,top sources for free public domain video downloads,free video assets galore top public domain download sites,free and clear top websites for public domain video downloads,free and legal top public domain video download websites
-thumbnail: https://www.lifewire.com/thmb/JVF5j2ixNkw6YsOsj4P4vtZrB-4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/connect-tv-to-stereo-system-3135127-83ec0f315fa54c1290555169d689ad88.jpg
+thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c957109090842f5892749c79.jpg
 ---
 
 ## Free and Legal: Top Public Domain Video Download Websites

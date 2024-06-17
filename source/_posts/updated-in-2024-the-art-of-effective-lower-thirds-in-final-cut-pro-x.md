@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, The Art of Effective Lower Thirds in Final Cut Pro X
-date: 2024-04-28T01:15:21.151Z
-updated: 2024-04-29T01:15:21.151Z
+date: 2024-06-16T04:21:21.080Z
+updated: 2024-06-17T04:21:21.080Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, The Art of Effective Lower Thirds in Final Cut Pro X
 excerpt: This Article Describes Updated In 2024, The Art of Effective Lower Thirds in Final Cut Pro X
 keywords: what makes the best lower thirds in final cut pro x,unlocking the power of titles in final cut pro x 2023 update,unleashing the power of lower thirds in final cut pro x,the art of effective lower thirds in final cut pro x,designing effective lower thirds in final cut pro x,the art of lower thirds elevating your videos in final cut pro x,the art of lower thirds design in final cut pro x
-thumbnail: https://www.lifewire.com/thmb/hfQflvBCf7d-XN3Ks-apahbRORg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-audible-worth-it-00616437e29b4d108264ba36057bbdde.jpg
+thumbnail: https://thmb.techidaily.com/99bd3a8517ed5c451f9f836179e6586efe05dbc59db5ea292ed9c7e8afff15a8.jpg
 ---
 
 ## The Art of Effective Lower Thirds in Final Cut Pro X

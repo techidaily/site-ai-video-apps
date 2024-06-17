@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Ultimate List of Free MKV Cutters
-date: 2024-05-19T09:39:47.629Z
-updated: 2024-05-20T09:39:47.629Z
+date: 2024-06-16T04:21:18.178Z
+updated: 2024-06-17T04:21:18.178Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved The Ultimate List of Free MKV Cutters
 excerpt: This Article Describes 2024 Approved The Ultimate List of Free MKV Cutters
 keywords: the ultimate list of free mp4 video cutter tools,free mov file editors the ultimate 2023 list,free mkv video cutters the ultimate 2023 roundup,the ultimate list of free mkv cutting software,unlock 4k the ultimate list of free video converters,the ultimate list of free mkv cutters,the ultimate list of free mov video splitters
-thumbnail: https://www.lifewire.com/thmb/CRTquSF_UbubOfDqEN31hiqf2eI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/internet-archive-logo-5980e6f0845b340011748640.png
+thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e22482d093bffe3ae2ca67e1.png
 ---
 
 ## The Ultimate List of Free MKV Cutters

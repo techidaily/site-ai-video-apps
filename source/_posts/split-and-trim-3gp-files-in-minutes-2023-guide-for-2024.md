@@ -1,7 +1,7 @@
 ---
 title: Split and Trim 3GP Files in Minutes 2023 Guide for 2024
-date: 2024-05-19T09:39:37.909Z
-updated: 2024-05-20T09:39:37.909Z
+date: 2024-06-16T04:21:22.944Z
+updated: 2024-06-17T04:21:22.944Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Split and Trim 3GP Files in Minutes 2023 Guide for 2024
 excerpt: This Article Describes Split and Trim 3GP Files in Minutes 2023 Guide for 2024
 keywords: split 3gp files into multiple segments easy guide 2023,split and trim 3gp files in minutes 2023 guide,the easiest way to edit avi files split cut and trim in minutes,how to trim and split 3gp videos in minutes,cut and trim 3gp files with ease updated 2023,easily trim cut and merge avi files on windows 8 2023 guide,split trim and convert avi files in minutes 2023 edition
-thumbnail: https://www.lifewire.com/thmb/hTKYwh0v7qXo9k56663KdHBIHZ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-a-critical-process-dies-windows-11-error-952a1ad6325f455aaef36516fb3f7120.jpg
+thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa481cdc60b824492075830e06.jpg
 ---
 
 ## Split and Trim 3GP Files in Minutes [2023 Guide]

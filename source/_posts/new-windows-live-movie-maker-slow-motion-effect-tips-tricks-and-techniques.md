@@ -1,7 +1,7 @@
 ---
 title: New Windows Live Movie Maker Slow Motion Effect Tips, Tricks, and Techniques
-date: 2024-05-19T09:40:03.209Z
-updated: 2024-05-20T09:40:03.209Z
+date: 2024-06-16T04:21:14.010Z
+updated: 2024-06-17T04:21:14.010Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Windows Live Movie Maker Slow Motion Effect Tips, Tricks, and Techniques
 excerpt: This Article Describes New Windows Live Movie Maker Slow Motion Effect Tips, Tricks, and Techniques
 keywords: the art of slow motion tips and tricks for windows live movie maker users,ai animation how to use windows live movie maker slow motion effect,the ultimate windows movie maker handbook tips tricks and techniques,slow down and savor how to add slow motion effects in windows live movie maker,get creative with slow motion tips and tricks for windows live movie maker users,windows live movie maker slow motion effect tips tricks and techniques,how to use windows live movie maker slow motion effect
-thumbnail: https://www.lifewire.com/thmb/Ngm9bpatigonc3AlRSUUdm9EIUQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-teen-movies-on-netflix-october-2023-5104880-3c4ee21786b64df693bfeebd65701d8e.jpg
+thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b20d9291b76fb465837bc25f3.jpg
 ---
 
 ## Windows Live Movie Maker Slow Motion Effect: Tips, Tricks, and Techniques

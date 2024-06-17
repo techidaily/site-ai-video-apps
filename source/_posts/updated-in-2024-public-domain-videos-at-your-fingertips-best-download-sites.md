@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Public Domain Videos at Your Fingertips Best Download Sites
-date: 2024-04-28T01:13:00.247Z
-updated: 2024-04-29T01:13:00.247Z
+date: 2024-06-16T04:21:24.977Z
+updated: 2024-06-17T04:21:24.977Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, Public Domain Videos at Your Fingertips Best Download Sites
 excerpt: This Article Describes Updated In 2024, Public Domain Videos at Your Fingertips Best Download Sites
 keywords: best websites to download public domain videos,ai animation best websites to download public domain videos,unleash the archive best public domain video download sites,unleash the power of public domain best video download sites,public domain videos at your fingertips best download sites,get ready to download best public domain video websites,no copyright worries best sites for public domain video downloads
-thumbnail: https://www.lifewire.com/thmb/BzSvFjNWXiwqImdtAjFSSOWv3r4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/audio-books-56a324b93df78cf7727c00f5.jpg
+thumbnail: https://thmb.techidaily.com/f75585e4daf78953dd0ce1cfd0b26209fab1e9c588003fe7de564148a8e3e23c.jpg
 ---
 
 ## Public Domain Videos at Your Fingertips: Best Download Sites

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Ken Burns Effect Tutorial From Basics to Pro
-date: 2024-04-28T01:09:59.616Z
-updated: 2024-04-29T01:09:59.616Z
+date: 2024-06-16T04:21:16.635Z
+updated: 2024-06-17T04:21:16.635Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Ken Burns Effect Tutorial From Basics to Pro
 excerpt: This Article Describes Updated 2024 Approved Ken Burns Effect Tutorial From Basics to Pro
 keywords: ken burns effect tutorial add movement to your photos,final cut pro tutorial adding emotional depth with the ken burns effect updated 2023,from basics to pro l cuts and j cuts in final cut pro x tutorial,final cut pro aspect ratio tutorial from basics to advanced,ken burns effect tutorial from basics to pro,from basic to brilliant using ken burns effect in final cut pro like a pro,ai animation final cut pro tutorial adding emotional depth with the ken burns effect updated 2023
-thumbnail: https://www.lifewire.com/thmb/ifJDA6ScbZuUR7Omss65zhVMxok=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-155159821-8881bead1d894a0b95bca3c3e288ff54.jpg
+thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6244e3ee7a3676c38fda1900.jpg
 ---
 
 ## Ken Burns Effect Tutorial: From Basics to Pro

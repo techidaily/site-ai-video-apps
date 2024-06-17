@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Prime Video Screen Dimensions
-date: 2024-04-28T01:12:50.386Z
-updated: 2024-04-29T01:12:50.386Z
+date: 2024-06-16T04:21:31.131Z
+updated: 2024-06-17T04:21:31.131Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Prime Video Screen Dimensions
 excerpt: This Article Describes New In 2024, Prime Video Screen Dimensions
 keywords: prime video screen dimensions explained,prime video screen dimensions,prime video screen format,prime video widescreen options,ai animation prime video screen format,ai animation prime video screen dimensions explained,optimize your view amazon prime video screen settings
-thumbnail: https://www.lifewire.com/thmb/Qyfd5yWYmuBE75uyOeLeSQxzUMY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-movies-on-hulu-right-now-5025149-3c80b5664f6541b4a0698333fc447251.jpg
+thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3f338f8c86d6f5318d22c5f4.jpg
 ---
 
 ## Prime Video Screen Dimensions

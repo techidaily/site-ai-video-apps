@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Mastering Video Editing on Mac A Guide to OS X Mavericks
-date: 2024-05-19T09:40:17.095Z
-updated: 2024-05-20T09:40:17.095Z
+date: 2024-06-16T04:21:24.492Z
+updated: 2024-06-17T04:21:24.492Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Mastering Video Editing on Mac A Guide to OS X Mavericks
 excerpt: This Article Describes New 2024 Approved Mastering Video Editing on Mac A Guide to OS X Mavericks
 keywords: mastering video editing on mac a guide to os x mavericks,video editing on mac os x mavericks a beginners guide,mastering gopro video editing on mac a 2023 guide,mastering video editing in os x mavericks a comprehensive guide,video editing mastery on mac os x mavericks edition,ai animation mastering video editing on mac a guide to os x mavericks,edit like a pro video editing on mac os x mavericks
-thumbnail: https://www.lifewire.com/thmb/ptfhak0BFgk1HbWMQnlfEezMM8Q=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/kentuckyderby-5c7ed5d646e0fb00011bf3da.jpg
+thumbnail: https://thmb.techidaily.com/11a5b5bdf5c605b4fbfac8e2beadd347faae794edca9da0873a40e49d2c700e6.jpg
 ---
 
 ## Mastering Video Editing on Mac: A Guide to OS X Mavericks

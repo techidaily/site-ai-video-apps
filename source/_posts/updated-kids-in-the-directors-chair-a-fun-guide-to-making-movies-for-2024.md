@@ -1,7 +1,7 @@
 ---
 title: Updated Kids in the Directors Chair A Fun Guide to Making Movies for 2024
-date: 2024-04-28T01:10:00.417Z
-updated: 2024-04-29T01:10:00.417Z
+date: 2024-06-16T04:21:19.435Z
+updated: 2024-06-17T04:21:19.435Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Kids in the Directors Chair A Fun Guide to Making Movies for 2024
 excerpt: This Article Describes Updated Kids in the Directors Chair A Fun Guide to Making Movies for 2024
 keywords: little directors big ideas teaching kids to make movies,kids in the directors chair a fun and interactive guide to movie making,young filmmakers unleashed a kids guide to movie creation,the mini moviemaker a fun guide for kids to make their own movies,the young directors handbook teach kids to make their own movies,kids in the directors chair making movies made easy,kids in the directors chair a fun guide to making movies
-thumbnail: https://www.lifewire.com/thmb/URpxAt_UNeiJBr0hk-AFwm2D8lg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-change-your-tiktok-username-and-profile-picture-048cd3c3b4854846ab46f920e862332f.jpg
+thumbnail: https://thmb.techidaily.com/bab43c6ebbd68c7b02aa8931b44c8b3c5cf156c7a7bd1aa24fbe3ea34de877b1.jpg
 ---
 
 ## Kids in the Director's Chair: A Fun Guide to Making Movies

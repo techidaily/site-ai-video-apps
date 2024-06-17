@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Complete Guide to TikTok Screen Size and Aspect Ratio
-date: 2024-04-28T01:23:47.686Z
-updated: 2024-04-29T01:23:47.686Z
+date: 2024-06-16T04:21:21.236Z
+updated: 2024-06-17T04:21:21.236Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved The Complete Guide to TikTok Screen Size and Aspect Ratio
 excerpt: This Article Describes 2024 Approved The Complete Guide to TikTok Screen Size and Aspect Ratio
 keywords: facebook video pro a complete guide to aspect ratios and sizes,complete guide about tiktok aspect ratio,from crop to fame the 2024 tiktok aspect ratio pro guide,the complete handbook to tiktoks ideal aspect ratio 2024 update,the complete guide to tiktok screen size and aspect ratio,optimize your tiktok videos a complete guide to aspect ratios,the 2024 tiktok creators guide to aspect ratio and video size
-thumbnail: https://www.lifewire.com/thmb/T-vk6tcRBceJKhDueci3J9FGWK4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-454939687-56cac7b03df78cfb37988474.jpg
+thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c6533fd74096afaf9205f685325.jpg
 ---
 
 ## The Complete Guide to TikTok Screen Size and Aspect Ratio

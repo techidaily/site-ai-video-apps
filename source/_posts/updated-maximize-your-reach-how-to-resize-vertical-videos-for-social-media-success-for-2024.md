@@ -1,7 +1,7 @@
 ---
 title: Updated Maximize Your Reach How to Resize Vertical Videos for Social Media Success for 2024
-date: 2024-04-28T01:11:31.414Z
-updated: 2024-04-29T01:11:31.414Z
+date: 2024-06-16T04:21:15.301Z
+updated: 2024-06-17T04:21:15.301Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Maximize Your Reach How to Resize Vertical Videos for Social Media Success for 2024
 excerpt: This Article Describes Updated Maximize Your Reach How to Resize Vertical Videos for Social Media Success for 2024
 keywords: unlock viral success how to optimize your vertical video for social media,ai animation the ultimate hack how to resize vertical videos for social media,maximize your reach how to resize vertical videos for social media success,your greatest tip to resize social media vertical video ratio,sizing up success how to optimize your vertical videos for social media,the ultimate hack how to resize vertical videos for social media,the power of vertical how to resize your videos for maximum impact on social media
-thumbnail: https://www.lifewire.com/thmb/BEu1dTImTgj-gj19IMN4njOxWDE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/set-top-dvr-1130767-f2aa7f11e3d2442b966d53b8aa2d25fd.png
+thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f7257579ffa960f9e7a085032e4b04.png
 ---
 
 ## Maximize Your Reach: How to Resize Vertical Videos for Social Media Success

@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Cinematic Look A Comprehensive Guide to FCPX Video Editing
-date: 2024-05-19T09:39:42.466Z
-updated: 2024-05-20T09:39:42.466Z
+date: 2024-06-16T04:21:21.504Z
+updated: 2024-06-17T04:21:21.504Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, The Cinematic Look A Comprehensive Guide to FCPX Video Editing
 excerpt: This Article Describes In 2024, The Cinematic Look A Comprehensive Guide to FCPX Video Editing
 keywords: from start to finish a comprehensive guide to quicktime video editing on mac,the wax way a comprehensive guide to free video editing,the best mac video editing tools for beginners a comprehensive guide,wax video editor a comprehensive guide to editing like a pro,editing like a pro a comprehensive online video guide,nikon video file editing a comprehensive guide,the cinematic look a comprehensive guide to fcpx video editing
-thumbnail: https://www.lifewire.com/thmb/KrjxcoVkV9vT3cQ3C-URm7mlpcM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-917461864-7141ebd3ec944ce6a431b8d485cc9cdb.jpg
+thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed46c02973b8fefdc10e6507c.jpg
 ---
 
 ## The Cinematic Look: A Comprehensive Guide to FCPX Video Editing

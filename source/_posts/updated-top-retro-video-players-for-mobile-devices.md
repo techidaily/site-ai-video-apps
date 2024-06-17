@@ -1,7 +1,7 @@
 ---
 title: Updated Top Retro Video Players for Mobile Devices
-date: 2024-05-19T09:39:52.607Z
-updated: 2024-05-20T09:39:52.607Z
+date: 2024-06-16T04:21:30.272Z
+updated: 2024-06-17T04:21:30.272Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Top Retro Video Players for Mobile Devices
 excerpt: This Article Describes Updated Top Retro Video Players for Mobile Devices
 keywords: top video invite creators for mobile devices,top retro video players for mobile devices,top video to audio converters for mobile devices,top video invitation creators for mobile devices,edit like a pro top vertical video apps for mobile devices,top video invite apps for mobile devices,vhs revival on mobile top apps for retro video filters
-thumbnail: https://www.lifewire.com/thmb/EVPMwUvvJxpJdiKeU4q7SREScME=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mothersday_NataliaCampbell_Getty-5a4baef6c7822d00371e56cd.jpg
+thumbnail: https://thmb.techidaily.com/c367633b9f9ef727c06fd08d3dd4d78a496570d920b7ae31f5d249d448106c6d.jpg
 ---
 
 ## Top Retro Video Players for Mobile Devices

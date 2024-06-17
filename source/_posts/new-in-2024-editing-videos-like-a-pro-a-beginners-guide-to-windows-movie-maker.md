@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Editing Videos Like a Pro A Beginners Guide to Windows Movie Maker
-date: 2024-05-19T09:40:42.623Z
-updated: 2024-05-20T09:40:42.623Z
+date: 2024-06-16T04:21:10.357Z
+updated: 2024-06-17T04:21:10.357Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Editing Videos Like a Pro A Beginners Guide to Windows Movie Maker
 excerpt: This Article Describes New In 2024, Editing Videos Like a Pro A Beginners Guide to Windows Movie Maker
 keywords: cutting it up a beginners guide to splitting videos in windows live movie maker,transform your videos a beginners guide to editing with windows movie maker,from long to short a beginners guide to splitting videos in windows live movie maker,free download windows movie maker a beginners guide to video editing,editing videos like a pro a beginners guide to windows movie maker,from clips to masterpiece a beginners guide to video editing in windows,download windows movie maker for free a beginners guide to video editing
-thumbnail: https://www.lifewire.com/thmb/71reoJ08pe9fxU7SLDHBCk0MgVg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-remote-access-on-your-samsung-smart-tv-4688935-01-29c7de5dc77e4747a8070d12f0c3d84c.jpg
+thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641c77398dacbaad68cbaf2be6.jpg
 ---
 
 ## Editing Videos Like a Pro: A Beginner's Guide to Windows Movie Maker

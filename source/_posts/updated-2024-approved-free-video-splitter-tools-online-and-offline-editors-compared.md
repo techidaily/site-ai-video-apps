@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Free Video Splitter Tools Online and Offline Editors Compared
-date: 2024-04-28T01:07:26.474Z
-updated: 2024-04-29T01:07:26.474Z
+date: 2024-06-16T04:21:24.721Z
+updated: 2024-06-17T04:21:24.721Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Free Video Splitter Tools Online and Offline Editors Compared
 excerpt: This Article Describes Updated 2024 Approved Free Video Splitter Tools Online and Offline Editors Compared
 keywords: create split screen videos for free online and offline editors,free video splitter tools online and offline editors compared,free video splitter tools edit side by side videos online and offline,no cost split screen video editing online and offline tools compared,split your screen for free top online and offline video editors,free video splitter online and offline editors for dual screen videos,dual window video editor free online and offline video splitting tools
-thumbnail: https://www.lifewire.com/thmb/iwoCmi7AdF2SQEdJBdU3jN_mTWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-136612668-5c640cc5c9e77c00010a4ff4.jpg
+thumbnail: https://thmb.techidaily.com/fd49bc993ce8510e13bd3ece8f5853b9890f1d550e51d2b3c30dcfc01a7a61b2.jpg
 ---
 
 ## Free Video Splitter Tools: Online and Offline Editors Compared

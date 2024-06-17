@@ -1,7 +1,7 @@
 ---
 title: New The Young Cinematographer Empowering Kids to Tell Their Stories
-date: 2024-05-19T09:39:49.719Z
-updated: 2024-05-20T09:39:49.719Z
+date: 2024-06-16T04:21:15.379Z
+updated: 2024-06-17T04:21:15.379Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New The Young Cinematographer Empowering Kids to Tell Their Stories
 excerpt: This Article Describes New The Young Cinematographer Empowering Kids to Tell Their Stories
 keywords: fcpx xml mastery taking your editing skills to the next level,the young directors handbook teach kids to make their own movies,bring your memories to life how to create engaging home dvds,mp4 to mp3 converter reviews find the best tool for your needs,the young cinematographer empowering kids to tell their stories,unlock the power of visual storytelling with these 5 photo slideshow tools,bring your posts to life the ultimate stop motion tutorial for instagram
-thumbnail: https://www.lifewire.com/thmb/dXcXyOjh5f14j9Nzv8d0qtr4jHE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-850120538-4d2af54c23a641c8a5f2e00ef7a9aa37.jpg
+thumbnail: https://thmb.techidaily.com/805432a26a63c24a3ad7f94c306f1a1291a2364beb1c1710fc99d1f9d71ae26e.jpg
 ---
 
 ## The Young Cinematographer: Empowering Kids to Tell Their Stories

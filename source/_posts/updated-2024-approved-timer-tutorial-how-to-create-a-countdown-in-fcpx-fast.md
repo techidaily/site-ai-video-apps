@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Timer Tutorial How to Create a Countdown in FCPX Fast
-date: 2024-04-28T01:18:13.739Z
-updated: 2024-04-29T01:18:13.739Z
+date: 2024-06-16T04:21:09.893Z
+updated: 2024-06-17T04:21:09.893Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Timer Tutorial How to Create a Countdown in FCPX Fast
 excerpt: This Article Describes Updated 2024 Approved Timer Tutorial How to Create a Countdown in FCPX Fast
 keywords: how to add a countdown timer in final cut pro x,times running out learn to add a countdown timer in fcpx fast,times ticking learn how to add a countdown timer in fcpx in 3 steps,from zero to hero creating a countdown timer in fcpx,timer tutorial how to create a countdown in fcpx fast,fcpx essentials how to add a countdown timer in 3 easy steps,3 steps to add a countdown timer in final cut pro x
-thumbnail: https://www.lifewire.com/thmb/QSOkVMBCO__10c9yExi2xlfXUGg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-626970032-497800518dac4d6cafa0dc19b953f1ff.jpg
+thumbnail: https://thmb.techidaily.com/5996397f505d52b0f60ffe77c36fd8859621590a57dd0707f44eeaa06c560dbc.jpg
 ---
 
 ## Timer Tutorial: How to Create a Countdown in FCPX Fast

@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Best 12 Free Animation Software for Windows and Mac
-date: 2024-05-19T09:40:13.163Z
-updated: 2024-05-20T09:40:13.163Z
+date: 2024-06-16T04:21:29.088Z
+updated: 2024-06-17T04:21:29.088Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, Best 12 Free Animation Software for Windows and Mac
 excerpt: This Article Describes Updated In 2024, Best 12 Free Animation Software for Windows and Mac
 keywords: best 12 free animation software for windows and mac,discover the best free animation software for windows and mac,s best free whiteboard animation software for windows mac and online,best free animation software for windows and mac,best 12 free download animation software for windows and mac 2022,ai animation best 12 free animation software for windows and mac,get animated 10 best free whiteboard animation software for windows and mac
-thumbnail: https://www.lifewire.com/thmb/DHxaJkZu-_13cCciVcRs3Mq0nj4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/012_how-to-make-video-call-on-android-bd93ab594aa648c7977f4c1ecf42c85b.jpg
+thumbnail: https://thmb.techidaily.com/502b1cdc938497dc65859bd4dea7388cbc83b5388aae8627911832c708fd7626.jpg
 ---
 
 ## Best 12 Free Animation Software for Windows and Mac

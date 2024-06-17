@@ -1,7 +1,7 @@
 ---
 title: New Resize with Confidence The Up-to-Date Aspect Ratio Guide for Social Media
-date: 2024-05-19T09:39:33.635Z
-updated: 2024-05-20T09:39:33.635Z
+date: 2024-06-16T04:21:24.243Z
+updated: 2024-06-17T04:21:24.243Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Resize with Confidence The Up-to-Date Aspect Ratio Guide for Social Media
 excerpt: This Article Describes New Resize with Confidence The Up-to-Date Aspect Ratio Guide for Social Media
 keywords: up to date guide to social media aspect ratio,optimize your online presence a guide to social media aspect ratios,an up to date guide to social media aspect ratio,resize with confidence the up to date aspect ratio guide for social media,resize with ease the complete guide to social media image dimensions,the complete guide to social media image optimization aspect ratios and more,resize reformat repeat the ultimate guide to social media video
-thumbnail: https://www.lifewire.com/thmb/YDOkX4KOrU-1Gfk6Kj7DPlg333E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows11contextmenu-f4d6ebb14db4444d851b4338aa553e21.png
+thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b903378f876b3f4cc7ee4fa520.png
 ---
 
 ## Resize with Confidence: The Up-to-Date Aspect Ratio Guide for Social Media
