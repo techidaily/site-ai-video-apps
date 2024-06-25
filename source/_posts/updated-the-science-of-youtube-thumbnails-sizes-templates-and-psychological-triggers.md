@@ -1,7 +1,7 @@
 ---
 title: Updated The Science of YouTube Thumbnails Sizes, Templates, and Psychological Triggers
-date: 2024-05-19T09:39:43.881Z
-updated: 2024-05-20T09:39:43.881Z
+date: 2024-06-24T05:15:25.637Z
+updated: 2024-06-25T05:15:25.637Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated The Science of YouTube Thumbnails Sizes, Templates, and Psychological Triggers
 excerpt: This Article Describes Updated The Science of YouTube Thumbnails Sizes, Templates, and Psychological Triggers
 keywords: optimize your thumbnails sizes templates and proven strategies,the science of youtube thumbnails sizes templates and psychological triggers,youtube thumbnail size template practical tactics for you,get noticed on youtube thumbnail size templates and expert strategies,get noticed on youtube thumbnail size templates and expert advice,the science of thumbnails youtube image size format and conversion hacks,maximize views the ultimate youtube thumbnail template and tips
-thumbnail: https://www.lifewire.com/thmb/0xgLnS3M6CP4FiP4I-VE1zFOiLo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-a-ps5-controller-on-your-pc-or-mac-5089439-b56739aa27bd48858200878a6b64f952.jpg
+thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6df028882ef27bbdd6859fdde.jpg
 ---
 
 ## The Science of YouTube Thumbnails: Sizes, Templates, and Psychological Triggers
@@ -34,7 +34,7 @@ More in detail about **Youtube thumbnail size template**, tips, and others can b
 
 #### In this article
 
-01 [Youtube Thumbnail Specifications ](#Part 1)
+01 [Youtube Thumbnail Specifications](#Part 1)
 
 02 [Youtube Thumbnail Templates](#Part 2)
 
@@ -94,9 +94,7 @@ To make your thumbnails interesting and effective we have shortlisted a few usef
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora-video-editor](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -140,7 +138,7 @@ More in detail about **Youtube thumbnail size template**, tips, and others can b
 
 #### In this article
 
-01 [Youtube Thumbnail Specifications ](#Part 1)
+01 [Youtube Thumbnail Specifications](#Part 1)
 
 02 [Youtube Thumbnail Templates](#Part 2)
 
@@ -200,9 +198,7 @@ To make your thumbnails interesting and effective we have shortlisted a few usef
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora-video-editor](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -246,7 +242,7 @@ More in detail about **Youtube thumbnail size template**, tips, and others can b
 
 #### In this article
 
-01 [Youtube Thumbnail Specifications ](#Part 1)
+01 [Youtube Thumbnail Specifications](#Part 1)
 
 02 [Youtube Thumbnail Templates](#Part 2)
 
@@ -306,9 +302,7 @@ To make your thumbnails interesting and effective we have shortlisted a few usef
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora-video-editor](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -352,7 +346,7 @@ More in detail about **Youtube thumbnail size template**, tips, and others can b
 
 #### In this article
 
-01 [Youtube Thumbnail Specifications ](#Part 1)
+01 [Youtube Thumbnail Specifications](#Part 1)
 
 02 [Youtube Thumbnail Templates](#Part 2)
 
@@ -412,9 +406,7 @@ To make your thumbnails interesting and effective we have shortlisted a few usef
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora-video-editor](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -479,7 +471,7 @@ Video editing is a skill that requires creative flow and attention to detail. Wh
 
 VN video editor is compatible with both macOS and iOS devices to create incredible videos or manage footage. You can edit photos, 4K videos, make interactive intros, and attractive Hollywood-style trailers through this app. The key-frame animation and automated editing instructions make the app easier to use for beginners.
 
-![ VN Video Editor for Mac](https://images.wondershare.com/filmora/article-images/vn-video-editor-mac-1.jpg)
+![VN Video Editor for Mac](https://images.wondershare.com/filmora/article-images/vn-video-editor-mac-1.jpg)
 
 Using the VN editor is a blessing for mac users because you can quickly transfer data between Apple devices and AirDrop videos within seconds. Edited videos are saved automatically; the picture-in-picture, blending modes, 4K support, and transitions help create professional-level videos.
 
@@ -507,13 +499,13 @@ It only gets better: Audio editing is one of its specialized features that helps
 
 VN video editor has exceptional features and is meant for professional editing. However, it may not be everyone's cup of tea. Hence, we decided to do some digging and find alternatives to the VN video editor for Mac. Here you go:
 
-### 1\. [Final Cut Pro](https://www.apple.com/final-cut-pro/)\[for Professionals\]
+### 1\. Final Cut Pro
 
 Final Cut Pro is one of the best video editing apps for industry-level use. Most YouTubers and social media influencers use FCP for making short and compelling videos. Consequently, its VR editing features make the output spectacular. Applying graphic effects, adding blurs, GIFs, and text has never been easier. Here's the kicker:
 
 The built-in third-party tools give the user more control, and graphic templates help you create professional videos even if you are a beginner. Producing dynamic videos with optimized sound is now possible with FCP as it has impeccable sound editing tools. It is super easy to transfer videos to different devices, and you can also directly upload videos to social media through it.
 
-![ Final Cut Pro](https://images.wondershare.com/filmora/article-images/video-trimmer-mac-3.png)
+![Final Cut Pro](https://images.wondershare.com/filmora/article-images/video-trimmer-mac-3.png)
 
 **Pros**
 
@@ -526,7 +518,7 @@ The built-in third-party tools give the user more control, and graphic templates
 
 * Takes a lot of space
 
-### 2\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)\[for Beginners and Intermediates\]
+### 2\. Wondershare Filmora
 
 Wondershare Filmora is most recommended by the experts, especially for beginners. It has an easy drag and drop feature, as a result of which you can edit precisely frame-by-frame. Furthermore, it is an excellent blend of basic and professional features for the output you desire.
 
@@ -575,7 +567,7 @@ Video editing is a skill that requires creative flow and attention to detail. Wh
 
 VN video editor is compatible with both macOS and iOS devices to create incredible videos or manage footage. You can edit photos, 4K videos, make interactive intros, and attractive Hollywood-style trailers through this app. The key-frame animation and automated editing instructions make the app easier to use for beginners.
 
-![ VN Video Editor for Mac](https://images.wondershare.com/filmora/article-images/vn-video-editor-mac-1.jpg)
+![VN Video Editor for Mac](https://images.wondershare.com/filmora/article-images/vn-video-editor-mac-1.jpg)
 
 Using the VN editor is a blessing for mac users because you can quickly transfer data between Apple devices and AirDrop videos within seconds. Edited videos are saved automatically; the picture-in-picture, blending modes, 4K support, and transitions help create professional-level videos.
 
@@ -603,13 +595,13 @@ It only gets better: Audio editing is one of its specialized features that helps
 
 VN video editor has exceptional features and is meant for professional editing. However, it may not be everyone's cup of tea. Hence, we decided to do some digging and find alternatives to the VN video editor for Mac. Here you go:
 
-### 1\. [Final Cut Pro](https://www.apple.com/final-cut-pro/)\[for Professionals\]
+### 1\. Final Cut Pro
 
 Final Cut Pro is one of the best video editing apps for industry-level use. Most YouTubers and social media influencers use FCP for making short and compelling videos. Consequently, its VR editing features make the output spectacular. Applying graphic effects, adding blurs, GIFs, and text has never been easier. Here's the kicker:
 
 The built-in third-party tools give the user more control, and graphic templates help you create professional videos even if you are a beginner. Producing dynamic videos with optimized sound is now possible with FCP as it has impeccable sound editing tools. It is super easy to transfer videos to different devices, and you can also directly upload videos to social media through it.
 
-![ Final Cut Pro](https://images.wondershare.com/filmora/article-images/video-trimmer-mac-3.png)
+![Final Cut Pro](https://images.wondershare.com/filmora/article-images/video-trimmer-mac-3.png)
 
 **Pros**
 
@@ -622,7 +614,7 @@ The built-in third-party tools give the user more control, and graphic templates
 
 * Takes a lot of space
 
-### 2\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)\[for Beginners and Intermediates\]
+### 2\. Wondershare Filmora
 
 Wondershare Filmora is most recommended by the experts, especially for beginners. It has an easy drag and drop feature, as a result of which you can edit precisely frame-by-frame. Furthermore, it is an excellent blend of basic and professional features for the output you desire.
 
@@ -671,7 +663,7 @@ Video editing is a skill that requires creative flow and attention to detail. Wh
 
 VN video editor is compatible with both macOS and iOS devices to create incredible videos or manage footage. You can edit photos, 4K videos, make interactive intros, and attractive Hollywood-style trailers through this app. The key-frame animation and automated editing instructions make the app easier to use for beginners.
 
-![ VN Video Editor for Mac](https://images.wondershare.com/filmora/article-images/vn-video-editor-mac-1.jpg)
+![VN Video Editor for Mac](https://images.wondershare.com/filmora/article-images/vn-video-editor-mac-1.jpg)
 
 Using the VN editor is a blessing for mac users because you can quickly transfer data between Apple devices and AirDrop videos within seconds. Edited videos are saved automatically; the picture-in-picture, blending modes, 4K support, and transitions help create professional-level videos.
 
@@ -699,13 +691,13 @@ It only gets better: Audio editing is one of its specialized features that helps
 
 VN video editor has exceptional features and is meant for professional editing. However, it may not be everyone's cup of tea. Hence, we decided to do some digging and find alternatives to the VN video editor for Mac. Here you go:
 
-### 1\. [Final Cut Pro](https://www.apple.com/final-cut-pro/)\[for Professionals\]
+### 1\. Final Cut Pro
 
 Final Cut Pro is one of the best video editing apps for industry-level use. Most YouTubers and social media influencers use FCP for making short and compelling videos. Consequently, its VR editing features make the output spectacular. Applying graphic effects, adding blurs, GIFs, and text has never been easier. Here's the kicker:
 
 The built-in third-party tools give the user more control, and graphic templates help you create professional videos even if you are a beginner. Producing dynamic videos with optimized sound is now possible with FCP as it has impeccable sound editing tools. It is super easy to transfer videos to different devices, and you can also directly upload videos to social media through it.
 
-![ Final Cut Pro](https://images.wondershare.com/filmora/article-images/video-trimmer-mac-3.png)
+![Final Cut Pro](https://images.wondershare.com/filmora/article-images/video-trimmer-mac-3.png)
 
 **Pros**
 
@@ -718,7 +710,7 @@ The built-in third-party tools give the user more control, and graphic templates
 
 * Takes a lot of space
 
-### 2\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)\[for Beginners and Intermediates\]
+### 2\. Wondershare Filmora
 
 Wondershare Filmora is most recommended by the experts, especially for beginners. It has an easy drag and drop feature, as a result of which you can edit precisely frame-by-frame. Furthermore, it is an excellent blend of basic and professional features for the output you desire.
 
@@ -767,7 +759,7 @@ Video editing is a skill that requires creative flow and attention to detail. Wh
 
 VN video editor is compatible with both macOS and iOS devices to create incredible videos or manage footage. You can edit photos, 4K videos, make interactive intros, and attractive Hollywood-style trailers through this app. The key-frame animation and automated editing instructions make the app easier to use for beginners.
 
-![ VN Video Editor for Mac](https://images.wondershare.com/filmora/article-images/vn-video-editor-mac-1.jpg)
+![VN Video Editor for Mac](https://images.wondershare.com/filmora/article-images/vn-video-editor-mac-1.jpg)
 
 Using the VN editor is a blessing for mac users because you can quickly transfer data between Apple devices and AirDrop videos within seconds. Edited videos are saved automatically; the picture-in-picture, blending modes, 4K support, and transitions help create professional-level videos.
 
@@ -795,13 +787,13 @@ It only gets better: Audio editing is one of its specialized features that helps
 
 VN video editor has exceptional features and is meant for professional editing. However, it may not be everyone's cup of tea. Hence, we decided to do some digging and find alternatives to the VN video editor for Mac. Here you go:
 
-### 1\. [Final Cut Pro](https://www.apple.com/final-cut-pro/)\[for Professionals\]
+### 1\. Final Cut Pro
 
 Final Cut Pro is one of the best video editing apps for industry-level use. Most YouTubers and social media influencers use FCP for making short and compelling videos. Consequently, its VR editing features make the output spectacular. Applying graphic effects, adding blurs, GIFs, and text has never been easier. Here's the kicker:
 
 The built-in third-party tools give the user more control, and graphic templates help you create professional videos even if you are a beginner. Producing dynamic videos with optimized sound is now possible with FCP as it has impeccable sound editing tools. It is super easy to transfer videos to different devices, and you can also directly upload videos to social media through it.
 
-![ Final Cut Pro](https://images.wondershare.com/filmora/article-images/video-trimmer-mac-3.png)
+![Final Cut Pro](https://images.wondershare.com/filmora/article-images/video-trimmer-mac-3.png)
 
 **Pros**
 
@@ -814,7 +806,7 @@ The built-in third-party tools give the user more control, and graphic templates
 
 * Takes a lot of space
 
-### 2\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)\[for Beginners and Intermediates\]
+### 2\. Wondershare Filmora
 
 Wondershare Filmora is most recommended by the experts, especially for beginners. It has an easy drag and drop feature, as a result of which you can edit precisely frame-by-frame. Furthermore, it is an excellent blend of basic and professional features for the output you desire.
 
@@ -1110,9 +1102,9 @@ Generally, the shaky videos are due to our unintended movements during shooting.
 
 Further, there are three more parameters to consider while using a Warp stabilizer for stabilizing the shaky footage.
 
-* Process ( an algorithm that can analyze and track the footage)
-* Smoothness ( called the strength of the effect)
-* Framing ( it can handle the edges of the clips)
+* Process (an algorithm that can analyze and track the footage)
+* Smoothness (called the strength of the effect)
+* Framing (it can handle the edges of the clips)
 
 ## Part 3: How to Stabilize A Shaky Video In Premiere Pro with Warp Stabilizer?
 
@@ -1182,9 +1174,7 @@ Tip: Remember not to make the outer box too large as After Effects can have a ha
 
 **Conclusion:**
 
-Shaky footage is almost inescapable once you go handheld. If you don't have a manual stabilizer like a gimbal, a tripod, or a glide cam – your work can fall victim to running, wind, walking, or other elements. In this article, we've introduced a quick and fast antidote for shaky footage – a Warp Stabilizer effect in the Adobe Premiere Pro. It can smooth out your shaky photos or videos with just a few clicks. So, do you know how to **stabilize video premiere pro**? Read out the article!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+Shaky footage is almost inescapable once you go handheld. If you don't have a manual stabilizer like a gimbal, a tripod, or a glide cam – your work can fall victim to running, wind, walking, or other elements. In this article, we've introduced a quick and fast antidote for shaky footage – a Warp Stabilizer effect in the Adobe Premiere Pro. It can smooth out your shaky photos or videos with just a few clicks. So, do you know how to **stabilize video premiere pro**? Read out the article![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Most of the photos or videos we shoot on our cameras feel shaky and a bit too jarring. Also, a camera shake is imminent when filming a video, especially while we're zooming in to get an ideal shot. In this situation, we don't need to go to a professional to stabilize the videos or look right. Fortunately, Adobe Premiere Pro has some valuable tools to help you take the shake out of your videos or photos, giving you stabilized and smooth footage.
 
@@ -1218,9 +1208,9 @@ Generally, the shaky videos are due to our unintended movements during shooting.
 
 Further, there are three more parameters to consider while using a Warp stabilizer for stabilizing the shaky footage.
 
-* Process ( an algorithm that can analyze and track the footage)
-* Smoothness ( called the strength of the effect)
-* Framing ( it can handle the edges of the clips)
+* Process (an algorithm that can analyze and track the footage)
+* Smoothness (called the strength of the effect)
+* Framing (it can handle the edges of the clips)
 
 ## Part 3: How to Stabilize A Shaky Video In Premiere Pro with Warp Stabilizer?
 
@@ -1290,9 +1280,7 @@ Tip: Remember not to make the outer box too large as After Effects can have a ha
 
 **Conclusion:**
 
-Shaky footage is almost inescapable once you go handheld. If you don't have a manual stabilizer like a gimbal, a tripod, or a glide cam – your work can fall victim to running, wind, walking, or other elements. In this article, we've introduced a quick and fast antidote for shaky footage – a Warp Stabilizer effect in the Adobe Premiere Pro. It can smooth out your shaky photos or videos with just a few clicks. So, do you know how to **stabilize video premiere pro**? Read out the article!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+Shaky footage is almost inescapable once you go handheld. If you don't have a manual stabilizer like a gimbal, a tripod, or a glide cam – your work can fall victim to running, wind, walking, or other elements. In this article, we've introduced a quick and fast antidote for shaky footage – a Warp Stabilizer effect in the Adobe Premiere Pro. It can smooth out your shaky photos or videos with just a few clicks. So, do you know how to **stabilize video premiere pro**? Read out the article![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Most of the photos or videos we shoot on our cameras feel shaky and a bit too jarring. Also, a camera shake is imminent when filming a video, especially while we're zooming in to get an ideal shot. In this situation, we don't need to go to a professional to stabilize the videos or look right. Fortunately, Adobe Premiere Pro has some valuable tools to help you take the shake out of your videos or photos, giving you stabilized and smooth footage.
 
@@ -1326,9 +1314,9 @@ Generally, the shaky videos are due to our unintended movements during shooting.
 
 Further, there are three more parameters to consider while using a Warp stabilizer for stabilizing the shaky footage.
 
-* Process ( an algorithm that can analyze and track the footage)
-* Smoothness ( called the strength of the effect)
-* Framing ( it can handle the edges of the clips)
+* Process (an algorithm that can analyze and track the footage)
+* Smoothness (called the strength of the effect)
+* Framing (it can handle the edges of the clips)
 
 ## Part 3: How to Stabilize A Shaky Video In Premiere Pro with Warp Stabilizer?
 
@@ -1398,9 +1386,7 @@ Tip: Remember not to make the outer box too large as After Effects can have a ha
 
 **Conclusion:**
 
-Shaky footage is almost inescapable once you go handheld. If you don't have a manual stabilizer like a gimbal, a tripod, or a glide cam – your work can fall victim to running, wind, walking, or other elements. In this article, we've introduced a quick and fast antidote for shaky footage – a Warp Stabilizer effect in the Adobe Premiere Pro. It can smooth out your shaky photos or videos with just a few clicks. So, do you know how to **stabilize video premiere pro**? Read out the article!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+Shaky footage is almost inescapable once you go handheld. If you don't have a manual stabilizer like a gimbal, a tripod, or a glide cam – your work can fall victim to running, wind, walking, or other elements. In this article, we've introduced a quick and fast antidote for shaky footage – a Warp Stabilizer effect in the Adobe Premiere Pro. It can smooth out your shaky photos or videos with just a few clicks. So, do you know how to **stabilize video premiere pro**? Read out the article![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Most of the photos or videos we shoot on our cameras feel shaky and a bit too jarring. Also, a camera shake is imminent when filming a video, especially while we're zooming in to get an ideal shot. In this situation, we don't need to go to a professional to stabilize the videos or look right. Fortunately, Adobe Premiere Pro has some valuable tools to help you take the shake out of your videos or photos, giving you stabilized and smooth footage.
 
@@ -1434,9 +1420,9 @@ Generally, the shaky videos are due to our unintended movements during shooting.
 
 Further, there are three more parameters to consider while using a Warp stabilizer for stabilizing the shaky footage.
 
-* Process ( an algorithm that can analyze and track the footage)
-* Smoothness ( called the strength of the effect)
-* Framing ( it can handle the edges of the clips)
+* Process (an algorithm that can analyze and track the footage)
+* Smoothness (called the strength of the effect)
+* Framing (it can handle the edges of the clips)
 
 ## Part 3: How to Stabilize A Shaky Video In Premiere Pro with Warp Stabilizer?
 

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved No Copyright Worries Top Public Domain Video Download Sites
-date: 2024-05-19T09:39:29.964Z
-updated: 2024-05-20T09:39:29.964Z
+date: 2024-06-24T05:15:38.190Z
+updated: 2024-06-25T05:15:38.190Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved No Copyright Worries Top Public Domain Video Download Sites
 excerpt: This Article Describes 2024 Approved No Copyright Worries Top Public Domain Video Download Sites
 keywords: free video assets galore top public domain download sites,no copyright worries 10 top public domain image sites,no copyright worries best sites for public domain video downloads,no copyright worries top 10 public domain image sites,best websites to download public domain videos,free and clear top websites for public domain video downloads,no copyright worries top public domain video download sites
-thumbnail: https://www.lifewire.com/thmb/rg8CHiqfntWuiXPLjddFZ1BByCc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gopro-2619915_1920-2ca3364339c348e5ba44afb3fa79458b.jpg
+thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068fdbe75a38577d96433ea41b.jpg
 ---
 
 ## No Copyright Worries: Top Public Domain Video Download Sites
@@ -42,53 +42,53 @@ In addition, you should avoid using the footage that contains art or music that 
 
 **Finding free public domain footage or public movies** on the Internet has never been too difficult, as you can watch thousands of public domain movies on YouTube, but you cannot download them. Over the course of the last couple of decades, the websites where you can **download public domain footage** have grown in number, which makes it somewhat easier to find the video clips you can use in your projects for free. Here are some of the best online destinations where you can **download public domain videos**.
 
-#### 1. [Prelinger Archive](https://archive.org/details/prelinger)
+#### 1. Prelinger Archive
 
-![Public Domain Video Download ](https://images.wondershare.com/filmora/article-images/prelinger-achives-public-domain-video-collection.jpg)
+![Public Domain Video Download](https://images.wondershare.com/filmora/article-images/prelinger-achives-public-domain-video-collection.jpg)
 
 With more than 17,000 items in the collection, the Prelinger Archive is probably one of the largest public domain video libraries on the Internet. The archive was founded in 1983 by Rick Prelinger, but by 2002 it became a part of the Library of Congress Motion Picture Broadcasting and Recorded Sound Divison’s collection. You can **download public domain video clips** created by educational institutions, advertising companies, trade associations or corporations from this impressive collection. There are different download options available for each file, so you can choose the size of a file and the method you’re going to use to download a file to your computer.
 
-#### 2. [The Public Domain Review](https://publicdomainreview.org/collections/?medium=film)
+#### 2. The Public Domain Review
 
-![Public Domain Video Collections ](https://images.wondershare.com/filmora/article-images/public-domain-review-film-collection.jpg)
+![Public Domain Video Collections](https://images.wondershare.com/filmora/article-images/public-domain-review-film-collection.jpg)
 
 This is an excellent resource for researchers looking for essays, books, audio recordings, images or old films. The movies are divided into different categories such as Animals&Beasts, Politics, War or Sports which makes locating and **downloading public domain videos** faster and easier. The Public Domain Review offers footage that is available within different public domain licenses, so you must make sure that the film you want to download can be used for the purpose you have in mind. The vast majority of the films in this archive are from the last decade of the 19th and the first half of the 20th century. That’s why The Public Domain Review’s selection of films can only be useful if you are researching a topic from that era.
 
-#### 3. [The National Screening Room](https://www.loc.gov/collections/national-screening-room/)
+#### 3. The National Screening Room
 
-![National Screening Room Public Domain Video Collection ](https://images.wondershare.com/filmora/article-images/national-screening-room-collection-videos.jpg)
+![National Screening Room Public Domain Video Collection](https://images.wondershare.com/filmora/article-images/national-screening-room-collection-videos.jpg)
 
 The National Screening Room is a project created by the Library of Congress National Audio-Visual Conservation Center with the aim of making the videos from their collection available to the viewers around the world. The vast majority of the videos in the collection were filmed during the 20th century, but there are only a few videos available that are produced outside of the United States. The National Screening Room can be a valuable asset if you are looking for videos you can use for educational or research videos that cover topics that range from the development of the arms industry to the daily life of great American inventors.
 
-#### 4. [Pond5’s Public Domain Project](https://www.pond5.com/stock-video-footage/1/.html#1/18447)
+#### 4. Pond5’s Public Domain Project
 
-![Pond 5 Public Domain Video Download ](https://images.wondershare.com/filmora/article-images/pond5-free-public-domain-collection.jpg)
+![Pond 5 Public Domain Video Download](https://images.wondershare.com/filmora/article-images/pond5-free-public-domain-collection.jpg)
 
 Industry professionals don’t need an introduction to the Pond5 platform, because it is probably the largest online marketplace for royalty-free media at the moment. Their Public Domain Project contains a thousand public videos that can be downloaded for free, but the duration of these videos is limited to just two minutes To make things worse, most of these public domain videos don’t have audio, so you can only use them if you already have a soundtrack for the video you’re making. The platform offers powerful search tools that enable you to look for videos based on different parameters. You can download public domain videos in HD resolution, but you must create an account on Pond5 before you can save them to your computer.
 
-#### 5. [Pexels](https://www.pexels.com/search/videos/public%20domain/)
+#### 5. Pexels
 
 ![Pexels Public Domain Video  Collection](https://images.wondershare.com/filmora/article-images/public-domain-videos-from-pexels.jpg)
 
 **Free public domain stock footage** can be used on different types of projects, and it is usually a great choice if you’re looking for some extra shots that will make a scene in your video more cinematic. Pexels offers an impressive collection of free public domain stock videos, so you just have to insert a search term and pick a video clip that best fits your needs. The duration of the free videos you can find on Pexels rarely exceeds thirty seconds, which makes it difficult to make an entire video exclusively from free public domain stock footage. Hence it is better to use Pexels as a complementary source of shots in case you can’t go back to the filming location.
 
-#### 6. [Vidsplay](https://www.vidsplay.com/)
+#### 6. Vidsplay
 
 All video clips you can find on this platform are free, so you just have to select one of the categories and start browsing through the available public domain stock footage. The only condition to use the stock footage on private or commercial projects for free is to credit the Vidsplay platform in the end credits, on the website or in the description of the videos you upload to your social media channels. All stock videos on Vidsplay are available in HD or 4K resolution, and you simply have to click on the Download button below a particular video to save it.
 
-#### 7. [The Moving Image Archive](https://archive.org/details/movies?tab=collection)
+#### 7. The Moving Image Archive
 
 This is yet another archive of public domain videos you can find on the [Arhive.org](https://archive.org/) that features countless collections of texts, images, and videos. Within the Moving Image Archive, you can find different collections that contain full feature movies, art videos, animations, cartoons or television footage. The public domain videos hosted on The Moving Image Archive cover a broad range of topics, but some of them can be in poor resolution. The Moving Image Archive can be an excellent source of footage for anyone who wants to download **public domain video clips** and use them in their commercial or non-commercial projects.
 
-#### 8. [PublicDomainFootage](https://publicdomainfootage.com/)
+#### 8. PublicDomainFootage
 
 BBC, National Geographics or NBC are just a few among many famous television networks that use the services of PublicDomainFootage. All content on the platform is divided into Archival Footage and Historic Newsreels sections that contain categories like Atomic Age, Civil Rights or Pop Culture. You can also use PublicDomainFootage to research a particular topic and request content that is not uploaded to the website. You can **download a public domain video** after you pay a one time fee that enables you to use that video as many times as you want. The platform’s YouTube channel provides an easy way of searching for public domain videos you are going to use in your next documentary film.
 
-#### 9. [NASA’s Video Gallery](https://images.nasa.gov/)
+#### 9. NASA’s Video Gallery
 
 Space exploration is undoubtedly one of the hottest topics of our era, so if you are looking for some space public domain videos NASA’s website is the best place to start. Like all other government institutions, NASA is obligated by the law to offer all images and videos to the public domain. This means that all content you download from their website is free to use. Simply insert the search term and browse the results until you find the video clip you want to save to your computer. However, most public domain videos you can download from NASA’s website last only a couple of minutes.
 
-#### 10. [Motion Elements](https://www.motionelements.com/free/stock-footage)
+#### 10. Motion Elements
 
 The collection of **free public domain stock footage,** this website offers contains more than 4,000 clips. Categories like Cityscape, Animals or Water contain hundreds of stock videos, so you just have to open one of the available categories and locate the video clip you want to download. However, you must first create an account on Motion Elements before you can save video files to your computer. In addition, the platform doesn’t allow you to make more than five downloads per week and you must invite your friends to join the platform if you want to increase the weekly number of downloads. Even so, Motion Elements is a great source of stock footage you can use without any restrictions.
 
@@ -136,53 +136,53 @@ In addition, you should avoid using the footage that contains art or music that 
 
 **Finding free public domain footage or public movies** on the Internet has never been too difficult, as you can watch thousands of public domain movies on YouTube, but you cannot download them. Over the course of the last couple of decades, the websites where you can **download public domain footage** have grown in number, which makes it somewhat easier to find the video clips you can use in your projects for free. Here are some of the best online destinations where you can **download public domain videos**.
 
-#### 1. [Prelinger Archive](https://archive.org/details/prelinger)
+#### 1. Prelinger Archive
 
-![Public Domain Video Download ](https://images.wondershare.com/filmora/article-images/prelinger-achives-public-domain-video-collection.jpg)
+![Public Domain Video Download](https://images.wondershare.com/filmora/article-images/prelinger-achives-public-domain-video-collection.jpg)
 
 With more than 17,000 items in the collection, the Prelinger Archive is probably one of the largest public domain video libraries on the Internet. The archive was founded in 1983 by Rick Prelinger, but by 2002 it became a part of the Library of Congress Motion Picture Broadcasting and Recorded Sound Divison’s collection. You can **download public domain video clips** created by educational institutions, advertising companies, trade associations or corporations from this impressive collection. There are different download options available for each file, so you can choose the size of a file and the method you’re going to use to download a file to your computer.
 
-#### 2. [The Public Domain Review](https://publicdomainreview.org/collections/?medium=film)
+#### 2. The Public Domain Review
 
-![Public Domain Video Collections ](https://images.wondershare.com/filmora/article-images/public-domain-review-film-collection.jpg)
+![Public Domain Video Collections](https://images.wondershare.com/filmora/article-images/public-domain-review-film-collection.jpg)
 
 This is an excellent resource for researchers looking for essays, books, audio recordings, images or old films. The movies are divided into different categories such as Animals&Beasts, Politics, War or Sports which makes locating and **downloading public domain videos** faster and easier. The Public Domain Review offers footage that is available within different public domain licenses, so you must make sure that the film you want to download can be used for the purpose you have in mind. The vast majority of the films in this archive are from the last decade of the 19th and the first half of the 20th century. That’s why The Public Domain Review’s selection of films can only be useful if you are researching a topic from that era.
 
-#### 3. [The National Screening Room](https://www.loc.gov/collections/national-screening-room/)
+#### 3. The National Screening Room
 
-![National Screening Room Public Domain Video Collection ](https://images.wondershare.com/filmora/article-images/national-screening-room-collection-videos.jpg)
+![National Screening Room Public Domain Video Collection](https://images.wondershare.com/filmora/article-images/national-screening-room-collection-videos.jpg)
 
 The National Screening Room is a project created by the Library of Congress National Audio-Visual Conservation Center with the aim of making the videos from their collection available to the viewers around the world. The vast majority of the videos in the collection were filmed during the 20th century, but there are only a few videos available that are produced outside of the United States. The National Screening Room can be a valuable asset if you are looking for videos you can use for educational or research videos that cover topics that range from the development of the arms industry to the daily life of great American inventors.
 
-#### 4. [Pond5’s Public Domain Project](https://www.pond5.com/stock-video-footage/1/.html#1/18447)
+#### 4. Pond5’s Public Domain Project
 
-![Pond 5 Public Domain Video Download ](https://images.wondershare.com/filmora/article-images/pond5-free-public-domain-collection.jpg)
+![Pond 5 Public Domain Video Download](https://images.wondershare.com/filmora/article-images/pond5-free-public-domain-collection.jpg)
 
 Industry professionals don’t need an introduction to the Pond5 platform, because it is probably the largest online marketplace for royalty-free media at the moment. Their Public Domain Project contains a thousand public videos that can be downloaded for free, but the duration of these videos is limited to just two minutes To make things worse, most of these public domain videos don’t have audio, so you can only use them if you already have a soundtrack for the video you’re making. The platform offers powerful search tools that enable you to look for videos based on different parameters. You can download public domain videos in HD resolution, but you must create an account on Pond5 before you can save them to your computer.
 
-#### 5. [Pexels](https://www.pexels.com/search/videos/public%20domain/)
+#### 5. Pexels
 
 ![Pexels Public Domain Video  Collection](https://images.wondershare.com/filmora/article-images/public-domain-videos-from-pexels.jpg)
 
 **Free public domain stock footage** can be used on different types of projects, and it is usually a great choice if you’re looking for some extra shots that will make a scene in your video more cinematic. Pexels offers an impressive collection of free public domain stock videos, so you just have to insert a search term and pick a video clip that best fits your needs. The duration of the free videos you can find on Pexels rarely exceeds thirty seconds, which makes it difficult to make an entire video exclusively from free public domain stock footage. Hence it is better to use Pexels as a complementary source of shots in case you can’t go back to the filming location.
 
-#### 6. [Vidsplay](https://www.vidsplay.com/)
+#### 6. Vidsplay
 
 All video clips you can find on this platform are free, so you just have to select one of the categories and start browsing through the available public domain stock footage. The only condition to use the stock footage on private or commercial projects for free is to credit the Vidsplay platform in the end credits, on the website or in the description of the videos you upload to your social media channels. All stock videos on Vidsplay are available in HD or 4K resolution, and you simply have to click on the Download button below a particular video to save it.
 
-#### 7. [The Moving Image Archive](https://archive.org/details/movies?tab=collection)
+#### 7. The Moving Image Archive
 
 This is yet another archive of public domain videos you can find on the [Arhive.org](https://archive.org/) that features countless collections of texts, images, and videos. Within the Moving Image Archive, you can find different collections that contain full feature movies, art videos, animations, cartoons or television footage. The public domain videos hosted on The Moving Image Archive cover a broad range of topics, but some of them can be in poor resolution. The Moving Image Archive can be an excellent source of footage for anyone who wants to download **public domain video clips** and use them in their commercial or non-commercial projects.
 
-#### 8. [PublicDomainFootage](https://publicdomainfootage.com/)
+#### 8. PublicDomainFootage
 
 BBC, National Geographics or NBC are just a few among many famous television networks that use the services of PublicDomainFootage. All content on the platform is divided into Archival Footage and Historic Newsreels sections that contain categories like Atomic Age, Civil Rights or Pop Culture. You can also use PublicDomainFootage to research a particular topic and request content that is not uploaded to the website. You can **download a public domain video** after you pay a one time fee that enables you to use that video as many times as you want. The platform’s YouTube channel provides an easy way of searching for public domain videos you are going to use in your next documentary film.
 
-#### 9. [NASA’s Video Gallery](https://images.nasa.gov/)
+#### 9. NASA’s Video Gallery
 
 Space exploration is undoubtedly one of the hottest topics of our era, so if you are looking for some space public domain videos NASA’s website is the best place to start. Like all other government institutions, NASA is obligated by the law to offer all images and videos to the public domain. This means that all content you download from their website is free to use. Simply insert the search term and browse the results until you find the video clip you want to save to your computer. However, most public domain videos you can download from NASA’s website last only a couple of minutes.
 
-#### 10. [Motion Elements](https://www.motionelements.com/free/stock-footage)
+#### 10. Motion Elements
 
 The collection of **free public domain stock footage,** this website offers contains more than 4,000 clips. Categories like Cityscape, Animals or Water contain hundreds of stock videos, so you just have to open one of the available categories and locate the video clip you want to download. However, you must first create an account on Motion Elements before you can save video files to your computer. In addition, the platform doesn’t allow you to make more than five downloads per week and you must invite your friends to join the platform if you want to increase the weekly number of downloads. Even so, Motion Elements is a great source of stock footage you can use without any restrictions.
 
@@ -230,53 +230,53 @@ In addition, you should avoid using the footage that contains art or music that 
 
 **Finding free public domain footage or public movies** on the Internet has never been too difficult, as you can watch thousands of public domain movies on YouTube, but you cannot download them. Over the course of the last couple of decades, the websites where you can **download public domain footage** have grown in number, which makes it somewhat easier to find the video clips you can use in your projects for free. Here are some of the best online destinations where you can **download public domain videos**.
 
-#### 1. [Prelinger Archive](https://archive.org/details/prelinger)
+#### 1. Prelinger Archive
 
-![Public Domain Video Download ](https://images.wondershare.com/filmora/article-images/prelinger-achives-public-domain-video-collection.jpg)
+![Public Domain Video Download](https://images.wondershare.com/filmora/article-images/prelinger-achives-public-domain-video-collection.jpg)
 
 With more than 17,000 items in the collection, the Prelinger Archive is probably one of the largest public domain video libraries on the Internet. The archive was founded in 1983 by Rick Prelinger, but by 2002 it became a part of the Library of Congress Motion Picture Broadcasting and Recorded Sound Divison’s collection. You can **download public domain video clips** created by educational institutions, advertising companies, trade associations or corporations from this impressive collection. There are different download options available for each file, so you can choose the size of a file and the method you’re going to use to download a file to your computer.
 
-#### 2. [The Public Domain Review](https://publicdomainreview.org/collections/?medium=film)
+#### 2. The Public Domain Review
 
-![Public Domain Video Collections ](https://images.wondershare.com/filmora/article-images/public-domain-review-film-collection.jpg)
+![Public Domain Video Collections](https://images.wondershare.com/filmora/article-images/public-domain-review-film-collection.jpg)
 
 This is an excellent resource for researchers looking for essays, books, audio recordings, images or old films. The movies are divided into different categories such as Animals&Beasts, Politics, War or Sports which makes locating and **downloading public domain videos** faster and easier. The Public Domain Review offers footage that is available within different public domain licenses, so you must make sure that the film you want to download can be used for the purpose you have in mind. The vast majority of the films in this archive are from the last decade of the 19th and the first half of the 20th century. That’s why The Public Domain Review’s selection of films can only be useful if you are researching a topic from that era.
 
-#### 3. [The National Screening Room](https://www.loc.gov/collections/national-screening-room/)
+#### 3. The National Screening Room
 
-![National Screening Room Public Domain Video Collection ](https://images.wondershare.com/filmora/article-images/national-screening-room-collection-videos.jpg)
+![National Screening Room Public Domain Video Collection](https://images.wondershare.com/filmora/article-images/national-screening-room-collection-videos.jpg)
 
 The National Screening Room is a project created by the Library of Congress National Audio-Visual Conservation Center with the aim of making the videos from their collection available to the viewers around the world. The vast majority of the videos in the collection were filmed during the 20th century, but there are only a few videos available that are produced outside of the United States. The National Screening Room can be a valuable asset if you are looking for videos you can use for educational or research videos that cover topics that range from the development of the arms industry to the daily life of great American inventors.
 
-#### 4. [Pond5’s Public Domain Project](https://www.pond5.com/stock-video-footage/1/.html#1/18447)
+#### 4. Pond5’s Public Domain Project
 
-![Pond 5 Public Domain Video Download ](https://images.wondershare.com/filmora/article-images/pond5-free-public-domain-collection.jpg)
+![Pond 5 Public Domain Video Download](https://images.wondershare.com/filmora/article-images/pond5-free-public-domain-collection.jpg)
 
 Industry professionals don’t need an introduction to the Pond5 platform, because it is probably the largest online marketplace for royalty-free media at the moment. Their Public Domain Project contains a thousand public videos that can be downloaded for free, but the duration of these videos is limited to just two minutes To make things worse, most of these public domain videos don’t have audio, so you can only use them if you already have a soundtrack for the video you’re making. The platform offers powerful search tools that enable you to look for videos based on different parameters. You can download public domain videos in HD resolution, but you must create an account on Pond5 before you can save them to your computer.
 
-#### 5. [Pexels](https://www.pexels.com/search/videos/public%20domain/)
+#### 5. Pexels
 
 ![Pexels Public Domain Video  Collection](https://images.wondershare.com/filmora/article-images/public-domain-videos-from-pexels.jpg)
 
 **Free public domain stock footage** can be used on different types of projects, and it is usually a great choice if you’re looking for some extra shots that will make a scene in your video more cinematic. Pexels offers an impressive collection of free public domain stock videos, so you just have to insert a search term and pick a video clip that best fits your needs. The duration of the free videos you can find on Pexels rarely exceeds thirty seconds, which makes it difficult to make an entire video exclusively from free public domain stock footage. Hence it is better to use Pexels as a complementary source of shots in case you can’t go back to the filming location.
 
-#### 6. [Vidsplay](https://www.vidsplay.com/)
+#### 6. Vidsplay
 
 All video clips you can find on this platform are free, so you just have to select one of the categories and start browsing through the available public domain stock footage. The only condition to use the stock footage on private or commercial projects for free is to credit the Vidsplay platform in the end credits, on the website or in the description of the videos you upload to your social media channels. All stock videos on Vidsplay are available in HD or 4K resolution, and you simply have to click on the Download button below a particular video to save it.
 
-#### 7. [The Moving Image Archive](https://archive.org/details/movies?tab=collection)
+#### 7. The Moving Image Archive
 
 This is yet another archive of public domain videos you can find on the [Arhive.org](https://archive.org/) that features countless collections of texts, images, and videos. Within the Moving Image Archive, you can find different collections that contain full feature movies, art videos, animations, cartoons or television footage. The public domain videos hosted on The Moving Image Archive cover a broad range of topics, but some of them can be in poor resolution. The Moving Image Archive can be an excellent source of footage for anyone who wants to download **public domain video clips** and use them in their commercial or non-commercial projects.
 
-#### 8. [PublicDomainFootage](https://publicdomainfootage.com/)
+#### 8. PublicDomainFootage
 
 BBC, National Geographics or NBC are just a few among many famous television networks that use the services of PublicDomainFootage. All content on the platform is divided into Archival Footage and Historic Newsreels sections that contain categories like Atomic Age, Civil Rights or Pop Culture. You can also use PublicDomainFootage to research a particular topic and request content that is not uploaded to the website. You can **download a public domain video** after you pay a one time fee that enables you to use that video as many times as you want. The platform’s YouTube channel provides an easy way of searching for public domain videos you are going to use in your next documentary film.
 
-#### 9. [NASA’s Video Gallery](https://images.nasa.gov/)
+#### 9. NASA’s Video Gallery
 
 Space exploration is undoubtedly one of the hottest topics of our era, so if you are looking for some space public domain videos NASA’s website is the best place to start. Like all other government institutions, NASA is obligated by the law to offer all images and videos to the public domain. This means that all content you download from their website is free to use. Simply insert the search term and browse the results until you find the video clip you want to save to your computer. However, most public domain videos you can download from NASA’s website last only a couple of minutes.
 
-#### 10. [Motion Elements](https://www.motionelements.com/free/stock-footage)
+#### 10. Motion Elements
 
 The collection of **free public domain stock footage,** this website offers contains more than 4,000 clips. Categories like Cityscape, Animals or Water contain hundreds of stock videos, so you just have to open one of the available categories and locate the video clip you want to download. However, you must first create an account on Motion Elements before you can save video files to your computer. In addition, the platform doesn’t allow you to make more than five downloads per week and you must invite your friends to join the platform if you want to increase the weekly number of downloads. Even so, Motion Elements is a great source of stock footage you can use without any restrictions.
 
@@ -324,53 +324,53 @@ In addition, you should avoid using the footage that contains art or music that 
 
 **Finding free public domain footage or public movies** on the Internet has never been too difficult, as you can watch thousands of public domain movies on YouTube, but you cannot download them. Over the course of the last couple of decades, the websites where you can **download public domain footage** have grown in number, which makes it somewhat easier to find the video clips you can use in your projects for free. Here are some of the best online destinations where you can **download public domain videos**.
 
-#### 1. [Prelinger Archive](https://archive.org/details/prelinger)
+#### 1. Prelinger Archive
 
-![Public Domain Video Download ](https://images.wondershare.com/filmora/article-images/prelinger-achives-public-domain-video-collection.jpg)
+![Public Domain Video Download](https://images.wondershare.com/filmora/article-images/prelinger-achives-public-domain-video-collection.jpg)
 
 With more than 17,000 items in the collection, the Prelinger Archive is probably one of the largest public domain video libraries on the Internet. The archive was founded in 1983 by Rick Prelinger, but by 2002 it became a part of the Library of Congress Motion Picture Broadcasting and Recorded Sound Divison’s collection. You can **download public domain video clips** created by educational institutions, advertising companies, trade associations or corporations from this impressive collection. There are different download options available for each file, so you can choose the size of a file and the method you’re going to use to download a file to your computer.
 
-#### 2. [The Public Domain Review](https://publicdomainreview.org/collections/?medium=film)
+#### 2. The Public Domain Review
 
-![Public Domain Video Collections ](https://images.wondershare.com/filmora/article-images/public-domain-review-film-collection.jpg)
+![Public Domain Video Collections](https://images.wondershare.com/filmora/article-images/public-domain-review-film-collection.jpg)
 
 This is an excellent resource for researchers looking for essays, books, audio recordings, images or old films. The movies are divided into different categories such as Animals&Beasts, Politics, War or Sports which makes locating and **downloading public domain videos** faster and easier. The Public Domain Review offers footage that is available within different public domain licenses, so you must make sure that the film you want to download can be used for the purpose you have in mind. The vast majority of the films in this archive are from the last decade of the 19th and the first half of the 20th century. That’s why The Public Domain Review’s selection of films can only be useful if you are researching a topic from that era.
 
-#### 3. [The National Screening Room](https://www.loc.gov/collections/national-screening-room/)
+#### 3. The National Screening Room
 
-![National Screening Room Public Domain Video Collection ](https://images.wondershare.com/filmora/article-images/national-screening-room-collection-videos.jpg)
+![National Screening Room Public Domain Video Collection](https://images.wondershare.com/filmora/article-images/national-screening-room-collection-videos.jpg)
 
 The National Screening Room is a project created by the Library of Congress National Audio-Visual Conservation Center with the aim of making the videos from their collection available to the viewers around the world. The vast majority of the videos in the collection were filmed during the 20th century, but there are only a few videos available that are produced outside of the United States. The National Screening Room can be a valuable asset if you are looking for videos you can use for educational or research videos that cover topics that range from the development of the arms industry to the daily life of great American inventors.
 
-#### 4. [Pond5’s Public Domain Project](https://www.pond5.com/stock-video-footage/1/.html#1/18447)
+#### 4. Pond5’s Public Domain Project
 
-![Pond 5 Public Domain Video Download ](https://images.wondershare.com/filmora/article-images/pond5-free-public-domain-collection.jpg)
+![Pond 5 Public Domain Video Download](https://images.wondershare.com/filmora/article-images/pond5-free-public-domain-collection.jpg)
 
 Industry professionals don’t need an introduction to the Pond5 platform, because it is probably the largest online marketplace for royalty-free media at the moment. Their Public Domain Project contains a thousand public videos that can be downloaded for free, but the duration of these videos is limited to just two minutes To make things worse, most of these public domain videos don’t have audio, so you can only use them if you already have a soundtrack for the video you’re making. The platform offers powerful search tools that enable you to look for videos based on different parameters. You can download public domain videos in HD resolution, but you must create an account on Pond5 before you can save them to your computer.
 
-#### 5. [Pexels](https://www.pexels.com/search/videos/public%20domain/)
+#### 5. Pexels
 
 ![Pexels Public Domain Video  Collection](https://images.wondershare.com/filmora/article-images/public-domain-videos-from-pexels.jpg)
 
 **Free public domain stock footage** can be used on different types of projects, and it is usually a great choice if you’re looking for some extra shots that will make a scene in your video more cinematic. Pexels offers an impressive collection of free public domain stock videos, so you just have to insert a search term and pick a video clip that best fits your needs. The duration of the free videos you can find on Pexels rarely exceeds thirty seconds, which makes it difficult to make an entire video exclusively from free public domain stock footage. Hence it is better to use Pexels as a complementary source of shots in case you can’t go back to the filming location.
 
-#### 6. [Vidsplay](https://www.vidsplay.com/)
+#### 6. Vidsplay
 
 All video clips you can find on this platform are free, so you just have to select one of the categories and start browsing through the available public domain stock footage. The only condition to use the stock footage on private or commercial projects for free is to credit the Vidsplay platform in the end credits, on the website or in the description of the videos you upload to your social media channels. All stock videos on Vidsplay are available in HD or 4K resolution, and you simply have to click on the Download button below a particular video to save it.
 
-#### 7. [The Moving Image Archive](https://archive.org/details/movies?tab=collection)
+#### 7. The Moving Image Archive
 
 This is yet another archive of public domain videos you can find on the [Arhive.org](https://archive.org/) that features countless collections of texts, images, and videos. Within the Moving Image Archive, you can find different collections that contain full feature movies, art videos, animations, cartoons or television footage. The public domain videos hosted on The Moving Image Archive cover a broad range of topics, but some of them can be in poor resolution. The Moving Image Archive can be an excellent source of footage for anyone who wants to download **public domain video clips** and use them in their commercial or non-commercial projects.
 
-#### 8. [PublicDomainFootage](https://publicdomainfootage.com/)
+#### 8. PublicDomainFootage
 
 BBC, National Geographics or NBC are just a few among many famous television networks that use the services of PublicDomainFootage. All content on the platform is divided into Archival Footage and Historic Newsreels sections that contain categories like Atomic Age, Civil Rights or Pop Culture. You can also use PublicDomainFootage to research a particular topic and request content that is not uploaded to the website. You can **download a public domain video** after you pay a one time fee that enables you to use that video as many times as you want. The platform’s YouTube channel provides an easy way of searching for public domain videos you are going to use in your next documentary film.
 
-#### 9. [NASA’s Video Gallery](https://images.nasa.gov/)
+#### 9. NASA’s Video Gallery
 
 Space exploration is undoubtedly one of the hottest topics of our era, so if you are looking for some space public domain videos NASA’s website is the best place to start. Like all other government institutions, NASA is obligated by the law to offer all images and videos to the public domain. This means that all content you download from their website is free to use. Simply insert the search term and browse the results until you find the video clip you want to save to your computer. However, most public domain videos you can download from NASA’s website last only a couple of minutes.
 
-#### 10. [Motion Elements](https://www.motionelements.com/free/stock-footage)
+#### 10. Motion Elements
 
 The collection of **free public domain stock footage,** this website offers contains more than 4,000 clips. Categories like Cityscape, Animals or Water contain hundreds of stock videos, so you just have to open one of the available categories and locate the video clip you want to download. However, you must first create an account on Motion Elements before you can save video files to your computer. In addition, the platform doesn’t allow you to make more than five downloads per week and you must invite your friends to join the platform if you want to increase the weekly number of downloads. Even so, Motion Elements is a great source of stock footage you can use without any restrictions.
 
@@ -534,9 +534,7 @@ Drag and drop the media to the Filmora's timeline. If you merge several footage 
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -684,9 +682,7 @@ Drag and drop the media to the Filmora's timeline. If you merge several footage 
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -834,9 +830,7 @@ Drag and drop the media to the Filmora's timeline. If you merge several footage 
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -984,9 +978,7 @@ Drag and drop the media to the Filmora's timeline. If you merge several footage 
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -1056,7 +1048,7 @@ Microsoft Photos is a built-in app in Windows 11\. Although the program is a def
 
 ![video editors for windows 11 photos app](https://images.wondershare.com/filmora/article-images/video-editors-for-windows-11-photos-app.jpg)
 
-### **2.** [**Wondershare Filmora**](https://tools.techidaily.com/wondershare/filmora/download/)
+### **2.** **Wondershare Filmora**
 
 Wondershare Filmora is an easy-to-use yet powerful video editor that gives tough competition to some industry-standard applications like Adobe Premiere Pro, Final Cut Pro X, etc. The app follows a layered timeline approach to add elements and objects. In addition, the outputs that Filmora produces can be directly published to your preferred social media platform.
 
@@ -1214,7 +1206,7 @@ Microsoft Photos is a built-in app in Windows 11\. Although the program is a def
 
 ![video editors for windows 11 photos app](https://images.wondershare.com/filmora/article-images/video-editors-for-windows-11-photos-app.jpg)
 
-### **2.** [**Wondershare Filmora**](https://tools.techidaily.com/wondershare/filmora/download/)
+### **2.** **Wondershare Filmora**
 
 Wondershare Filmora is an easy-to-use yet powerful video editor that gives tough competition to some industry-standard applications like Adobe Premiere Pro, Final Cut Pro X, etc. The app follows a layered timeline approach to add elements and objects. In addition, the outputs that Filmora produces can be directly published to your preferred social media platform.
 
@@ -1372,7 +1364,7 @@ Microsoft Photos is a built-in app in Windows 11\. Although the program is a def
 
 ![video editors for windows 11 photos app](https://images.wondershare.com/filmora/article-images/video-editors-for-windows-11-photos-app.jpg)
 
-### **2.** [**Wondershare Filmora**](https://tools.techidaily.com/wondershare/filmora/download/)
+### **2.** **Wondershare Filmora**
 
 Wondershare Filmora is an easy-to-use yet powerful video editor that gives tough competition to some industry-standard applications like Adobe Premiere Pro, Final Cut Pro X, etc. The app follows a layered timeline approach to add elements and objects. In addition, the outputs that Filmora produces can be directly published to your preferred social media platform.
 
@@ -1530,7 +1522,7 @@ Microsoft Photos is a built-in app in Windows 11\. Although the program is a def
 
 ![video editors for windows 11 photos app](https://images.wondershare.com/filmora/article-images/video-editors-for-windows-11-photos-app.jpg)
 
-### **2.** [**Wondershare Filmora**](https://tools.techidaily.com/wondershare/filmora/download/)
+### **2.** **Wondershare Filmora**
 
 Wondershare Filmora is an easy-to-use yet powerful video editor that gives tough competition to some industry-standard applications like Adobe Premiere Pro, Final Cut Pro X, etc. The app follows a layered timeline approach to add elements and objects. In addition, the outputs that Filmora produces can be directly published to your preferred social media platform.
 
@@ -1702,7 +1694,7 @@ If you need a more professional video editing tool, [Wondershare Filmora](https:
 * [Video Toolbox](#tab%5F04)
 * [Cellsea](#tab%5F05)
 
-#### 1\. [Windows Movie Maker](http://windows.microsoft.com/en-us/windows-live/movie-maker#t1=overview)
+#### 1\. Windows Movie Maker
 
 Window Movie Maker is an easy-to-use video editing program developed by Microsoft. It supports various video formats including WMV, ASF, MPG, AVI, WMA, WAV and MP3\. With it, you can easily combine photos with your video or can customize your video with preset video transition options as well as other video effects. However, the tool has a few limitations which make this piece of tool not suitable for professional video editing purposes.
 
@@ -1718,7 +1710,7 @@ Window Movie Maker is an easy-to-use video editing program developed by Microsof
 * Crashes a lot and cannot handle large files;
 * Various versions have been released, though differences are truly negligible.
 
-#### 2\. [Movica](http://sourceforge.net/projects/movica/)
+#### 2\. Movica
 
 Movica is a graphic or movie editor for Windows Media (.wmv), MPEG files and FLV movies. This program enables you to copy, paste and select or delete multiple portions from a video file. It’s easy-to-use and has keyboard shortcuts which makes the job of editing WMV much easily. However, it’s compiled as a 32-bit Windows and thus makes its major drawbacks from other users who are already using 64-bit Windows.
 
@@ -1733,7 +1725,7 @@ Movica is a graphic or movie editor for Windows Media (.wmv), MPEG files and FLV
 * Doesn’t support 64-bit Windows;
 * Outdated interface.
 
-#### 3\. [VSDC Free Video Editor](http://vsdc-free-video-editor.software.informer.com/)
+#### 3\. VSDC Free Video Editor
 
 VSDC Free Video Editor is an application designed for video editing. It supports various video formats including AVI, MPG, MOV, WMV, MKV, RM, SWF, and FLV files. It's a complex application with plenty of functionality: drawing and selection tools, plenty of color and lighting corrections, some useful filters, transitions, audio effects and more. All of these allow you to add a personal touch to your video files.
 
@@ -1749,7 +1741,7 @@ VSDC Free Video Editor is an application designed for video editing. It supports
 * Computer resources (CPU and RAM) are required at a high level;
 * Interface may look complex.
 
-#### 4\. [Video Toolbox](http://www.videotoolbox.com/)
+#### 4\. Video Toolbox
 
 Video Toolbox is a free powerful online video editor. It enables you easily convert videos, add watermark text, cut videos, crop videos, merge several video files, demux video files and much more. It's capable of processing video files up to 600 MB. Another feature is to analyze the video files and display detailed information about the codec, bit rate, frame rate, resolution, etc.
 
@@ -1764,7 +1756,7 @@ Video Toolbox is a free powerful online video editor. It enables you easily conv
 
 * Only provides simple video editing functions.
 
-#### 5\. [Cellsea](http://www.cellsea.com/media/vindex.htm)
+#### 5\. Cellsea
 
 Cellsea is an another online video editor which supports various video formats including WMV, RM, 3GP, DIVX, FLV, AVI, MOV, MPG, VOB and MP4\. With this free online video editing service, you can upload your videos, easily add effects, change video size, add sound or convert your video to another format and then share with your friends instantaneously.
 
@@ -1808,7 +1800,7 @@ If you need a more professional video editing tool, [Wondershare Filmora](https:
 * [Video Toolbox](#tab%5F04)
 * [Cellsea](#tab%5F05)
 
-#### 1\. [Windows Movie Maker](http://windows.microsoft.com/en-us/windows-live/movie-maker#t1=overview)
+#### 1\. Windows Movie Maker
 
 Window Movie Maker is an easy-to-use video editing program developed by Microsoft. It supports various video formats including WMV, ASF, MPG, AVI, WMA, WAV and MP3\. With it, you can easily combine photos with your video or can customize your video with preset video transition options as well as other video effects. However, the tool has a few limitations which make this piece of tool not suitable for professional video editing purposes.
 
@@ -1824,7 +1816,7 @@ Window Movie Maker is an easy-to-use video editing program developed by Microsof
 * Crashes a lot and cannot handle large files;
 * Various versions have been released, though differences are truly negligible.
 
-#### 2\. [Movica](http://sourceforge.net/projects/movica/)
+#### 2\. Movica
 
 Movica is a graphic or movie editor for Windows Media (.wmv), MPEG files and FLV movies. This program enables you to copy, paste and select or delete multiple portions from a video file. It’s easy-to-use and has keyboard shortcuts which makes the job of editing WMV much easily. However, it’s compiled as a 32-bit Windows and thus makes its major drawbacks from other users who are already using 64-bit Windows.
 
@@ -1839,7 +1831,7 @@ Movica is a graphic or movie editor for Windows Media (.wmv), MPEG files and FLV
 * Doesn’t support 64-bit Windows;
 * Outdated interface.
 
-#### 3\. [VSDC Free Video Editor](http://vsdc-free-video-editor.software.informer.com/)
+#### 3\. VSDC Free Video Editor
 
 VSDC Free Video Editor is an application designed for video editing. It supports various video formats including AVI, MPG, MOV, WMV, MKV, RM, SWF, and FLV files. It's a complex application with plenty of functionality: drawing and selection tools, plenty of color and lighting corrections, some useful filters, transitions, audio effects and more. All of these allow you to add a personal touch to your video files.
 
@@ -1855,7 +1847,7 @@ VSDC Free Video Editor is an application designed for video editing. It supports
 * Computer resources (CPU and RAM) are required at a high level;
 * Interface may look complex.
 
-#### 4\. [Video Toolbox](http://www.videotoolbox.com/)
+#### 4\. Video Toolbox
 
 Video Toolbox is a free powerful online video editor. It enables you easily convert videos, add watermark text, cut videos, crop videos, merge several video files, demux video files and much more. It's capable of processing video files up to 600 MB. Another feature is to analyze the video files and display detailed information about the codec, bit rate, frame rate, resolution, etc.
 
@@ -1870,7 +1862,7 @@ Video Toolbox is a free powerful online video editor. It enables you easily conv
 
 * Only provides simple video editing functions.
 
-#### 5\. [Cellsea](http://www.cellsea.com/media/vindex.htm)
+#### 5\. Cellsea
 
 Cellsea is an another online video editor which supports various video formats including WMV, RM, 3GP, DIVX, FLV, AVI, MOV, MPG, VOB and MP4\. With this free online video editing service, you can upload your videos, easily add effects, change video size, add sound or convert your video to another format and then share with your friends instantaneously.
 
@@ -1914,7 +1906,7 @@ If you need a more professional video editing tool, [Wondershare Filmora](https:
 * [Video Toolbox](#tab%5F04)
 * [Cellsea](#tab%5F05)
 
-#### 1\. [Windows Movie Maker](http://windows.microsoft.com/en-us/windows-live/movie-maker#t1=overview)
+#### 1\. Windows Movie Maker
 
 Window Movie Maker is an easy-to-use video editing program developed by Microsoft. It supports various video formats including WMV, ASF, MPG, AVI, WMA, WAV and MP3\. With it, you can easily combine photos with your video or can customize your video with preset video transition options as well as other video effects. However, the tool has a few limitations which make this piece of tool not suitable for professional video editing purposes.
 
@@ -1930,7 +1922,7 @@ Window Movie Maker is an easy-to-use video editing program developed by Microsof
 * Crashes a lot and cannot handle large files;
 * Various versions have been released, though differences are truly negligible.
 
-#### 2\. [Movica](http://sourceforge.net/projects/movica/)
+#### 2\. Movica
 
 Movica is a graphic or movie editor for Windows Media (.wmv), MPEG files and FLV movies. This program enables you to copy, paste and select or delete multiple portions from a video file. It’s easy-to-use and has keyboard shortcuts which makes the job of editing WMV much easily. However, it’s compiled as a 32-bit Windows and thus makes its major drawbacks from other users who are already using 64-bit Windows.
 
@@ -1945,7 +1937,7 @@ Movica is a graphic or movie editor for Windows Media (.wmv), MPEG files and FLV
 * Doesn’t support 64-bit Windows;
 * Outdated interface.
 
-#### 3\. [VSDC Free Video Editor](http://vsdc-free-video-editor.software.informer.com/)
+#### 3\. VSDC Free Video Editor
 
 VSDC Free Video Editor is an application designed for video editing. It supports various video formats including AVI, MPG, MOV, WMV, MKV, RM, SWF, and FLV files. It's a complex application with plenty of functionality: drawing and selection tools, plenty of color and lighting corrections, some useful filters, transitions, audio effects and more. All of these allow you to add a personal touch to your video files.
 
@@ -1961,7 +1953,7 @@ VSDC Free Video Editor is an application designed for video editing. It supports
 * Computer resources (CPU and RAM) are required at a high level;
 * Interface may look complex.
 
-#### 4\. [Video Toolbox](http://www.videotoolbox.com/)
+#### 4\. Video Toolbox
 
 Video Toolbox is a free powerful online video editor. It enables you easily convert videos, add watermark text, cut videos, crop videos, merge several video files, demux video files and much more. It's capable of processing video files up to 600 MB. Another feature is to analyze the video files and display detailed information about the codec, bit rate, frame rate, resolution, etc.
 
@@ -1976,7 +1968,7 @@ Video Toolbox is a free powerful online video editor. It enables you easily conv
 
 * Only provides simple video editing functions.
 
-#### 5\. [Cellsea](http://www.cellsea.com/media/vindex.htm)
+#### 5\. Cellsea
 
 Cellsea is an another online video editor which supports various video formats including WMV, RM, 3GP, DIVX, FLV, AVI, MOV, MPG, VOB and MP4\. With this free online video editing service, you can upload your videos, easily add effects, change video size, add sound or convert your video to another format and then share with your friends instantaneously.
 
@@ -2020,7 +2012,7 @@ If you need a more professional video editing tool, [Wondershare Filmora](https:
 * [Video Toolbox](#tab%5F04)
 * [Cellsea](#tab%5F05)
 
-#### 1\. [Windows Movie Maker](http://windows.microsoft.com/en-us/windows-live/movie-maker#t1=overview)
+#### 1\. Windows Movie Maker
 
 Window Movie Maker is an easy-to-use video editing program developed by Microsoft. It supports various video formats including WMV, ASF, MPG, AVI, WMA, WAV and MP3\. With it, you can easily combine photos with your video or can customize your video with preset video transition options as well as other video effects. However, the tool has a few limitations which make this piece of tool not suitable for professional video editing purposes.
 
@@ -2036,7 +2028,7 @@ Window Movie Maker is an easy-to-use video editing program developed by Microsof
 * Crashes a lot and cannot handle large files;
 * Various versions have been released, though differences are truly negligible.
 
-#### 2\. [Movica](http://sourceforge.net/projects/movica/)
+#### 2\. Movica
 
 Movica is a graphic or movie editor for Windows Media (.wmv), MPEG files and FLV movies. This program enables you to copy, paste and select or delete multiple portions from a video file. It’s easy-to-use and has keyboard shortcuts which makes the job of editing WMV much easily. However, it’s compiled as a 32-bit Windows and thus makes its major drawbacks from other users who are already using 64-bit Windows.
 
@@ -2051,7 +2043,7 @@ Movica is a graphic or movie editor for Windows Media (.wmv), MPEG files and FLV
 * Doesn’t support 64-bit Windows;
 * Outdated interface.
 
-#### 3\. [VSDC Free Video Editor](http://vsdc-free-video-editor.software.informer.com/)
+#### 3\. VSDC Free Video Editor
 
 VSDC Free Video Editor is an application designed for video editing. It supports various video formats including AVI, MPG, MOV, WMV, MKV, RM, SWF, and FLV files. It's a complex application with plenty of functionality: drawing and selection tools, plenty of color and lighting corrections, some useful filters, transitions, audio effects and more. All of these allow you to add a personal touch to your video files.
 
@@ -2067,7 +2059,7 @@ VSDC Free Video Editor is an application designed for video editing. It supports
 * Computer resources (CPU and RAM) are required at a high level;
 * Interface may look complex.
 
-#### 4\. [Video Toolbox](http://www.videotoolbox.com/)
+#### 4\. Video Toolbox
 
 Video Toolbox is a free powerful online video editor. It enables you easily convert videos, add watermark text, cut videos, crop videos, merge several video files, demux video files and much more. It's capable of processing video files up to 600 MB. Another feature is to analyze the video files and display detailed information about the codec, bit rate, frame rate, resolution, etc.
 
@@ -2082,7 +2074,7 @@ Video Toolbox is a free powerful online video editor. It enables you easily conv
 
 * Only provides simple video editing functions.
 
-#### 5\. [Cellsea](http://www.cellsea.com/media/vindex.htm)
+#### 5\. Cellsea
 
 Cellsea is an another online video editor which supports various video formats including WMV, RM, 3GP, DIVX, FLV, AVI, MOV, MPG, VOB and MP4\. With this free online video editing service, you can upload your videos, easily add effects, change video size, add sound or convert your video to another format and then share with your friends instantaneously.
 

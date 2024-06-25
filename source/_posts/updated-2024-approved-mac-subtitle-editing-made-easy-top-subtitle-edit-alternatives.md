@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Mac Subtitle Editing Made Easy Top Subtitle Edit Alternatives
-date: 2024-04-28T01:10:30.359Z
-updated: 2024-04-29T01:10:30.359Z
+date: 2024-06-24T05:15:31.822Z
+updated: 2024-06-25T05:15:31.822Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Mac Subtitle Editing Made Easy Top Subtitle Edit Alternatives
 excerpt: This Article Describes Updated 2024 Approved Mac Subtitle Editing Made Easy Top Subtitle Edit Alternatives
 keywords: ai animation top subtitle editors for mac alternatives to subtitle edit,the ultimate guide to subtitle editing on mac alternatives to subtitle edit,top subtitle editors for mac alternatives to subtitle edit,mac subtitle editing software top alternatives to subtitle edit,top subtitle editors for mac best alternatives to subtitle edit,mac subtitle editing made easy top subtitle edit alternatives,best free subtitle editing software for mac subtitle edit alternatives
-thumbnail: https://www.lifewire.com/thmb/jYmIoXAzWYI6-krphnPX46os0Yg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tablets-vs-laptops-832333-93961eb085ff44d99d3836a0d0fa486a.png
+thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d3949b489b0214f6877268e346.png
 ---
 
 ## Mac Subtitle Editing Made Easy: Top Subtitle Edit Alternatives
@@ -39,7 +39,7 @@ After reviewing the tons of subtitle editors on the internet, we have composed a
 
 Free, open-source, and cross-platform program, AegiSub is the best alternative of SubtitleEdit because the software is comparable in most standards to the software. In fact, by comparison, AegiSub is substantial compared to the one in question. Including a built-in real-time video preview option, Aegisub allows users to see the look of the text on the videos while editing them. There are multiple options to edit the subtitles; for instance, you can change the size, font, and language based on preference and set it to video with exact timestamps. And given the fact it is a free platform; it is definitely worth a look regardless of whether you like the software or not. For the most part, if you like Aegisub, you will love Subtitle Edit and will not find it tough to utilize Aegisub to edit the subtitles.
 
-![ Aegisub](https://images.wondershare.com/filmora/article-images/subtitle-edit-alternarives-aegisub-1.jpg)
+![Aegisub](https://images.wondershare.com/filmora/article-images/subtitle-edit-alternarives-aegisub-1.jpg)
 
 **Pros:**
 
@@ -128,7 +128,7 @@ After reviewing the tons of subtitle editors on the internet, we have composed a
 
 Free, open-source, and cross-platform program, AegiSub is the best alternative of SubtitleEdit because the software is comparable in most standards to the software. In fact, by comparison, AegiSub is substantial compared to the one in question. Including a built-in real-time video preview option, Aegisub allows users to see the look of the text on the videos while editing them. There are multiple options to edit the subtitles; for instance, you can change the size, font, and language based on preference and set it to video with exact timestamps. And given the fact it is a free platform; it is definitely worth a look regardless of whether you like the software or not. For the most part, if you like Aegisub, you will love Subtitle Edit and will not find it tough to utilize Aegisub to edit the subtitles.
 
-![ Aegisub](https://images.wondershare.com/filmora/article-images/subtitle-edit-alternarives-aegisub-1.jpg)
+![Aegisub](https://images.wondershare.com/filmora/article-images/subtitle-edit-alternarives-aegisub-1.jpg)
 
 **Pros:**
 
@@ -217,7 +217,7 @@ After reviewing the tons of subtitle editors on the internet, we have composed a
 
 Free, open-source, and cross-platform program, AegiSub is the best alternative of SubtitleEdit because the software is comparable in most standards to the software. In fact, by comparison, AegiSub is substantial compared to the one in question. Including a built-in real-time video preview option, Aegisub allows users to see the look of the text on the videos while editing them. There are multiple options to edit the subtitles; for instance, you can change the size, font, and language based on preference and set it to video with exact timestamps. And given the fact it is a free platform; it is definitely worth a look regardless of whether you like the software or not. For the most part, if you like Aegisub, you will love Subtitle Edit and will not find it tough to utilize Aegisub to edit the subtitles.
 
-![ Aegisub](https://images.wondershare.com/filmora/article-images/subtitle-edit-alternarives-aegisub-1.jpg)
+![Aegisub](https://images.wondershare.com/filmora/article-images/subtitle-edit-alternarives-aegisub-1.jpg)
 
 **Pros:**
 
@@ -306,7 +306,7 @@ After reviewing the tons of subtitle editors on the internet, we have composed a
 
 Free, open-source, and cross-platform program, AegiSub is the best alternative of SubtitleEdit because the software is comparable in most standards to the software. In fact, by comparison, AegiSub is substantial compared to the one in question. Including a built-in real-time video preview option, Aegisub allows users to see the look of the text on the videos while editing them. There are multiple options to edit the subtitles; for instance, you can change the size, font, and language based on preference and set it to video with exact timestamps. And given the fact it is a free platform; it is definitely worth a look regardless of whether you like the software or not. For the most part, if you like Aegisub, you will love Subtitle Edit and will not find it tough to utilize Aegisub to edit the subtitles.
 
-![ Aegisub](https://images.wondershare.com/filmora/article-images/subtitle-edit-alternarives-aegisub-1.jpg)
+![Aegisub](https://images.wondershare.com/filmora/article-images/subtitle-edit-alternarives-aegisub-1.jpg)
 
 **Pros:**
 
@@ -798,7 +798,7 @@ Note that this video editor supports an array of video & audio formats, such as 
 
 And then drag your video files from media library to the video Timeline.
 
-![ Filmora 9 Import](https://images.wondershare.com/filmora/article-images/drag-and-drop.jpg)
+![Filmora 9 Import](https://images.wondershare.com/filmora/article-images/drag-and-drop.jpg)
 
 [Learn the complete list of supported files formats of Filmora X.](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -812,7 +812,7 @@ Click on the Transform to expand the four options including Rotate, Flip, Scale 
 * **Flip:** Flip video horizontally, i.e. flip video left to right; flip video vertically that is fliping video upside down
 * You can combine Rotate and Flip feature to flip video vertically and rotate 90°clockwise or flip video vertically and rotate 90°counterclockwise.
 
-![ Filmora 9 Transform](https://images.wondershare.com/filmora/article-images/filmora9-transform-options.jpg)
+![Filmora 9 Transform](https://images.wondershare.com/filmora/article-images/filmora9-transform-options.jpg)
 
 Besides, you can also change the video position and the video scale. This is the step of flips the whole part of the video.
 
@@ -822,7 +822,7 @@ Sometimes, you may just need to flip parts of your video file, e.g. only 1 minut
 
 To do it, just move the playhead to the position you want to split, and click the "Scissors" icon in the menu bar.
 
-![ Filmora 9 Split](https://images.wondershare.com/filmora/article-images/filmora9-split.jpg)
+![Filmora 9 Split](https://images.wondershare.com/filmora/article-images/filmora9-split.jpg)
 
 [Learn more about how to split videos](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -834,15 +834,13 @@ You may also want to upload your creation to YouTube or burn to DVD disc for bet
 
 ![Flip video editing output](https://images.wondershare.com/filmora/article-images/output-format.jpg)
 
-With the latest Filmora X video editor, you can do more than just flipping video files. For example, you can apply special effects, add background music, create picture-in-picture effect, and more. Try it now!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+With the latest Filmora X video editor, you can do more than just flipping video files. For example, you can apply special effects, add background music, create picture-in-picture effect, and more. Try it now![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [Check Best Program to Flip Video](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
-#### [](https://tools.techidaily.com/wondershare/filmora/download/)Conclusion
+#### 
 
 If you are someone that can't be bothered to learn a new [video editor](https://tools.techidaily.com/wondershare/filmora/download/) or someone that doesn't want to fuss around and just want to get things done, Filmora is designed for you. Known for its lowest learning curve and low price, Filmora can help you to get the job done easily. Try it out with the buttons below to see if it matches your appetite.
 
@@ -880,7 +878,7 @@ Note that this video editor supports an array of video & audio formats, such as 
 
 And then drag your video files from media library to the video Timeline.
 
-![ Filmora 9 Import](https://images.wondershare.com/filmora/article-images/drag-and-drop.jpg)
+![Filmora 9 Import](https://images.wondershare.com/filmora/article-images/drag-and-drop.jpg)
 
 [Learn the complete list of supported files formats of Filmora X.](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -894,7 +892,7 @@ Click on the Transform to expand the four options including Rotate, Flip, Scale 
 * **Flip:** Flip video horizontally, i.e. flip video left to right; flip video vertically that is fliping video upside down
 * You can combine Rotate and Flip feature to flip video vertically and rotate 90°clockwise or flip video vertically and rotate 90°counterclockwise.
 
-![ Filmora 9 Transform](https://images.wondershare.com/filmora/article-images/filmora9-transform-options.jpg)
+![Filmora 9 Transform](https://images.wondershare.com/filmora/article-images/filmora9-transform-options.jpg)
 
 Besides, you can also change the video position and the video scale. This is the step of flips the whole part of the video.
 
@@ -904,7 +902,7 @@ Sometimes, you may just need to flip parts of your video file, e.g. only 1 minut
 
 To do it, just move the playhead to the position you want to split, and click the "Scissors" icon in the menu bar.
 
-![ Filmora 9 Split](https://images.wondershare.com/filmora/article-images/filmora9-split.jpg)
+![Filmora 9 Split](https://images.wondershare.com/filmora/article-images/filmora9-split.jpg)
 
 [Learn more about how to split videos](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -916,15 +914,13 @@ You may also want to upload your creation to YouTube or burn to DVD disc for bet
 
 ![Flip video editing output](https://images.wondershare.com/filmora/article-images/output-format.jpg)
 
-With the latest Filmora X video editor, you can do more than just flipping video files. For example, you can apply special effects, add background music, create picture-in-picture effect, and more. Try it now!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+With the latest Filmora X video editor, you can do more than just flipping video files. For example, you can apply special effects, add background music, create picture-in-picture effect, and more. Try it now![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [Check Best Program to Flip Video](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
-#### [](https://tools.techidaily.com/wondershare/filmora/download/)Conclusion
+#### 
 
 If you are someone that can't be bothered to learn a new [video editor](https://tools.techidaily.com/wondershare/filmora/download/) or someone that doesn't want to fuss around and just want to get things done, Filmora is designed for you. Known for its lowest learning curve and low price, Filmora can help you to get the job done easily. Try it out with the buttons below to see if it matches your appetite.
 
@@ -962,7 +958,7 @@ Note that this video editor supports an array of video & audio formats, such as 
 
 And then drag your video files from media library to the video Timeline.
 
-![ Filmora 9 Import](https://images.wondershare.com/filmora/article-images/drag-and-drop.jpg)
+![Filmora 9 Import](https://images.wondershare.com/filmora/article-images/drag-and-drop.jpg)
 
 [Learn the complete list of supported files formats of Filmora X.](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -976,7 +972,7 @@ Click on the Transform to expand the four options including Rotate, Flip, Scale 
 * **Flip:** Flip video horizontally, i.e. flip video left to right; flip video vertically that is fliping video upside down
 * You can combine Rotate and Flip feature to flip video vertically and rotate 90°clockwise or flip video vertically and rotate 90°counterclockwise.
 
-![ Filmora 9 Transform](https://images.wondershare.com/filmora/article-images/filmora9-transform-options.jpg)
+![Filmora 9 Transform](https://images.wondershare.com/filmora/article-images/filmora9-transform-options.jpg)
 
 Besides, you can also change the video position and the video scale. This is the step of flips the whole part of the video.
 
@@ -986,7 +982,7 @@ Sometimes, you may just need to flip parts of your video file, e.g. only 1 minut
 
 To do it, just move the playhead to the position you want to split, and click the "Scissors" icon in the menu bar.
 
-![ Filmora 9 Split](https://images.wondershare.com/filmora/article-images/filmora9-split.jpg)
+![Filmora 9 Split](https://images.wondershare.com/filmora/article-images/filmora9-split.jpg)
 
 [Learn more about how to split videos](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -998,15 +994,13 @@ You may also want to upload your creation to YouTube or burn to DVD disc for bet
 
 ![Flip video editing output](https://images.wondershare.com/filmora/article-images/output-format.jpg)
 
-With the latest Filmora X video editor, you can do more than just flipping video files. For example, you can apply special effects, add background music, create picture-in-picture effect, and more. Try it now!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+With the latest Filmora X video editor, you can do more than just flipping video files. For example, you can apply special effects, add background music, create picture-in-picture effect, and more. Try it now![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [Check Best Program to Flip Video](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
-#### [](https://tools.techidaily.com/wondershare/filmora/download/)Conclusion
+#### 
 
 If you are someone that can't be bothered to learn a new [video editor](https://tools.techidaily.com/wondershare/filmora/download/) or someone that doesn't want to fuss around and just want to get things done, Filmora is designed for you. Known for its lowest learning curve and low price, Filmora can help you to get the job done easily. Try it out with the buttons below to see if it matches your appetite.
 
@@ -1044,7 +1038,7 @@ Note that this video editor supports an array of video & audio formats, such as 
 
 And then drag your video files from media library to the video Timeline.
 
-![ Filmora 9 Import](https://images.wondershare.com/filmora/article-images/drag-and-drop.jpg)
+![Filmora 9 Import](https://images.wondershare.com/filmora/article-images/drag-and-drop.jpg)
 
 [Learn the complete list of supported files formats of Filmora X.](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -1058,7 +1052,7 @@ Click on the Transform to expand the four options including Rotate, Flip, Scale 
 * **Flip:** Flip video horizontally, i.e. flip video left to right; flip video vertically that is fliping video upside down
 * You can combine Rotate and Flip feature to flip video vertically and rotate 90°clockwise or flip video vertically and rotate 90°counterclockwise.
 
-![ Filmora 9 Transform](https://images.wondershare.com/filmora/article-images/filmora9-transform-options.jpg)
+![Filmora 9 Transform](https://images.wondershare.com/filmora/article-images/filmora9-transform-options.jpg)
 
 Besides, you can also change the video position and the video scale. This is the step of flips the whole part of the video.
 
@@ -1068,7 +1062,7 @@ Sometimes, you may just need to flip parts of your video file, e.g. only 1 minut
 
 To do it, just move the playhead to the position you want to split, and click the "Scissors" icon in the menu bar.
 
-![ Filmora 9 Split](https://images.wondershare.com/filmora/article-images/filmora9-split.jpg)
+![Filmora 9 Split](https://images.wondershare.com/filmora/article-images/filmora9-split.jpg)
 
 [Learn more about how to split videos](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -1080,15 +1074,13 @@ You may also want to upload your creation to YouTube or burn to DVD disc for bet
 
 ![Flip video editing output](https://images.wondershare.com/filmora/article-images/output-format.jpg)
 
-With the latest Filmora X video editor, you can do more than just flipping video files. For example, you can apply special effects, add background music, create picture-in-picture effect, and more. Try it now!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+With the latest Filmora X video editor, you can do more than just flipping video files. For example, you can apply special effects, add background music, create picture-in-picture effect, and more. Try it now![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [Check Best Program to Flip Video](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
-#### [](https://tools.techidaily.com/wondershare/filmora/download/)Conclusion
+#### 
 
 If you are someone that can't be bothered to learn a new [video editor](https://tools.techidaily.com/wondershare/filmora/download/) or someone that doesn't want to fuss around and just want to get things done, Filmora is designed for you. Known for its lowest learning curve and low price, Filmora can help you to get the job done easily. Try it out with the buttons below to see if it matches your appetite.
 
@@ -1170,15 +1162,15 @@ To get started, download Filmora Video cutter and Joiner (the latest version 10 
 
 First, click the “Import” button and choose the source video file from your local hard drive, then drag and drop the file on the timeline below.
 
-![ Filmora Import](https://images.wondershare.com/filmora/article-images/drag-and-drop.jpg)
+![Filmora Import](https://images.wondershare.com/filmora/article-images/drag-and-drop.jpg)
 
 If you want to cut out the beginning or ending part of the video, you can use the Trim feature in Filmora. Move your Cursor to the timeline, and drag it towards left or right to squeeze or expand unit time for precise video trimming and cutting. The beginning or closing part will be trimmed out automatically.
 
-![ Filmora Trim sides](https://images.wondershare.com/filmora/guide/trim-sides.gif)
+![Filmora Trim sides](https://images.wondershare.com/filmora/guide/trim-sides.gif)
 
 If the unwanted part is located in the middle of the clip, then you can zoom in the timeline to preview the video frames precisely. Find the part you’d want, then move the playhead to the starting point of the wanted clip, click the scissor button now.
 
-![ Filmora Split and Cut](https://images.wondershare.com/filmora/guide/cut-a-section.gif)
+![Filmora Split and Cut](https://images.wondershare.com/filmora/guide/cut-a-section.gif)
 
 Move the playhead again to the ending point of your wanted clip, further, click the scissor button again. Now you’ve successfully separated your video clips. If you want to cut out some unwanted parts, just select it in the timeline and click the Trash icon in the timeline to remove it. While to avoid gaps between each clip, we recommend you right-click the related clip and select Ripple Delete. Click the “Export” button to save the video on a computer or share it with YouTube or Vimeo directly.
 There you go! Your video is now successfully cut.
@@ -1259,15 +1251,15 @@ To get started, download Filmora Video cutter and Joiner (the latest version 10 
 
 First, click the “Import” button and choose the source video file from your local hard drive, then drag and drop the file on the timeline below.
 
-![ Filmora Import](https://images.wondershare.com/filmora/article-images/drag-and-drop.jpg)
+![Filmora Import](https://images.wondershare.com/filmora/article-images/drag-and-drop.jpg)
 
 If you want to cut out the beginning or ending part of the video, you can use the Trim feature in Filmora. Move your Cursor to the timeline, and drag it towards left or right to squeeze or expand unit time for precise video trimming and cutting. The beginning or closing part will be trimmed out automatically.
 
-![ Filmora Trim sides](https://images.wondershare.com/filmora/guide/trim-sides.gif)
+![Filmora Trim sides](https://images.wondershare.com/filmora/guide/trim-sides.gif)
 
 If the unwanted part is located in the middle of the clip, then you can zoom in the timeline to preview the video frames precisely. Find the part you’d want, then move the playhead to the starting point of the wanted clip, click the scissor button now.
 
-![ Filmora Split and Cut](https://images.wondershare.com/filmora/guide/cut-a-section.gif)
+![Filmora Split and Cut](https://images.wondershare.com/filmora/guide/cut-a-section.gif)
 
 Move the playhead again to the ending point of your wanted clip, further, click the scissor button again. Now you’ve successfully separated your video clips. If you want to cut out some unwanted parts, just select it in the timeline and click the Trash icon in the timeline to remove it. While to avoid gaps between each clip, we recommend you right-click the related clip and select Ripple Delete. Click the “Export” button to save the video on a computer or share it with YouTube or Vimeo directly.
 There you go! Your video is now successfully cut.
@@ -1348,15 +1340,15 @@ To get started, download Filmora Video cutter and Joiner (the latest version 10 
 
 First, click the “Import” button and choose the source video file from your local hard drive, then drag and drop the file on the timeline below.
 
-![ Filmora Import](https://images.wondershare.com/filmora/article-images/drag-and-drop.jpg)
+![Filmora Import](https://images.wondershare.com/filmora/article-images/drag-and-drop.jpg)
 
 If you want to cut out the beginning or ending part of the video, you can use the Trim feature in Filmora. Move your Cursor to the timeline, and drag it towards left or right to squeeze or expand unit time for precise video trimming and cutting. The beginning or closing part will be trimmed out automatically.
 
-![ Filmora Trim sides](https://images.wondershare.com/filmora/guide/trim-sides.gif)
+![Filmora Trim sides](https://images.wondershare.com/filmora/guide/trim-sides.gif)
 
 If the unwanted part is located in the middle of the clip, then you can zoom in the timeline to preview the video frames precisely. Find the part you’d want, then move the playhead to the starting point of the wanted clip, click the scissor button now.
 
-![ Filmora Split and Cut](https://images.wondershare.com/filmora/guide/cut-a-section.gif)
+![Filmora Split and Cut](https://images.wondershare.com/filmora/guide/cut-a-section.gif)
 
 Move the playhead again to the ending point of your wanted clip, further, click the scissor button again. Now you’ve successfully separated your video clips. If you want to cut out some unwanted parts, just select it in the timeline and click the Trash icon in the timeline to remove it. While to avoid gaps between each clip, we recommend you right-click the related clip and select Ripple Delete. Click the “Export” button to save the video on a computer or share it with YouTube or Vimeo directly.
 There you go! Your video is now successfully cut.
@@ -1437,15 +1429,15 @@ To get started, download Filmora Video cutter and Joiner (the latest version 10 
 
 First, click the “Import” button and choose the source video file from your local hard drive, then drag and drop the file on the timeline below.
 
-![ Filmora Import](https://images.wondershare.com/filmora/article-images/drag-and-drop.jpg)
+![Filmora Import](https://images.wondershare.com/filmora/article-images/drag-and-drop.jpg)
 
 If you want to cut out the beginning or ending part of the video, you can use the Trim feature in Filmora. Move your Cursor to the timeline, and drag it towards left or right to squeeze or expand unit time for precise video trimming and cutting. The beginning or closing part will be trimmed out automatically.
 
-![ Filmora Trim sides](https://images.wondershare.com/filmora/guide/trim-sides.gif)
+![Filmora Trim sides](https://images.wondershare.com/filmora/guide/trim-sides.gif)
 
 If the unwanted part is located in the middle of the clip, then you can zoom in the timeline to preview the video frames precisely. Find the part you’d want, then move the playhead to the starting point of the wanted clip, click the scissor button now.
 
-![ Filmora Split and Cut](https://images.wondershare.com/filmora/guide/cut-a-section.gif)
+![Filmora Split and Cut](https://images.wondershare.com/filmora/guide/cut-a-section.gif)
 
 Move the playhead again to the ending point of your wanted clip, further, click the scissor button again. Now you’ve successfully separated your video clips. If you want to cut out some unwanted parts, just select it in the timeline and click the Trash icon in the timeline to remove it. While to avoid gaps between each clip, we recommend you right-click the related clip and select Ripple Delete. Click the “Export” button to save the video on a computer or share it with YouTube or Vimeo directly.
 There you go! Your video is now successfully cut.

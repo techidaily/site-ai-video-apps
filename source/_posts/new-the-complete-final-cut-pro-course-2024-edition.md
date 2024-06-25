@@ -1,7 +1,7 @@
 ---
 title: New The Complete Final Cut Pro Course 2024 Edition
-date: 2024-05-19T09:39:42.548Z
-updated: 2024-05-20T09:39:42.548Z
+date: 2024-06-24T05:15:47.596Z
+updated: 2024-06-25T05:15:47.596Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New The Complete Final Cut Pro Course 2024 Edition
 excerpt: This Article Describes New The Complete Final Cut Pro Course 2024 Edition
 keywords: learn final cut pro 2024 a comprehensive tutorial collection,final cut pro 2024 the complete tutorial package,the complete 2024 final cut pro training package,the simple way to reverse a video in final cut pro 2023 edition,the ultimate time lapse crash course final cut pro edition,the complete final cut pro course 2024 edition,the ultimate guide to titles in final cut pro x 2023 edition
-thumbnail: https://www.lifewire.com/thmb/ru-jVd0Cvv8tkOSsngOh3taWsHA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/laptop-2443739-5b55bc7c46e0fb00378df55b.jpg
+thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d87088006ba977c8519d5351.jpg
 ---
 
 ## The Complete Final Cut Pro Course: 2024 Edition
@@ -132,25 +132,25 @@ For macOS 10.12 or later
 
 If you are looking for the best websites to learn Final Cut Pro basics, then you can visit the following web pages:
 
-### 1.[FCP.co](https://fcp.co/)
+### 1. FCP.co
 
 ![the-best-fcpx-tutorial-fcp-co](https://images.wondershare.com/filmora/images/final-cut-pro/the-best-fcpx-tutorial-6.jpg)
 
 FCP.co is dedicated to all things video on the Mac, focusing on Final Cut Pro X video editing techniques and lessons. They're continuously updated on the latest FCPX third-party plugins and filters (including many free effects). Unlike Apple's FCPX user forum, this one is quite active and updated frequently.
 
-### 2.[Apple Support Center](https://www.apple.com/final-cut-pro/resources/)
+### 2. Apple Support Center
 
 ![the-best-fcpx-tutorial-apple-support-center](https://images.wondershare.com/filmora/images/final-cut-pro/the-best-fcpx-tutorial-7.jpg)
 
 On Apple's official website, the FCPX support community is active. If you have a specific query regarding the application, this is an excellent resource. The emphasis here is less on editing style, and skill since most content focuses on more technical FCPX software/hardware concerns. It's worth mentioning that if you contribute to the community by assisting other users with their problems rather than just asking questions, your editing karma will skyrocket!
 
-### 3.[Reddit](https://www.reddit.com/r/finalcutpro/)
+### 3. Reddit
 
 ![the-best-fcpx-tutorial-reddit](https://images.wondershare.com/filmora/images/final-cut-pro/the-best-fcpx-tutorial-8.jpg)
 
 If you want to ask a specific question related to Final Cut Pro, you can post it on Reddit. The active community on Reddit will answer it. You can also read the questions posted by other users to increase your knowledge.
 
-### 4.[FCPX.tv](https://fcpx.tv/)
+### 4. FCPX.tv
 
 ![the-best-fcpx-tutorial-fcpx-tv](https://images.wondershare.com/filmora/images/final-cut-pro/the-best-fcpx-tutorial-9.jpg)
 
@@ -168,11 +168,9 @@ Haven't got FCPX yet? Get your [90-day free trial here](https://tools.techidaily
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -282,25 +280,25 @@ For macOS 10.12 or later
 
 If you are looking for the best websites to learn Final Cut Pro basics, then you can visit the following web pages:
 
-### 1.[FCP.co](https://fcp.co/)
+### 1. FCP.co
 
 ![the-best-fcpx-tutorial-fcp-co](https://images.wondershare.com/filmora/images/final-cut-pro/the-best-fcpx-tutorial-6.jpg)
 
 FCP.co is dedicated to all things video on the Mac, focusing on Final Cut Pro X video editing techniques and lessons. They're continuously updated on the latest FCPX third-party plugins and filters (including many free effects). Unlike Apple's FCPX user forum, this one is quite active and updated frequently.
 
-### 2.[Apple Support Center](https://www.apple.com/final-cut-pro/resources/)
+### 2. Apple Support Center
 
 ![the-best-fcpx-tutorial-apple-support-center](https://images.wondershare.com/filmora/images/final-cut-pro/the-best-fcpx-tutorial-7.jpg)
 
 On Apple's official website, the FCPX support community is active. If you have a specific query regarding the application, this is an excellent resource. The emphasis here is less on editing style, and skill since most content focuses on more technical FCPX software/hardware concerns. It's worth mentioning that if you contribute to the community by assisting other users with their problems rather than just asking questions, your editing karma will skyrocket!
 
-### 3.[Reddit](https://www.reddit.com/r/finalcutpro/)
+### 3. Reddit
 
 ![the-best-fcpx-tutorial-reddit](https://images.wondershare.com/filmora/images/final-cut-pro/the-best-fcpx-tutorial-8.jpg)
 
 If you want to ask a specific question related to Final Cut Pro, you can post it on Reddit. The active community on Reddit will answer it. You can also read the questions posted by other users to increase your knowledge.
 
-### 4.[FCPX.tv](https://fcpx.tv/)
+### 4. FCPX.tv
 
 ![the-best-fcpx-tutorial-fcpx-tv](https://images.wondershare.com/filmora/images/final-cut-pro/the-best-fcpx-tutorial-9.jpg)
 
@@ -318,11 +316,9 @@ Haven't got FCPX yet? Get your [90-day free trial here](https://tools.techidaily
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -432,25 +428,25 @@ For macOS 10.12 or later
 
 If you are looking for the best websites to learn Final Cut Pro basics, then you can visit the following web pages:
 
-### 1.[FCP.co](https://fcp.co/)
+### 1. FCP.co
 
 ![the-best-fcpx-tutorial-fcp-co](https://images.wondershare.com/filmora/images/final-cut-pro/the-best-fcpx-tutorial-6.jpg)
 
 FCP.co is dedicated to all things video on the Mac, focusing on Final Cut Pro X video editing techniques and lessons. They're continuously updated on the latest FCPX third-party plugins and filters (including many free effects). Unlike Apple's FCPX user forum, this one is quite active and updated frequently.
 
-### 2.[Apple Support Center](https://www.apple.com/final-cut-pro/resources/)
+### 2. Apple Support Center
 
 ![the-best-fcpx-tutorial-apple-support-center](https://images.wondershare.com/filmora/images/final-cut-pro/the-best-fcpx-tutorial-7.jpg)
 
 On Apple's official website, the FCPX support community is active. If you have a specific query regarding the application, this is an excellent resource. The emphasis here is less on editing style, and skill since most content focuses on more technical FCPX software/hardware concerns. It's worth mentioning that if you contribute to the community by assisting other users with their problems rather than just asking questions, your editing karma will skyrocket!
 
-### 3.[Reddit](https://www.reddit.com/r/finalcutpro/)
+### 3. Reddit
 
 ![the-best-fcpx-tutorial-reddit](https://images.wondershare.com/filmora/images/final-cut-pro/the-best-fcpx-tutorial-8.jpg)
 
 If you want to ask a specific question related to Final Cut Pro, you can post it on Reddit. The active community on Reddit will answer it. You can also read the questions posted by other users to increase your knowledge.
 
-### 4.[FCPX.tv](https://fcpx.tv/)
+### 4. FCPX.tv
 
 ![the-best-fcpx-tutorial-fcpx-tv](https://images.wondershare.com/filmora/images/final-cut-pro/the-best-fcpx-tutorial-9.jpg)
 
@@ -468,11 +464,9 @@ Haven't got FCPX yet? Get your [90-day free trial here](https://tools.techidaily
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -582,25 +576,25 @@ For macOS 10.12 or later
 
 If you are looking for the best websites to learn Final Cut Pro basics, then you can visit the following web pages:
 
-### 1.[FCP.co](https://fcp.co/)
+### 1. FCP.co
 
 ![the-best-fcpx-tutorial-fcp-co](https://images.wondershare.com/filmora/images/final-cut-pro/the-best-fcpx-tutorial-6.jpg)
 
 FCP.co is dedicated to all things video on the Mac, focusing on Final Cut Pro X video editing techniques and lessons. They're continuously updated on the latest FCPX third-party plugins and filters (including many free effects). Unlike Apple's FCPX user forum, this one is quite active and updated frequently.
 
-### 2.[Apple Support Center](https://www.apple.com/final-cut-pro/resources/)
+### 2. Apple Support Center
 
 ![the-best-fcpx-tutorial-apple-support-center](https://images.wondershare.com/filmora/images/final-cut-pro/the-best-fcpx-tutorial-7.jpg)
 
 On Apple's official website, the FCPX support community is active. If you have a specific query regarding the application, this is an excellent resource. The emphasis here is less on editing style, and skill since most content focuses on more technical FCPX software/hardware concerns. It's worth mentioning that if you contribute to the community by assisting other users with their problems rather than just asking questions, your editing karma will skyrocket!
 
-### 3.[Reddit](https://www.reddit.com/r/finalcutpro/)
+### 3. Reddit
 
 ![the-best-fcpx-tutorial-reddit](https://images.wondershare.com/filmora/images/final-cut-pro/the-best-fcpx-tutorial-8.jpg)
 
 If you want to ask a specific question related to Final Cut Pro, you can post it on Reddit. The active community on Reddit will answer it. You can also read the questions posted by other users to increase your knowledge.
 
-### 4.[FCPX.tv](https://fcpx.tv/)
+### 4. FCPX.tv
 
 ![the-best-fcpx-tutorial-fcpx-tv](https://images.wondershare.com/filmora/images/final-cut-pro/the-best-fcpx-tutorial-9.jpg)
 
@@ -618,11 +612,9 @@ Haven't got FCPX yet? Get your [90-day free trial here](https://tools.techidaily
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -928,7 +920,7 @@ Even though going through [the aspect ratios](https://tools.techidaily.com/wonde
 
 The affordability and the available video editing tools can also play an important role in your decision as they determine how efficiently you can edit a vertically oriented video. Let’s take a look at some of the top six web-based vertical video editors.
 
-### 2. [Kapwing](https://www.kapwing.com/)
+### 2. Kapwing
 
 **Price:** Free, $20 per month for the pro version
 
@@ -950,7 +942,7 @@ Uploading files that have more than 250MB is not possible on the free version of
 * Limited video duration
 * You can’t export more than three videos per month with a free version of Kapwing
 
-### 3. [Rocketium](https://rocketium.com/)
+### 3. Rocketium
 
 **Price:** $49 per month for an individual user
 
@@ -974,7 +966,7 @@ The platform offers a rich selection of predesigned video templates that can be 
 * More expensive than most online video editors
 * Aimed primarily at digital marketers
 
-### 4. [WeVideo](https://www.wevideo.com/)
+### 4. WeVideo
 
 **Price:** Pricing options start at $4.99 per month
 
@@ -998,7 +990,7 @@ WeVideo is also equipped with screen capturing features you can use to record th
 * The amount of available features depends on the subscription model
 * Customer support can be better
 
-### 5. [Clideo](https://clideo.com/)
+### 5. Clideo
 
 **Price:** Free, $9.00 per month
 
@@ -1022,7 +1014,7 @@ However, the lack of file sharing options, as well as a relatively scarce select
 * Uploading files larger than 500MB to Clideo is not possible
 * No batch exporting options
 
-### 6. [Clipchamp](https://clipchamp.com/en/)
+### 6. Clipchamp
 
 **Price:** Free, pricing options start at $9.00 per month
 
@@ -1046,7 +1038,7 @@ Clipchamp also has a massive collection of fully customizable video templates an
 * The maximum resolution in which a video can be exported depends on the subscription model
 * The access to stock footage is not free
 
-### 7. [Blurbiz.io](https://www.blurbiz.io/features/make-vertical-videos)
+### 7. Blurbiz.io
 
 **Price:** Pricing options start at $29 per month
 
@@ -1098,7 +1090,7 @@ Even though going through [the aspect ratios](https://tools.techidaily.com/wonde
 
 The affordability and the available video editing tools can also play an important role in your decision as they determine how efficiently you can edit a vertically oriented video. Let’s take a look at some of the top six web-based vertical video editors.
 
-### 2. [Kapwing](https://www.kapwing.com/)
+### 2. Kapwing
 
 **Price:** Free, $20 per month for the pro version
 
@@ -1120,7 +1112,7 @@ Uploading files that have more than 250MB is not possible on the free version of
 * Limited video duration
 * You can’t export more than three videos per month with a free version of Kapwing
 
-### 3. [Rocketium](https://rocketium.com/)
+### 3. Rocketium
 
 **Price:** $49 per month for an individual user
 
@@ -1144,7 +1136,7 @@ The platform offers a rich selection of predesigned video templates that can be 
 * More expensive than most online video editors
 * Aimed primarily at digital marketers
 
-### 4. [WeVideo](https://www.wevideo.com/)
+### 4. WeVideo
 
 **Price:** Pricing options start at $4.99 per month
 
@@ -1168,7 +1160,7 @@ WeVideo is also equipped with screen capturing features you can use to record th
 * The amount of available features depends on the subscription model
 * Customer support can be better
 
-### 5. [Clideo](https://clideo.com/)
+### 5. Clideo
 
 **Price:** Free, $9.00 per month
 
@@ -1192,7 +1184,7 @@ However, the lack of file sharing options, as well as a relatively scarce select
 * Uploading files larger than 500MB to Clideo is not possible
 * No batch exporting options
 
-### 6. [Clipchamp](https://clipchamp.com/en/)
+### 6. Clipchamp
 
 **Price:** Free, pricing options start at $9.00 per month
 
@@ -1216,7 +1208,7 @@ Clipchamp also has a massive collection of fully customizable video templates an
 * The maximum resolution in which a video can be exported depends on the subscription model
 * The access to stock footage is not free
 
-### 7. [Blurbiz.io](https://www.blurbiz.io/features/make-vertical-videos)
+### 7. Blurbiz.io
 
 **Price:** Pricing options start at $29 per month
 
@@ -1268,7 +1260,7 @@ Even though going through [the aspect ratios](https://tools.techidaily.com/wonde
 
 The affordability and the available video editing tools can also play an important role in your decision as they determine how efficiently you can edit a vertically oriented video. Let’s take a look at some of the top six web-based vertical video editors.
 
-### 2. [Kapwing](https://www.kapwing.com/)
+### 2. Kapwing
 
 **Price:** Free, $20 per month for the pro version
 
@@ -1290,7 +1282,7 @@ Uploading files that have more than 250MB is not possible on the free version of
 * Limited video duration
 * You can’t export more than three videos per month with a free version of Kapwing
 
-### 3. [Rocketium](https://rocketium.com/)
+### 3. Rocketium
 
 **Price:** $49 per month for an individual user
 
@@ -1314,7 +1306,7 @@ The platform offers a rich selection of predesigned video templates that can be 
 * More expensive than most online video editors
 * Aimed primarily at digital marketers
 
-### 4. [WeVideo](https://www.wevideo.com/)
+### 4. WeVideo
 
 **Price:** Pricing options start at $4.99 per month
 
@@ -1338,7 +1330,7 @@ WeVideo is also equipped with screen capturing features you can use to record th
 * The amount of available features depends on the subscription model
 * Customer support can be better
 
-### 5. [Clideo](https://clideo.com/)
+### 5. Clideo
 
 **Price:** Free, $9.00 per month
 
@@ -1362,7 +1354,7 @@ However, the lack of file sharing options, as well as a relatively scarce select
 * Uploading files larger than 500MB to Clideo is not possible
 * No batch exporting options
 
-### 6. [Clipchamp](https://clipchamp.com/en/)
+### 6. Clipchamp
 
 **Price:** Free, pricing options start at $9.00 per month
 
@@ -1386,7 +1378,7 @@ Clipchamp also has a massive collection of fully customizable video templates an
 * The maximum resolution in which a video can be exported depends on the subscription model
 * The access to stock footage is not free
 
-### 7. [Blurbiz.io](https://www.blurbiz.io/features/make-vertical-videos)
+### 7. Blurbiz.io
 
 **Price:** Pricing options start at $29 per month
 
@@ -1438,7 +1430,7 @@ Even though going through [the aspect ratios](https://tools.techidaily.com/wonde
 
 The affordability and the available video editing tools can also play an important role in your decision as they determine how efficiently you can edit a vertically oriented video. Let’s take a look at some of the top six web-based vertical video editors.
 
-### 2. [Kapwing](https://www.kapwing.com/)
+### 2. Kapwing
 
 **Price:** Free, $20 per month for the pro version
 
@@ -1460,7 +1452,7 @@ Uploading files that have more than 250MB is not possible on the free version of
 * Limited video duration
 * You can’t export more than three videos per month with a free version of Kapwing
 
-### 3. [Rocketium](https://rocketium.com/)
+### 3. Rocketium
 
 **Price:** $49 per month for an individual user
 
@@ -1484,7 +1476,7 @@ The platform offers a rich selection of predesigned video templates that can be 
 * More expensive than most online video editors
 * Aimed primarily at digital marketers
 
-### 4. [WeVideo](https://www.wevideo.com/)
+### 4. WeVideo
 
 **Price:** Pricing options start at $4.99 per month
 
@@ -1508,7 +1500,7 @@ WeVideo is also equipped with screen capturing features you can use to record th
 * The amount of available features depends on the subscription model
 * Customer support can be better
 
-### 5. [Clideo](https://clideo.com/)
+### 5. Clideo
 
 **Price:** Free, $9.00 per month
 
@@ -1532,7 +1524,7 @@ However, the lack of file sharing options, as well as a relatively scarce select
 * Uploading files larger than 500MB to Clideo is not possible
 * No batch exporting options
 
-### 6. [Clipchamp](https://clipchamp.com/en/)
+### 6. Clipchamp
 
 **Price:** Free, pricing options start at $9.00 per month
 
@@ -1556,7 +1548,7 @@ Clipchamp also has a massive collection of fully customizable video templates an
 * The maximum resolution in which a video can be exported depends on the subscription model
 * The access to stock footage is not free
 
-### 7. [Blurbiz.io](https://www.blurbiz.io/features/make-vertical-videos)
+### 7. Blurbiz.io
 
 **Price:** Pricing options start at $29 per month
 
@@ -1639,7 +1631,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -1651,17 +1643,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -1669,15 +1661,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
@@ -1730,7 +1722,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -1742,17 +1734,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -1760,15 +1752,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
@@ -1821,7 +1813,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -1833,17 +1825,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -1851,15 +1843,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
@@ -1912,7 +1904,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -1924,17 +1916,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -1942,15 +1934,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
