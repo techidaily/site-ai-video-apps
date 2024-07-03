@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved From Widescreen to Vertical The Essential Guide to Resizing Social Media Videos
-date: 2024-04-28T01:08:15.361Z
-updated: 2024-04-29T01:08:15.361Z
+date: 2024-07-02T00:07:44.515Z
+updated: 2024-07-03T00:07:44.515Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved From Widescreen to Vertical The Essential Guide to Resizing Social Media Videos
 excerpt: This Article Describes Updated 2024 Approved From Widescreen to Vertical The Essential Guide to Resizing Social Media Videos
 keywords: resize like a pro mastering vertical video ratios for social media,get noticed on social media the secret to resizing vertical videos,get noticed on social media the ultimate guide to vertical video resizing,from widescreen to vertical the easiest way to resize your videos,from widescreen to vertical the essential guide to resizing social media videos,from widescreen to vertical the simplest way to resize social media videos,from widescreen to vertical the easiest way to resize social media videos
-thumbnail: https://www.lifewire.com/thmb/tPZQXZ5f5-0L_L7obmLf1Q98jIY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/laptop-569944733df78cafda90169f.jpg
+thumbnail: https://thmb.techidaily.com/1ee4d598dddce3a6246087c27cdd3992445e17b0d9a8038ff04440aee38e00e3.jpg
 ---
 
 ## From Widescreen to Vertical: The Essential Guide to Resizing Social Media Videos
@@ -824,7 +824,7 @@ You may even export your work in 4K quality at up to 60 frames per second once y
 
 In September, iMovie received a major upgrade, which included importing and editing footage taken in Cinematic mode on the iPhone 13 to Macs. You may now add, tweak, and delete focus points, as well as change the depths of field effect in a video shot in Cinematic mode, assuming you have a modern iPhone or iPad.
 
-_Check this complete guide about_ [_how to use iMovie to explore more features in iMovie_](https://tools.techidaily.com/wondershare/filmora/download/)_._
+_Check this complete guide about_ [_how to use iMovie to explore more features in iMovie_](https://tools.techidaily.com/wondershare/filmora/download/) _._
 
 ### 5\. Final Cut Pro
 
@@ -948,7 +948,7 @@ You may even export your work in 4K quality at up to 60 frames per second once y
 
 In September, iMovie received a major upgrade, which included importing and editing footage taken in Cinematic mode on the iPhone 13 to Macs. You may now add, tweak, and delete focus points, as well as change the depths of field effect in a video shot in Cinematic mode, assuming you have a modern iPhone or iPad.
 
-_Check this complete guide about_ [_how to use iMovie to explore more features in iMovie_](https://tools.techidaily.com/wondershare/filmora/download/)_._
+_Check this complete guide about_ [_how to use iMovie to explore more features in iMovie_](https://tools.techidaily.com/wondershare/filmora/download/) _._
 
 ### 5\. Final Cut Pro
 
@@ -1072,7 +1072,7 @@ You may even export your work in 4K quality at up to 60 frames per second once y
 
 In September, iMovie received a major upgrade, which included importing and editing footage taken in Cinematic mode on the iPhone 13 to Macs. You may now add, tweak, and delete focus points, as well as change the depths of field effect in a video shot in Cinematic mode, assuming you have a modern iPhone or iPad.
 
-_Check this complete guide about_ [_how to use iMovie to explore more features in iMovie_](https://tools.techidaily.com/wondershare/filmora/download/)_._
+_Check this complete guide about_ [_how to use iMovie to explore more features in iMovie_](https://tools.techidaily.com/wondershare/filmora/download/) _._
 
 ### 5\. Final Cut Pro
 
@@ -1196,7 +1196,7 @@ You may even export your work in 4K quality at up to 60 frames per second once y
 
 In September, iMovie received a major upgrade, which included importing and editing footage taken in Cinematic mode on the iPhone 13 to Macs. You may now add, tweak, and delete focus points, as well as change the depths of field effect in a video shot in Cinematic mode, assuming you have a modern iPhone or iPad.
 
-_Check this complete guide about_ [_how to use iMovie to explore more features in iMovie_](https://tools.techidaily.com/wondershare/filmora/download/)_._
+_Check this complete guide about_ [_how to use iMovie to explore more features in iMovie_](https://tools.techidaily.com/wondershare/filmora/download/) _._
 
 ### 5\. Final Cut Pro
 

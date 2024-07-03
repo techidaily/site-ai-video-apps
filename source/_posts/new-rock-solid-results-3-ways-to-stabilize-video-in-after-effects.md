@@ -1,7 +1,7 @@
 ---
 title: New Rock-Solid Results 3 Ways to Stabilize Video in After Effects
-date: 2024-05-19T09:39:34.612Z
-updated: 2024-05-20T09:39:34.612Z
+date: 2024-07-02T00:07:43.145Z
+updated: 2024-07-03T00:07:43.145Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Rock-Solid Results 3 Ways to Stabilize Video in After Effects
 excerpt: This Article Describes New Rock-Solid Results 3 Ways to Stabilize Video in After Effects
 keywords: rock solid footage the art of video stabilization in after effects,how to stabilize shaky videos in after effects,how to stabilize shaky videos in after effects 3 ways,ai animation how to stabilize shaky videos in after effects 3 ways,steady as a rock how to stabilize your videos in after effects,video rescue 3 ways to fix shaky footage in after effects,rock solid results 3 ways to stabilize video in after effects
-thumbnail: https://www.lifewire.com/thmb/v4AbqnTlju8lMmkS1DJOcvntGsY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-839864362-59c51d1daf5d3a0010919ae9.jpg
+thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4ff28b2032ed8b7104437026.jpg
 ---
 
 ## Rock-Solid Results: 3 Ways to Stabilize Video in After Effects
@@ -88,7 +88,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -98,7 +98,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -108,7 +108,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -196,7 +196,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -206,7 +206,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -216,7 +216,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -304,7 +304,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -314,7 +314,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -324,7 +324,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -412,7 +412,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -422,7 +422,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -432,7 +432,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -1846,7 +1846,7 @@ If you want to chop a big 3GP file into several small-size files, at this time, 
 
 But if you want to cut out some unwanted segments or to extract some parts you want, just hit the clips you don’t want and click the “Delete” icon.
 
-![cut 3gp file ](https://images.wondershare.com/images/multimedia/video-editor/cut-steps.jpg)
+![cut 3gp file](https://images.wondershare.com/images/multimedia/video-editor/cut-steps.jpg)
 
 #### 3 Export the rest 3GP clips
 
@@ -1861,7 +1861,7 @@ Also check out below video tutorial on how to cut/trim/split 3GP files step by s
 
 Wondershare 3GP Cutter allows you to not only cut or trim your 3GP videos, but also offers you a variety of other cool editing features so that you are able to easily make Hollywood-like movies at the ease of your home. If however, you are just looking for some free and simple 3GP Cutting tools, say you don't have any other editing needs, then these following free 3GP cutters will be worth your consideration. We've listed three of them which we consider as the best for your reference.
 
-#### 2.) [Free Video Cutter](http://www.free-video-cutter.org/)
+#### 2.) Free Video Cutter
 
 Free Video Cutter is a free cutting tool which enables you to cut your 3GP video with ease. Not only does the software support 3GP but it can also cope with several other video formats. The cutting process itself is simple, it takes into account audio and even subtitles and lets you worry only about the precise point you wish to cut your video, as a good cutting application should do.
 
@@ -1873,7 +1873,7 @@ Another very easy to use program which supports 3GP. It creates a copy of the se
 
 ![Moo0 Video Cutter](https://images.wondershare.com/multimedia/moo0.png)
 
-#### 4.) [Weeny Free Video Cutter](http://www.weenysoft.com/free-video-cutter.html)
+#### 4.) Weeny Free Video Cutter
 
 This program adds another useful talent to the mix, being able to convert cuts to another format on the fly, and even adjust frame rates, audio settings and so on. As you may expect, with these added features the interface of this video cutter is a little busier, but it is still straightforward to operate and anyone can start cutting videos within five minutes of starting to use it. A well featured piece of software than can cut your 3GP files and many other video formats too.
 
@@ -1915,7 +1915,7 @@ If you want to chop a big 3GP file into several small-size files, at this time, 
 
 But if you want to cut out some unwanted segments or to extract some parts you want, just hit the clips you don’t want and click the “Delete” icon.
 
-![cut 3gp file ](https://images.wondershare.com/images/multimedia/video-editor/cut-steps.jpg)
+![cut 3gp file](https://images.wondershare.com/images/multimedia/video-editor/cut-steps.jpg)
 
 #### 3 Export the rest 3GP clips
 
@@ -1930,7 +1930,7 @@ Also check out below video tutorial on how to cut/trim/split 3GP files step by s
 
 Wondershare 3GP Cutter allows you to not only cut or trim your 3GP videos, but also offers you a variety of other cool editing features so that you are able to easily make Hollywood-like movies at the ease of your home. If however, you are just looking for some free and simple 3GP Cutting tools, say you don't have any other editing needs, then these following free 3GP cutters will be worth your consideration. We've listed three of them which we consider as the best for your reference.
 
-#### 2.) [Free Video Cutter](http://www.free-video-cutter.org/)
+#### 2.) Free Video Cutter
 
 Free Video Cutter is a free cutting tool which enables you to cut your 3GP video with ease. Not only does the software support 3GP but it can also cope with several other video formats. The cutting process itself is simple, it takes into account audio and even subtitles and lets you worry only about the precise point you wish to cut your video, as a good cutting application should do.
 
@@ -1942,7 +1942,7 @@ Another very easy to use program which supports 3GP. It creates a copy of the se
 
 ![Moo0 Video Cutter](https://images.wondershare.com/multimedia/moo0.png)
 
-#### 4.) [Weeny Free Video Cutter](http://www.weenysoft.com/free-video-cutter.html)
+#### 4.) Weeny Free Video Cutter
 
 This program adds another useful talent to the mix, being able to convert cuts to another format on the fly, and even adjust frame rates, audio settings and so on. As you may expect, with these added features the interface of this video cutter is a little busier, but it is still straightforward to operate and anyone can start cutting videos within five minutes of starting to use it. A well featured piece of software than can cut your 3GP files and many other video formats too.
 
@@ -1984,7 +1984,7 @@ If you want to chop a big 3GP file into several small-size files, at this time, 
 
 But if you want to cut out some unwanted segments or to extract some parts you want, just hit the clips you don’t want and click the “Delete” icon.
 
-![cut 3gp file ](https://images.wondershare.com/images/multimedia/video-editor/cut-steps.jpg)
+![cut 3gp file](https://images.wondershare.com/images/multimedia/video-editor/cut-steps.jpg)
 
 #### 3 Export the rest 3GP clips
 
@@ -1999,7 +1999,7 @@ Also check out below video tutorial on how to cut/trim/split 3GP files step by s
 
 Wondershare 3GP Cutter allows you to not only cut or trim your 3GP videos, but also offers you a variety of other cool editing features so that you are able to easily make Hollywood-like movies at the ease of your home. If however, you are just looking for some free and simple 3GP Cutting tools, say you don't have any other editing needs, then these following free 3GP cutters will be worth your consideration. We've listed three of them which we consider as the best for your reference.
 
-#### 2.) [Free Video Cutter](http://www.free-video-cutter.org/)
+#### 2.) Free Video Cutter
 
 Free Video Cutter is a free cutting tool which enables you to cut your 3GP video with ease. Not only does the software support 3GP but it can also cope with several other video formats. The cutting process itself is simple, it takes into account audio and even subtitles and lets you worry only about the precise point you wish to cut your video, as a good cutting application should do.
 
@@ -2011,7 +2011,7 @@ Another very easy to use program which supports 3GP. It creates a copy of the se
 
 ![Moo0 Video Cutter](https://images.wondershare.com/multimedia/moo0.png)
 
-#### 4.) [Weeny Free Video Cutter](http://www.weenysoft.com/free-video-cutter.html)
+#### 4.) Weeny Free Video Cutter
 
 This program adds another useful talent to the mix, being able to convert cuts to another format on the fly, and even adjust frame rates, audio settings and so on. As you may expect, with these added features the interface of this video cutter is a little busier, but it is still straightforward to operate and anyone can start cutting videos within five minutes of starting to use it. A well featured piece of software than can cut your 3GP files and many other video formats too.
 
@@ -2053,7 +2053,7 @@ If you want to chop a big 3GP file into several small-size files, at this time, 
 
 But if you want to cut out some unwanted segments or to extract some parts you want, just hit the clips you don’t want and click the “Delete” icon.
 
-![cut 3gp file ](https://images.wondershare.com/images/multimedia/video-editor/cut-steps.jpg)
+![cut 3gp file](https://images.wondershare.com/images/multimedia/video-editor/cut-steps.jpg)
 
 #### 3 Export the rest 3GP clips
 
@@ -2068,7 +2068,7 @@ Also check out below video tutorial on how to cut/trim/split 3GP files step by s
 
 Wondershare 3GP Cutter allows you to not only cut or trim your 3GP videos, but also offers you a variety of other cool editing features so that you are able to easily make Hollywood-like movies at the ease of your home. If however, you are just looking for some free and simple 3GP Cutting tools, say you don't have any other editing needs, then these following free 3GP cutters will be worth your consideration. We've listed three of them which we consider as the best for your reference.
 
-#### 2.) [Free Video Cutter](http://www.free-video-cutter.org/)
+#### 2.) Free Video Cutter
 
 Free Video Cutter is a free cutting tool which enables you to cut your 3GP video with ease. Not only does the software support 3GP but it can also cope with several other video formats. The cutting process itself is simple, it takes into account audio and even subtitles and lets you worry only about the precise point you wish to cut your video, as a good cutting application should do.
 
@@ -2080,7 +2080,7 @@ Another very easy to use program which supports 3GP. It creates a copy of the se
 
 ![Moo0 Video Cutter](https://images.wondershare.com/multimedia/moo0.png)
 
-#### 4.) [Weeny Free Video Cutter](http://www.weenysoft.com/free-video-cutter.html)
+#### 4.) Weeny Free Video Cutter
 
 This program adds another useful talent to the mix, being able to convert cuts to another format on the fly, and even adjust frame rates, audio settings and so on. As you may expect, with these added features the interface of this video cutter is a little busier, but it is still straightforward to operate and anyone can start cutting videos within five minutes of starting to use it. A well featured piece of software than can cut your 3GP files and many other video formats too.
 

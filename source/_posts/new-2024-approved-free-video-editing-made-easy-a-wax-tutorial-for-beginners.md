@@ -1,0 +1,103 @@
+---
+title: New 2024 Approved Free Video Editing Made Easy A Wax Tutorial for Beginners
+date: 2024-07-02T00:12:26.703Z
+updated: 2024-07-03T00:12:26.703Z
+tags: 
+  - video editing software
+  - video editing
+categories: 
+  - ai
+  - video
+description: This Article Describes New 2024 Approved Free Video Editing Made Easy A Wax Tutorial for Beginners
+excerpt: This Article Describes New 2024 Approved Free Video Editing Made Easy A Wax Tutorial for Beginners
+keywords: free video editing apps for beginners a 2024 review,ai animation ai animation free video editing made easy a wax tutorial for beginners,free video editing made easy a wax tutorial for beginners,online video editing made easy a practical guide for beginners and pros,free video editing made easy a jaycut tutorial for beginners,ai animation free video editing made easy a wax tutorial for beginners,video editing mastery online tutorials for beginners and pros
+thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d15d4b0d06e6a3ab502cdbe2d.jpg
+---
+
+## Free Video Editing Made Easy: A Wax Tutorial for Beginners
+
+# Wax - How to Use Free Video Editor Wax to Edit Videos
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+ Wax is a light weight but high performance and flexible video editing, composition and special effects software. And above all, it's a free video editor for both commercial and personal use. Wax can create 2D & 3D special effects and can work in two modes - as a standalone application and as a "plug-in" to video editors/NLEs like VirtualDub, Sony Vegas, Adobe Premiere, etc.
+
+ This is the getting-started tutorial for Wax. In this Wax tutorial, we are going to show you how to zoom, crop and pan video and image, how to make project settings and how to render AVI videos.
+
+---
+
+ Note: If you think Wax is something complicated, you can turn to [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which enables you to edit videos with separate tracks and add transitions to your videos, finally, convert your video to any video format you like.Download the free trial version of Wondershare Filmora (originally Wondershare Video Editor) (Windows/Mac) below.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+---
+
+#### 1. Zoom, crop and pan image for video
+
+ Download Wax and install it first. Run the software and Load Media Files by right-clicking on MediaPool panel. But this doesn't finish. To edit video, you need to drag-n-drop desired media files to the timeline. Then switch to Video Plugins to drag-n-drop Quick 3d plugin to the just added track.
+
+![wax free video editor](https://images.wondershare.com/topic/video-editing/wax.jpg)
+
+ As shown above, click the triangle next to Quick 3d, you would see many options such as Posx, Posz, Cropleft, Cropbottom, etc. Please see detailed instructions to make editing in Wax:
+
+**Zoom Video**: Click the Posz clock icon to set Keyframming mode to Linear, and then change the value by hanging over mouse to ZEROs and drag to left/right.
+
+**Crop Video**: Click the Cropleft/Croptop/Cropright/Cropbottom clock icon to set Keyframming mode to Linear, and then change the value by hanging over mouse to ZEROs and drag to left/right.
+
+**Pan Video**: Click the Posx clock icon to set Keyframming mode to Linear, and then change the value by hanging over mouse to ZEROs and drag to left/right.
+
+ Note that you could preview the video while making settings in the top preview windows.
+
+#### 2. Make project settings
+
+ Press F3 or click the Project Settings button in the tool bar to bring up the dialog. There, specify the file name, save path and video options, including video dimensions, frame rate, and click OK.
+
+![how to use wax](https://images.wondershare.com/topic/video-editing/wax-settings.jpg)
+
+#### 3. Render AVI video
+
+ Click the green arrow button on the tool bar to start saving video to specified path in the project settings. A few minutes later, you will get the edited video.
+
+![wax video editing](https://images.wondershare.com/topic/video-editing/wax-render.jpg)
+
+ To be concluded, this is just the beginning Wax tutorial. You will find more features while using it. Just download Wax and have a try.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ai-video-apps.techidaily.com/new-ps4-screenshot-sharing-101-tips-and-tricks-for-2024/"><u>New PS4 Screenshot Sharing 101 Tips and Tricks for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-from-shaky-to-steady-3-proven-methods-for-ae-video-stabilization/"><u>Updated 2024 Approved From Shaky to Steady 3 Proven Methods for AE Video Stabilization</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-no-cost-face-generation-top-online-platforms/"><u>Updated No-Cost Face Generation Top Online Platforms</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-linux-loves-video-editing-10-alternatives-to-adobe-premiere-pro/"><u>Updated 2024 Approved Linux Loves Video Editing 10 Alternatives to Adobe Premiere Pro</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-optimize-your-linkedin-videos-the-best-aspect-ratios-for-maximum-engagement/"><u>New 2024 Approved Optimize Your LinkedIn Videos The Best Aspect Ratios for Maximum Engagement</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-last-wav-converter-guide-youll-ever-need/"><u>Updated In 2024, The Last Wav Converter Guide Youll Ever Need</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-a-beginners-guide-to-m4r-conversion-key-concepts-to-grasp-for-2024/"><u>Updated A Beginners Guide to M4R Conversion Key Concepts to Grasp for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-hd-video-101-mastering-pixel-size-and-resolution-for-2024/"><u>New HD Video 101 Mastering Pixel Size and Resolution for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-interplatform-video-uploading-twitter-and-tumblr-synced/"><u>[Updated] Interplatform Video Uploading  Twitter & Tumblr Synced</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-simple-paths-to-start-recording-on-hp-computers/"><u>[New] In 2024, Simple Paths to Start Recording on HP Computers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-alternatives-spotlighted-by-az-screen-recorder/"><u>[New] 2024 Approved  Alternatives Spotlighted by AZ Screen Recorder</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-screenprime-pro-for-advanced-users/"><u>[Updated] ScreenPrime Pro for Advanced Users</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/top-20-best-text-to-speech-software-windows-mac-android-iphone-and-online-for-2024/"><u>Top 20 Best Text To Speech Software Windows, Mac, Android, iPhone & Online for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-ultimate-8-screen-recorders-list/"><u>[Updated] In 2024, Ultimate 8 Screen Recorders List</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-the-essentials-of-tiktok-promotion-best-practices-and-peak-examples/"><u>[New] In 2024, The Essentials of TikTok Promotion  Best Practices and Peak Examples</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-explore-elite-gaming-opening-tutorials-free-and-premium-alternatives/"><u>[Updated] 2024 Approved  Explore Elite Gaming Opening Tutorials  Free & Premium Alternatives</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-achieving-peak-performance-zoom-plus-fb-live-techniques/"><u>2024 Approved  Achieving Peak Performance  ZOOM + FB Live Techniques</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

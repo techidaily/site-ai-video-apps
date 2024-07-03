@@ -1,7 +1,7 @@
 ---
 title: New Conceal Faces with Confidence Professional Video Editing Software for 2024
-date: 2024-05-19T09:40:32.743Z
-updated: 2024-05-20T09:40:32.743Z
+date: 2024-07-02T00:07:35.003Z
+updated: 2024-07-03T00:07:35.003Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Conceal Faces with Confidence Professional Video Editing Software for 2024
 excerpt: This Article Describes New Conceal Faces with Confidence Professional Video Editing Software for 2024
 keywords: best professional video editing software,professional results for free top 4k video editing software choices,video editing platforms with professional soundtracks 2024 review,apples finest video editing software for professionals,top picks video editing software for professionals,mac video maker professional video editing software,conceal faces with confidence professional video editing software
-thumbnail: https://www.lifewire.com/thmb/8ROImJcMy0nz5unlY1bdTJLi7tk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dns-wordcloud-lifewire-2-0c92c02113cb4832870891ac0e13ccbc.png
+thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de65b71eab7da2ab3371e3a0f.png
 ---
 
 ## Conceal Faces with Confidence: Professional Video Editing Software
@@ -38,16 +38,16 @@ Now there are hundreds of video editing software, and every video editor has his
 
 * Select the clip that needs to apply blur face in the timeline, and then go to the **Effects** tab and select   **Utility**.
 
-![ Filmora 9 video editor utility options ](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
+![Filmora 9 video editor utility options](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
 
 * If the image is still, then you can click **Mosaic** option and drag it in the video clip in the timeline.
 
-![ Filmora 9 video editor Mosaic](https://images.wondershare.com/filmora/article-images/filmora9-mosaic-effect-adjust.jpg)
+![Filmora 9 video editor Mosaic](https://images.wondershare.com/filmora/article-images/filmora9-mosaic-effect-adjust.jpg)
 
 * Double click the video clip applied Mosaic effect in the timeline to enter the video effects tab, in where you can dictate the size of the area, the mosaic types, and also adjust the opacity.
 * If the image is in motion and you’d like the blurred area to be mobile as well, drag the **Face Off** from the Effects tab to the timeline and adjust it in the Video Effects tab as well. You can pick the face-off pattern under Video Effects and the Face-off feature will tracks the face that appears on the screen and applies a blur to it.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/filmora-blur-face.JPG)
+![blur faces](https://images.wondershare.com/filmora/article-images/filmora-blur-face.JPG)
 
 * When you’re done, click **OK**  to save the changes and then click **Export** and pick your desired video format.
 
@@ -64,17 +64,17 @@ Those interested in learning how to [blur faces in videos in order to apply the 
 * Sign in your YouTube account and select the **Creator** **Studio** option after clicking the avatar. Locate the video that you want to edit and access video **Enhancements**.
 * You will see two blurring options in the **Enhancement** window: **Blur faces** and **Custom blurring**. To blur all faces appear in the video, go to **Blur faces** and click **Edit**
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/blur-face-in-youtube-enhancement.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/blur-face-in-youtube-enhancement.jpg)
 
 * YouTube will use the face detection tool to analyze all faces in the video and displays the faces in the left side. You can click the face image to blur a specific face throughout the video.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-blur-faces-window.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-blur-faces-window.jpg)
 
 * Preview the blurring effects and if everything goes OK, click **Save** to save the face blurring effect to video. After you’re finished the editing, click **Save** to save the edits in-place, or **Save as New Video**, which creates a new video (this would mean, however, that you would lose any views you previously had).
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-save.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-save.jpg)
 
-In the Enhancement window, you can also blur a specific area of the video with the **custom blurring** option. Want to edit YouTube videos with more features, check our picks of the[best video editing software for YouTubers in 2018.](https://tools.techidaily.com/wondershare/filmora/download/)
+In the Enhancement window, you can also blur a specific area of the video with the **custom blurring** option. Want to edit YouTube videos with more features, check our picks of the [best video editing software for YouTubers in 2018.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### 3. Blur Face with Movavi video editor
 
@@ -85,7 +85,7 @@ In the Enhancement window, you can also blur a specific area of the video with t
 * Open **Movavi** and locate the **Filters**
 * Click **Blur**.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/blur-face-with-movavi-video-editor.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/blur-face-with-movavi-video-editor.jpg)
 
 * Once the filter gallery opens, **drag your desired filter** over the clip or image.
 * You can apply either the **Blur Intense** or the **Blur Mild** effects if you would like to determine their strength.
@@ -138,16 +138,16 @@ Now there are hundreds of video editing software, and every video editor has his
 
 * Select the clip that needs to apply blur face in the timeline, and then go to the **Effects** tab and select   **Utility**.
 
-![ Filmora 9 video editor utility options ](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
+![Filmora 9 video editor utility options](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
 
 * If the image is still, then you can click **Mosaic** option and drag it in the video clip in the timeline.
 
-![ Filmora 9 video editor Mosaic](https://images.wondershare.com/filmora/article-images/filmora9-mosaic-effect-adjust.jpg)
+![Filmora 9 video editor Mosaic](https://images.wondershare.com/filmora/article-images/filmora9-mosaic-effect-adjust.jpg)
 
 * Double click the video clip applied Mosaic effect in the timeline to enter the video effects tab, in where you can dictate the size of the area, the mosaic types, and also adjust the opacity.
 * If the image is in motion and you’d like the blurred area to be mobile as well, drag the **Face Off** from the Effects tab to the timeline and adjust it in the Video Effects tab as well. You can pick the face-off pattern under Video Effects and the Face-off feature will tracks the face that appears on the screen and applies a blur to it.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/filmora-blur-face.JPG)
+![blur faces](https://images.wondershare.com/filmora/article-images/filmora-blur-face.JPG)
 
 * When you’re done, click **OK**  to save the changes and then click **Export** and pick your desired video format.
 
@@ -164,17 +164,17 @@ Those interested in learning how to [blur faces in videos in order to apply the 
 * Sign in your YouTube account and select the **Creator** **Studio** option after clicking the avatar. Locate the video that you want to edit and access video **Enhancements**.
 * You will see two blurring options in the **Enhancement** window: **Blur faces** and **Custom blurring**. To blur all faces appear in the video, go to **Blur faces** and click **Edit**
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/blur-face-in-youtube-enhancement.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/blur-face-in-youtube-enhancement.jpg)
 
 * YouTube will use the face detection tool to analyze all faces in the video and displays the faces in the left side. You can click the face image to blur a specific face throughout the video.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-blur-faces-window.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-blur-faces-window.jpg)
 
 * Preview the blurring effects and if everything goes OK, click **Save** to save the face blurring effect to video. After you’re finished the editing, click **Save** to save the edits in-place, or **Save as New Video**, which creates a new video (this would mean, however, that you would lose any views you previously had).
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-save.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-save.jpg)
 
-In the Enhancement window, you can also blur a specific area of the video with the **custom blurring** option. Want to edit YouTube videos with more features, check our picks of the[best video editing software for YouTubers in 2018.](https://tools.techidaily.com/wondershare/filmora/download/)
+In the Enhancement window, you can also blur a specific area of the video with the **custom blurring** option. Want to edit YouTube videos with more features, check our picks of the [best video editing software for YouTubers in 2018.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### 3. Blur Face with Movavi video editor
 
@@ -185,7 +185,7 @@ In the Enhancement window, you can also blur a specific area of the video with t
 * Open **Movavi** and locate the **Filters**
 * Click **Blur**.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/blur-face-with-movavi-video-editor.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/blur-face-with-movavi-video-editor.jpg)
 
 * Once the filter gallery opens, **drag your desired filter** over the clip or image.
 * You can apply either the **Blur Intense** or the **Blur Mild** effects if you would like to determine their strength.
@@ -238,16 +238,16 @@ Now there are hundreds of video editing software, and every video editor has his
 
 * Select the clip that needs to apply blur face in the timeline, and then go to the **Effects** tab and select   **Utility**.
 
-![ Filmora 9 video editor utility options ](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
+![Filmora 9 video editor utility options](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
 
 * If the image is still, then you can click **Mosaic** option and drag it in the video clip in the timeline.
 
-![ Filmora 9 video editor Mosaic](https://images.wondershare.com/filmora/article-images/filmora9-mosaic-effect-adjust.jpg)
+![Filmora 9 video editor Mosaic](https://images.wondershare.com/filmora/article-images/filmora9-mosaic-effect-adjust.jpg)
 
 * Double click the video clip applied Mosaic effect in the timeline to enter the video effects tab, in where you can dictate the size of the area, the mosaic types, and also adjust the opacity.
 * If the image is in motion and you’d like the blurred area to be mobile as well, drag the **Face Off** from the Effects tab to the timeline and adjust it in the Video Effects tab as well. You can pick the face-off pattern under Video Effects and the Face-off feature will tracks the face that appears on the screen and applies a blur to it.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/filmora-blur-face.JPG)
+![blur faces](https://images.wondershare.com/filmora/article-images/filmora-blur-face.JPG)
 
 * When you’re done, click **OK**  to save the changes and then click **Export** and pick your desired video format.
 
@@ -264,17 +264,17 @@ Those interested in learning how to [blur faces in videos in order to apply the 
 * Sign in your YouTube account and select the **Creator** **Studio** option after clicking the avatar. Locate the video that you want to edit and access video **Enhancements**.
 * You will see two blurring options in the **Enhancement** window: **Blur faces** and **Custom blurring**. To blur all faces appear in the video, go to **Blur faces** and click **Edit**
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/blur-face-in-youtube-enhancement.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/blur-face-in-youtube-enhancement.jpg)
 
 * YouTube will use the face detection tool to analyze all faces in the video and displays the faces in the left side. You can click the face image to blur a specific face throughout the video.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-blur-faces-window.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-blur-faces-window.jpg)
 
 * Preview the blurring effects and if everything goes OK, click **Save** to save the face blurring effect to video. After you’re finished the editing, click **Save** to save the edits in-place, or **Save as New Video**, which creates a new video (this would mean, however, that you would lose any views you previously had).
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-save.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-save.jpg)
 
-In the Enhancement window, you can also blur a specific area of the video with the **custom blurring** option. Want to edit YouTube videos with more features, check our picks of the[best video editing software for YouTubers in 2018.](https://tools.techidaily.com/wondershare/filmora/download/)
+In the Enhancement window, you can also blur a specific area of the video with the **custom blurring** option. Want to edit YouTube videos with more features, check our picks of the [best video editing software for YouTubers in 2018.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### 3. Blur Face with Movavi video editor
 
@@ -285,7 +285,7 @@ In the Enhancement window, you can also blur a specific area of the video with t
 * Open **Movavi** and locate the **Filters**
 * Click **Blur**.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/blur-face-with-movavi-video-editor.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/blur-face-with-movavi-video-editor.jpg)
 
 * Once the filter gallery opens, **drag your desired filter** over the clip or image.
 * You can apply either the **Blur Intense** or the **Blur Mild** effects if you would like to determine their strength.
@@ -338,16 +338,16 @@ Now there are hundreds of video editing software, and every video editor has his
 
 * Select the clip that needs to apply blur face in the timeline, and then go to the **Effects** tab and select   **Utility**.
 
-![ Filmora 9 video editor utility options ](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
+![Filmora 9 video editor utility options](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
 
 * If the image is still, then you can click **Mosaic** option and drag it in the video clip in the timeline.
 
-![ Filmora 9 video editor Mosaic](https://images.wondershare.com/filmora/article-images/filmora9-mosaic-effect-adjust.jpg)
+![Filmora 9 video editor Mosaic](https://images.wondershare.com/filmora/article-images/filmora9-mosaic-effect-adjust.jpg)
 
 * Double click the video clip applied Mosaic effect in the timeline to enter the video effects tab, in where you can dictate the size of the area, the mosaic types, and also adjust the opacity.
 * If the image is in motion and you’d like the blurred area to be mobile as well, drag the **Face Off** from the Effects tab to the timeline and adjust it in the Video Effects tab as well. You can pick the face-off pattern under Video Effects and the Face-off feature will tracks the face that appears on the screen and applies a blur to it.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/filmora-blur-face.JPG)
+![blur faces](https://images.wondershare.com/filmora/article-images/filmora-blur-face.JPG)
 
 * When you’re done, click **OK**  to save the changes and then click **Export** and pick your desired video format.
 
@@ -364,17 +364,17 @@ Those interested in learning how to [blur faces in videos in order to apply the 
 * Sign in your YouTube account and select the **Creator** **Studio** option after clicking the avatar. Locate the video that you want to edit and access video **Enhancements**.
 * You will see two blurring options in the **Enhancement** window: **Blur faces** and **Custom blurring**. To blur all faces appear in the video, go to **Blur faces** and click **Edit**
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/blur-face-in-youtube-enhancement.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/blur-face-in-youtube-enhancement.jpg)
 
 * YouTube will use the face detection tool to analyze all faces in the video and displays the faces in the left side. You can click the face image to blur a specific face throughout the video.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-blur-faces-window.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-blur-faces-window.jpg)
 
 * Preview the blurring effects and if everything goes OK, click **Save** to save the face blurring effect to video. After you’re finished the editing, click **Save** to save the edits in-place, or **Save as New Video**, which creates a new video (this would mean, however, that you would lose any views you previously had).
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-save.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-save.jpg)
 
-In the Enhancement window, you can also blur a specific area of the video with the **custom blurring** option. Want to edit YouTube videos with more features, check our picks of the[best video editing software for YouTubers in 2018.](https://tools.techidaily.com/wondershare/filmora/download/)
+In the Enhancement window, you can also blur a specific area of the video with the **custom blurring** option. Want to edit YouTube videos with more features, check our picks of the [best video editing software for YouTubers in 2018.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### 3. Blur Face with Movavi video editor
 
@@ -385,7 +385,7 @@ In the Enhancement window, you can also blur a specific area of the video with t
 * Open **Movavi** and locate the **Filters**
 * Click **Blur**.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/blur-face-with-movavi-video-editor.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/blur-face-with-movavi-video-editor.jpg)
 
 * Once the filter gallery opens, **drag your desired filter** over the clip or image.
 * You can apply either the **Blur Intense** or the **Blur Mild** effects if you would like to determine their strength.
@@ -450,7 +450,7 @@ In this article, we will examine the **Youtube to Mp3 Converter Review** through
 
 #### In this article
 
-01 [What is a YouTube to MP3 converter? ](#Part 1)
+01 [What is a YouTube to MP3 converter?](#Part 1)
 
 02 [YouTube and MP3 Video Formats](#Part 2)
 
@@ -787,7 +787,7 @@ In this article, we will examine the **Youtube to Mp3 Converter Review** through
 
 #### In this article
 
-01 [What is a YouTube to MP3 converter? ](#Part 1)
+01 [What is a YouTube to MP3 converter?](#Part 1)
 
 02 [YouTube and MP3 Video Formats](#Part 2)
 
@@ -1124,7 +1124,7 @@ In this article, we will examine the **Youtube to Mp3 Converter Review** through
 
 #### In this article
 
-01 [What is a YouTube to MP3 converter? ](#Part 1)
+01 [What is a YouTube to MP3 converter?](#Part 1)
 
 02 [YouTube and MP3 Video Formats](#Part 2)
 
@@ -1461,7 +1461,7 @@ In this article, we will examine the **Youtube to Mp3 Converter Review** through
 
 #### In this article
 
-01 [What is a YouTube to MP3 converter? ](#Part 1)
+01 [What is a YouTube to MP3 converter?](#Part 1)
 
 02 [YouTube and MP3 Video Formats](#Part 2)
 
@@ -1820,7 +1820,7 @@ It is the most versatile audio format that is compatible with almost all devices
 
 01 [Basic Knowledge About the WAV Format](#Part 1)
 
-02 [The Best 6 Fast and Easy WAV Converter Online Free ](#Part 2)
+02 [The Best 6 Fast and Easy WAV Converter Online Free](#Part 2)
 
 03 [5 Quick Ways to Convert MP4 to WAV Audio Files Online and Offline](#Part 3)
 
@@ -1936,7 +1936,7 @@ It is the most versatile audio format that is compatible with almost all devices
 
 01 [Basic Knowledge About the WAV Format](#Part 1)
 
-02 [The Best 6 Fast and Easy WAV Converter Online Free ](#Part 2)
+02 [The Best 6 Fast and Easy WAV Converter Online Free](#Part 2)
 
 03 [5 Quick Ways to Convert MP4 to WAV Audio Files Online and Offline](#Part 3)
 
@@ -2052,7 +2052,7 @@ It is the most versatile audio format that is compatible with almost all devices
 
 01 [Basic Knowledge About the WAV Format](#Part 1)
 
-02 [The Best 6 Fast and Easy WAV Converter Online Free ](#Part 2)
+02 [The Best 6 Fast and Easy WAV Converter Online Free](#Part 2)
 
 03 [5 Quick Ways to Convert MP4 to WAV Audio Files Online and Offline](#Part 3)
 
@@ -2168,7 +2168,7 @@ It is the most versatile audio format that is compatible with almost all devices
 
 01 [Basic Knowledge About the WAV Format](#Part 1)
 
-02 [The Best 6 Fast and Easy WAV Converter Online Free ](#Part 2)
+02 [The Best 6 Fast and Easy WAV Converter Online Free](#Part 2)
 
 03 [5 Quick Ways to Convert MP4 to WAV Audio Files Online and Offline](#Part 3)
 
@@ -2310,7 +2310,7 @@ The timeline is at the bottom portion of the Final Cut Pro. After adding clips t
 
 There is a popup menu for you to get the **Transform** tool. It is in the lower-left corner of the viewer so it should be easy to see. You can use the shortcut as well which can be done by pressing (shift-T). Or Control-click in the viewer and choose Transform.
 
-![ Access the Transform option ](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
+![Access the Transform option](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
 
 #### Step 3:  Rotate and Re-size Video Clips
 
@@ -2318,21 +2318,21 @@ You can now do the following steps to rotate the video clip and change the size 
 
 There are **blue handles at each corner** which enable the user to adjust image size while **maintaining the aspect ratio of the photo.**
 
-![ Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
+![Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
 
 Blue handles in the middle of each side are used to adjust horizontal and vertical image sizes **changing the aspect ratio of the clips.**
 
-![ Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
+![Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
 
 The **center circle** indicates the rotation anchor points that enable the changing of the image position. Drag the blue handle protruding from the circle to **rotate the image.**
 
-![ Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
+![Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
 
 #### Step 4:  Flipping video clips
 
 Click the video clips that you want to flip in the timeline and make sure it is highlighted and then click the Inspector icon on the right side to enter the Inspector panel in which you will then see the Transform option.
 
-![ Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
+![Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
 
 * The positions X and Y enable you to move the image left and right as well as moving it from top to bottom depending on how you want it to be.
 * The Rotation point allows you to rotate the image around its anchor points.
@@ -2386,9 +2386,9 @@ Do you like the basic tutorial about Apple Final Cut Pro? Professional video edi
 
 After you have finished doing all the editing and transformation, you can then click done so that you get your final product. In case the results are not satisfactory you can click the arrow on the right side of each control to get back to the start and begin afresh.
 
-![ Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
+![Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
 
-In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora![](https://tools.techidaily.com/wondershare/filmora/download/)
+In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora ![](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
@@ -2424,7 +2424,7 @@ The timeline is at the bottom portion of the Final Cut Pro. After adding clips t
 
 There is a popup menu for you to get the **Transform** tool. It is in the lower-left corner of the viewer so it should be easy to see. You can use the shortcut as well which can be done by pressing (shift-T). Or Control-click in the viewer and choose Transform.
 
-![ Access the Transform option ](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
+![Access the Transform option](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
 
 #### Step 3:  Rotate and Re-size Video Clips
 
@@ -2432,21 +2432,21 @@ You can now do the following steps to rotate the video clip and change the size 
 
 There are **blue handles at each corner** which enable the user to adjust image size while **maintaining the aspect ratio of the photo.**
 
-![ Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
+![Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
 
 Blue handles in the middle of each side are used to adjust horizontal and vertical image sizes **changing the aspect ratio of the clips.**
 
-![ Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
+![Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
 
 The **center circle** indicates the rotation anchor points that enable the changing of the image position. Drag the blue handle protruding from the circle to **rotate the image.**
 
-![ Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
+![Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
 
 #### Step 4:  Flipping video clips
 
 Click the video clips that you want to flip in the timeline and make sure it is highlighted and then click the Inspector icon on the right side to enter the Inspector panel in which you will then see the Transform option.
 
-![ Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
+![Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
 
 * The positions X and Y enable you to move the image left and right as well as moving it from top to bottom depending on how you want it to be.
 * The Rotation point allows you to rotate the image around its anchor points.
@@ -2500,9 +2500,9 @@ Do you like the basic tutorial about Apple Final Cut Pro? Professional video edi
 
 After you have finished doing all the editing and transformation, you can then click done so that you get your final product. In case the results are not satisfactory you can click the arrow on the right side of each control to get back to the start and begin afresh.
 
-![ Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
+![Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
 
-In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora![](https://tools.techidaily.com/wondershare/filmora/download/)
+In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora ![](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
@@ -2538,7 +2538,7 @@ The timeline is at the bottom portion of the Final Cut Pro. After adding clips t
 
 There is a popup menu for you to get the **Transform** tool. It is in the lower-left corner of the viewer so it should be easy to see. You can use the shortcut as well which can be done by pressing (shift-T). Or Control-click in the viewer and choose Transform.
 
-![ Access the Transform option ](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
+![Access the Transform option](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
 
 #### Step 3:  Rotate and Re-size Video Clips
 
@@ -2546,21 +2546,21 @@ You can now do the following steps to rotate the video clip and change the size 
 
 There are **blue handles at each corner** which enable the user to adjust image size while **maintaining the aspect ratio of the photo.**
 
-![ Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
+![Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
 
 Blue handles in the middle of each side are used to adjust horizontal and vertical image sizes **changing the aspect ratio of the clips.**
 
-![ Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
+![Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
 
 The **center circle** indicates the rotation anchor points that enable the changing of the image position. Drag the blue handle protruding from the circle to **rotate the image.**
 
-![ Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
+![Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
 
 #### Step 4:  Flipping video clips
 
 Click the video clips that you want to flip in the timeline and make sure it is highlighted and then click the Inspector icon on the right side to enter the Inspector panel in which you will then see the Transform option.
 
-![ Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
+![Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
 
 * The positions X and Y enable you to move the image left and right as well as moving it from top to bottom depending on how you want it to be.
 * The Rotation point allows you to rotate the image around its anchor points.
@@ -2614,9 +2614,9 @@ Do you like the basic tutorial about Apple Final Cut Pro? Professional video edi
 
 After you have finished doing all the editing and transformation, you can then click done so that you get your final product. In case the results are not satisfactory you can click the arrow on the right side of each control to get back to the start and begin afresh.
 
-![ Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
+![Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
 
-In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora![](https://tools.techidaily.com/wondershare/filmora/download/)
+In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora ![](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
@@ -2652,7 +2652,7 @@ The timeline is at the bottom portion of the Final Cut Pro. After adding clips t
 
 There is a popup menu for you to get the **Transform** tool. It is in the lower-left corner of the viewer so it should be easy to see. You can use the shortcut as well which can be done by pressing (shift-T). Or Control-click in the viewer and choose Transform.
 
-![ Access the Transform option ](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
+![Access the Transform option](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
 
 #### Step 3:  Rotate and Re-size Video Clips
 
@@ -2660,21 +2660,21 @@ You can now do the following steps to rotate the video clip and change the size 
 
 There are **blue handles at each corner** which enable the user to adjust image size while **maintaining the aspect ratio of the photo.**
 
-![ Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
+![Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
 
 Blue handles in the middle of each side are used to adjust horizontal and vertical image sizes **changing the aspect ratio of the clips.**
 
-![ Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
+![Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
 
 The **center circle** indicates the rotation anchor points that enable the changing of the image position. Drag the blue handle protruding from the circle to **rotate the image.**
 
-![ Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
+![Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
 
 #### Step 4:  Flipping video clips
 
 Click the video clips that you want to flip in the timeline and make sure it is highlighted and then click the Inspector icon on the right side to enter the Inspector panel in which you will then see the Transform option.
 
-![ Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
+![Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
 
 * The positions X and Y enable you to move the image left and right as well as moving it from top to bottom depending on how you want it to be.
 * The Rotation point allows you to rotate the image around its anchor points.
@@ -2728,9 +2728,9 @@ Do you like the basic tutorial about Apple Final Cut Pro? Professional video edi
 
 After you have finished doing all the editing and transformation, you can then click done so that you get your final product. In case the results are not satisfactory you can click the arrow on the right side of each control to get back to the start and begin afresh.
 
-![ Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
+![Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
 
-In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora![](https://tools.techidaily.com/wondershare/filmora/download/)
+In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora ![](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Best PowerDirector Substitutes for Mobile Video Editing
-date: 2024-05-19T09:39:41.875Z
-updated: 2024-05-20T09:39:41.875Z
+date: 2024-07-02T00:07:48.237Z
+updated: 2024-07-03T00:07:48.237Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved The Best PowerDirector Substitutes for Mobile Video Editing
 excerpt: This Article Describes 2024 Approved The Best PowerDirector Substitutes for Mobile Video Editing
 keywords: beyond powerdirector the best mobile video editing apps,video editing for windows discover the best imovie substitutes,the best powerdirector substitutes for mobile video editing,top video editing apps like powerdirector for mobile devices,beyond powerdirector the best mobile video editing apps of,powerdirector vs the rest top alternative video editors for mobile,the ultimate guide to powerdirector alternatives for mobile video editing
-thumbnail: https://www.lifewire.com/thmb/LSRhv9V0PxzBAHOqiakqf0M89LI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1302402871-ea3debd2e3c64ec5a78a99e580b6a8d1.jpg
+thumbnail: https://thmb.techidaily.com/930df60c591e2a9cac7ea1bfd12cb488be55e4b8a96b142f6b85654b12ef9f8e.jpg
 ---
 
 ## The Best PowerDirector Substitutes for Mobile Video Editing
@@ -30,13 +30,13 @@ Currently PowerDirector is only available on Android, but if you’re using an i
 
 ## Best PowerDirector Alternatives for Android and iOS
 
-#### 1\. [Kinemaster](https://www.kinemaster.com/index.php?lang=en) \- £2.91 per month
+#### 1\. Kinemaster
 
 System: Android, iOS
 
 Kinemaster is an impressive app that brings simplicity to complex professional editing tools, making it easy to use even on a small screen. It supports multiple layers including unlimited text, handwriting and sticker layers, as well as up to two video layers and four additional audio tracks. The precision editing features allow you edit frame by frame and it’s easy to quickly import extra footage and add additional effects. With a host of other features we haven’t mentioned it’s amazing how simple this app is. The only downside is the pricing model; instead of a one-off payment you’re saddled with £2.91 per month, an investment that could end up exceeding the value of the app.
 
-#### 2\. [LumaFX](https://luma-touch.com/lumafx/) \- £2.99
+#### 2\. LumaFX
 
 System: iOS
 
@@ -48,7 +48,7 @@ System: iOS
 
 Every iOS user should be familiar with iMovie as it comes bundled on every apple device. Costing nothing is a big upside, especially when the technology handles as intuitively as it does. Splicing footage becomes laughably easy. On the audio side you can add music and personalised voiceovers to your videos and if you’re in the mood for something a little silly there are plenty of over the top TV templates and movie style themes. Accessibility is a big plus for iMovie, but it’s definitely geared to more casual users – professionals will find high end features lacking and should consider a more powerful paid alternative.
 
-#### 4\. [Adobe Premiere Clip](https://www.adobe.com/products/premiere-clip.html) \- Free
+#### 4\. Adobe Premiere Clip
 
 System: Android, iOS
 
@@ -74,13 +74,13 @@ Currently PowerDirector is only available on Android, but if you’re using an i
 
 ## Best PowerDirector Alternatives for Android and iOS
 
-#### 1\. [Kinemaster](https://www.kinemaster.com/index.php?lang=en) \- £2.91 per month
+#### 1\. Kinemaster
 
 System: Android, iOS
 
 Kinemaster is an impressive app that brings simplicity to complex professional editing tools, making it easy to use even on a small screen. It supports multiple layers including unlimited text, handwriting and sticker layers, as well as up to two video layers and four additional audio tracks. The precision editing features allow you edit frame by frame and it’s easy to quickly import extra footage and add additional effects. With a host of other features we haven’t mentioned it’s amazing how simple this app is. The only downside is the pricing model; instead of a one-off payment you’re saddled with £2.91 per month, an investment that could end up exceeding the value of the app.
 
-#### 2\. [LumaFX](https://luma-touch.com/lumafx/) \- £2.99
+#### 2\. LumaFX
 
 System: iOS
 
@@ -92,7 +92,7 @@ System: iOS
 
 Every iOS user should be familiar with iMovie as it comes bundled on every apple device. Costing nothing is a big upside, especially when the technology handles as intuitively as it does. Splicing footage becomes laughably easy. On the audio side you can add music and personalised voiceovers to your videos and if you’re in the mood for something a little silly there are plenty of over the top TV templates and movie style themes. Accessibility is a big plus for iMovie, but it’s definitely geared to more casual users – professionals will find high end features lacking and should consider a more powerful paid alternative.
 
-#### 4\. [Adobe Premiere Clip](https://www.adobe.com/products/premiere-clip.html) \- Free
+#### 4\. Adobe Premiere Clip
 
 System: Android, iOS
 
@@ -118,13 +118,13 @@ Currently PowerDirector is only available on Android, but if you’re using an i
 
 ## Best PowerDirector Alternatives for Android and iOS
 
-#### 1\. [Kinemaster](https://www.kinemaster.com/index.php?lang=en) \- £2.91 per month
+#### 1\. Kinemaster
 
 System: Android, iOS
 
 Kinemaster is an impressive app that brings simplicity to complex professional editing tools, making it easy to use even on a small screen. It supports multiple layers including unlimited text, handwriting and sticker layers, as well as up to two video layers and four additional audio tracks. The precision editing features allow you edit frame by frame and it’s easy to quickly import extra footage and add additional effects. With a host of other features we haven’t mentioned it’s amazing how simple this app is. The only downside is the pricing model; instead of a one-off payment you’re saddled with £2.91 per month, an investment that could end up exceeding the value of the app.
 
-#### 2\. [LumaFX](https://luma-touch.com/lumafx/) \- £2.99
+#### 2\. LumaFX
 
 System: iOS
 
@@ -136,7 +136,7 @@ System: iOS
 
 Every iOS user should be familiar with iMovie as it comes bundled on every apple device. Costing nothing is a big upside, especially when the technology handles as intuitively as it does. Splicing footage becomes laughably easy. On the audio side you can add music and personalised voiceovers to your videos and if you’re in the mood for something a little silly there are plenty of over the top TV templates and movie style themes. Accessibility is a big plus for iMovie, but it’s definitely geared to more casual users – professionals will find high end features lacking and should consider a more powerful paid alternative.
 
-#### 4\. [Adobe Premiere Clip](https://www.adobe.com/products/premiere-clip.html) \- Free
+#### 4\. Adobe Premiere Clip
 
 System: Android, iOS
 
@@ -162,13 +162,13 @@ Currently PowerDirector is only available on Android, but if you’re using an i
 
 ## Best PowerDirector Alternatives for Android and iOS
 
-#### 1\. [Kinemaster](https://www.kinemaster.com/index.php?lang=en) \- £2.91 per month
+#### 1\. Kinemaster
 
 System: Android, iOS
 
 Kinemaster is an impressive app that brings simplicity to complex professional editing tools, making it easy to use even on a small screen. It supports multiple layers including unlimited text, handwriting and sticker layers, as well as up to two video layers and four additional audio tracks. The precision editing features allow you edit frame by frame and it’s easy to quickly import extra footage and add additional effects. With a host of other features we haven’t mentioned it’s amazing how simple this app is. The only downside is the pricing model; instead of a one-off payment you’re saddled with £2.91 per month, an investment that could end up exceeding the value of the app.
 
-#### 2\. [LumaFX](https://luma-touch.com/lumafx/) \- £2.99
+#### 2\. LumaFX
 
 System: iOS
 
@@ -180,7 +180,7 @@ System: iOS
 
 Every iOS user should be familiar with iMovie as it comes bundled on every apple device. Costing nothing is a big upside, especially when the technology handles as intuitively as it does. Splicing footage becomes laughably easy. On the audio side you can add music and personalised voiceovers to your videos and if you’re in the mood for something a little silly there are plenty of over the top TV templates and movie style themes. Accessibility is a big plus for iMovie, but it’s definitely geared to more casual users – professionals will find high end features lacking and should consider a more powerful paid alternative.
 
-#### 4\. [Adobe Premiere Clip](https://www.adobe.com/products/premiere-clip.html) \- Free
+#### 4\. Adobe Premiere Clip
 
 System: Android, iOS
 
@@ -770,7 +770,7 @@ As mentioned earlier that movie intros are very important. Intros have a signifi
 
 To avoid all such situations and make attractive movie intros let's discuss 6 movie intro makers with you. Without any further delay, let’s get started.
 
-### 1\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+### 1\. Wondershare Filmora
 
 ![filmora intro maker](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-1.jpg)
 
@@ -793,7 +793,7 @@ With Filmora Movie Intro Maker, you can create phenomenal intros. Using these fe
 * It has a very simple interface that everyone can easily understand.
 * Wondershare Filmora is available for both Windows and macOS.
 
-### 2\. [Renderforest](https://www.renderforest.com/)
+### 2\. Renderforest
 
 ![renderforest online tool](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-2.jpg)
 
@@ -806,7 +806,7 @@ The best thing about Renderforest is that it has a free intro maker package. Wit
 * With Renderforest and its complete customization feature, you can create attractive and unique movie intros.
 * You can modify the lighting, speed, and animation with Renderforest.
 
-### 3\. [Final Cut Pro X](https://www.apple.com/final-cut-pro/)
+### 3\. Final Cut Pro X
 
 ![final cut pro x design](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-3.jpg)
 
@@ -819,7 +819,7 @@ The software is a leading editor in the industry today. Unlike other makers, you
 * Final Cut Pro X comes with a 90-day trial which is fairly enough to play with it and learn about it.
 * A key feature of editors that either make or break it is their interface. The Final Cut Pro X case has a very intuitive interface.
 
-### 4\. [Biteable](https://biteable.com/)
+### 4\. Biteable
 
 ![bitable online editor](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-4.jpg)
 
@@ -832,7 +832,7 @@ Biteable has a text editor. As well as the editor holds a bunch of stock footage
 * The best part about Biteable is its speed and the level of ease. It has a simple interface that helps beginners understand things easily.
 * Biteable has 2D intros that have very good quality that can attract anyone.
 
-### 5\. [Panzoid](https://panzoid.com/)
+### 5\. Panzoid
 
 ![panzoid editor interface](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-5.jpg)
 
@@ -845,7 +845,7 @@ Panzoid has an online community with which its users create custom content. With
 * Panzoid is completely free along with that the tools are also free.
 * It lets you add your favorite graphic, image, and music to make interesting movie intros.
 
-### 6\. [LightMV](https://lightmv.com/)
+### 6\. LightMV
 
 ![lightmv intro maker](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-6.jpg)
 
@@ -883,7 +883,7 @@ With Filmora Movie Intro Maker, you can create phenomenal intros. Using these fe
 * It has a very simple interface that everyone can easily understand.
 * Wondershare Filmora is available for both Windows and macOS.
 
-### 2\. [Renderforest](https://www.renderforest.com/)
+### 2\. Renderforest
 
 ![renderforest online tool](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-2.jpg)
 
@@ -896,7 +896,7 @@ The best thing about Renderforest is that it has a free intro maker package. Wit
 * With Renderforest and its complete customization feature, you can create attractive and unique movie intros.
 * You can modify the lighting, speed, and animation with Renderforest.
 
-### 3\. [Final Cut Pro X](https://www.apple.com/final-cut-pro/)
+### 3\. Final Cut Pro X
 
 ![final cut pro x design](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-3.jpg)
 
@@ -909,7 +909,7 @@ The software is a leading editor in the industry today. Unlike other makers, you
 * Final Cut Pro X comes with a 90-day trial which is fairly enough to play with it and learn about it.
 * A key feature of editors that either make or break it is their interface. The Final Cut Pro X case has a very intuitive interface.
 
-### 4\. [Biteable](https://biteable.com/)
+### 4\. Biteable
 
 ![bitable online editor](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-4.jpg)
 
@@ -922,7 +922,7 @@ Biteable has a text editor. As well as the editor holds a bunch of stock footage
 * The best part about Biteable is its speed and the level of ease. It has a simple interface that helps beginners understand things easily.
 * Biteable has 2D intros that have very good quality that can attract anyone.
 
-### 5\. [Panzoid](https://panzoid.com/)
+### 5\. Panzoid
 
 ![panzoid editor interface](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-5.jpg)
 
@@ -935,7 +935,7 @@ Panzoid has an online community with which its users create custom content. With
 * Panzoid is completely free along with that the tools are also free.
 * It lets you add your favorite graphic, image, and music to make interesting movie intros.
 
-### 6\. [LightMV](https://lightmv.com/)
+### 6\. LightMV
 
 ![lightmv intro maker](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-6.jpg)
 
@@ -973,7 +973,7 @@ With Filmora Movie Intro Maker, you can create phenomenal intros. Using these fe
 * It has a very simple interface that everyone can easily understand.
 * Wondershare Filmora is available for both Windows and macOS.
 
-### 2\. [Renderforest](https://www.renderforest.com/)
+### 2\. Renderforest
 
 ![renderforest online tool](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-2.jpg)
 
@@ -986,7 +986,7 @@ The best thing about Renderforest is that it has a free intro maker package. Wit
 * With Renderforest and its complete customization feature, you can create attractive and unique movie intros.
 * You can modify the lighting, speed, and animation with Renderforest.
 
-### 3\. [Final Cut Pro X](https://www.apple.com/final-cut-pro/)
+### 3\. Final Cut Pro X
 
 ![final cut pro x design](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-3.jpg)
 
@@ -999,7 +999,7 @@ The software is a leading editor in the industry today. Unlike other makers, you
 * Final Cut Pro X comes with a 90-day trial which is fairly enough to play with it and learn about it.
 * A key feature of editors that either make or break it is their interface. The Final Cut Pro X case has a very intuitive interface.
 
-### 4\. [Biteable](https://biteable.com/)
+### 4\. Biteable
 
 ![bitable online editor](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-4.jpg)
 
@@ -1012,7 +1012,7 @@ Biteable has a text editor. As well as the editor holds a bunch of stock footage
 * The best part about Biteable is its speed and the level of ease. It has a simple interface that helps beginners understand things easily.
 * Biteable has 2D intros that have very good quality that can attract anyone.
 
-### 5\. [Panzoid](https://panzoid.com/)
+### 5\. Panzoid
 
 ![panzoid editor interface](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-5.jpg)
 
@@ -1025,7 +1025,7 @@ Panzoid has an online community with which its users create custom content. With
 * Panzoid is completely free along with that the tools are also free.
 * It lets you add your favorite graphic, image, and music to make interesting movie intros.
 
-### 6\. [LightMV](https://lightmv.com/)
+### 6\. LightMV
 
 ![lightmv intro maker](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-6.jpg)
 
@@ -1063,7 +1063,7 @@ With Filmora Movie Intro Maker, you can create phenomenal intros. Using these fe
 * It has a very simple interface that everyone can easily understand.
 * Wondershare Filmora is available for both Windows and macOS.
 
-### 2\. [Renderforest](https://www.renderforest.com/)
+### 2\. Renderforest
 
 ![renderforest online tool](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-2.jpg)
 
@@ -1076,7 +1076,7 @@ The best thing about Renderforest is that it has a free intro maker package. Wit
 * With Renderforest and its complete customization feature, you can create attractive and unique movie intros.
 * You can modify the lighting, speed, and animation with Renderforest.
 
-### 3\. [Final Cut Pro X](https://www.apple.com/final-cut-pro/)
+### 3\. Final Cut Pro X
 
 ![final cut pro x design](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-3.jpg)
 
@@ -1089,7 +1089,7 @@ The software is a leading editor in the industry today. Unlike other makers, you
 * Final Cut Pro X comes with a 90-day trial which is fairly enough to play with it and learn about it.
 * A key feature of editors that either make or break it is their interface. The Final Cut Pro X case has a very intuitive interface.
 
-### 4\. [Biteable](https://biteable.com/)
+### 4\. Biteable
 
 ![bitable online editor](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-4.jpg)
 
@@ -1102,7 +1102,7 @@ Biteable has a text editor. As well as the editor holds a bunch of stock footage
 * The best part about Biteable is its speed and the level of ease. It has a simple interface that helps beginners understand things easily.
 * Biteable has 2D intros that have very good quality that can attract anyone.
 
-### 5\. [Panzoid](https://panzoid.com/)
+### 5\. Panzoid
 
 ![panzoid editor interface](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-5.jpg)
 
@@ -1115,7 +1115,7 @@ Panzoid has an online community with which its users create custom content. With
 * Panzoid is completely free along with that the tools are also free.
 * It lets you add your favorite graphic, image, and music to make interesting movie intros.
 
-### 6\. [LightMV](https://lightmv.com/)
+### 6\. LightMV
 
 ![lightmv intro maker](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-6.jpg)
 
@@ -1160,7 +1160,7 @@ Detailed tutorials provided by the official channel
 
 You may have seen some time lapse videos already. A sunset motion, flower blooming, traffic and city lights and more time lapse videos. Time lapse is an amazing technique often used to make everything in the video seems moving much faster than in real life, like speed up a video clip and give the illusion of compressed time.
 
-If you have a GoPro Hero 5 Black action camera, check our article about[how to shoot a time-lapse video with GoPro.](https://tools.techidaily.com/wondershare/filmora/download/)
+If you have a GoPro Hero 5 Black action camera, check our article about [how to shoot a time-lapse video with GoPro.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Some [phones also allow you to shoot time-lapse video](https://tools.techidaily.com/wondershare/filmora/download/), but we recommend you to use a good camera and video editing software to make better time lapse videos. If you are looking for a time lapse software to make a time lapse video, we recommend [Filmora video editor](https://tools.techidaily.com/wondershare/filmora/download/), which is easy to use on both Windows PC and Mac. How to create a time-lapse video with Filmora? Download the software and follow the step-by-step tutorial below.
 
@@ -1207,7 +1207,7 @@ After all your photos are placed in timeline, you can zoom in the timeline or pr
 
 Select one of the photos in the timeline and right click on it to select **Speed and Duration** to open the Custom Speed panel. Go to **Duration** section, and change the duration of the photo to 00:00:00:01 or other duration based on your needs, and then click **OK**.
 
-![ Photo Timelapse video ](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
+![Photo Timelapse video](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
 
 You can also add a background music to make time lapse more professional. You can choose a music sound from the built-in music library or import your own audio file.
 
@@ -1263,7 +1263,7 @@ Follow @Ollie Mattison
 
 You may have seen some time lapse videos already. A sunset motion, flower blooming, traffic and city lights and more time lapse videos. Time lapse is an amazing technique often used to make everything in the video seems moving much faster than in real life, like speed up a video clip and give the illusion of compressed time.
 
-If you have a GoPro Hero 5 Black action camera, check our article about[how to shoot a time-lapse video with GoPro.](https://tools.techidaily.com/wondershare/filmora/download/)
+If you have a GoPro Hero 5 Black action camera, check our article about [how to shoot a time-lapse video with GoPro.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Some [phones also allow you to shoot time-lapse video](https://tools.techidaily.com/wondershare/filmora/download/), but we recommend you to use a good camera and video editing software to make better time lapse videos. If you are looking for a time lapse software to make a time lapse video, we recommend [Filmora video editor](https://tools.techidaily.com/wondershare/filmora/download/), which is easy to use on both Windows PC and Mac. How to create a time-lapse video with Filmora? Download the software and follow the step-by-step tutorial below.
 
@@ -1310,7 +1310,7 @@ After all your photos are placed in timeline, you can zoom in the timeline or pr
 
 Select one of the photos in the timeline and right click on it to select **Speed and Duration** to open the Custom Speed panel. Go to **Duration** section, and change the duration of the photo to 00:00:00:01 or other duration based on your needs, and then click **OK**.
 
-![ Photo Timelapse video ](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
+![Photo Timelapse video](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
 
 You can also add a background music to make time lapse more professional. You can choose a music sound from the built-in music library or import your own audio file.
 
@@ -1366,7 +1366,7 @@ Follow @Ollie Mattison
 
 You may have seen some time lapse videos already. A sunset motion, flower blooming, traffic and city lights and more time lapse videos. Time lapse is an amazing technique often used to make everything in the video seems moving much faster than in real life, like speed up a video clip and give the illusion of compressed time.
 
-If you have a GoPro Hero 5 Black action camera, check our article about[how to shoot a time-lapse video with GoPro.](https://tools.techidaily.com/wondershare/filmora/download/)
+If you have a GoPro Hero 5 Black action camera, check our article about [how to shoot a time-lapse video with GoPro.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Some [phones also allow you to shoot time-lapse video](https://tools.techidaily.com/wondershare/filmora/download/), but we recommend you to use a good camera and video editing software to make better time lapse videos. If you are looking for a time lapse software to make a time lapse video, we recommend [Filmora video editor](https://tools.techidaily.com/wondershare/filmora/download/), which is easy to use on both Windows PC and Mac. How to create a time-lapse video with Filmora? Download the software and follow the step-by-step tutorial below.
 
@@ -1413,7 +1413,7 @@ After all your photos are placed in timeline, you can zoom in the timeline or pr
 
 Select one of the photos in the timeline and right click on it to select **Speed and Duration** to open the Custom Speed panel. Go to **Duration** section, and change the duration of the photo to 00:00:00:01 or other duration based on your needs, and then click **OK**.
 
-![ Photo Timelapse video ](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
+![Photo Timelapse video](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
 
 You can also add a background music to make time lapse more professional. You can choose a music sound from the built-in music library or import your own audio file.
 
@@ -1469,7 +1469,7 @@ Follow @Ollie Mattison
 
 You may have seen some time lapse videos already. A sunset motion, flower blooming, traffic and city lights and more time lapse videos. Time lapse is an amazing technique often used to make everything in the video seems moving much faster than in real life, like speed up a video clip and give the illusion of compressed time.
 
-If you have a GoPro Hero 5 Black action camera, check our article about[how to shoot a time-lapse video with GoPro.](https://tools.techidaily.com/wondershare/filmora/download/)
+If you have a GoPro Hero 5 Black action camera, check our article about [how to shoot a time-lapse video with GoPro.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Some [phones also allow you to shoot time-lapse video](https://tools.techidaily.com/wondershare/filmora/download/), but we recommend you to use a good camera and video editing software to make better time lapse videos. If you are looking for a time lapse software to make a time lapse video, we recommend [Filmora video editor](https://tools.techidaily.com/wondershare/filmora/download/), which is easy to use on both Windows PC and Mac. How to create a time-lapse video with Filmora? Download the software and follow the step-by-step tutorial below.
 
@@ -1516,7 +1516,7 @@ After all your photos are placed in timeline, you can zoom in the timeline or pr
 
 Select one of the photos in the timeline and right click on it to select **Speed and Duration** to open the Custom Speed panel. Go to **Duration** section, and change the duration of the photo to 00:00:00:01 or other duration based on your needs, and then click **OK**.
 
-![ Photo Timelapse video ](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
+![Photo Timelapse video](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
 
 You can also add a background music to make time lapse more professional. You can choose a music sound from the built-in music library or import your own audio file.
 

@@ -1,7 +1,7 @@
 ---
 title: Updated GoPro Quik Vs. The Competition A Review & Alternative Options for PC for 2024
-date: 2024-04-28T01:09:08.389Z
-updated: 2024-04-29T01:09:08.389Z
+date: 2024-07-02T00:07:28.502Z
+updated: 2024-07-03T00:07:28.502Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated GoPro Quik Vs. The Competition A Review & Alternative Options for PC for 2024
 excerpt: This Article Describes Updated GoPro Quik Vs. The Competition A Review & Alternative Options for PC for 2024
 keywords: ai animation quik fix a review of gopros video editor top pc alternatives,gopro quik vs the competition a review and alternative options for pc,gopro quik for pc a review and comparison of alternative options,virtualdub vs the competition a comprehensive review and alternative options,gopro quik vs the competition a review alternative options for pc,editing on the go gopro quik review and pc alternatives,gopro quik for pc a comprehensive review and alternatives
-thumbnail: https://www.lifewire.com/thmb/0zAfKCPSLtJGJZ4s7ICQ5FGmSzY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Verified-badge-on-phone-658ecad4f9104dae97a969bfa2f74eb3.jpg
+thumbnail: https://thmb.techidaily.com/bedeaab43df1b8b5afd8fae799c1b0ff2cb5a9adc8ca952932303c5e2c53ba39.jpg
 ---
 
 ## GoPro Quik Vs. The Competition: A Review & Alternative Options for PC
@@ -328,7 +328,7 @@ If you are looking for how to turn a picture into a cartoon, make sure you don�
 
 Try using the Android apps below to convert your pictures into cartoons effortlessly.
 
-### 1.[MomentCam](https://play.google.com/store/apps/details?id=com.manboker.headportrait)
+### 1. MomentCam
 
 This app comes with a wide selection of emoticons and cartoons to make your experience memorable. Along with elegantly converting your pictures into cartoons, this app also gives rewards to the most creative users.
 
@@ -346,7 +346,7 @@ All you need is to upload the photo you want to cartoon and select the suitable 
 * Some users have reported loading issues.
 * Every photo you create with the free version comes with a watermark.
 
-### 2\. [Cartoon Photo Editor](https://play.google.com/store/apps/details?id=com.thmobile.cartoonme.artphotoeditor)
+### 2\. Cartoon Photo Editor
 
 This application is specifically designed to convert your photos to cartoons. A single click can help you get this job done quickly. It comes with a selfie mode that makes photo editing an easy task for you. The high processing speed of the Cartoon Photo Editor assists you in cartooning yourself within seconds.
 
@@ -361,7 +361,7 @@ This application is specifically designed to convert your photos to cartoons. A 
 
 * The display of too many advertisements may be awkward for users.
 
-### 3.[**Painnt**](https://play.google.com/store/apps/details?id=io.moonlighting.painnt)
+### 3. **Painnt**
 
 It is listed among the few leading Android apps that help you **turn yourself into a cartoon**. Whether you want to adjust the brightness, saturation, transparency, or other parameters of your images, Painnt will become your go-to photo editor. Plus, this app features a creative community where you can find like-minded people and artwork of other users.
 
@@ -377,7 +377,7 @@ It is listed among the few leading Android apps that help you **turn yourself in
 
 * Some users have reported bugs in the desktop version of this application.
 
-### 4\. [Prisma Photo Editor](https://play.google.com/store/apps/details?id=com.neuralprisma)
+### 4\. Prisma Photo Editor
 
 You must have heard this name, as it was the most popular photo-editing app on the market a few years back. Though Prisma is not as popular as it was in the past, it still features some amazing filters and cartoon effects. It is known for giving your photo a cartoonish look as if it is designed by seasoned photo artists.
 
@@ -394,7 +394,7 @@ The best thing about this application is that it introduces new filters and effe
 
 * It crashes sometimes on Android and iPhone devices.
 
-### 5.[Cartoon Yourself](https://play.google.com/store/apps/details?id=com.sketchmypic.cartoonyourself)
+### 5. Cartoon Yourself
 
 With this photo-editing application, you can turn yourself into a cartoon very easily. Though it does not allow you to take pictures, it makes it super easy for you to create cartoon photos from your existing images.
 
@@ -417,7 +417,7 @@ It also comes with basic photo editing features, including but not limited to ro
 
 Do you use iPhone devices? Looking for apps to create your cartoon photos? Try any of the applications listed below.
 
-### 1.[Clip2Comic; Caricature Maker](https://itunes.apple.com/us/app/clip2comic-caricature-maker/id876328355?mt=8)
+### 1. Clip2Comic; Caricature Maker
 
 This application enables you to use existing photos to create their cartoon versions. At the same time, it also allows you to use the phone’s camera, take a picture, and convert it into a cartoon. With the live preview feature, you can see how pictures will look like once you record or capture them.
 
@@ -434,7 +434,7 @@ Clip2Comic offers eight art filters, sketch, toon, and comics. The photo editing
 
 * In-app purchases and ads may be irritating for some users.
 
-### 2.[**Moments Cartoon Caricature**](https://itunes.apple.com/us/app/moment-cartoon-caricature-cam/id949800660?mt=8)
+### 2. **Moments Cartoon Caricature**
 
 The caricature tools of this mobile application helps you turn your ordinary pictures into hilarious photos. In addition, this app enables you to participate in different selfie contests. With this app, you can access both the front and back cameras of your mobile device to capture as many pictures as you want.
 
@@ -452,7 +452,7 @@ A rich collection of features to convert your photos into cartoons makes the Mom
 
 * Sometimes, you may find loading issues.
 
-### 3.[**Cartoon Sketch Camera Pro**](https://itunes.apple.com/us/app/cartoon-sketch-camera-pro/id946284033?mt=8)
+### 3. **Cartoon Sketch Camera Pro**
 
 This photo editor features a huge collection of effects to cartoon your photos, including but not limited to Dots, Crosshatch, Swirl, Sketch, Emboss, Cartoon, and Halftone. Once you upload your pictures and cartoon them, you have the option to share your creations on all popular social media platforms. It is just a matter of a single click.
 
@@ -467,7 +467,7 @@ This photo editor features a huge collection of effects to cartoon your photos, 
 
 * Seeing a lot of ads in the free version may be annoying for you and other users.
 
-### 4.[**ToonCamera**](https://itunes.apple.com/us/app/tooncamera/id392538848?mt=8)
+### 4. **ToonCamera**
 
 This photo editor is specifically designed for iPhone users to take pictures and turn them into cartoons within minutes. You can find a broad collection of pencil effects, ink, stipple, and cartoons in this mobile app. The best thing about this application is that it shows you a real-time preview so that you can understand how your cartoon photos will look like.
 
@@ -484,7 +484,7 @@ Moreover, ToonCamera can customize your photos freely to maximize the visual eff
 
 * This app does not run on iPhone devices with a version earlier than 8.1.
 
-### 5.[Sketch Me](https://itunes.apple.com/us/app/sketch-me-sketch-cartoon/id592986685?mt=8)
+### 5. Sketch Me
 
 Using this application makes it easy to create social media hits. You can achieve high standards with different cartoon effects, like Hatching, Cartoon, and Pastel. You can fine-tune each effect and adjust opacity and edge strength. It will help you highlight specific parts of your pictures.
 
@@ -551,7 +551,7 @@ If you would like to find out how to cartoon yourself, you’re at the right pla
 
 by Liza Brown Apr 01, 2024 11:19 AM
 
-[10 Best PC and Online Cartoon Video Makers Easily \[Easy to Use\] ](/video-editor/best-cartoon-video-maker-2.html)
+[10 Best PC and Online Cartoon Video Makers Easily \[Easy to Use\]](/video-editor/best-cartoon-video-maker-2.html)
 
 Despite the aforementioned restrictions, cartoon video makers still offer a sea of possibilities to their users, so let's dive into the magical world of animated video.
 
@@ -583,7 +583,7 @@ If you are looking for how to turn a picture into a cartoon, make sure you don�
 
 Try using the Android apps below to convert your pictures into cartoons effortlessly.
 
-### 1.[MomentCam](https://play.google.com/store/apps/details?id=com.manboker.headportrait)
+### 1. MomentCam
 
 This app comes with a wide selection of emoticons and cartoons to make your experience memorable. Along with elegantly converting your pictures into cartoons, this app also gives rewards to the most creative users.
 
@@ -601,7 +601,7 @@ All you need is to upload the photo you want to cartoon and select the suitable 
 * Some users have reported loading issues.
 * Every photo you create with the free version comes with a watermark.
 
-### 2\. [Cartoon Photo Editor](https://play.google.com/store/apps/details?id=com.thmobile.cartoonme.artphotoeditor)
+### 2\. Cartoon Photo Editor
 
 This application is specifically designed to convert your photos to cartoons. A single click can help you get this job done quickly. It comes with a selfie mode that makes photo editing an easy task for you. The high processing speed of the Cartoon Photo Editor assists you in cartooning yourself within seconds.
 
@@ -616,7 +616,7 @@ This application is specifically designed to convert your photos to cartoons. A 
 
 * The display of too many advertisements may be awkward for users.
 
-### 3.[**Painnt**](https://play.google.com/store/apps/details?id=io.moonlighting.painnt)
+### 3. **Painnt**
 
 It is listed among the few leading Android apps that help you **turn yourself into a cartoon**. Whether you want to adjust the brightness, saturation, transparency, or other parameters of your images, Painnt will become your go-to photo editor. Plus, this app features a creative community where you can find like-minded people and artwork of other users.
 
@@ -632,7 +632,7 @@ It is listed among the few leading Android apps that help you **turn yourself in
 
 * Some users have reported bugs in the desktop version of this application.
 
-### 4\. [Prisma Photo Editor](https://play.google.com/store/apps/details?id=com.neuralprisma)
+### 4\. Prisma Photo Editor
 
 You must have heard this name, as it was the most popular photo-editing app on the market a few years back. Though Prisma is not as popular as it was in the past, it still features some amazing filters and cartoon effects. It is known for giving your photo a cartoonish look as if it is designed by seasoned photo artists.
 
@@ -649,7 +649,7 @@ The best thing about this application is that it introduces new filters and effe
 
 * It crashes sometimes on Android and iPhone devices.
 
-### 5.[Cartoon Yourself](https://play.google.com/store/apps/details?id=com.sketchmypic.cartoonyourself)
+### 5. Cartoon Yourself
 
 With this photo-editing application, you can turn yourself into a cartoon very easily. Though it does not allow you to take pictures, it makes it super easy for you to create cartoon photos from your existing images.
 
@@ -672,7 +672,7 @@ It also comes with basic photo editing features, including but not limited to ro
 
 Do you use iPhone devices? Looking for apps to create your cartoon photos? Try any of the applications listed below.
 
-### 1.[Clip2Comic; Caricature Maker](https://itunes.apple.com/us/app/clip2comic-caricature-maker/id876328355?mt=8)
+### 1. Clip2Comic; Caricature Maker
 
 This application enables you to use existing photos to create their cartoon versions. At the same time, it also allows you to use the phone’s camera, take a picture, and convert it into a cartoon. With the live preview feature, you can see how pictures will look like once you record or capture them.
 
@@ -689,7 +689,7 @@ Clip2Comic offers eight art filters, sketch, toon, and comics. The photo editing
 
 * In-app purchases and ads may be irritating for some users.
 
-### 2.[**Moments Cartoon Caricature**](https://itunes.apple.com/us/app/moment-cartoon-caricature-cam/id949800660?mt=8)
+### 2. **Moments Cartoon Caricature**
 
 The caricature tools of this mobile application helps you turn your ordinary pictures into hilarious photos. In addition, this app enables you to participate in different selfie contests. With this app, you can access both the front and back cameras of your mobile device to capture as many pictures as you want.
 
@@ -707,7 +707,7 @@ A rich collection of features to convert your photos into cartoons makes the Mom
 
 * Sometimes, you may find loading issues.
 
-### 3.[**Cartoon Sketch Camera Pro**](https://itunes.apple.com/us/app/cartoon-sketch-camera-pro/id946284033?mt=8)
+### 3. **Cartoon Sketch Camera Pro**
 
 This photo editor features a huge collection of effects to cartoon your photos, including but not limited to Dots, Crosshatch, Swirl, Sketch, Emboss, Cartoon, and Halftone. Once you upload your pictures and cartoon them, you have the option to share your creations on all popular social media platforms. It is just a matter of a single click.
 
@@ -722,7 +722,7 @@ This photo editor features a huge collection of effects to cartoon your photos, 
 
 * Seeing a lot of ads in the free version may be annoying for you and other users.
 
-### 4.[**ToonCamera**](https://itunes.apple.com/us/app/tooncamera/id392538848?mt=8)
+### 4. **ToonCamera**
 
 This photo editor is specifically designed for iPhone users to take pictures and turn them into cartoons within minutes. You can find a broad collection of pencil effects, ink, stipple, and cartoons in this mobile app. The best thing about this application is that it shows you a real-time preview so that you can understand how your cartoon photos will look like.
 
@@ -739,7 +739,7 @@ Moreover, ToonCamera can customize your photos freely to maximize the visual eff
 
 * This app does not run on iPhone devices with a version earlier than 8.1.
 
-### 5.[Sketch Me](https://itunes.apple.com/us/app/sketch-me-sketch-cartoon/id592986685?mt=8)
+### 5. Sketch Me
 
 Using this application makes it easy to create social media hits. You can achieve high standards with different cartoon effects, like Hatching, Cartoon, and Pastel. You can fine-tune each effect and adjust opacity and edge strength. It will help you highlight specific parts of your pictures.
 
@@ -806,7 +806,7 @@ If you would like to find out how to cartoon yourself, you’re at the right pla
 
 by Liza Brown Apr 01, 2024 11:19 AM
 
-[10 Best PC and Online Cartoon Video Makers Easily \[Easy to Use\] ](/video-editor/best-cartoon-video-maker-2.html)
+[10 Best PC and Online Cartoon Video Makers Easily \[Easy to Use\]](/video-editor/best-cartoon-video-maker-2.html)
 
 Despite the aforementioned restrictions, cartoon video makers still offer a sea of possibilities to their users, so let's dive into the magical world of animated video.
 
@@ -866,7 +866,7 @@ It is possible to apply transitions with a simple shortcut; all that you need to
 
 It is desired because the transition effect can be applied only if you have more than one clip on the timeline. Also, you can see more [keyboard shortcuts](https://tools.techidaily.com/wondershare/filmora/download/) here.
 
-![Blade your clip ](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-2.png)
+![Blade your clip](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-2.png)
 
 Once you have obtained your two scenes for which you need to add transition effect then select the very first scene from the timeline. Now open the Video animation window on your device, it can be done by pressing Shift+V; find the Compositing option, and then apply default transitions by simply dragging timeline handle towards both sides of the composite window. In FCP, Cross dissolve will be selected as the default transition.
 
@@ -876,7 +876,7 @@ Once you have obtained your two scenes for which you need to add transition effe
 
 * Go to the media toolbar and then hit the transition icon. It can be identified as a shaded box over which X is written.
 
-![Transition icon ](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-4.png)
+![Transition icon](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-4.png)
 
 * Now choose your favorite transition from Browser and drag it to your timeline.
 * It is time to place the dragged transition between two video clips that you need to edit here.
@@ -890,11 +890,11 @@ Once you have obtained your two scenes for which you need to add transition effe
 * It can be selected from Ctrl+D options also.
 * You can use the precision editor option to adjust transition duration.
 
-![ Precision editor option to adjust transition duration ](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-6.png)
+![Precision editor option to adjust transition duration](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-6.png)
 
 * Users can also edit preferences for transition on Final Cut Pro software tool as per need.
 
-![ Edit preferences for transition](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-7.png)
+![Edit preferences for transition](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-7.png)
 
 #### **Part 3: Use Menu Bar to Apply Transition:**
 
@@ -951,7 +951,7 @@ It is possible to apply transitions with a simple shortcut; all that you need to
 
 It is desired because the transition effect can be applied only if you have more than one clip on the timeline. Also, you can see more [keyboard shortcuts](https://tools.techidaily.com/wondershare/filmora/download/) here.
 
-![Blade your clip ](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-2.png)
+![Blade your clip](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-2.png)
 
 Once you have obtained your two scenes for which you need to add transition effect then select the very first scene from the timeline. Now open the Video animation window on your device, it can be done by pressing Shift+V; find the Compositing option, and then apply default transitions by simply dragging timeline handle towards both sides of the composite window. In FCP, Cross dissolve will be selected as the default transition.
 
@@ -961,7 +961,7 @@ Once you have obtained your two scenes for which you need to add transition effe
 
 * Go to the media toolbar and then hit the transition icon. It can be identified as a shaded box over which X is written.
 
-![Transition icon ](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-4.png)
+![Transition icon](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-4.png)
 
 * Now choose your favorite transition from Browser and drag it to your timeline.
 * It is time to place the dragged transition between two video clips that you need to edit here.
@@ -975,11 +975,11 @@ Once you have obtained your two scenes for which you need to add transition effe
 * It can be selected from Ctrl+D options also.
 * You can use the precision editor option to adjust transition duration.
 
-![ Precision editor option to adjust transition duration ](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-6.png)
+![Precision editor option to adjust transition duration](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-6.png)
 
 * Users can also edit preferences for transition on Final Cut Pro software tool as per need.
 
-![ Edit preferences for transition](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-7.png)
+![Edit preferences for transition](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-7.png)
 
 #### **Part 3: Use Menu Bar to Apply Transition:**
 
@@ -1036,7 +1036,7 @@ It is possible to apply transitions with a simple shortcut; all that you need to
 
 It is desired because the transition effect can be applied only if you have more than one clip on the timeline. Also, you can see more [keyboard shortcuts](https://tools.techidaily.com/wondershare/filmora/download/) here.
 
-![Blade your clip ](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-2.png)
+![Blade your clip](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-2.png)
 
 Once you have obtained your two scenes for which you need to add transition effect then select the very first scene from the timeline. Now open the Video animation window on your device, it can be done by pressing Shift+V; find the Compositing option, and then apply default transitions by simply dragging timeline handle towards both sides of the composite window. In FCP, Cross dissolve will be selected as the default transition.
 
@@ -1046,7 +1046,7 @@ Once you have obtained your two scenes for which you need to add transition effe
 
 * Go to the media toolbar and then hit the transition icon. It can be identified as a shaded box over which X is written.
 
-![Transition icon ](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-4.png)
+![Transition icon](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-4.png)
 
 * Now choose your favorite transition from Browser and drag it to your timeline.
 * It is time to place the dragged transition between two video clips that you need to edit here.
@@ -1060,11 +1060,11 @@ Once you have obtained your two scenes for which you need to add transition effe
 * It can be selected from Ctrl+D options also.
 * You can use the precision editor option to adjust transition duration.
 
-![ Precision editor option to adjust transition duration ](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-6.png)
+![Precision editor option to adjust transition duration](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-6.png)
 
 * Users can also edit preferences for transition on Final Cut Pro software tool as per need.
 
-![ Edit preferences for transition](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-7.png)
+![Edit preferences for transition](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-7.png)
 
 #### **Part 3: Use Menu Bar to Apply Transition:**
 
@@ -1121,7 +1121,7 @@ It is possible to apply transitions with a simple shortcut; all that you need to
 
 It is desired because the transition effect can be applied only if you have more than one clip on the timeline. Also, you can see more [keyboard shortcuts](https://tools.techidaily.com/wondershare/filmora/download/) here.
 
-![Blade your clip ](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-2.png)
+![Blade your clip](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-2.png)
 
 Once you have obtained your two scenes for which you need to add transition effect then select the very first scene from the timeline. Now open the Video animation window on your device, it can be done by pressing Shift+V; find the Compositing option, and then apply default transitions by simply dragging timeline handle towards both sides of the composite window. In FCP, Cross dissolve will be selected as the default transition.
 
@@ -1131,7 +1131,7 @@ Once you have obtained your two scenes for which you need to add transition effe
 
 * Go to the media toolbar and then hit the transition icon. It can be identified as a shaded box over which X is written.
 
-![Transition icon ](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-4.png)
+![Transition icon](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-4.png)
 
 * Now choose your favorite transition from Browser and drag it to your timeline.
 * It is time to place the dragged transition between two video clips that you need to edit here.
@@ -1145,11 +1145,11 @@ Once you have obtained your two scenes for which you need to add transition effe
 * It can be selected from Ctrl+D options also.
 * You can use the precision editor option to adjust transition duration.
 
-![ Precision editor option to adjust transition duration ](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-6.png)
+![Precision editor option to adjust transition duration](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-6.png)
 
 * Users can also edit preferences for transition on Final Cut Pro software tool as per need.
 
-![ Edit preferences for transition](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-7.png)
+![Edit preferences for transition](https://images.wondershare.com/filmora/article-images/add-transitions-in-fcp-7.png)
 
 #### **Part 3: Use Menu Bar to Apply Transition:**
 
@@ -1427,7 +1427,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -1441,13 +1441,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -1704,7 +1704,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -1718,13 +1718,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -1981,7 +1981,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -1995,13 +1995,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -2258,7 +2258,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -2272,13 +2272,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
