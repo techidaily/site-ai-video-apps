@@ -1,7 +1,7 @@
 ---
 title: In 2024, Unlock 3D Magic A Beginners Guide to Video Effects on Windows 10 and 11
-date: 2024-05-19T09:39:57.421Z
-updated: 2024-05-20T09:39:57.421Z
+date: 2024-07-09T18:47:26.297Z
+updated: 2024-07-10T18:47:26.297Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, Unlock 3D Magic A Beginners Guide to Video Effects on Windows 10 and 11
 excerpt: This Article Describes In 2024, Unlock 3D Magic A Beginners Guide to Video Effects on Windows 10 and 11
 keywords: unlock 3d magic a beginners guide to video effects on windows pc,3d video magic a beginners guide to windows video editing,unlock 3d video magic a tutorial for windows 10 and windows 11 users,unlock flv video editing on windows 8 a beginners guide,unlock 3d magic a beginners guide to video effects on windows 10 and 11,unlock 3d video magic on your windows pc a beginners guide,unlock advanced video editing adding 3d effects on windows 10 and 11
-thumbnail: https://www.lifewire.com/thmb/Kum5AgirtoV-H5HQXO5DDyzMKvY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/what-is-bluesky-social-fea29392009e4482b7fd8c5c526f69ab.jpg
+thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc156666a853f82f3e47dee0b.jpg
 ---
 
 ## Unlock 3D Magic: A Beginner's Guide to Video Effects on Windows 10 and 11
@@ -484,16 +484,16 @@ Now there are hundreds of video editing software, and every video editor has his
 
 * Select the clip that needs to apply blur face in the timeline, and then go to the **Effects** tab and select   **Utility**.
 
-![ Filmora 9 video editor utility options ](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
+![Filmora 9 video editor utility options](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
 
 * If the image is still, then you can click **Mosaic** option and drag it in the video clip in the timeline.
 
-![ Filmora 9 video editor Mosaic](https://images.wondershare.com/filmora/article-images/filmora9-mosaic-effect-adjust.jpg)
+![Filmora 9 video editor Mosaic](https://images.wondershare.com/filmora/article-images/filmora9-mosaic-effect-adjust.jpg)
 
 * Double click the video clip applied Mosaic effect in the timeline to enter the video effects tab, in where you can dictate the size of the area, the mosaic types, and also adjust the opacity.
 * If the image is in motion and you’d like the blurred area to be mobile as well, drag the **Face Off** from the Effects tab to the timeline and adjust it in the Video Effects tab as well. You can pick the face-off pattern under Video Effects and the Face-off feature will tracks the face that appears on the screen and applies a blur to it.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/filmora-blur-face.JPG)
+![blur faces](https://images.wondershare.com/filmora/article-images/filmora-blur-face.JPG)
 
 * When you’re done, click **OK**  to save the changes and then click **Export** and pick your desired video format.
 
@@ -510,17 +510,17 @@ Those interested in learning how to [blur faces in videos in order to apply the 
 * Sign in your YouTube account and select the **Creator** **Studio** option after clicking the avatar. Locate the video that you want to edit and access video **Enhancements**.
 * You will see two blurring options in the **Enhancement** window: **Blur faces** and **Custom blurring**. To blur all faces appear in the video, go to **Blur faces** and click **Edit**
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/blur-face-in-youtube-enhancement.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/blur-face-in-youtube-enhancement.jpg)
 
 * YouTube will use the face detection tool to analyze all faces in the video and displays the faces in the left side. You can click the face image to blur a specific face throughout the video.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-blur-faces-window.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-blur-faces-window.jpg)
 
 * Preview the blurring effects and if everything goes OK, click **Save** to save the face blurring effect to video. After you’re finished the editing, click **Save** to save the edits in-place, or **Save as New Video**, which creates a new video (this would mean, however, that you would lose any views you previously had).
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-save.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-save.jpg)
 
-In the Enhancement window, you can also blur a specific area of the video with the **custom blurring** option. Want to edit YouTube videos with more features, check our picks of the[best video editing software for YouTubers in 2018.](https://tools.techidaily.com/wondershare/filmora/download/)
+In the Enhancement window, you can also blur a specific area of the video with the **custom blurring** option. Want to edit YouTube videos with more features, check our picks of the [best video editing software for YouTubers in 2018.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### 3. Blur Face with Movavi video editor
 
@@ -531,7 +531,7 @@ In the Enhancement window, you can also blur a specific area of the video with t
 * Open **Movavi** and locate the **Filters**
 * Click **Blur**.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/blur-face-with-movavi-video-editor.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/blur-face-with-movavi-video-editor.jpg)
 
 * Once the filter gallery opens, **drag your desired filter** over the clip or image.
 * You can apply either the **Blur Intense** or the **Blur Mild** effects if you would like to determine their strength.
@@ -584,16 +584,16 @@ Now there are hundreds of video editing software, and every video editor has his
 
 * Select the clip that needs to apply blur face in the timeline, and then go to the **Effects** tab and select   **Utility**.
 
-![ Filmora 9 video editor utility options ](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
+![Filmora 9 video editor utility options](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
 
 * If the image is still, then you can click **Mosaic** option and drag it in the video clip in the timeline.
 
-![ Filmora 9 video editor Mosaic](https://images.wondershare.com/filmora/article-images/filmora9-mosaic-effect-adjust.jpg)
+![Filmora 9 video editor Mosaic](https://images.wondershare.com/filmora/article-images/filmora9-mosaic-effect-adjust.jpg)
 
 * Double click the video clip applied Mosaic effect in the timeline to enter the video effects tab, in where you can dictate the size of the area, the mosaic types, and also adjust the opacity.
 * If the image is in motion and you’d like the blurred area to be mobile as well, drag the **Face Off** from the Effects tab to the timeline and adjust it in the Video Effects tab as well. You can pick the face-off pattern under Video Effects and the Face-off feature will tracks the face that appears on the screen and applies a blur to it.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/filmora-blur-face.JPG)
+![blur faces](https://images.wondershare.com/filmora/article-images/filmora-blur-face.JPG)
 
 * When you’re done, click **OK**  to save the changes and then click **Export** and pick your desired video format.
 
@@ -610,17 +610,17 @@ Those interested in learning how to [blur faces in videos in order to apply the 
 * Sign in your YouTube account and select the **Creator** **Studio** option after clicking the avatar. Locate the video that you want to edit and access video **Enhancements**.
 * You will see two blurring options in the **Enhancement** window: **Blur faces** and **Custom blurring**. To blur all faces appear in the video, go to **Blur faces** and click **Edit**
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/blur-face-in-youtube-enhancement.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/blur-face-in-youtube-enhancement.jpg)
 
 * YouTube will use the face detection tool to analyze all faces in the video and displays the faces in the left side. You can click the face image to blur a specific face throughout the video.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-blur-faces-window.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-blur-faces-window.jpg)
 
 * Preview the blurring effects and if everything goes OK, click **Save** to save the face blurring effect to video. After you’re finished the editing, click **Save** to save the edits in-place, or **Save as New Video**, which creates a new video (this would mean, however, that you would lose any views you previously had).
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-save.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-save.jpg)
 
-In the Enhancement window, you can also blur a specific area of the video with the **custom blurring** option. Want to edit YouTube videos with more features, check our picks of the[best video editing software for YouTubers in 2018.](https://tools.techidaily.com/wondershare/filmora/download/)
+In the Enhancement window, you can also blur a specific area of the video with the **custom blurring** option. Want to edit YouTube videos with more features, check our picks of the [best video editing software for YouTubers in 2018.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### 3. Blur Face with Movavi video editor
 
@@ -631,7 +631,7 @@ In the Enhancement window, you can also blur a specific area of the video with t
 * Open **Movavi** and locate the **Filters**
 * Click **Blur**.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/blur-face-with-movavi-video-editor.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/blur-face-with-movavi-video-editor.jpg)
 
 * Once the filter gallery opens, **drag your desired filter** over the clip or image.
 * You can apply either the **Blur Intense** or the **Blur Mild** effects if you would like to determine their strength.
@@ -684,16 +684,16 @@ Now there are hundreds of video editing software, and every video editor has his
 
 * Select the clip that needs to apply blur face in the timeline, and then go to the **Effects** tab and select   **Utility**.
 
-![ Filmora 9 video editor utility options ](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
+![Filmora 9 video editor utility options](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
 
 * If the image is still, then you can click **Mosaic** option and drag it in the video clip in the timeline.
 
-![ Filmora 9 video editor Mosaic](https://images.wondershare.com/filmora/article-images/filmora9-mosaic-effect-adjust.jpg)
+![Filmora 9 video editor Mosaic](https://images.wondershare.com/filmora/article-images/filmora9-mosaic-effect-adjust.jpg)
 
 * Double click the video clip applied Mosaic effect in the timeline to enter the video effects tab, in where you can dictate the size of the area, the mosaic types, and also adjust the opacity.
 * If the image is in motion and you’d like the blurred area to be mobile as well, drag the **Face Off** from the Effects tab to the timeline and adjust it in the Video Effects tab as well. You can pick the face-off pattern under Video Effects and the Face-off feature will tracks the face that appears on the screen and applies a blur to it.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/filmora-blur-face.JPG)
+![blur faces](https://images.wondershare.com/filmora/article-images/filmora-blur-face.JPG)
 
 * When you’re done, click **OK**  to save the changes and then click **Export** and pick your desired video format.
 
@@ -710,17 +710,17 @@ Those interested in learning how to [blur faces in videos in order to apply the 
 * Sign in your YouTube account and select the **Creator** **Studio** option after clicking the avatar. Locate the video that you want to edit and access video **Enhancements**.
 * You will see two blurring options in the **Enhancement** window: **Blur faces** and **Custom blurring**. To blur all faces appear in the video, go to **Blur faces** and click **Edit**
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/blur-face-in-youtube-enhancement.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/blur-face-in-youtube-enhancement.jpg)
 
 * YouTube will use the face detection tool to analyze all faces in the video and displays the faces in the left side. You can click the face image to blur a specific face throughout the video.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-blur-faces-window.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-blur-faces-window.jpg)
 
 * Preview the blurring effects and if everything goes OK, click **Save** to save the face blurring effect to video. After you’re finished the editing, click **Save** to save the edits in-place, or **Save as New Video**, which creates a new video (this would mean, however, that you would lose any views you previously had).
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-save.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-save.jpg)
 
-In the Enhancement window, you can also blur a specific area of the video with the **custom blurring** option. Want to edit YouTube videos with more features, check our picks of the[best video editing software for YouTubers in 2018.](https://tools.techidaily.com/wondershare/filmora/download/)
+In the Enhancement window, you can also blur a specific area of the video with the **custom blurring** option. Want to edit YouTube videos with more features, check our picks of the [best video editing software for YouTubers in 2018.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### 3. Blur Face with Movavi video editor
 
@@ -731,7 +731,7 @@ In the Enhancement window, you can also blur a specific area of the video with t
 * Open **Movavi** and locate the **Filters**
 * Click **Blur**.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/blur-face-with-movavi-video-editor.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/blur-face-with-movavi-video-editor.jpg)
 
 * Once the filter gallery opens, **drag your desired filter** over the clip or image.
 * You can apply either the **Blur Intense** or the **Blur Mild** effects if you would like to determine their strength.
@@ -784,16 +784,16 @@ Now there are hundreds of video editing software, and every video editor has his
 
 * Select the clip that needs to apply blur face in the timeline, and then go to the **Effects** tab and select   **Utility**.
 
-![ Filmora 9 video editor utility options ](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
+![Filmora 9 video editor utility options](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
 
 * If the image is still, then you can click **Mosaic** option and drag it in the video clip in the timeline.
 
-![ Filmora 9 video editor Mosaic](https://images.wondershare.com/filmora/article-images/filmora9-mosaic-effect-adjust.jpg)
+![Filmora 9 video editor Mosaic](https://images.wondershare.com/filmora/article-images/filmora9-mosaic-effect-adjust.jpg)
 
 * Double click the video clip applied Mosaic effect in the timeline to enter the video effects tab, in where you can dictate the size of the area, the mosaic types, and also adjust the opacity.
 * If the image is in motion and you’d like the blurred area to be mobile as well, drag the **Face Off** from the Effects tab to the timeline and adjust it in the Video Effects tab as well. You can pick the face-off pattern under Video Effects and the Face-off feature will tracks the face that appears on the screen and applies a blur to it.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/filmora-blur-face.JPG)
+![blur faces](https://images.wondershare.com/filmora/article-images/filmora-blur-face.JPG)
 
 * When you’re done, click **OK**  to save the changes and then click **Export** and pick your desired video format.
 
@@ -810,17 +810,17 @@ Those interested in learning how to [blur faces in videos in order to apply the 
 * Sign in your YouTube account and select the **Creator** **Studio** option after clicking the avatar. Locate the video that you want to edit and access video **Enhancements**.
 * You will see two blurring options in the **Enhancement** window: **Blur faces** and **Custom blurring**. To blur all faces appear in the video, go to **Blur faces** and click **Edit**
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/blur-face-in-youtube-enhancement.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/blur-face-in-youtube-enhancement.jpg)
 
 * YouTube will use the face detection tool to analyze all faces in the video and displays the faces in the left side. You can click the face image to blur a specific face throughout the video.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-blur-faces-window.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-blur-faces-window.jpg)
 
 * Preview the blurring effects and if everything goes OK, click **Save** to save the face blurring effect to video. After you’re finished the editing, click **Save** to save the edits in-place, or **Save as New Video**, which creates a new video (this would mean, however, that you would lose any views you previously had).
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-save.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-save.jpg)
 
-In the Enhancement window, you can also blur a specific area of the video with the **custom blurring** option. Want to edit YouTube videos with more features, check our picks of the[best video editing software for YouTubers in 2018.](https://tools.techidaily.com/wondershare/filmora/download/)
+In the Enhancement window, you can also blur a specific area of the video with the **custom blurring** option. Want to edit YouTube videos with more features, check our picks of the [best video editing software for YouTubers in 2018.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### 3. Blur Face with Movavi video editor
 
@@ -831,7 +831,7 @@ In the Enhancement window, you can also blur a specific area of the video with t
 * Open **Movavi** and locate the **Filters**
 * Click **Blur**.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/blur-face-with-movavi-video-editor.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/blur-face-with-movavi-video-editor.jpg)
 
 * Once the filter gallery opens, **drag your desired filter** over the clip or image.
 * You can apply either the **Blur Intense** or the **Blur Mild** effects if you would like to determine their strength.
@@ -898,13 +898,13 @@ Final Cut Pro is user-friendly software and makes it easy for you to create a Ke
 
 First of all, you should specify a name for your project and add photos to the timeline in Final Cut Pro. For this purpose, select multiple photos and press E. A clip will be added to the timeline as shown in figure 1.
 
-_![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg)_
+_ ![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg) _
 
 **Step 2: Check Your Settings**
 
 As you can see, our timeline has no other video clip. Hence, Final Cut Pro will not recognize the clip until you adjust the video properties such as format, resolution, and rate, etc. For this purpose, click OK to use your preferred settings and press Shift + Z to fit the picture to your timeline window. Once you’re done it’s time to apply the Ken Burns Effect.
 
-_![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg)_
+_ ![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg) _
 
 **Step 3: Add the Ken Burns Effect**
 
@@ -918,7 +918,7 @@ The Ken Burns Effect is used to focus on specific parts of an image and bring mo
 6. Press the Ken Burns button in the Crop onscreen controls to add the effect; and
 7. Finally, notice the start frame and the end frame controls.
 
-_![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg)_
+_ ![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg) _
 
 **Step 4: Customize Your Effect**
 
@@ -930,7 +930,7 @@ In the Ken Burns display, you can see the controls for adjusting the panning and
 4. In the top left-hand corner, click on the Swap button to exchange the two positions as per your requirements;
 5. You can see the preview of the animation on the screen.
 
-_![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg)_
+_ ![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg) _
 
 **Step 5: Add a Freeze Frame**
 
@@ -940,13 +940,13 @@ You’re not done yet because you need to hold your picture at the end of the an
 2. Press Option-F to add a freeze-frame;
 3. Make sure that your added frame matches the ending frame of the Ken Burns Effect.
 
-_![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg)_
+_ ![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg) _
 
 **Step 6: Adjust the Duration of the Freeze Frame**
 
 The users can also adjust the speed of the animation and the duration of the freeze-frame by trimming your clip. For this purpose, trim the length as per your requirement and it will optimize the speed as shown in figure 6.
 
-_![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg)_
+_ ![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg) _
 
 **Step 7: Swap the Start and End Frame**
 
@@ -958,7 +958,7 @@ Now, swap the start and ending frame as per your preference for the Ken Burns an
 4. Apply enough zoom in to make the black areas disappear;
 5. Preview to see how your animation looks.
 
-_![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg)_
+_ ![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg) _
 
 **Step 8: Play/Preview Looping**
 
@@ -1029,13 +1029,13 @@ Final Cut Pro is user-friendly software and makes it easy for you to create a Ke
 
 First of all, you should specify a name for your project and add photos to the timeline in Final Cut Pro. For this purpose, select multiple photos and press E. A clip will be added to the timeline as shown in figure 1.
 
-_![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg)_
+_ ![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg) _
 
 **Step 2: Check Your Settings**
 
 As you can see, our timeline has no other video clip. Hence, Final Cut Pro will not recognize the clip until you adjust the video properties such as format, resolution, and rate, etc. For this purpose, click OK to use your preferred settings and press Shift + Z to fit the picture to your timeline window. Once you’re done it’s time to apply the Ken Burns Effect.
 
-_![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg)_
+_ ![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg) _
 
 **Step 3: Add the Ken Burns Effect**
 
@@ -1049,7 +1049,7 @@ The Ken Burns Effect is used to focus on specific parts of an image and bring mo
 6. Press the Ken Burns button in the Crop onscreen controls to add the effect; and
 7. Finally, notice the start frame and the end frame controls.
 
-_![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg)_
+_ ![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg) _
 
 **Step 4: Customize Your Effect**
 
@@ -1061,7 +1061,7 @@ In the Ken Burns display, you can see the controls for adjusting the panning and
 4. In the top left-hand corner, click on the Swap button to exchange the two positions as per your requirements;
 5. You can see the preview of the animation on the screen.
 
-_![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg)_
+_ ![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg) _
 
 **Step 5: Add a Freeze Frame**
 
@@ -1071,13 +1071,13 @@ You’re not done yet because you need to hold your picture at the end of the an
 2. Press Option-F to add a freeze-frame;
 3. Make sure that your added frame matches the ending frame of the Ken Burns Effect.
 
-_![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg)_
+_ ![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg) _
 
 **Step 6: Adjust the Duration of the Freeze Frame**
 
 The users can also adjust the speed of the animation and the duration of the freeze-frame by trimming your clip. For this purpose, trim the length as per your requirement and it will optimize the speed as shown in figure 6.
 
-_![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg)_
+_ ![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg) _
 
 **Step 7: Swap the Start and End Frame**
 
@@ -1089,7 +1089,7 @@ Now, swap the start and ending frame as per your preference for the Ken Burns an
 4. Apply enough zoom in to make the black areas disappear;
 5. Preview to see how your animation looks.
 
-_![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg)_
+_ ![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg) _
 
 **Step 8: Play/Preview Looping**
 
@@ -1160,13 +1160,13 @@ Final Cut Pro is user-friendly software and makes it easy for you to create a Ke
 
 First of all, you should specify a name for your project and add photos to the timeline in Final Cut Pro. For this purpose, select multiple photos and press E. A clip will be added to the timeline as shown in figure 1.
 
-_![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg)_
+_ ![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg) _
 
 **Step 2: Check Your Settings**
 
 As you can see, our timeline has no other video clip. Hence, Final Cut Pro will not recognize the clip until you adjust the video properties such as format, resolution, and rate, etc. For this purpose, click OK to use your preferred settings and press Shift + Z to fit the picture to your timeline window. Once you’re done it’s time to apply the Ken Burns Effect.
 
-_![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg)_
+_ ![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg) _
 
 **Step 3: Add the Ken Burns Effect**
 
@@ -1180,7 +1180,7 @@ The Ken Burns Effect is used to focus on specific parts of an image and bring mo
 6. Press the Ken Burns button in the Crop onscreen controls to add the effect; and
 7. Finally, notice the start frame and the end frame controls.
 
-_![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg)_
+_ ![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg) _
 
 **Step 4: Customize Your Effect**
 
@@ -1192,7 +1192,7 @@ In the Ken Burns display, you can see the controls for adjusting the panning and
 4. In the top left-hand corner, click on the Swap button to exchange the two positions as per your requirements;
 5. You can see the preview of the animation on the screen.
 
-_![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg)_
+_ ![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg) _
 
 **Step 5: Add a Freeze Frame**
 
@@ -1202,13 +1202,13 @@ You’re not done yet because you need to hold your picture at the end of the an
 2. Press Option-F to add a freeze-frame;
 3. Make sure that your added frame matches the ending frame of the Ken Burns Effect.
 
-_![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg)_
+_ ![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg) _
 
 **Step 6: Adjust the Duration of the Freeze Frame**
 
 The users can also adjust the speed of the animation and the duration of the freeze-frame by trimming your clip. For this purpose, trim the length as per your requirement and it will optimize the speed as shown in figure 6.
 
-_![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg)_
+_ ![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg) _
 
 **Step 7: Swap the Start and End Frame**
 
@@ -1220,7 +1220,7 @@ Now, swap the start and ending frame as per your preference for the Ken Burns an
 4. Apply enough zoom in to make the black areas disappear;
 5. Preview to see how your animation looks.
 
-_![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg)_
+_ ![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg) _
 
 **Step 8: Play/Preview Looping**
 
@@ -1291,13 +1291,13 @@ Final Cut Pro is user-friendly software and makes it easy for you to create a Ke
 
 First of all, you should specify a name for your project and add photos to the timeline in Final Cut Pro. For this purpose, select multiple photos and press E. A clip will be added to the timeline as shown in figure 1.
 
-_![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg)_
+_ ![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg) _
 
 **Step 2: Check Your Settings**
 
 As you can see, our timeline has no other video clip. Hence, Final Cut Pro will not recognize the clip until you adjust the video properties such as format, resolution, and rate, etc. For this purpose, click OK to use your preferred settings and press Shift + Z to fit the picture to your timeline window. Once you’re done it’s time to apply the Ken Burns Effect.
 
-_![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg)_
+_ ![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg) _
 
 **Step 3: Add the Ken Burns Effect**
 
@@ -1311,7 +1311,7 @@ The Ken Burns Effect is used to focus on specific parts of an image and bring mo
 6. Press the Ken Burns button in the Crop onscreen controls to add the effect; and
 7. Finally, notice the start frame and the end frame controls.
 
-_![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg)_
+_ ![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg) _
 
 **Step 4: Customize Your Effect**
 
@@ -1323,7 +1323,7 @@ In the Ken Burns display, you can see the controls for adjusting the panning and
 4. In the top left-hand corner, click on the Swap button to exchange the two positions as per your requirements;
 5. You can see the preview of the animation on the screen.
 
-_![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg)_
+_ ![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg) _
 
 **Step 5: Add a Freeze Frame**
 
@@ -1333,13 +1333,13 @@ You’re not done yet because you need to hold your picture at the end of the an
 2. Press Option-F to add a freeze-frame;
 3. Make sure that your added frame matches the ending frame of the Ken Burns Effect.
 
-_![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg)_
+_ ![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg) _
 
 **Step 6: Adjust the Duration of the Freeze Frame**
 
 The users can also adjust the speed of the animation and the duration of the freeze-frame by trimming your clip. For this purpose, trim the length as per your requirement and it will optimize the speed as shown in figure 6.
 
-_![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg)_
+_ ![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg) _
 
 **Step 7: Swap the Start and End Frame**
 
@@ -1351,7 +1351,7 @@ Now, swap the start and ending frame as per your preference for the Ken Burns an
 4. Apply enough zoom in to make the black areas disappear;
 5. Preview to see how your animation looks.
 
-_![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg)_
+_ ![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg) _
 
 **Step 8: Play/Preview Looping**
 

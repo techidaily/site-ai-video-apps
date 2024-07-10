@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Time Lapse Like a Pro Expert Techniques for Final Cut Pro Users
-date: 2024-04-28T01:18:10.356Z
-updated: 2024-04-29T01:18:10.356Z
+date: 2024-07-09T18:47:10.010Z
+updated: 2024-07-10T18:47:10.010Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Time Lapse Like a Pro Expert Techniques for Final Cut Pro Users
 excerpt: This Article Describes New In 2024, Time Lapse Like a Pro Expert Techniques for Final Cut Pro Users
 keywords: time lapse like a pro advanced techniques in final cut pro,transition like a pro 3 expert techniques in final cut pro,jump cut like a pro expert techniques for final cut pro x editors,lower thirds like a pro expert techniques for final cut pro x,edit like a pro 5 insider tips for final cut pro users,time lapse like a pro expert techniques for final cut pro users,color correct like a pro essential techniques for final cut pro users
-thumbnail: https://www.lifewire.com/thmb/vPFd-AMhh9AKItKjaheXQPgowy4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SDC18_Keynote_OneUI-5be8d33f46e0fb002d108acf.jpg
+thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4e4c1c2d693991f9d3085553.jpg
 ---
 
 ## Time Lapse Like a Pro: Expert Techniques for Final Cut Pro Users
@@ -48,17 +48,17 @@ Choose **File** \> **New** \> **Event**. Name it and click **OK**. Label the pro
 
 Click the **Retime** pop-up menu below the viewer and choose **Fast** (or you can access **Modify** \> **Retime** \> **Fast**). There are 4 preset options you can choose: 2x, 4x, 8x, 20x. Or you can customize the speed by selecting **Custom**.
 
-![ Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
+![Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
 
 You can set any speed by adjusting the **Rate**. Reset the speed by clicking on the little arrow on the right side of the window.
 
-![ Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
+![Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
 
 You can also drag the retiming handle to adjust the speed: dragging to the left increases the speed, and dragging to the right decreases it.
 
 **Note:** To set speed separately for different parts of one clip, you can choose **Blade Speed** first, and then blade the clip where you want to set different speeds.
 
-![ Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
+![Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
 
 That's it. You may also want to learn this: [how to add a countdown-timer in fcpx](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -100,17 +100,17 @@ Choose **File** \> **New** \> **Event**. Name it and click **OK**. Label the pro
 
 Click the **Retime** pop-up menu below the viewer and choose **Fast** (or you can access **Modify** \> **Retime** \> **Fast**). There are 4 preset options you can choose: 2x, 4x, 8x, 20x. Or you can customize the speed by selecting **Custom**.
 
-![ Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
+![Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
 
 You can set any speed by adjusting the **Rate**. Reset the speed by clicking on the little arrow on the right side of the window.
 
-![ Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
+![Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
 
 You can also drag the retiming handle to adjust the speed: dragging to the left increases the speed, and dragging to the right decreases it.
 
 **Note:** To set speed separately for different parts of one clip, you can choose **Blade Speed** first, and then blade the clip where you want to set different speeds.
 
-![ Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
+![Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
 
 That's it. You may also want to learn this: [how to add a countdown-timer in fcpx](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -152,17 +152,17 @@ Choose **File** \> **New** \> **Event**. Name it and click **OK**. Label the pro
 
 Click the **Retime** pop-up menu below the viewer and choose **Fast** (or you can access **Modify** \> **Retime** \> **Fast**). There are 4 preset options you can choose: 2x, 4x, 8x, 20x. Or you can customize the speed by selecting **Custom**.
 
-![ Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
+![Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
 
 You can set any speed by adjusting the **Rate**. Reset the speed by clicking on the little arrow on the right side of the window.
 
-![ Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
+![Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
 
 You can also drag the retiming handle to adjust the speed: dragging to the left increases the speed, and dragging to the right decreases it.
 
 **Note:** To set speed separately for different parts of one clip, you can choose **Blade Speed** first, and then blade the clip where you want to set different speeds.
 
-![ Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
+![Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
 
 That's it. You may also want to learn this: [how to add a countdown-timer in fcpx](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -204,17 +204,17 @@ Choose **File** \> **New** \> **Event**. Name it and click **OK**. Label the pro
 
 Click the **Retime** pop-up menu below the viewer and choose **Fast** (or you can access **Modify** \> **Retime** \> **Fast**). There are 4 preset options you can choose: 2x, 4x, 8x, 20x. Or you can customize the speed by selecting **Custom**.
 
-![ Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
+![Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
 
 You can set any speed by adjusting the **Rate**. Reset the speed by clicking on the little arrow on the right side of the window.
 
-![ Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
+![Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
 
 You can also drag the retiming handle to adjust the speed: dragging to the left increases the speed, and dragging to the right decreases it.
 
 **Note:** To set speed separately for different parts of one clip, you can choose **Blade Speed** first, and then blade the clip where you want to set different speeds.
 
-![ Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
+![Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
 
 That's it. You may also want to learn this: [how to add a countdown-timer in fcpx](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -800,7 +800,7 @@ Before you select your [stop-motion movie maker](https://tools.techidaily.com/wo
 
 Start by setting up your scene. You need a flat and stable surface. It needs to be at a height where you will be comfortable working for an extended period. If you set it up on your floor, you could regret this when the aches in your knees and back kick in. Keep your set in place by using masking tape, so it doesn't move if you accidentally bump into it.
 
-![Lego Stop Motion shooting Settings ](https://images.wondershare.com/filmora/article-images/lego-shooting-settings.jpg)
+![Lego Stop Motion shooting Settings](https://images.wondershare.com/filmora/article-images/lego-shooting-settings.jpg)
 
 Now you are ready to start. Lego movies are painstaking. It will take a while to get into a rhythm and to get something of value to be watched by others. Don't be discouraged. You will get quicker and better with practice. You just need to get started.
 
@@ -820,7 +820,7 @@ With everything in place, as well as a realistic mindset, it is time to choose t
 * For children 4+
 * Unique feature – the timeline allows for simple reordering and editing
 
-![I Can Animate for iOS Interface ](https://images.wondershare.com/filmora/article-images/i-can-animate-stop-motion-maker.jpg)
+![I Can Animate for iOS Interface](https://images.wondershare.com/filmora/article-images/i-can-animate-stop-motion-maker.jpg)
 
 I Can Animate is a way to produce movies quickly and with little need for that much tech knowledge. You can use your iOS device, whether tablet or phone, to create and then share your videos. This app is produced by Kudlian Software Ltd and retails on different prices on Apple Store and Google Play.
 
@@ -828,7 +828,7 @@ I Can Animate is unique in its simplicity. You use the camera on your iOS device
 
 There are some basic editing features. These features include an ability to view the images on a timeline and duplicate or reorder these. You can also change the exposure, balance and focus settings to ensure there is a replication of conditions between photographs.
 
-![I Can Animate for Andriod Interface ](https://images.wondershare.com/filmora/article-images/i-can-animate-stop-motion-maker-android.jpg)
+![I Can Animate for Andriod Interface](https://images.wondershare.com/filmora/article-images/i-can-animate-stop-motion-maker-android.jpg)
 
 A useful option is the ability to connect a Bluetooth keyboard and capture your images without returning to your device. This means you can secure your phone or tablet and avoid knocking or changing the angle by tapping on the screen. Also helpful for streamlining the filming process is the inbuilt time-lapse feature. You can automatically capture images one after another without having to return to the camera.
 
@@ -841,7 +841,7 @@ You can then share these movies by exporting them to Facebook, YouTube or Dropbo
 * For children 4+
 * Unique feature – the ability to add and edit audio
 
-![Stop Motion Studio Interface ](https://images.wondershare.com/filmora/article-images/stop-motion-studio.jpg)
+![Stop Motion Studio Interface](https://images.wondershare.com/filmora/article-images/stop-motion-studio.jpg)
 
 Stop Motion Studio, produced by Cateater, is an app offered for people age 4 and over and is available on iOS and Android – for your phone or your tablet. There is also a full-featured movie editing software that you can buy for your PC and Mac.
 
@@ -958,7 +958,7 @@ Before you select your [stop-motion movie maker](https://tools.techidaily.com/wo
 
 Start by setting up your scene. You need a flat and stable surface. It needs to be at a height where you will be comfortable working for an extended period. If you set it up on your floor, you could regret this when the aches in your knees and back kick in. Keep your set in place by using masking tape, so it doesn't move if you accidentally bump into it.
 
-![Lego Stop Motion shooting Settings ](https://images.wondershare.com/filmora/article-images/lego-shooting-settings.jpg)
+![Lego Stop Motion shooting Settings](https://images.wondershare.com/filmora/article-images/lego-shooting-settings.jpg)
 
 Now you are ready to start. Lego movies are painstaking. It will take a while to get into a rhythm and to get something of value to be watched by others. Don't be discouraged. You will get quicker and better with practice. You just need to get started.
 
@@ -978,7 +978,7 @@ With everything in place, as well as a realistic mindset, it is time to choose t
 * For children 4+
 * Unique feature – the timeline allows for simple reordering and editing
 
-![I Can Animate for iOS Interface ](https://images.wondershare.com/filmora/article-images/i-can-animate-stop-motion-maker.jpg)
+![I Can Animate for iOS Interface](https://images.wondershare.com/filmora/article-images/i-can-animate-stop-motion-maker.jpg)
 
 I Can Animate is a way to produce movies quickly and with little need for that much tech knowledge. You can use your iOS device, whether tablet or phone, to create and then share your videos. This app is produced by Kudlian Software Ltd and retails on different prices on Apple Store and Google Play.
 
@@ -986,7 +986,7 @@ I Can Animate is unique in its simplicity. You use the camera on your iOS device
 
 There are some basic editing features. These features include an ability to view the images on a timeline and duplicate or reorder these. You can also change the exposure, balance and focus settings to ensure there is a replication of conditions between photographs.
 
-![I Can Animate for Andriod Interface ](https://images.wondershare.com/filmora/article-images/i-can-animate-stop-motion-maker-android.jpg)
+![I Can Animate for Andriod Interface](https://images.wondershare.com/filmora/article-images/i-can-animate-stop-motion-maker-android.jpg)
 
 A useful option is the ability to connect a Bluetooth keyboard and capture your images without returning to your device. This means you can secure your phone or tablet and avoid knocking or changing the angle by tapping on the screen. Also helpful for streamlining the filming process is the inbuilt time-lapse feature. You can automatically capture images one after another without having to return to the camera.
 
@@ -999,7 +999,7 @@ You can then share these movies by exporting them to Facebook, YouTube or Dropbo
 * For children 4+
 * Unique feature – the ability to add and edit audio
 
-![Stop Motion Studio Interface ](https://images.wondershare.com/filmora/article-images/stop-motion-studio.jpg)
+![Stop Motion Studio Interface](https://images.wondershare.com/filmora/article-images/stop-motion-studio.jpg)
 
 Stop Motion Studio, produced by Cateater, is an app offered for people age 4 and over and is available on iOS and Android – for your phone or your tablet. There is also a full-featured movie editing software that you can buy for your PC and Mac.
 
@@ -1116,7 +1116,7 @@ Before you select your [stop-motion movie maker](https://tools.techidaily.com/wo
 
 Start by setting up your scene. You need a flat and stable surface. It needs to be at a height where you will be comfortable working for an extended period. If you set it up on your floor, you could regret this when the aches in your knees and back kick in. Keep your set in place by using masking tape, so it doesn't move if you accidentally bump into it.
 
-![Lego Stop Motion shooting Settings ](https://images.wondershare.com/filmora/article-images/lego-shooting-settings.jpg)
+![Lego Stop Motion shooting Settings](https://images.wondershare.com/filmora/article-images/lego-shooting-settings.jpg)
 
 Now you are ready to start. Lego movies are painstaking. It will take a while to get into a rhythm and to get something of value to be watched by others. Don't be discouraged. You will get quicker and better with practice. You just need to get started.
 
@@ -1136,7 +1136,7 @@ With everything in place, as well as a realistic mindset, it is time to choose t
 * For children 4+
 * Unique feature – the timeline allows for simple reordering and editing
 
-![I Can Animate for iOS Interface ](https://images.wondershare.com/filmora/article-images/i-can-animate-stop-motion-maker.jpg)
+![I Can Animate for iOS Interface](https://images.wondershare.com/filmora/article-images/i-can-animate-stop-motion-maker.jpg)
 
 I Can Animate is a way to produce movies quickly and with little need for that much tech knowledge. You can use your iOS device, whether tablet or phone, to create and then share your videos. This app is produced by Kudlian Software Ltd and retails on different prices on Apple Store and Google Play.
 
@@ -1144,7 +1144,7 @@ I Can Animate is unique in its simplicity. You use the camera on your iOS device
 
 There are some basic editing features. These features include an ability to view the images on a timeline and duplicate or reorder these. You can also change the exposure, balance and focus settings to ensure there is a replication of conditions between photographs.
 
-![I Can Animate for Andriod Interface ](https://images.wondershare.com/filmora/article-images/i-can-animate-stop-motion-maker-android.jpg)
+![I Can Animate for Andriod Interface](https://images.wondershare.com/filmora/article-images/i-can-animate-stop-motion-maker-android.jpg)
 
 A useful option is the ability to connect a Bluetooth keyboard and capture your images without returning to your device. This means you can secure your phone or tablet and avoid knocking or changing the angle by tapping on the screen. Also helpful for streamlining the filming process is the inbuilt time-lapse feature. You can automatically capture images one after another without having to return to the camera.
 
@@ -1157,7 +1157,7 @@ You can then share these movies by exporting them to Facebook, YouTube or Dropbo
 * For children 4+
 * Unique feature – the ability to add and edit audio
 
-![Stop Motion Studio Interface ](https://images.wondershare.com/filmora/article-images/stop-motion-studio.jpg)
+![Stop Motion Studio Interface](https://images.wondershare.com/filmora/article-images/stop-motion-studio.jpg)
 
 Stop Motion Studio, produced by Cateater, is an app offered for people age 4 and over and is available on iOS and Android – for your phone or your tablet. There is also a full-featured movie editing software that you can buy for your PC and Mac.
 
@@ -1274,7 +1274,7 @@ Before you select your [stop-motion movie maker](https://tools.techidaily.com/wo
 
 Start by setting up your scene. You need a flat and stable surface. It needs to be at a height where you will be comfortable working for an extended period. If you set it up on your floor, you could regret this when the aches in your knees and back kick in. Keep your set in place by using masking tape, so it doesn't move if you accidentally bump into it.
 
-![Lego Stop Motion shooting Settings ](https://images.wondershare.com/filmora/article-images/lego-shooting-settings.jpg)
+![Lego Stop Motion shooting Settings](https://images.wondershare.com/filmora/article-images/lego-shooting-settings.jpg)
 
 Now you are ready to start. Lego movies are painstaking. It will take a while to get into a rhythm and to get something of value to be watched by others. Don't be discouraged. You will get quicker and better with practice. You just need to get started.
 
@@ -1294,7 +1294,7 @@ With everything in place, as well as a realistic mindset, it is time to choose t
 * For children 4+
 * Unique feature – the timeline allows for simple reordering and editing
 
-![I Can Animate for iOS Interface ](https://images.wondershare.com/filmora/article-images/i-can-animate-stop-motion-maker.jpg)
+![I Can Animate for iOS Interface](https://images.wondershare.com/filmora/article-images/i-can-animate-stop-motion-maker.jpg)
 
 I Can Animate is a way to produce movies quickly and with little need for that much tech knowledge. You can use your iOS device, whether tablet or phone, to create and then share your videos. This app is produced by Kudlian Software Ltd and retails on different prices on Apple Store and Google Play.
 
@@ -1302,7 +1302,7 @@ I Can Animate is unique in its simplicity. You use the camera on your iOS device
 
 There are some basic editing features. These features include an ability to view the images on a timeline and duplicate or reorder these. You can also change the exposure, balance and focus settings to ensure there is a replication of conditions between photographs.
 
-![I Can Animate for Andriod Interface ](https://images.wondershare.com/filmora/article-images/i-can-animate-stop-motion-maker-android.jpg)
+![I Can Animate for Andriod Interface](https://images.wondershare.com/filmora/article-images/i-can-animate-stop-motion-maker-android.jpg)
 
 A useful option is the ability to connect a Bluetooth keyboard and capture your images without returning to your device. This means you can secure your phone or tablet and avoid knocking or changing the angle by tapping on the screen. Also helpful for streamlining the filming process is the inbuilt time-lapse feature. You can automatically capture images one after another without having to return to the camera.
 
@@ -1315,7 +1315,7 @@ You can then share these movies by exporting them to Facebook, YouTube or Dropbo
 * For children 4+
 * Unique feature – the ability to add and edit audio
 
-![Stop Motion Studio Interface ](https://images.wondershare.com/filmora/article-images/stop-motion-studio.jpg)
+![Stop Motion Studio Interface](https://images.wondershare.com/filmora/article-images/stop-motion-studio.jpg)
 
 Stop Motion Studio, produced by Cateater, is an app offered for people age 4 and over and is available on iOS and Android – for your phone or your tablet. There is also a full-featured movie editing software that you can buy for your PC and Mac.
 

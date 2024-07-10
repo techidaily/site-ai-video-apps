@@ -1,7 +1,7 @@
 ---
 title: In 2024, Unlocking the Power of XML Files in Final Cut Pro X
-date: 2024-06-16T04:22:15.133Z
-updated: 2024-06-17T04:22:15.133Z
+date: 2024-07-09T18:47:35.126Z
+updated: 2024-07-10T18:47:35.126Z
 tags: 
   - video editing software
   - video editing
@@ -30,7 +30,7 @@ Unlike HTML, the Extensible Markup Language describes the data content in a read
 
 Most users opt for XML due to its compatible features, readability, and personalization options. In this article, you will learn how to import and export **XML files** in the Final Cut Pro application. Use the below guidelines to carry out the desired process successfully. It is high time to get ready for an informative takeoff. Fasten your seats for the enlightening journey on the XML file at the Final cut pro X program.
 
-> * [Part1: What is the XML file in Final cut pro X? ](#what is XML)
+> * [Part1: What is the XML file in Final cut pro X?](#what is XML)
 > * [Part2: Why exporting XML in final cut pro instead?](#export XML)
 > * [Part3: How to import and export XML files in Final cut pro X?](#how to do it)
 > * [Part4: What editors can import and export XML files?](#editors)
