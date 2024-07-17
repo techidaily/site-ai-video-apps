@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Adobe Premiere Pro Power User Master These 20 Shortcuts
-date: 2024-07-02T00:08:52.654Z
-updated: 2024-07-03T00:08:52.654Z
+date: 2024-07-16T01:14:50.926Z
+updated: 2024-07-17T01:14:50.926Z
 tags: 
   - video editing software
   - video editing
@@ -30,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
  This is a basic tutorial about Adobe Premiere, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/), which is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -58,6 +61,18 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
  Whilst the shortcuts for editing and manipulating clips are extremely important for efficient workflow, it should be remembered that those relating to the basic operation of the program are just as useful, as we see here. Using Control and I (Command and I on Mac) brings up the import media dialogue box instantly.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-3.png)
 
 #### 3Capture Panel
@@ -75,6 +90,9 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 * Step Back - Left Arrow
 * Step Forward - Right Arrow
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-2.jpg)
 
 #### 4 Timeline Panel
@@ -97,6 +115,9 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 * Arc Tool - A
 * Ellipse Tool – E
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-4.jpg)
 
 #### 5 Navigation within a clip
@@ -127,6 +148,9 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
  To get the best from this it is necessary to set some options beforehand, as Play Around plays the portion of the timeline around the Playhead, and where it plays is dependent on the options set. This is done through the menu via edit > preferences > playback, here I have preroll and postroll set to 4 seconds, meaning that it plays 4 seconds prior and following the point where the playhead is placed.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-5.jpg)
 
  In addition, turning on looping for this can help to fine tune edits.
@@ -167,6 +191,9 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
  You can view all added edits within a sequence by selecting show through edits within the sequence menu.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-6.jpg)
 
 #### 15Add the default Transition
@@ -215,3 +242,75 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-enhancing-visual-experiences-a-deep-dive-into-video-enhancer-22/"><u>[New] 2024 Approved  Enhancing Visual Experiences  A Deep Dive Into Video Enhancer 2.2</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-comprehensible-guide-to-wincams-bests/"><u>[New] 2024 Approved  The Comprehensible Guide to WinCams' Bests</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-discover-the-best-in-igtv-every-week/"><u>[New] Discover the Best in IGTV Every Week</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-a-guide-to-recording-private-whatsapp-communications/"><u>[New] In 2024, A Guide to Recording Private WhatsApp Communications</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flipping-scripts-generating-parody-content/"><u>[New] In 2024, Flipping Scripts  Generating Parody Content</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-inside-the-tech-what-is-virtual-reality-gear/"><u>[New] Inside the Tech  What Is Virtual Reality Gear?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagrams-power-in-motion-crafting-a-comprehensive-video-plan-for-2024/"><u>[New] Instagram's Power in Motion  Crafting a Comprehensive Video Plan for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-your-guide-to-premium-screensnap-tools-on-win11-and-w10-for-2024/"><u>[New] Your Guide to Premium Screensnap Tools on Win11 & W10 for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unveiling-how-luts-transform-visual-elements-in-photos/"><u>[Updated] 2024 Approved  Unveiling How LUTs Transform Visual Elements in Photos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-take-screenshots-with-precision-on-a-mac-for-2024/"><u>[Updated] Take Screenshots with Precision on a Mac for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-effortless-animated-addition-how-to-send-and-share-gifs-on-snapchat/"><u>2024 Approved  Effortless Animated Addition  How to Send and Share GIFs on Snapchat</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-elevate-your-imagery-a-compreenasional-on-lightroom-hdr/"><u>2024 Approved  Elevate Your Imagery  A Compreenasional on Lightroom HDR</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-beginners-guide-to-stunning-slow-motion-shooting-with-an-android/"><u>2024 Approved  The Beginner's Guide to Stunning Slow-Motion Shooting with an Android</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-unveiling-techniques-for-high-quality-ps3-game-capture/"><u>2024 Approved  Unveiling Techniques for High-Quality PS3 Game Capture</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-oppo-k11x-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/boosting-income-smart-strategies-for-profit-from-youtube-mobile-content/"><u>Boosting Income  Smart Strategies for Profit From YouTube Mobile Content</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-on-iphone-7-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 On iPhone 7</u></a></li>
+<li><a href="https://facebook.techidaily.com/exploring-and-using-messengers-without-facebook-connection/"><u>Exploring and Using Messengers without Facebook Connection</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-vivo-g2-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Vivo G2 Phone | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-i-screen-mirroring-apple-iphone-11-to-tvlaptop-drfone-by-drfone-ios/"><u>How Can I Screen Mirroring Apple iPhone 11 to TV/Laptop? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-apple-iphone-13-pro-max-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your Apple iPhone 13 Pro Max without Security Questions?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-tecno-camon-20-pro-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Tecno Camon 20 Pro 5G online without jailbreak</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-realme-gt-neo-5-se-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Realme GT Neo 5 SE to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-free-home-security-camera-apps-expert-reviews/"><u>In 2024, Best Free Home Security Camera Apps Expert Reviews</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-capture-and-complement-expert-choices-for-frame-integrating-sites/"><u>In 2024, Capture & Complement  Expert Choices for Frame-Integrating Sites</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-14-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-11-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 11? Complete Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-discover-the-best-ways-to-convert-youtube-videos-to-mp3-files/"><u>New 2024 Approved Discover the Best Ways to Convert YouTube Videos to MP3 Files</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-discover-the-perfect-youtube-to-mp4-converter-for-your-needs/"><u>New 2024 Approved Discover the Perfect YouTube to MP4 Converter for Your Needs</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-discover-the-power-of-open-source-best-free-video-editors/"><u>New 2024 Approved Discover the Power of Open-Source Best Free Video Editors</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-discover-the-secret-to-seamless-music-conversion-a-must-read-article/"><u>New 2024 Approved Discover the Secret to Seamless Music Conversion A Must-Read Article</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-discover-the-best-vllo-alternatives-for-mac-users-for-2024/"><u>New Discover the Best VLLO Alternatives for Mac Users for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-discover-the-power-of-video-editing-microsofts-guide-for-windows-users-for-2024/"><u>New Discover the Power of Video Editing Microsofts Guide for Windows Users for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-discover-the-secrets-to-effortless-mp3-conversion-on-windows-a-essential-read-for-2024/"><u>New Discover the Secrets to Effortless Mp3 Conversion on Windows A Essential Read for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-discover-the-top-10-free-game-download-sites-for-pc-and-android-for-2024/"><u>New Discover the Top 10 Free Game Download Sites for PC and Android for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-discover-the-top-10-free-green-screen-apps-for-android-and-ios-for-2024/"><u>New Discover the Top 10 Free Green Screen Apps for Android and iOS for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-discover-the-best-video-editing-apps-for-windows/"><u>New In 2024, Discover the Best Video Editing Apps for Windows</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-discover-the-best-video-editing-software-for-mac-and-ios/"><u>New In 2024, Discover the Best Video Editing Software for Mac and iOS</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-discover-the-best-ways-to-convert-youtube-videos-to-mp3-files/"><u>New In 2024, Discover the Best Ways to Convert YouTube Videos to MP3 Files</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-discover-the-easiest-video-editing-software-for-any-device/"><u>New In 2024, Discover the Easiest Video Editing Software for Any Device</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-discover-the-easiest-ways-to-convert-youtube-videos-to-mp3/"><u>New In 2024, Discover the Easiest Ways to Convert YouTube Videos to MP3</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-discover-the-ideal-sony-vegas-substitute-for-windows/"><u>New In 2024, Discover the Ideal Sony Vegas Substitute for Windows</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-discover-the-perfect-video-editor-minitool-movie-maker-review-and-alternatives/"><u>New In 2024, Discover the Perfect Video Editor Minitool Movie Maker Review and Alternatives</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-discover-the-power-of-voice-top-free-speech-recognition-apps-for-mac-users/"><u>New In 2024, Discover the Power of Voice Top Free Speech Recognition Apps for Mac Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-discover-the-secret-to-effortless-audio-conversion-on-windows-read-this-now/"><u>New In 2024, Discover the Secret to Effortless Audio Conversion on Windows Read This Now</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-discover-the-secrets-to-effortless-mp3-conversion-on-windows-a-essential-read/"><u>New In 2024, Discover the Secrets to Effortless Mp3 Conversion on Windows A Essential Read</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-discover-the-top-10-free-green-screen-apps-for-android-and-ios/"><u>New In 2024, Discover the Top 10 Free Green Screen Apps for Android and iOS</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-discover-the-top-12-audio-converters-a-comprehensive-guide/"><u>New In 2024, Discover the Top 12 Audio Converters A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/sierra-navigating-desktop-drives-with-ease/"><u>Sierra  Navigating Desktop, Drives with Ease</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/televisual-enhancements-through-engaging-fb-livestreams-for-2024/"><u>Televisual Enhancements Through Engaging FB Livestreams for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-lava-blaze-2-pro-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Lava Blaze 2 Pro without backup.</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-oppo-reno-10-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Oppo Reno 10 5G without backup.</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-discover-the-easiest-ways-to-remove-tiktok-watermarks-online/"><u>Updated 2024 Approved Discover the Easiest Ways to Remove TikTok Watermarks Online</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-discover-the-hidden-gems-best-mac-speech-to-text-apps-with-no-download-required/"><u>Updated 2024 Approved Discover the Hidden Gems Best Mac Speech to Text Apps with No Download Required</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-discover-the-power-of-fcp-90-days-free-no-strings-attached/"><u>Updated 2024 Approved Discover the Power of FCP 90 Days Free, No Strings Attached</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-discover-the-power-of-final-cut-pro-90-day-free-trial-available/"><u>Updated 2024 Approved Discover the Power of Final Cut Pro 90-Day Free Trial Available</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-discover-the-power-of-kapwing-trim-and-edit-videos-online/"><u>Updated 2024 Approved Discover the Power of Kapwing Trim and Edit Videos Online</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-discover-the-power-of-voice-top-free-speech-recognition-apps-for-mac-users/"><u>Updated 2024 Approved Discover the Power of Voice Top Free Speech Recognition Apps for Mac Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-discover-the-power-of-vr-how-to-convert-regular-videos/"><u>Updated 2024 Approved Discover the Power of VR How to Convert Regular Videos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-discover-the-secret-to-downloading-high-quality-youtube-audio/"><u>Updated 2024 Approved Discover the Secret to Downloading High-Quality YouTube Audio</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-discover-the-best-vllo-alternatives-for-mac-users-for-2024/"><u>Updated Discover the Best VLLO Alternatives for Mac Users for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-discover-the-power-of-final-cut-pro-90-day-free-trial-available-for-2024/"><u>Updated Discover the Power of Final Cut Pro 90-Day Free Trial Available for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-discover-the-power-of-kapwing-trim-and-edit-videos-online-for-2024/"><u>Updated Discover the Power of Kapwing Trim and Edit Videos Online for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-discover-the-power-of-voice-top-free-speech-recognition-apps-for-mac-users-for-2024/"><u>Updated Discover the Power of Voice Top Free Speech Recognition Apps for Mac Users for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-discover-the-top-audio-converters-for-your-music-library-for-2024/"><u>Updated Discover the Top Audio Converters for Your Music Library for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-discover-the-best-video-dubbing-software-for-pc-free-trials/"><u>Updated In 2024, Discover the Best Video Dubbing Software for PC - Free Trials</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-discover-the-secret-to-hands-free-productivity-best-mac-speech-to-text-apps/"><u>Updated In 2024, Discover the Secret to Hands-Free Productivity Best Mac Speech-to-Text Apps</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-discover-the-top-audio-converters-for-your-music-library/"><u>Updated In 2024, Discover the Top Audio Converters for Your Music Library</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/windows-11-photos-setup-guide-adding-aesthetic-overlays-and-music/"><u>Windows 11 Photos Setup Guide  Adding Aesthetic Overlays & Music</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved FCPX Pro Tips Creating Dramatic Pauses and Slow-Mo Effects
-date: 2024-07-02T00:10:11.954Z
-updated: 2024-07-03T00:10:11.954Z
+date: 2024-07-16T01:16:14.457Z
+updated: 2024-07-17T01:16:14.457Z
 tags: 
   - video editing software
   - video editing
@@ -40,6 +40,9 @@ A still-frame freezes action. For instance, here is a clip of a hummingbird gett
 
 In Final Cut Pro X, put the playhead (or skimmer) on the frame you want to freeze and type Option+F.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![freeze frames](https://images.wondershare.com/multimedia/speed002.jpg)
 
 This creates a two-second freeze-frame at the position of the playhead.
@@ -48,6 +51,9 @@ This creates a two-second freeze-frame at the position of the playhead.
 
 Adjust the duration of the frame by trimming the edge; just like any other clip. Here, for example, I'm making the duration of the freeze-frame 11 frames shorter.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![freeze frames in FCP X](https://images.wondershare.com/multimedia/speed004.jpg)
 
 In case you were wondering, this is what the freeze looks like. It freezes the flight of the hummingbird in the middle of playback, allowing us to add graphics or other text then resume the action as though nothing had happened.
@@ -76,6 +82,9 @@ I use both these techniques in many different projects.
 
 A Hold Frame is similar to an in-line still frame, but with more flexibility.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hold frame](https://images.wondershare.com/multimedia/speed013.jpg)
 
 Put the playhead (or skimmer) on the frame you want to hold. Then, Then, using either Modify > Retime or the "Smurf-on-a-headset" Toolbar icon, choose Hold Frame (or type: Shift+H).
@@ -120,6 +129,9 @@ Three things happen at once:
 * The orange Retiming bar appears over the top of the clip
 * The speed of the clip changes
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![speed010](https://images.wondershare.com/multimedia/speed010.jpg)
 
 To reset the speed back to normal (100%), click the downward-pointing arrow in the Retiming bar and choose Normal (100%).
@@ -132,6 +144,9 @@ The easy way is to grab the small handle at the end of the clip and drag left or
 
 Or, for more precision, click the downward-pointing arrow in the Retiming bar and choose Custom.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![speed011](https://images.wondershare.com/multimedia/speed011.jpg)
 
 This opens a new dialog allowing a number of changes:
@@ -147,6 +162,9 @@ You will get the smoothest speed changes when the percentage you choose divides 
 
 There is one more setting to consider when slowing a clip. (This does not apply when creating fast motion.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![speed012](https://images.wondershare.com/multimedia/speed012.jpg)
 
 Using, again, either Modify > Retime or the "Smurf" menu, select Video Quality.
@@ -163,6 +181,9 @@ Frame blending is relatively fast and easy. Optical Flow will look better in mos
 
 This is a basic tutorial about Apple Final Cut Pro X, a professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -171,6 +192,9 @@ This is a basic tutorial about Apple Final Cut Pro X, a professional video editi
 
 Whether you want your clips to speed up, slow down or just plain stop, Final Cut Pro X makes the entire process easy.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -187,3 +211,44 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-leading-platforms-enhancing-online-collaboration/"><u>[New] 2024 Approved  Leading Platforms Enhancing Online Collaboration</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-mac-based-strategies-for-shorter-insta-videos/"><u>[New] 2024 Approved  Mac-Based Strategies for Shorter Insta Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-exclusive-access-prime-video-downloader-picks/"><u>[New] Exclusive Access  Prime Video Downloader Picks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-leading-heavy-duty-uavs-for-maximum-carry-capacity-for-2024/"><u>[New] Leading Heavy-Duty UAVs for Maximum Carry Capacity for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-novice-to-vlogger-your-guide-to-creating-a-youtube-chanel-for-2024/"><u>[Updated] From Novice to Vlogger  Your Guide to Creating a YouTube Chanel for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-jumpstart-your-recording-with-this-obs-mac-setup-guide/"><u>[Updated] Jumpstart Your Recording with This OBS Mac Setup Guide</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-create-a-freeze-frame-sequence-in-your-videos/"><u>2024 Approved Create A Freeze Frame Sequence In Your Videos</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-exclusive-guide-to-high-quality-audio-recording-on-windows-10-systems/"><u>2024 Approved Exclusive Guide to High-Quality Audio Recording on Windows 10 Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/disabling-recommended-podcast-episodes-in-spotify-app/"><u>Disabling Recommended Podcast Episodes in Spotify App</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-deciding-on-itop-recorder-an-indispensable-tool/"><u>In 2024, Deciding on ITop Recorder - An Indispensable Tool?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/innovative-approaches-to-keeping-your-snaps-connected-for-2024/"><u>Innovative Approaches to Keeping Your Snaps Connected for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-make-em-laugh-best-video-dubbing-tools-for-humorous-edits/"><u>New 2024 Approved Make Em Laugh Best Video Dubbing Tools for Humorous Edits</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-make-me-laugh-top-10-meme-generation-apps-for-mobile-devices/"><u>New 2024 Approved Make Me Laugh Top 10 Meme Generation Apps for Mobile Devices</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-make-movies-on-the-go-top-10-android-video-editing-apps/"><u>New 2024 Approved Make Movies on the Go Top 10 Android Video Editing Apps</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-make-movies-on-windows-10-imovie-like-video-editing-software/"><u>New 2024 Approved Make Movies on Windows 10 iMovie-Like Video Editing Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-make-movies-without-breaking-the-bank-7-best-low-cost-film-software/"><u>New 2024 Approved Make Movies Without Breaking the Bank 7 Best Low-Cost Film Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-make-mpeg2-files-smaller-a-step-by-step-guide-with-virtualdub/"><u>New 2024 Approved Make MPEG2 Files Smaller A Step-by-Step Guide with VirtualDub</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-make-professional-lyric-videos-online-with-ease/"><u>New 2024 Approved Make Professional Lyric Videos Online with Ease</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-make-stunning-videos-microsoft-video-editor-tips-and-tricks-for-windows/"><u>New 2024 Approved Make Stunning Videos Microsoft Video Editor Tips and Tricks for Windows</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-make-it-shine-professional-video-editing-tips-for-creating-breathtaking-home-videos/"><u>New In 2024, Make It Shine Professional Video Editing Tips for Creating Breathtaking Home Videos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-make-movies-like-a-pro-8-leading-mac-video-creation-apps/"><u>New In 2024, Make Movies Like a Pro 8 Leading Mac Video Creation Apps</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-make-quicktime-play-faster-tips-and-tricks-for-speeding-up-videos/"><u>New In 2024, Make QuickTime Play Faster Tips and Tricks for Speeding Up Videos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-make-memorable-moments-top-video-collage-creators-for-ios-for-2024/"><u>New Make Memorable Moments Top Video Collage Creators for iOS for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-make-professional-lyric-videos-online-with-ease-for-2024/"><u>New Make Professional Lyric Videos Online with Ease for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-video-entries-the-best-16-to-maximize-viewership-for-2024/"><u>Prime Video Entries  The Best 16 to Maximize Viewership for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-make-em-laugh-best-video-dubbing-tools-for-humorous-edits/"><u>Updated 2024 Approved Make Em Laugh Best Video Dubbing Tools for Humorous Edits</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-make-movies-for-free-top-online-video-makers/"><u>Updated 2024 Approved Make Movies for Free Top Online Video Makers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-make-movies-that-wow-a-comprehensive-guide-to-professional-video-production/"><u>Updated 2024 Approved Make Movies That Wow A Comprehensive Guide to Professional Video Production</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-make-stunning-videos-in-minutes-wevideo-online-editor/"><u>Updated 2024 Approved Make Stunning Videos in Minutes WeVideo Online Editor</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-make-every-frame-count-best-1080p-video-editing-software-for-film-quality-results/"><u>Updated In 2024, Make Every Frame Count Best 1080P Video Editing Software for Film-Quality Results</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-make-movies-like-a-pro-insider-secrets-for-achieving-professional-results/"><u>Updated In 2024, Make Movies Like a Pro Insider Secrets for Achieving Professional Results</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-make-stunning-videos-in-minutes-wevideo-online-editor/"><u>Updated In 2024, Make Stunning Videos in Minutes WeVideo Online Editor</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-make-every-moment-epic-free-slow-motion-video-editing-software-filmora-for-2024/"><u>Updated Make Every Moment Epic Free Slow Motion Video Editing Software - Filmora for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-make-professional-lyric-videos-online-with-ease-for-2024/"><u>Updated Make Professional Lyric Videos Online with Ease for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-make-quicktime-play-faster-tips-and-tricks-for-speeding-up-videos-for-2024/"><u>Updated Make QuickTime Play Faster Tips and Tricks for Speeding Up Videos for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-make-stunning-videos-in-minutes-wevideo-for-2024/"><u>Updated Make Stunning Videos in Minutes WeVideo for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-make-the-most-of-your-mobile-audience-resizing-videos-for-vertical-playback-for-2024/"><u>Updated Make the Most of Your Mobile Audience Resizing Videos for Vertical Playback for 2024</u></a></li>
+</ul></div>

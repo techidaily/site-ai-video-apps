@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Dual Approaches to Audio Fades in Final Cut Pro A Step-by-Step Guide
-date: 2024-07-02T00:09:29.812Z
-updated: 2024-07-03T00:09:29.812Z
+date: 2024-07-16T01:15:29.417Z
+updated: 2024-07-17T01:15:29.417Z
 tags: 
   - video editing software
   - video editing
@@ -44,12 +44,18 @@ Before we get started, you can firstly detach the audio from video to better edi
 
 Check more articles here, if you are also interested in other [audio editing tips](https://tools.techidaily.com/wondershare/filmora/download/) in Final Cut Pro or want to know how to [record a voice over](https://tools.techidaily.com/wondershare/filmora/download/) with FCP.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to Fade Audio by using the Modify Menu
 
 You can go to the **Modify** menu and easily apply fade-in or fade-outs to the audio clip you are editing. The Final Cut Pro preferences also allow you to adjust the fade duration.
 
 **Step 1** **:** First, you have to select the audio or the video clips with audio in the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
@@ -58,6 +64,9 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 You should remember that the fades appear at the beginning and the end of each clip. The default duration of the fade is one half-second. If you want to modify that duration, you just have to drag the fade handle up to the point where your fade is supposed to begin or end.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Modify duration of fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-3.png)
 
 **Step 3**: If you want to remove the fades, choose Modify > Adjust Volume > Remove Fades.
@@ -80,10 +89,16 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 ![Using the fade handles to create crossfades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Fade preferences](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 * Linear: The rate of change is constant over the length of the fade.
@@ -97,6 +112,9 @@ You can easily change the sound of your fades by modifying the default fade shap
 
 [](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -113,3 +131,41 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-facebooks-best-friend-on-mobile-top-10-android-extractor-apps-overview/"><u>[New] 2024 Approved  Facebook's Best Friend on Mobile  Top 10 Android Extractor Apps Overview</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-advanced-techniques-to-silence-background-noise-in-media/"><u>[Updated] 2024 Approved  Advanced Techniques to Silence Background Noise in Media</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-innovative-recorder-options-without-latency-anxiety-for-2024/"><u>[Updated] Innovative Recorder Options Without Latency Anxiety for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-top-tactics-eliminate-fbs-intrusive-video-ads-for-2024/"><u>[Updated] Top Tactics  Eliminate FB's Intrusive Video Ads for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-vr-showdown-scoring-the-best-oculus-models/"><u>[Updated] Ultimate VR Showdown  Scoring the Best Oculus Models</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-bite-the-dessert-bullet-tiktoks-sweetest-treats/"><u>2024 Approved  Bite the Dessert Bullet  TikTok's Sweetest Treats</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-instant-freeze-capture-feature-guide/"><u>2024 Approved  Instant Freeze Capture Feature Guide</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-best-stranger-communication-tools-prioritizing-security-usability-and-enjoyment/"><u>2024 Approved Best Stranger Communication Tools Prioritizing Security, Usability, and Enjoyment</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-realme-12-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Realme 12 5G</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-14-plus-screen-lock-without-losing-data-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 14 Plus screen lock without losing data?</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-10-leading-video-resizing-software-solutions/"><u>New 2024 Approved 10 Leading Video Resizing Software Solutions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-video-editing-software-no-watermark-no-cost/"><u>New 2024 Approved Free Video Editing Software No Watermark, No Cost</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-video-hosting-solutions-10-best-options-for-individuals-and-businesses/"><u>New 2024 Approved Free Video Hosting Solutions 10 Best Options for Individuals and Businesses</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-video-loop-creator-top-picks-and-reviews/"><u>New 2024 Approved Free Video Loop Creator Top Picks and Reviews</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-free-video-editing-on-a-budget-top-chromebook-options-for-2024/"><u>New Free Video Editing on a Budget Top Chromebook Options for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-free-video-editing-software-for-old-pcs-32-bit-windows-compatibility-for-2024/"><u>New Free Video Editing Software for Old PCs 32-Bit Windows Compatibility for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-free-video-editing-software-like-imovie-the-top-options-for-2024/"><u>New Free Video Editing Software Like iMovie The Top Options for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-video-editing-options-10-windows-movie-maker-alternatives/"><u>New In 2024, Free Video Editing Options 10 Windows Movie Maker Alternatives</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-video-editing-software-no-watermark-no-cost/"><u>New In 2024, Free Video Editing Software No Watermark, No Cost</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-video-editing-solutions-the-top-5-online-video-mergers/"><u>New In 2024, Free Video Editing Solutions The Top 5 Online Video Mergers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-video-editing-software-for-old-pcs-32-bit-windows-compatibility/"><u>Updated 2024 Approved Free Video Editing Software for Old PCs 32-Bit Windows Compatibility</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-video-editing-software-top-alternatives-to-imovie/"><u>Updated 2024 Approved Free Video Editing Software Top Alternatives to iMovie</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-video-editing-solutions-the-top-5-online-video-mergers/"><u>Updated 2024 Approved Free Video Editing Solutions The Top 5 Online Video Mergers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-video-flipper-tools-rotate-your-videos-online/"><u>Updated 2024 Approved Free Video Flipper Tools Rotate Your Videos Online</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-video-hosting-solutions-top-picks-for-individuals-and-businesses/"><u>Updated 2024 Approved Free Video Hosting Solutions Top Picks for Individuals and Businesses</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-video-invitation-makers-the-top-choices-events/"><u>Updated 2024 Approved Free Video Invitation Makers The Top Choices Events</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-whatsapp-status-pro-top-apps-for-eye-catching-content/"><u>Updated 2024 Approved WhatsApp Status Pro Top Apps for Eye-Catching Content</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-free-video-editing-software-10-options-beyond-windows-movie-maker-for-2024/"><u>Updated Free Video Editing Software 10 Options Beyond Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-free-video-editing-on-ubuntu-the-top-10-picks/"><u>Updated In 2024, Free Video Editing on Ubuntu The Top 10 Picks</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-free-video-editing-software-10-alternatives-to-windows-movie-maker/"><u>Updated In 2024, Free Video Editing Software 10 Alternatives to Windows Movie Maker</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-free-video-editing-software-with-split-screen-capability-online-and-offline/"><u>Updated In 2024, Free Video Editing Software with Split Screen Capability Online & Offline</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-free-video-editors-for-chrome-os-a-review-of-the-top-options/"><u>Updated In 2024, Free Video Editors for Chrome OS A Review of the Top Options</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-free-video-hosting-10-top-options-for-personal-and-professional-use/"><u>Updated In 2024, Free Video Hosting 10 Top Options for Personal and Professional Use</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-free-video-invitation-templates-and-makers-events/"><u>Updated In 2024, Free Video Invitation Templates and Makers Events</u></a></li>
+</ul></div>

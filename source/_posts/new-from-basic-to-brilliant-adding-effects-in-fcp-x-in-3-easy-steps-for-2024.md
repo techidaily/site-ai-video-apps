@@ -1,0 +1,185 @@
+---
+title: New From Basic to Brilliant Adding Effects in FCP X in 3 Easy Steps for 2024
+date: 2024-07-16T01:39:23.826Z
+updated: 2024-07-17T01:39:23.826Z
+tags: 
+  - video editing software
+  - video editing
+categories: 
+  - ai
+  - video
+description: This Article Describes New From Basic to Brilliant Adding Effects in FCP X in 3 Easy Steps for 2024
+excerpt: This Article Describes New From Basic to Brilliant Adding Effects in FCP X in 3 Easy Steps for 2024
+keywords: from basic to brilliant mastering video editing effects for beginners,from basic to brilliant adding effects in fcp x with 3 simple steps,effortless video editing how to add effects in fcp x in 3 steps,effortless video editing how to add effects in fcp x 3 simple steps,from basic to brilliant adding fcp x effects in 3 easy steps,transform your videos learn how to add effects in fcp x in 3 steps,from basic to brilliant adding effects in fcp x in 3 easy steps
+thumbnail: https://thmb.techidaily.com/4815bdc4b07f62378c934e8844c6ab3ed5ccd8bb0ecbd12c41105ddecee78795.jpg
+---
+
+## From Basic to Brilliant: Adding Effects in FCP X in 3 Easy Steps
+
+# Simple Guide to FCP X: How To Add Effects in 3 Steps
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+There are two broad categories of effects in Final Cut Pro X: Inspector effects and Effects Browser effects.
+
+I've written previously about how to use Inspector effects to create a [picture-in-picture](https://tools.techidaily.com/wondershare/filmora/download/) effect, among many other effects available to us in Final Cut Pro. In this article, I want to show you how to apply an effect to a clip, modify that effect, temporarily turn that effect on or off, or delete it entirely.
+
+---
+
+This is a basic tutorial about Apple Final Cut Pro X, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+---
+
+## How to Apply Effects to Video in Final Cut Pro X
+
+* [Find and apply an effect](#part1)
+* [Modify an effect](#part2)
+* [Disable and delete an effect](#part3)
+* [Extra credit](#part4)
+
+#### Find and apply an effect
+
+Here is our clip - a fearsome polar bear.
+
+![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx001.jpg "add effects in fcp")
+
+To apply an effect, first select the clip in the Timeline.
+
+![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx002.jpg "add effects in fcp")
+
+Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
+
+The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
+
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx004.jpg "add effects in fcp")
+
+Here, for example, I've selected the Blur category, with my cursor near the Gaussian blur effect. (Gaussian blur is the best effect to use when you want a clip to look blurry.)
+
+To apply an effect, do one of two things:
+
+* Drag the effect from the Browser onto the clip you want to change.
+* If the clip, or clips, are selected, double-click the effect in the Browser to apply it.
+
+#### Modify an effect
+
+To modify an effect, click this icon in the Toolbar to open the Inspector (or type Cmd + 4).
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
+![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx005.jpg "add effects in fcp")
+
+Click the Video tab in the Inspector. Effects from the Effects Browser are always listed at the top of the Inspector.
+
+![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx006.jpg "add effects in fcp")
+
+Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
+
+![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx007.jpg "add effects in fcp")
+
+#### Disable and delete an effect
+
+To temporarily disable an effect, without deleting it, click the blue box so that it turns gray.
+
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx008.jpg "add effects in fcp")
+
+To enable an effect, click the gray box so it turns blue again.
+
+To delete an effect, click the name of the effect - in this example: Gaussian - and press the big Delete key.
+
+![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx009.jpg "add effects in fcp")
+
+The effect will be deleted from the selected clip.
+
+#### Extra credit
+
+You can apply, modify, even delete the same effect to multiple clips by first selecting all the clips you want to change in the Timeline then adding, changing the settings, or deleting an effect in the Inspector.
+
+#### Summary
+
+The process of applying effects is the same for all effects you apply from the Effects Browser. In future articles I'll show you how to use this technique to create a wide variety of different effects in Final Cut Pro X.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-easy-pc-capture-tool-windows-10-free-version/"><u>[New] Easy PC Capture Tool - Windows 10 Free Version</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-vlc-software-basics-for-macos/"><u>[New] Navigating VLC Software Basics for MacOS</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-boosting-facebook-ad-revenue-with-strategic-animated-content-design/"><u>[Updated] Boosting Facebook Ad Revenue with Strategic Animated Content Design</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-effortlessly-integrating-obs-into-your-mac-step-by-step-guide/"><u>[Updated] Effortlessly Integrating OBS Into Your Mac  Step by Step Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fading-frequencies-the-gentle-way-with-garageband/"><u>[Updated] Fading Frequencies  The Gentle Way with Garageband</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/15-best-booktok-picks-you-cant-miss/"><u>15 Best BookTok Picks You Can't Miss</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-alight-motion-comprehensive-review/"><u>2024 Approved  Alight Motion Comprehensive Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-azure-for-audio-transcriptions-a-beginners-manual/"><u>2024 Approved  Azure for Audio Transcriptions  A Beginner’s Manual</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-open-source-video-editing-excellenc/"><u>2024 Approved Open-Source Video Editing Excellenc</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-optimize-your-facebook-video-cover-a-guide-to-perfect-sizing/"><u>2024 Approved Optimize Your Facebook Video Cover A Guide to Perfect Sizing</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-optimize-your-linkedin-videos-the-best-aspect-ratios-for-maximum-engagement/"><u>2024 Approved Optimize Your LinkedIn Videos The Best Aspect Ratios for Maximum Engagement</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-optimize-your-rig-premiere-pro-system-requirements-and-setup-guide/"><u>2024 Approved Optimize Your Rig Premiere Pro System Requirements and Setup Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-optimize-your-views-youtube-thumbnail-dimensions-and-proven-strategies/"><u>2024 Approved Optimize Your Views YouTube Thumbnail Dimensions & Proven Strategies</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-optimizing-video-output-a-comprehensive-guide-to-compressor-in-fcpx/"><u>2024 Approved Optimizing Video Output A Comprehensive Guide to Compressor in FCPX</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-vlc-video-trimmer-for-mac-trim-and-edit-videos-with-ease-no-quality-loss/"><u>2024 Approved VLC Video Trimmer for Mac Trim and Edit Videos with Ease, No Quality Loss</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-12-pro-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone 12 Pro Data From iTunes? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-optimal-video-size-for-instagram-a-guide/"><u>In 2024, Optimal Video Size for Instagram A Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-optimize-your-videos-pro-tips-for-resizing-vertical-content/"><u>In 2024, Optimize Your Videos Pro Tips for Resizing Vertical Content</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-optimizing-facebook-video-covers-a-step-by-step-guide/"><u>In 2024, Optimizing Facebook Video Covers A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-optimizing-mobile-video-a-guide-to-vertical-aspect-ratio/"><u>In 2024, Optimizing Mobile Video A Guide to Vertical Aspect Ratio</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/leading-the-pack-in-multi-media-posting-on-instagram-for-2024/"><u>Leading the Pack in Multi-Media Posting on Instagram for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-avi-editor-for-windows-8-easily-edit-avi-files-on-pc-for-2024/"><u>New AVI Editor for Windows 8 Easily Edit AVI Files on PC for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-best-free-video-splitters-for-mkv-files-updated-2023/"><u>New In 2024, Best Free Video Splitters for MKV Files (Updated 2023)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-cut-and-split-wmv-videos-with-these-top-free-tools/"><u>New In 2024, Cut and Split WMV Videos with These Top Free Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-speed-up-your-storytelling-time-lapse-video-creation-in-final-cut-pro/"><u>New In 2024, Speed Up Your Storytelling Time Lapse Video Creation in Final Cut Pro</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-open-source-video-editing-on-a-budget-top-10-free-options/"><u>New Open-Source Video Editing on a Budget Top 10 Free Options</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-optimize-your-mac-a-step-by-step-guide-to-reclaiming-storage-for-fcpx/"><u>New Optimize Your Mac A Step-by-Step Guide to Reclaiming Storage for FCPX</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/open-source-video-editing-excellence-top-picks-for-2024/"><u>Open-Source Video Editing Excellence Top Picks for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/open-source-video-editing-on-a-budget-top-free-options-for-2024/"><u>Open-Source Video Editing on a Budget Top Free Options for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/open-source-video-editing-revolution-top-free-tools-for-2024/"><u>Open-Source Video Editing Revolution Top Free Tools for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/optimize-your-mac-a-step-by-step-guide-to-reclaiming-storage-for-fcpx-for-2024/"><u>Optimize Your Mac A Step-by-Step Guide to Reclaiming Storage for FCPX for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/optimize-your-rig-premiere-pro-system-requirements-and-setup-guide-for-2024/"><u>Optimize Your Rig Premiere Pro System Requirements and Setup Guide for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/optimize-your-view-amazon-prime-video-aspect-ratio-hacks-for-2024/"><u>Optimize Your View Amazon Prime Video Aspect Ratio Hacks for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/optimizing-facebook-video-covers-a-guide-to-perfect-dimensions-for-2024/"><u>Optimizing Facebook Video Covers A Guide to Perfect Dimensions for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/optimizing-facebook-video-covers-a-step-by-step-guide-for-2024/"><u>Optimizing Facebook Video Covers A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/sharing-videos-on-tweet-no-retweets-just-phones-for-2024/"><u>Sharing Videos on Tweet  No Retweets, Just Phones for 2024</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-oppo-reno-11-5g-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Oppo Reno 11 5G</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-beginners-roadmap-to-choosing-a-camera/"><u>The Beginner's Roadmap to Choosing a Camera</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-colorists-companion-top-11-tools-for-hue-harmony-for-2024/"><u>The Colorist's Companion  Top 11 Tools for Hue Harmony for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-funimate-the-ultimate-video-guide/"><u>Unveiling Funimate  The Ultimate Video Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-optimize-your-facebook-video-cover-a-guide-to-the-right-size/"><u>Updated Optimize Your Facebook Video Cover A Guide to the Right Size</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-optimize-your-facebook-video-cover-tips-for-the-perfect-size/"><u>Updated Optimize Your Facebook Video Cover Tips for the Perfect Size</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-optimize-your-tiktok-videos-aspect-ratio-essentials/"><u>Updated Optimize Your TikTok Videos Aspect Ratio Essentials</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

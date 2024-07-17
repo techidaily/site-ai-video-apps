@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Retro Revival Simple Steps to Achieve a VHS Look in FCP
-date: 2024-07-02T00:09:55.123Z
-updated: 2024-07-03T00:09:55.123Z
+date: 2024-07-16T01:15:56.147Z
+updated: 2024-07-17T01:15:56.147Z
 tags: 
   - video editing software
   - video editing
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50
 
 # Do VHS Effect with Final Cut Pro in the Right Way
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -34,6 +37,9 @@ In this article, you will learn how to add VHS effects to a video in Final Cut P
 
 A VHS effect is a textured, warped effect that looks like an outdated analog videotape cassette recording. Adding this antique effect to an edit adds a fantastic old-school discord. How often should you utilize these glitchy and vintage effects? When the mood you're trying to create begs for some visual or aural distortion. Perhaps you need to recreate the appearance of discovered film or express a dramatic flashback to a character's history. In any case, VHS tapes and glitch effects are pretty trendy right now.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![vhs_effect](https://images.wondershare.com/filmora/images/final-cut-pro/vhs_effect.jpg)
 
 If you want to know how to add VHS effect to your videos without any plugins in Final Cut Pro X, then follow these steps:
@@ -60,6 +66,9 @@ Go to the Gaussian settings and set the amount to roughly 2.0-3.0.
 
 Go back to the search bar in FCPX and type Sharpen. Select the Sharpen effect and drop it to your footage in Final Cut Pro.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add_sharpness_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/add_sharpness_in_final_cut_pro.jpg)
 
 Set the amount of sharpness to around 8.0-9.0.
@@ -72,18 +81,27 @@ Set the amount of the effect to roughly around 8.0-9.0\. In the option, Static T
 
 Now go to the search bar again and type Prism. Select the prism effect and drop it to your footage in Final Cut Pro. This will add some 3D effect to your footage.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add_prism_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/add_prism_effect_in_final_cut_pro.jpg)
 
 Set the amount to around 13.0-14.0.
 
 Go back to the search bar and type Color Correction. Drag and drop this effect to your footage in Final Cut Pro.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![color_correction_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/color_correction_in_final_cut_pro.jpg)
 
 Click on Exposure and adjust the Highlights, Midtones, and Shadow. Go to the Saturation option and lower it. Now go to the Color and adjust the tint of your video by changing the Global option. Also, adjust the Highlights, Midtones, and Shadows. Wait for a few minutes for it to render.
 
 After your video is rendered, you will get the final results using the VHS filter in Final Cut Pro. Your video will look like it was made in a VCR Video format.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![final_result_of_vhs_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/final_result_of_vhs_effect_in_final_cut_pro.jpg)
 
 ## Part2: How to do VHS effect in easy steps?
@@ -106,6 +124,9 @@ To do VHS effects quickly, follow these steps:
 * Drag and drop Credit 1 to your project timeline and pace it above the black image.
 * Stretch it all the way to the black image. Change all the text in it as you like.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select_end_credits](https://images.wondershare.com/filmora/images/final-cut-pro/select_end_credits.jpg)
 
 Go to Effect, and in the search bar, type **VHS**.
@@ -113,6 +134,9 @@ Go to Effect, and in the search bar, type **VHS**.
 * Drag and drop the VHS Distortion Bad effect on the timeline above the text layer.
 * Double click on it and change the Alpha value to 25 and click Ok.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add_vhs_distortion_bad](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion_bad.jpg)
 
 * Now drag the VHS Distortion effect and place it above the previous one.
@@ -193,6 +217,9 @@ The look of a VHS glitch effect is basic yet incredibly authentic. This one was 
 
 The appearance and feel of your production may be significantly enhanced by using VHS video effects. Nothing brings back memories for a viewer like a VHS video. By following the steps mentioned above, you can easily use the VHS effect in your video. However, we recommend you use Wondershare Filmore to create VHS effect as you wouldn't require any plugin. What are some of your favorite VHS effects?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -209,3 +236,37 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-crafting-engaging-channels-using-tubebuddys-framework/"><u>[New] 2024 Approved  Crafting Engaging Channels Using TubeBuddy's Framework</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-expert-video-upload-techniques-for-youtube-via-premiere/"><u>[New] 2024 Approved  Expert Video Upload Techniques for YouTube via Premiere</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-essential-knowledge-for-manipulating-discord-message-designs/"><u>[New] Essential Knowledge for Manipulating Discord Message Designs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-no-cost-camera-screenshot-tool-reviews-and-selections-for-2024/"><u>[New] No-Cost Camera Screenshot Tool Reviews & Selections for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-essentials-of-stylistic-self-discovery-high-impact/"><u>[New] The Essentials of Stylistic Self-Discovery [High Impact]</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-optimize-gmail-for-video-calls-with-effective-zoom-use-for-2024/"><u>[Updated] Optimize Gmail for Video Calls with Effective Zoom Use for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-masters-of-digital-avengers-realms/"><u>2024 Approved  Masters of Digital Avengers Realms</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-prime-8-transformative-lenses-for-virtual-conferencing/"><u>In 2024, Prime 8 Transformative Lenses for Virtual Conferencing</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-how-to-make-ken-burns-effect-in-final-cut-pro/"><u>New 2024 Approved How to Make Ken Burns Effect in Final Cut Pro?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-how-to-pick-the-best-youtube-to-mp3-converter-for-your-music-needs/"><u>New 2024 Approved How to Pick the Best YouTube to MP3 Converter for Your Music Needs</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-how-to-remove-tiktok-watermarks-online-top-methods-and-tools/"><u>New 2024 Approved How to Remove TikTok Watermarks Online Top Methods and Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-how-to-resize-linkedin-video-thumbnails-for-maximum-impact/"><u>New 2024 Approved How to Resize LinkedIn Video Thumbnails for Maximum Impact</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-how-to-get-fcpx-with-the-best-price-check-education-bundle-for-2024/"><u>New How To Get FCPX With the Best Price? Check Education Bundle for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-how-to-get-filmora-for-free-without-crack-for-2024/"><u>New How to Get Filmora for Free without Crack for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-how-to-make-a-professional-looking-movie-on-your-mac-for-2024/"><u>New How to Make a Professional-Looking Movie on Your Mac for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-how-to-pick-the-right-youtube-video-converter-for-mp4-files/"><u>New In 2024, How to Pick the Right YouTube Video Converter for MP4 Files</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-how-to-resize-linkedin-video-thumbnails-for-maximum-impact/"><u>New In 2024, How to Resize LinkedIn Video Thumbnails for Maximum Impact</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-how-to-resize-videos-quickly-and-efficiently/"><u>New In 2024, How to Resize Videos Quickly and Efficiently</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/parody-pointers-from-script-to-screenplay-for-2024/"><u>Parody Pointers  From Script to Screenplay for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pinnacle-resources-for-3d-type-art/"><u>Pinnacle Resources for 3D Type Art</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/savoring-the-best-tiktok-food-videos-for-2024/"><u>Savoring the Best TikTok Food Videos for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-how-to-make-a-professional-looking-movie-on-your-mac/"><u>Updated 2024 Approved How to Make a Professional-Looking Movie on Your Mac</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-how-to-pick-the-perfect-video-to-audio-converter-for-your-needs/"><u>Updated 2024 Approved How to Pick the Perfect Video to Audio Converter for Your Needs</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-how-to-pick-the-right-youtube-video-converter-for-mp4-files/"><u>Updated 2024 Approved How to Pick the Right YouTube Video Converter for MP4 Files</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-how-to-loop-a-video-for-free-best-tools-for-windows-mac-and-online-for-2024/"><u>Updated How to Loop a Video for Free Best Tools for Windows, Mac, and Online for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-how-to-make-ken-burns-effect-in-final-cut-pro-in-2024/"><u>Updated How to Make Ken Burns Effect in Final Cut Pro, In 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-how-to-remove-tiktok-watermarks-best-online-methods-for-2024/"><u>Updated How to Remove TikTok Watermarks Best Online Methods for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-how-to-prevent-final-cut-pro-x-from-freezing-and-crashing/"><u>Updated In 2024, How to Prevent Final Cut Pro X From Freezing and Crashing</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-how-to-resize-linkedin-video-thumbnails-for-maximum-impact/"><u>Updated In 2024, How to Resize LinkedIn Video Thumbnails for Maximum Impact</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-how-to-rotate-iphone-videos-for-free-top-app-choices/"><u>Updated In 2024, How to Rotate iPhone Videos for Free Top App Choices</u></a></li>
+</ul></div>

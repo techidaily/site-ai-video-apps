@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved From Basic to Brilliant Adding Effects in FCP X with 3 Simple Steps
-date: 2024-07-02T00:12:14.815Z
-updated: 2024-07-03T00:12:14.815Z
+date: 2024-07-16T01:18:30.057Z
+updated: 2024-07-17T01:18:30.057Z
 tags: 
   - video editing software
   - video editing
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/06c74021872dcc3b0ce900f997f142db31fade534
 
 # Simple Guide to FCP X: How To Add Effects in 3 Steps
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -32,6 +35,9 @@ I've written previously about how to use Inspector effects to create a [picture-
 
 This is a basic tutorial about Apple Final Cut Pro X, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -51,10 +57,16 @@ Here is our clip - a fearsome polar bear.
 
 To apply an effect, first select the clip in the Timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx002.jpg "add effects in fcp")
 
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
 
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
@@ -72,6 +84,9 @@ To apply an effect, do one of two things:
 
 To modify an effect, click this icon in the Toolbar to open the Inspector (or type Cmd + 4).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx005.jpg "add effects in fcp")
 
 Click the Video tab in the Inspector. Effects from the Effects Browser are always listed at the top of the Inspector.
@@ -80,6 +95,9 @@ Click the Video tab in the Inspector. Effects from the Effects Browser are alway
 
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx007.jpg "add effects in fcp")
 
 #### Disable and delete an effect
@@ -120,3 +138,50 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-how-to-screenshot-on-snapchat-without-them-knowing-5-ways/"><u>[New] In 2024, How to Screenshot on Snapchat without Them Knowing  5 Ways</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-increasing-interior-vibrancy-suns-role-inside/"><u>[Updated] Increasing Interior Vibrancy  Sun's Role Inside</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-magix-composition-wizard-an-audio-editing-experience/"><u>[Updated] Magix Composition Wizard  An Audio Editing Experience</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/best-hidden-instagram-tool-for-clandestine-stories/"><u>Best Hidden Instagram Tool for Clandestine Stories</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/digital-dominance-who-has-the-largest-fanbase-for-2024/"><u>Digital Dominance  Who Has the Largest Fanbase for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-samsung-galaxy-z-fold-5-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Galaxy Z Fold 5 Fingerprint Lock</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-craft-the-perfect-stream-a-comprehensive-guide-to-youtubes-full-rotation-videos/"><u>In 2024, Craft the Perfect Stream  A Comprehensive Guide to YouTube’s Full-Rotation Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-mastering-the-mechanics-of-zoom-techniques-for-top-notch-podcast-recordings/"><u>In 2024, Mastering the Mechanics of Zoom  Techniques for Top-Notch Podcast Recordings</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-the-golden-threshold-of-youtubes-monetization/"><u>In 2024, The Golden Threshold of YouTube's Monetization</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-mp4-file-editing-removing-sound-tracks/"><u>New 2024 Approved MP4 File Editing Removing Sound Tracks</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-voice-to-text-unlocking-the-power-of-automatic-transcription/"><u>New 2024 Approved Voice to Text Unlocking the Power of Automatic Transcription</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-vn-video-editor-pro-vs-the-competition-how-does-it-stack-up/"><u>New In 2024, VN Video Editor Pro Vs. The Competition How Does It Stack Up?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-vn-video-editor-review-a-powerful-video-editing-tool-for-android/"><u>New In 2024, VN Video Editor Review A Powerful Video Editing Tool for Android?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-voice-over-like-a-pro-essential-fcp-recording-tips/"><u>New In 2024, Voice Over Like a Pro Essential FCP Recording Tips</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-voice-recognition-converting-spoken-words-to-text/"><u>New In 2024, Voice Recognition Converting Spoken Words to Text</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-voice-to-text-unlocking-the-power-of-automatic-transcription/"><u>New In 2024, Voice to Text Unlocking the Power of Automatic Transcription</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-vr-video-conversion-made-simple-top-tools-and-techniques/"><u>New In 2024, VR Video Conversion Made Simple Top Tools and Techniques</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-vsdc-video-editor-for-mac-not-working-try-these-alternatives/"><u>New In 2024, VSDC Video Editor for Mac Not Working? Try These Alternatives</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-watch-your-local-videos-on-tv-chromecast-streaming-tutorial-for-all-devices/"><u>New In 2024, Watch Your Local Videos on TV Chromecast Streaming Tutorial for All Devices</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-screen-proportion-calculators-finding-the-perfect-ratio-for-2024/"><u>New Screen Proportion Calculators Finding the Perfect Ratio for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-vn-video-editor-review-the-good-the-bad-and-the-ugly-for-2024/"><u>New VN Video Editor Review The Good, the Bad, and the Ugly for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-vob-video-editor-reviews-top-5-free-options-for-2024/"><u>New VOB Video Editor Reviews Top 5 Free Options for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-voice-over-made-easy-fcp-recording-tips-and-tricks-for-2024/"><u>New Voice Over Made Easy FCP Recording Tips and Tricks for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-vsdc-video-editor-for-mac-find-the-best-replacement-for-2024/"><u>New VSDC Video Editor for Mac Find the Best Replacement for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-vsdc-video-editor-not-on-mac-no-problem-here-are-the-alternatives-for-2024/"><u>New VSDC Video Editor Not on Mac? No Problem! Here Are the Alternatives for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-want-to-get-vsdc-video-editor-on-mac-but-it-is-only-available-on-windows-dont-worry-we-compiled-a-list-of-best-vsdc-video-editor-for-mac-alternatives-fo/"><u>New Want to Get VSDC Video Editor on Mac? But It Is only Available on Windows. Dont Worry, We Compiled a List of Best VSDC Video Editor for Mac Alternatives for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-watch-share-repeat-the-best-movie-trailer-apps-for-iphone-and-ipad-for-2024/"><u>New Watch, Share, Repeat The Best Movie Trailer Apps for iPhone and iPad for 2024</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-s23-ultra-won-t-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Samsung Galaxy S23 Ultra won’t play MKV movies</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-bring-your-photos-to-life-the-top-animation-software/"><u>Updated 2024 Approved Bring Your Photos to Life The Top Animation Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-voice-over-recording-made-easy-fcp-tips-for-beginners-and-pros/"><u>Updated 2024 Approved Voice Over Recording Made Easy FCP Tips for Beginners and Pros</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-vsdc-not-your-cup-of-tea-try-these-mac-video-editor-alternatives/"><u>Updated 2024 Approved VSDC Not Your Cup of Tea? Try These Mac Video Editor Alternatives</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-vsdc-video-editor-for-mac-not-working-try-these-alternatives/"><u>Updated 2024 Approved VSDC Video Editor for Mac Not Working? Try These Alternatives</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-vsdc-video-editor-not-on-mac-no-problem-here-are-the-alternatives/"><u>Updated 2024 Approved VSDC Video Editor Not on Mac? No Problem! Here Are the Alternatives</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-wanna-know-the-secret-of-recording-your-desktop-with-ease-here-is-everything-you-should-know-about-desktop-recorder/"><u>Updated 2024 Approved Wanna Know the Secret of Recording Your Desktop with Ease? Here Is Everything You Should Know About Desktop Recorder</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-want-to-edit-your-nikon-video-files-here-a-powerful-yet-easy-to-use-nikon-video-editor-is-introduced-for-you-to-easily-achieve-that/"><u>Updated 2024 Approved Want to Edit Your Nikon Video Files? Here, a Powerful yet Easy-to-Use Nikon Video Editor Is Introduced for You to Easily Achieve That</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-watermark-free-tiktok-videos-top-online-removal-services/"><u>Updated 2024 Approved Watermark-Free TikTok Videos Top Online Removal Services</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-vn-video-editor-pro-vs-the-competition-how-does-it-stack-up/"><u>Updated In 2024, VN Video Editor Pro Vs. The Competition How Does It Stack Up?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-vn-video-editor-review-the-good-the-bad-and-the-ugly/"><u>Updated In 2024, VN Video Editor Review The Good, the Bad, and the Ugly</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-vsdc-video-editor-for-mac-not-working-try-these-alternatives/"><u>Updated In 2024, VSDC Video Editor for Mac Not Working? Try These Alternatives</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-watch-in-style-mastering-amazon-prime-videos-display-options/"><u>Updated In 2024, Watch in Style Mastering Amazon Prime Videos Display Options</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-vob-video-editing-on-a-budget-top-5-free-options-for-2024/"><u>Updated VOB Video Editing on a Budget Top 5 Free Options for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-vob-video-editor-reviews-top-5-free-options-for-2024/"><u>Updated VOB Video Editor Reviews Top 5 Free Options for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-watch-your-local-videos-on-tv-chromecast-streaming-tutorial-for-all-devices-for-2024/"><u>Updated Watch Your Local Videos on TV Chromecast Streaming Tutorial for All Devices for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-watermark-free-video-editing-7-free-trimmer-options-for-2024/"><u>Updated Watermark-Free Video Editing 7 Free Trimmer Options for 2024</u></a></li>
+</ul></div>

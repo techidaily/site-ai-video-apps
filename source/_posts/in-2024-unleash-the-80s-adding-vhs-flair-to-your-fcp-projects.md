@@ -1,7 +1,7 @@
 ---
 title: In 2024, Unleash the 80S Adding VHS Flair to Your FCP Projects
-date: 2024-06-16T04:22:01.105Z
-updated: 2024-06-17T04:22:01.105Z
+date: 2024-07-16T01:12:16.055Z
+updated: 2024-07-17T01:12:16.055Z
 tags: 
   - video editing software
   - video editing
@@ -18,6 +18,18 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
 
 # Do VHS Effect with Final Cut Pro in the Right Way
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -30,6 +42,9 @@ Fortunately, you don't have to reshoot your video using an analog camera and tra
 
 In this article, you will learn how to add VHS effects to a video in Final Cut Pro X, how to use VHS video effects, and some common VHS filter choices to use in your next project, so keep reading:
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part1: How to do VHS effect in FCPX?
 
 A VHS effect is a textured, warped effect that looks like an outdated analog videotape cassette recording. Adding this antique effect to an edit adds a fantastic old-school discord. How often should you utilize these glitchy and vintage effects? When the mood you're trying to create begs for some visual or aural distortion. Perhaps you need to recreate the appearance of discovered film or express a dramatic flashback to a character's history. In any case, VHS tapes and glitch effects are pretty trendy right now.
@@ -60,6 +75,9 @@ Go to the Gaussian settings and set the amount to roughly 2.0-3.0.
 
 Go back to the search bar in FCPX and type Sharpen. Select the Sharpen effect and drop it to your footage in Final Cut Pro.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add_sharpness_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/add_sharpness_in_final_cut_pro.jpg)
 
 Set the amount of sharpness to around 8.0-9.0.
@@ -78,6 +96,9 @@ Set the amount to around 13.0-14.0.
 
 Go back to the search bar and type Color Correction. Drag and drop this effect to your footage in Final Cut Pro.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![color_correction_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/color_correction_in_final_cut_pro.jpg)
 
 Click on Exposure and adjust the Highlights, Midtones, and Shadow. Go to the Saturation option and lower it. Now go to the Color and adjust the tint of your video by changing the Global option. Also, adjust the Highlights, Midtones, and Shadows. Wait for a few minutes for it to render.
@@ -86,12 +107,27 @@ After your video is rendered, you will get the final results using the VHS filte
 
 ![final_result_of_vhs_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/final_result_of_vhs_effect_in_final_cut_pro.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part2: How to do VHS effect in easy steps?
 
 If you want to quickly add VHS effect to your video, you can use Filmora X. You will have to add different effects and values to get the final results. You can use VHS effects on your lyric video, intro, outro, or any other video that you like by following the same process.
 
 First, if you haven't got Filmora, click here to download it for free!
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 To do VHS effects quickly, follow these steps:
@@ -106,6 +142,9 @@ To do VHS effects quickly, follow these steps:
 * Drag and drop Credit 1 to your project timeline and pace it above the black image.
 * Stretch it all the way to the black image. Change all the text in it as you like.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select_end_credits](https://images.wondershare.com/filmora/images/final-cut-pro/select_end_credits.jpg)
 
 Go to Effect, and in the search bar, type **VHS**.
@@ -131,6 +170,9 @@ Go to Effect, and in the search bar, type **VHS**.
 * Stretch it all the way across.
 * Change its Alpha value to 25 and click Ok.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add_strong_glitch](https://images.wondershare.com/filmora/images/final-cut-pro/add_strong_glitch.jpg)
 
 Search for **Chromatic Aberration effect**.
@@ -140,6 +182,9 @@ Search for **Chromatic Aberration effect**.
 * Double click on it.
 * Change its Alpha value to 60 and Fade to 0.05 and click Ok.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add_chromatic_abberation](https://images.wondershare.com/filmora/images/final-cut-pro/add_chromatic_abberation.jpg)
 
  Now Search for **VCR Distortion** in the search bar.
@@ -209,3 +254,45 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-accelerating-videos-an-easy-start-with-snapchat/"><u>[New] 2024 Approved  Accelerating Videos  An Easy Start with Snapchat</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-apex-legends-mastery-exploring-single-platform-potential/"><u>[New] 2024 Approved  Apex Legends Mastery  Exploring Single Platform Potential</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-the-secret-sauce-of-profitable-fb-ads-with-dynamic-animation/"><u>[New] In 2024, The Secret Sauce of Profitable FB Ads with Dynamic Animation</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-mastering-content-discovery-key-tiktok-hashtags-to-follow-for-2024/"><u>[New] Mastering Content Discovery  Key TikTok Hashtags to Follow for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitter-backlog-utilizing-past-tweets-for-2024/"><u>[New] Twitter Backlog  Utilizing Past Tweets for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-enjoy-uninterrupted-viewing-top-20-youtube-download-apps/"><u>[Updated] 2024 Approved  Enjoy Uninterrupted Viewing  Top 20 YouTube Download Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-foreground-emphasis-tips-for-logitech-video-recordings/"><u>2024 Approved  Foreground Emphasis  Tips for Logitech Video Recordings</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-streamline-your-workflow-gopro-quik-video-editing-made-easy-on-macbook/"><u>2024 Approved Streamline Your Workflow GoPro Quik Video Editing Made Easy on MacBook</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-supercharge-your-edits-top-10-fcpx-plugins-to-save-time-and-boost-creativity/"><u>2024 Approved Supercharge Your Edits Top 10 FCPX Plugins to Save Time and Boost Creativity</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-surprising-insights-what-you-can-learn-from-a-16x9-ratio-calculator/"><u>2024 Approved Surprising Insights What You Can Learn From a 16X9 Ratio Calculator</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-take-your-audio-to-the-next-level-10-online-waveform-generators/"><u>2024 Approved Take Your Audio to the Next Level 10 Online Waveform Generators</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-take-your-editing-to-the-next-level-advanced-jump-cuts-in-final-cut-pro-x/"><u>2024 Approved Take Your Editing to the Next Level Advanced Jump Cuts in Final Cut Pro X</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-y02t-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo Y02T Phones with/without a PC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-poco-f5-pro-5g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Poco F5 Pro 5G online without jailbreak</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-ispoofer-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Realme GT Neo 5 SE? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-securing-successful-video-ventures-through-team-choices/"><u>In 2024, Securing Successful Video Ventures Through Team Choices</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-streamline-your-workflow-the-top-8-video-editing-apps-for-4k-proxy-files/"><u>In 2024, Streamline Your Workflow The Top 8 Video Editing Apps for 4K Proxy Files</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-take-your-mobile-photography-to-the-next-level-best-time-lapse-apps/"><u>In 2024, Take Your Mobile Photography to the Next Level Best Time-Lapse Apps</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-pure-sound-protocols-methods-to-minimize-distractions-in-digital-videos/"><u>New 2024 Approved Pure Sound Protocols Methods to Minimize Distractions in Digital Videos</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-color-correction-mastery-a-tutorial-on-matching-video-clips-in-final-cut-pro-for-2024/"><u>New Color Correction Mastery A Tutorial on Matching Video Clips in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-streamlined-video-editing-solutions-for-all/"><u>New Streamlined Video Editing Solutions for All</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-supercharge-your-edits-top-10-fcpx-plugins-to-save-time-and-boost-creativity/"><u>New Supercharge Your Edits Top 10 FCPX Plugins to Save Time and Boost Creativity</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-switching-between-aspect-ratios-in-final-cut-pro-made-easy/"><u>New Switching Between Aspect Ratios in Final Cut Pro Made Easy</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-sync-like-a-pro-audio-and-video-alignment-in-fcpx-2024/"><u>New Sync Like a Pro Audio and Video Alignment in FCPX 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-sync-up-the-best-lip-sync-video-maker-apps/"><u>New Sync Up! The Best Lip Sync Video Maker Apps</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/streamline-your-workflow-the-6-best-audio-converters-for-2024/"><u>Streamline Your Workflow The 6 Best Audio Converters for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/take-a-screenshot-share-the-fun-a-guide-to-ps4-online-sharing-for-2024/"><u>Take a Screenshot, Share the Fun A Guide to PS4 Online Sharing for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/take-final-cut-pro-for-a-spin-90-day-free-trial-no-credit-card-required-for-2024/"><u>Take Final Cut Pro for a Spin 90-Day Free Trial, No Credit Card Required for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/take-your-audio-to-the-next-level-with-these-10-online-waveform-tools-for-2024/"><u>Take Your Audio to the Next Level with These 10 Online Waveform Tools for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/take-your-gopro-videos-to-the-next-level-easy-editing-tips-and-tricks-for-2024/"><u>Take Your GoPro Videos to the Next Level Easy Editing Tips and Tricks for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/take-your-linkedin-videos-to-the-next-level-with-custom-thumbnails-for-2024/"><u>Take Your LinkedIn Videos to the Next Level with Custom Thumbnails for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/the-search-ends-here-top-rated-youtube-mp3-converters-for-2024/"><u>The Search Ends Here Top-Rated YouTube MP3 Converters for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-streamlining-your-workflow-importing-and-exporting-videos-in-adobe-premiere-2023/"><u>Updated Streamlining Your Workflow Importing and Exporting Videos in Adobe Premiere 2023</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-subtitle-edit-not-meeting-your-needs-here-are-some-powerful-mac-alternatives/"><u>Updated Subtitle Edit Not Meeting Your Needs? Here Are Some Powerful Mac Alternatives</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-switching-between-aspect-ratios-in-final-cut-pro-made-easy/"><u>Updated Switching Between Aspect Ratios in Final Cut Pro Made Easy</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-sync-like-a-pro-audio-and-video-alignment-in-fcpx-2024-made-easy/"><u>Updated Sync Like a Pro Audio and Video Alignment in FCPX 2024 Made Easy</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-take-your-edits-to-the-next-level-10-free-fcpx-plugins/"><u>Updated Take Your Edits to the Next Level 10 Free FCPX Plugins</u></a></li>
+</ul></div>

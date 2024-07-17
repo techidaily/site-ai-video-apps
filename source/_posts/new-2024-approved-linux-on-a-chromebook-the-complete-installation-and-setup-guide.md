@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Linux on a Chromebook The Complete Installation and Setup Guide
-date: 2024-07-02T00:11:11.623Z
-updated: 2024-07-03T00:11:11.623Z
+date: 2024-07-16T01:17:19.574Z
+updated: 2024-07-17T01:17:19.574Z
 tags: 
   - video editing software
   - video editing
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/f02c60ec75f846fa2b4ccaf9e1cd79d7d6223ca42
 
 # How to Install Linux on Chromebook
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -34,6 +37,9 @@ Chrome OS is a Linux based environment and for that reason, Chromebook owners wh
 * [Part 4: How to Install Linux as a Chroot Using Crouton on Chromebook](#part4)
 * [Part 5: Recommended Linux Video Editing Software](#part5)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Preparing before installing Linux OS on Chromebook
 
 The first step of the process of installing the Linux OS is the decision itself, and you need to have all the necessary information before you decide to install a Linux OS on your Chromebook.
@@ -42,6 +48,9 @@ The first step of the process of installing the Linux OS is the decision itself,
 * Regardless of which method of installing Linux OS you choose, you will have to switch to the Developer Mode, a special built-in function that allows you to install the unapproved operating system, among other things.
 * Now that you are aware of the requirements and risks, you will have to backup all the files you have on your Chromebook because once you switch to the Developer Mode all the information stored locally will be erased. You can save the files on another computer or on the cloud depending on how much data you need to move and which one is more convenient for you.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Install Linux as a Chroot Using Crouton on Chromebook
 
 After you have stored all your data safely, your Chromebook is ready for the beginning of the installation process of the secondary operating system. You will have to perform a series of actions that will allow you to start the installation, starting from accessing the Developer Mode.
@@ -56,6 +65,9 @@ The first step of the process is to reboot your system, while your Chromebook is
 
 At this stage of the process, your Chromebook is ready for the installation of the Crouton environment. Crouton is a series of scripts that makes running a Linux OS much easier, especially for inexperienced users. In order to download Crouton, go to [GitHub](https://github.com/dnschneid/crouton) and find the download link, detailed instructions or extensions that can add more functionality to your OS. Once the installation file or files are in the Download folder, your next step is to access the Chromebook's terminal a feature called 'Crosh'. The fastest way to do this is to hold CTRL + ALT keys and then hit the T key. This action will cause the Chrome window to appear on the screen, and you will need to type the 'shell' command without using quotation marks. Afterwards, enter the following command: 'sudo sh \~/Downloads/crouton -t xfce' and if you want to install extensions you will have to add 'xfce,extension' command at the end.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Install Linux on Chromebook](https://images.wondershare.com/filmora/article-images/install-linux-on-chromebook-2.jpg)
 
 Press the Enter key and wait for the system to start setting up the Chroot. This process may take a while, so it is important to be patient, but more importantly, do not interfere with it in any way. Installation of your secondary OS is now on the way, and you may be asked to insert your login data, like your Gmail username and password. Wait patiently until the process is over and then return to shell and enter this command: 'sudo enter-chroot startxfce4'. Your screen will go black for a while, but after the black screen is gone your Chromebook will be in the freshly installed Linux OS.
@@ -82,6 +94,9 @@ Once the partitioning of your hard-drive is completed, you will have to repeat t
 
 Once the installation is completed, restart your Chromebook to finalize the process, and when you see the 'OS Verification is Off' notification press Ctrl+L to access Linux or Ctrl+D boot into Chrome OS.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Install Linux on Chromebook](https://images.wondershare.com/filmora/article-images/install-linux-on-chromebook-3.jpg)
 
 #### 3. Uninstall ChrUbuntu
@@ -90,6 +105,9 @@ Removing ChrUbuntu is a relatively painless process that can be completed with j
 
 This Linux removal method will also require you to have a USB stick with a minimum of 4GB of storage space. After you created the disk, you can go into the Recovery Mode, by holding Esc and Refresh buttons simultaneously and then pressing the Power button. In the Recovery Mode, you will be asked to insert the recovery disk and the process will be on the way.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: How to Dual-Boot a Chromebook Using Gallium OS
 
 If neither Chroot nor ChrUbuntu work for you, using Gallium OS may be the right choice. The Gallium is Xbuntu-based OS that is equipped with touchpad mouse drivers among other advantages it offers over other operating systems. The installation process isn't complicated, although it may require more effort than installing Crouton.
@@ -140,3 +158,48 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-blending-beats-posting-tunes-on-digital-diaries/"><u>[Updated] 2024 Approved  Blending Beats  Posting Tunes on Digital Diaries</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-from-script-to-screen-animating-stories-using-wmm-for-2024/"><u>[Updated] From Script to Screen  Animating Stories Using WMM for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-navigating-through-tiktoks-visual-communication-tools/"><u>[Updated] In 2024, Navigating Through TikTok's Visual Communication Tools</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-ultimate-top-10-tools-for-professional-tiktok-editors-pc/"><u>[Updated] In 2024, Ultimate Top 10 Tools for Professional TikTok Editors (PC)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-natural-and-artificial-blending-lights-in-iphone-photos/"><u>2024 Approved  Natural & Artificial  Blending Lights in iPhone Photos</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-webm-video-optimization-best-online-compression-software/"><u>2024 Approved WebM Video Optimization Best Online Compression Software</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-hevc-h-265-content-on-samsung-galaxy-z-flip-5-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Samsung Galaxy Z Flip 5</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/enhancing-your-feed-step-by-step-guide-for-uploading-videos-to-instagram-desktop-for-2024/"><u>Enhancing Your Feed  Step-by-Step Guide for Uploading Videos to Instagram Desktop for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Huawei P60? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Infinix Smart 8? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-most-accessible-video-editing-programs/"><u>New 2024 Approved The Most Accessible Video Editing Programs</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-most-popular-3d-video-making-tools-among-professionals/"><u>New 2024 Approved The Most Popular 3D Video Making Tools Among Professionals</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-most-popular-video-editing-software-among-pros/"><u>New 2024 Approved The Most Popular Video Editing Software Among Pros</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-most-reliable-mp3-converters-for-mac-users/"><u>New 2024 Approved The Most Reliable MP3 Converters for Mac Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-perfect-fit-instagram-video-aspect-ratio-and-dimensions/"><u>New 2024 Approved The Perfect Fit Instagram Video Aspect Ratio and Dimensions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-lowdown-on-the-best-ogg-audio-converters/"><u>New In 2024, The Lowdown on the Best OGG Audio Converters</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-m4r-conversion-handbook-essential-knowledge-for-beginners/"><u>New In 2024, The M4R Conversion Handbook Essential Knowledge for Beginners</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-math-behind-the-screen-5-revealing-facts-about-16x9-calculators/"><u>New In 2024, The Math Behind the Screen 5 Revealing Facts About 16X9 Calculators</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-mini-movie-mogul-a-step-by-step-guide-for-kids/"><u>New In 2024, The Mini Movie Mogul A Step-by-Step Guide for Kids</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-most-popular-3d-video-making-tools-among-professionals/"><u>New In 2024, The Most Popular 3D Video Making Tools Among Professionals</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-natural-look-how-to-smooth-skin-in-fcpx-without-plugins/"><u>New In 2024, The Natural Look How to Smooth Skin in FCPX without Plugins</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-perfect-fit-adjusting-amazon-prime-video-aspect-ratio-for-any-tv/"><u>New In 2024, The Perfect Fit Adjusting Amazon Prime Video Aspect Ratio for Any TV</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-most-talented-lego-stop-motion-artists-this-year-for-2024/"><u>New The Most Talented Lego Stop Motion Artists This Year for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-perfect-fit-adjusting-aspect-ratios-on-amazon-prime-video-for-2024/"><u>New The Perfect Fit Adjusting Aspect Ratios on Amazon Prime Video for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-power-of-slow-motion-edit-your-videos-for-free-with-filmoras-pro-tools-for-2024/"><u>New The Power of Slow Motion Edit Your Videos for Free with Filmoras Pro Tools for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/professionals-choice-best-top-10-4k-monitors/"><u>Professional's Choice  Best Top 10 4K Monitors</u></a></li>
+<li><a href="https://games-able.techidaily.com/six-essential-aspects-you-cant-miss-in-gaming/"><u>Six Essential Aspects You Can't Miss in Gaming</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/streaming-success-updated-youtube-revenue-policies-for-2024/"><u>Streaming Success  Updated YouTube Revenue Policies for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-lowdown-on-splice-a-full-review-of-the-video-editing-app/"><u>Updated 2024 Approved The Lowdown on Splice A Full Review of the Video Editing App</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-most-efficient-video-editing-tools-for-your-computer/"><u>Updated 2024 Approved The Most Efficient Video Editing Tools for Your Computer</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-most-popular-3d-video-production-tools-you-cant-miss/"><u>Updated 2024 Approved The Most Popular 3D Video Production Tools You Cant Miss</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-most-popular-video-editing-software-among-pros/"><u>Updated 2024 Approved The Most Popular Video Editing Software Among Pros</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-only-wav-converter-tutorial-youll-ever-need/"><u>Updated 2024 Approved The Only Wav Converter Tutorial Youll Ever Need</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-perfect-aspect-ratio-for-instagram-videos/"><u>Updated 2024 Approved The Perfect Aspect Ratio for Instagram Videos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-lowdown-on-the-best-ogg-audio-converters/"><u>Updated In 2024, The Lowdown on the Best OGG Audio Converters</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-mac-beginners-handbook-to-video-editing-software-selection-made-easy/"><u>Updated In 2024, The Mac Beginners Handbook to Video Editing Software Selection Made Easy</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-most-popular-3d-video-production-tools-you-cant-miss/"><u>Updated In 2024, The Most Popular 3D Video Production Tools You Cant Miss</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-next-generation-of-video-editing-software-10plus-alternatives/"><u>Updated In 2024, The Next Generation of Video Editing Software 10+ Alternatives</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-lowdown-on-the-best-ogg-audio-converters-for-2024/"><u>Updated The Lowdown on the Best OGG Audio Converters for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-math-behind-the-screen-5-revealing-facts-about-16x9-calculators-for-2024/"><u>Updated The Math Behind the Screen 5 Revealing Facts About 16X9 Calculators for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-most-user-friendly-video-editing-apps-for-2024/"><u>Updated The Most User-Friendly Video Editing Apps for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-perfect-fit-instagrams-recommended-video-dimensions-for-2024/"><u>Updated The Perfect Fit Instagrams Recommended Video Dimensions for 2024</u></a></li>
+</ul></div>
