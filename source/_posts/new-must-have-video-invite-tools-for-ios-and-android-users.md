@@ -1,0 +1,262 @@
+---
+title: New Must-Have Video Invite Tools for iOS and Android Users
+date: 2024-08-02T06:23:50.396Z
+updated: 2024-08-03T06:23:50.396Z
+tags: 
+  - video editing software
+  - video editing
+categories: 
+  - ai
+  - video
+description: This Article Describes New Must-Have Video Invite Tools for iOS and Android Users
+excerpt: This Article Describes New Must-Have Video Invite Tools for iOS and Android Users
+keywords: mastering video blur the best apps for ios and android users,video invitation essentials top apps for ios and android users,must have video invite tools for ios and android users,invitation goals top video maker apps for iphone and android users,discover the best video blur tools for iphone and android users,music infused video editors for android and ios best picks,mobile video invitation makers top picks for iphone and android users
+thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d56bb43f9e5c26e9a6768a6cd.jpg
+---
+
+## Must-Have Video Invite Tools for iOS and Android Users
+
+When blogging about events, it's critical to create fantastic invites utilizing the finest tools, whether you want to send them online or print them out. Aside from its primary function, invitations may also be used to disseminate information about the event, such as dates, locations, and times. They can even serve as a beautiful keepsake of the event.
+
+If you need to develop templates for weddings, birthdays, or even business affairs but aren't a professional designer, don't worry; you can utilize one of the top apps to do it swiftly and efficiently. And to assist you, we've put together this list of **Video Invitation Maker App** where we discuss all of the finest alternatives you may utilize with this objective in mind so you can pick the one that's right for you!
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 1: Best Video Invitation Apps for IOS and Android
+
+You may now create and customize your invitation card with whatever information you like as part of the design using these applications below. Check out the video invitation maker apps for iPhone and Android in this part of the article to get started with generating your invitation card.
+
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
+### 1\. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+
+**Supported OS**: Android and iOS
+
+Filmora has a lot of features and an easy-to-understand layout that is ideal for novices when it comes to making invitation videos. It allows you to preview all of your clips in real-time and supports photographs and videos. The program comes with hundreds of various templates, so you won't have to worry about starting anew. You may pick from the licensed catalog of music files or easily use an audio file from your device's local storage for music.
+
+You can even change the aspect ratio and [playback your movie backward](https://tools.techidaily.com/wondershare/filmora/download/). Filmora gives you a lot of creative control over your wedding invitation by letting you adjust transitions, overlays, apply filters, and insert text and stickers.
+
+**Features**
+
+* The app allows you to create hundreds of templates for invitations.
+* You can adjust transitions, overlays, apply filters, etc.
+* Straightforward interface.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
+### 2\. [KineMaster](https://kinemaster.fileplanet.com/apk)
+
+**Supported OS**: Android and iOS
+
+KineMaster is another mobile video editor with a lot of the same tools as a desktop video editor. The software supports several layers and most popular formats, including.mp4, .mkv,. jpg,. png,. mp3,. wav, and others. It also includes a vast collection of sound effects and background tracks and supports several blending styles that allow users to create their distinctive appearance for the wedding invitation.
+
+KineMaster enables you to [reverse your video](https://tools.techidaily.com/wondershare/filmora/download/) from the beginning without buying in-app tools. KineMaster is the right tool for you if you're new to video editing but want an easy-to-use program that provides you a lot of creative control over your invitation video creation.
+
+**Features**
+
+* It allows you to create customizable invitation cards for your events.
+* It supports different video formats.
+* It has many templates, designs, fonts, stickers, artworks, etc.
+* It even allows the user to play the video in reverse mode.
+
+### 3\. [Canva Design Photo Video](http://www.canva.com/)
+
+**Supported OS**: Android and iOS
+
+Give "Canva" a serious thought if you wish to become a little more inventive. It may help you create an eye-catching shot to publish on your favorite social networking applications or a professional-looking invitation. The app's collection of over 60,000 free designs puts it ahead of the competition. They're all well-made and may meet a variety of requirements.
+
+You may personalize your videos by adding meaningful quotes. Even better, you can add various cool effects, adjust the brightness, and employ a vignette to make your videos appear more appealing to the eye. It's ideal for invitations for most occasions. Canva has a variety of pre-made themes that you can customize, or you can start from scratch if you want something unique. It provides a Pro plan for those who wish to use it to its full potential.
+
+**Features**
+
+* It allows you to capture, edit and share the video seamlessly within the app.
+* It provides lots of customizable templates for video invitation creation. It offers logos, posters, invitation cards, and a bundle of pre-designed themes.
+* You can do some basic video editing such as tirmming, cutting, splicing easily and adding transitions, music and effects.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
+![canva design photo video](https://images.wondershare.com/filmora/article-images/canva-design-photo-video.jpg)
+
+### 4\. Video Invitation Maker : Video Ecards & invites
+
+**Supported OS:** Android
+
+Using pre-built designs for each event, you can make spectacular and endearing Video Invitation cards in seconds. When you have your thoughts for your invitation card, you may change templates to fit your needs or build your own. You can also use our Premium Designer option to make an invitation card quickly by putting in some information.
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![video invitation maker video ecards invites](https://images.wondershare.com/filmora/article-images/video-invitation-maker-video-ecards-invites.jpg)
+
+**Features**
+
+* For invites, there are hand-picked high-definition backdrops.
+* For your Invitation, combine different effects with a backdrop image.
+* Add your photo or a photo of the place to cards from your camera or gallery.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### 5\. [Video Invitation Maker](https://play.google.com/store/apps/details?id=com.invitationcardmaker.videomaker)
+
+**Supported OS:** Android
+
+Select an invitation template and update it with your video, graphics, words, and so on to make your bespoke video invitation. You may have a bridal shower and use video invitation cards to invite your visitors.
+
+Choose the ideal birthday invitation from our large selection of video templates, which you can easily alter to fit any party theme. Do you have a corporate or business event in the works? Browse the extensive collection of online business video invites in various styles, from traditional to contemporary.
+
+![video invitation maker digital marketing tools](https://images.wondershare.com/filmora/article-images/video-invitation-maker-digital-marketing-tools.jpg)
+
+**Features**
+
+* Templates for video invitations that are both professional and elegant.
+* Support for high-level customization.
+* It has an excellent sticker collection.
+* Text with a variety of typefaces and text effects may be added.
+
+### 6\. Vimeo Create - Video Editor
+
+**Supported OS:** [Android](https://play.google.com/store/apps/details?id=com.vimeocreate.videoeditor.moviemaker&hl=en%5FUS&gl=US) and [iOS](https://apps.apple.com/us/app/vimeo-create-video-editor/id1491791513)
+
+Vimeo is a video hosting platform, but it also provides an online video creator as well as the apps for Android and iPhone, which is called Vimeo Create. Vimeo Create is a simple tool for creating high-impact films. Anyone, at any time, may create a video with the smart video editing tool and hundreds of custom-designed video themes. Vimeo is the world's top professional video platform with a community of 90 million members, powers Create.
+
+![vimeo create video editor app](https://images.wondershare.com/filmora/article-images/vimeo-create-video-editor-app.jpg)
+
+**Features**
+
+* From Stories to Video Ads, create and distribute professional-grade videos for social media.
+* With the clever video editing software and tools, transform your videos, photographs, music, and text into polished, eye-catching films.
+* With only a few touches, you may edit one of our pre-made beautiful templates or create your movie from the start.
+
+_Read this article to find out_ [_how to edit and create videos with Video Create online_](https://tools.techidaily.com/wondershare/filmora/download/)_._
+
+### 7\. [Video Invitation Maker App](https://play.google.com/store/apps/details?id=com.videoinvites.app)
+
+**Supported OS**: Android
+
+Video Invitation Maker App from VideoInvites.net is a modern, stylish, visually appealing, and inventive approach to inviting visitors to your upcoming events. You may create gorgeous HD Video Invitations for special occasions such as weddings, engagement parties, receptions, birthdays, anniversaries, and Valentine's Day.
+
+It contains a large variety of Invitation Design templates for all types of events. Every video design is exquisite, elegant, and one-of-a-kind to suit your preferences.
+
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![video invitation maker app](https://images.wondershare.com/filmora/article-images/video-invitation-maker-app.jpg)
+
+**Features**
+
+* You can create 4K quality Ultra HD video invitations using this app.
+* Traditional and modern themed video designs.
+* You can place your orders using the Safe Payment methods.
+
+### 8\. Lightmv
+
+**Supported OS:** [iOS](https://apps.apple.com/us/app/lightmv-video-maker/id1467699008) and [Android](https://play.google.com/store/apps/details?id=com.apowersoft.lightmv&hl=en%5FUS&gl=US)
+
+If you want to produce the greatest and most unique invitation, utilize this best invitation builder program called LightMV to create a video-type invitation. This incredible application allows you to create one-of-a-kind and creative films. It offers a straightforward user interface. It's also available on the App Store and Google Play Store.
+
+![lightmv invitation video maker](https://images.wondershare.com/filmora/article-images/lightmv-invitation-video-maker.jpg)
+
+Download the app from the App Store or the Google Play Store. After that, open the app and choose from the available themes. To begin, touch the "Try for free" button > "+" symbol after picking the theme. After entering the necessary information, select the "Produce Now" button to begin creating your video.
+
+**Features**
+
+* The app has an easy-to-use interface.
+* It offers customizability for users when it comes to selecting different invitation designs.
+* It begins with a free trial for starters.
+* Large selection of hundreds of wedding invite templates and stickers.
+
+### 9\. [Inshot](https://inshot.com/)
+
+**Supported OS:** Android and iOS
+
+InShot is a powerful video editor that has been tailored for mobile devices. Trimming, cropping, [background blur](https://tools.techidaily.com/wondershare/filmora/download/), cropping, and other basic video editing functions are included, as well as convenient one-handed controls. Without having to master complicated editing concepts and tools before getting started, InShot will help you make a stunning video wedding invitation.
+
+It's the ideal tool for anyone who wants to be more creative without having to master all of the features of a video editor. Furthermore, the program allows you to import, edit, and export Full HD films, which is rather astounding given its modest 30MB install size. It has a lot of built-in video effects and filters and the option to add text and stickers to your films.
+
+**Features**
+
+* It enables you to create beautiful video invitations.
+* You can import full HD videos starting from 30MB file size.
+* It even edits 4K wedding invitation videos for free.
+* It allows you to add music in the background for your video invites.
+
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
+### 10\. [Magisto](https://www.magisto.com/)
+
+**Supported OS**: Android and iOS
+
+Magisto offers a large selection of templates and music from which to choose. It's really easy to use, but that's also one of its drawbacks. It is an application that allows you to easily and quickly create videos. It includes numerous methods for modifying pictures and videos, making it ideal for the marketing sector. It also has an excellent interface that is very innovative and simple to comprehend and a company option, making it a high-quality application worth purchasing.
+
+**Features**
+
+* Over 10,000 templates for users.
+* Offers customizability while making invitations.
+* Multiple music tracks to choose from for your videos.
+* Smart and easy-to-use interface.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![magisto invitation video editor maker](https://images.wondershare.com/filmora/article-images/magisto-invitation-video-editor-maker.jpg)
+
+**Conclusion**
+
+As previously said, these are the best **video invitation maker app** available. They all have many editing functions to pick from. The apps include hundreds of templates to choose from for your invitation cards. Now that you have multiple apps to choose from decide on the best one to get started!
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-essential-ipad-recording-tools-3-edition/"><u>[New] 2024 Approved  Essential iPad Recording Tools  #3 Edition</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-is-it-lawful-to-screen-capture-youtube-content/"><u>[New] In 2024, Is It Lawful to Screen-Capture YouTube Content?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-maximizing-visibility-how-to-upload-videos-to-instagram-desktop/"><u>[New] In 2024, Maximizing Visibility  How to Upload Videos to Instagram Desktop</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-sims-4-gameplay-capture/"><u>[New] In 2024, The Ultimate Guide to Sims 4 Gameplay Capture</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-apowersoft-free-screen-recorder-review-and-alternative-for-2024/"><u>[Updated] Apowersoft Free Screen Recorder Review and Alternative for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-master-your-creative-process-essential-affects-plugin-guide/"><u>2024 Approved  Master Your Creative Process  Essential Affects Plugin Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-podcasters-playlist-the-best-music-spots-to-open-your-ears/"><u>2024 Approved  Podcaster’s Playlist  The Best Music Spots to Open Your Ears</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/getting-the-best-bargains-on-essential-windows-11-codes/"><u>Getting the Best Bargains on Essential Windows 11 Codes</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-x9a-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor X9a Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-14-plus-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 14 Plus System? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-oppo-reno-10-proplus-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Oppo Reno 10 Pro+ 5G PC | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-x-fold-2-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo X Fold 2?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-xiaomi-redmi-note-12-pro-4g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Xiaomi Redmi Note 12 Pro 4G Through Google Earth?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-vertical-video-mastery-top-editing-apps-for-iphone-and-android/"><u>In 2024, Vertical Video Mastery Top Editing Apps for iPhone and Android</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-windows-movie-maker-tutorial-from-beginner-to-pro/"><u>In 2024, Windows Movie Maker Tutorial From Beginner to Pro</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/mastering-game-capture-windows-11-edition/"><u>Mastering Game Capture  Windows 11 Edition</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-cut-trim-and-split-the-best-free-mpeg-video-editors/"><u>New 2024 Approved Cut, Trim, and Split The Best Free MPEG Video Editors</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-fcpx-tutorial-elevate-your-audio-game-with-l-cuts-and-j-cuts/"><u>New 2024 Approved FCPX Tutorial Elevate Your Audio Game with L-Cuts and J-Cuts</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-get-pro-level-results-top-10-free-green-screen-video-editing-apps-for-mobile/"><u>New 2024 Approved Get Pro-Level Results Top 10 Free Green Screen Video Editing Apps for Mobile</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-imovie-not-available-on-windows-10-try-these-excellent-alternatives-instead/"><u>New 2024 Approved IMovie Not Available on Windows 10? Try These Excellent Alternatives Instead</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-in-this-article-ill-describe-how-to-flip-a-video-in-windows-using-the-filmora-video-program/"><u>New 2024 Approved In This Article, Ill Describe How to Flip a Video in Windows Using the Filmora Video Program</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-rated-quicktime-editors-free-and-easy-to-use/"><u>New 2024 Approved Top-Rated QuickTime Editors Free and Easy to Use</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-transition-like-a-pro-3-expert-techniques-in-final-cut-pro/"><u>New 2024 Approved Transition Like a Pro 3 Expert Techniques in Final Cut Pro</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unbiased-review-of-videopad-video-editor-features-performance-and-value/"><u>New 2024 Approved Unbiased Review of Videopad Video Editor Features, Performance, and Value</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unlock-stunning-gopro-footage-easy-editing-for-beginners/"><u>New 2024 Approved Unlock Stunning GoPro Footage Easy Editing for Beginners</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-a-closer-look-at-avs-video-editor-review-and-rating-for-2024/"><u>New A Closer Look at AVS Video Editor Review and Rating for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-final-cut-pro-2-simple-ways-to-add-professional-audio-fades-for-2024/"><u>New Final Cut Pro 2 Simple Ways to Add Professional Audio Fades for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-how-to-use-compressor-in-final-cut-pro-for-2024/"><u>New How to Use Compressor in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-10-essential-animated-text-makers-for-unbeatable-engagement/"><u>New In 2024, 10 Essential Animated Text Makers for Unbeatable Engagement</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-best-of-the-best-5-free-wmv-video-editors-reviewed/"><u>New In 2024, Best of the Best 5 Free WMV Video Editors Reviewed</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-final-cut-pro-the-industry-standard-for-a-reason/"><u>New In 2024, Final Cut Pro The Industry Standard for a Reason</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-final-cut-pro-x-a-step-by-step-guide-to-adding-subtitles-and-captions/"><u>New In 2024, Final Cut Pro X A Step-by-Step Guide to Adding Subtitles and Captions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-leading-text-tracking-solutions-for-animators/"><u>New In 2024, Leading Text Tracking Solutions for Animators</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-looking-beyond-premiere-elements-top-10-video-editing-software/"><u>New In 2024, Looking Beyond Premiere Elements Top 10 Video Editing Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-no-cost-split-screen-video-creators-web-based-and-downloadable-options/"><u>New In 2024, No-Cost Split Screen Video Creators Web-Based and Downloadable Options</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-safe-and-secure-top-10plus-websites-to-download-games-online/"><u>New In 2024, Safe and Secure Top 10+ Websites to Download Games Online</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-guide-to-motion-tracking-on-android-and-iphone/"><u>New In 2024, The Ultimate Guide to Motion Tracking on Android and iPhone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/pivot-to-popularity-mastering-video-flip-on-social-for-2024/"><u>Pivot to Popularity  Mastering Video Flip on Social for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-full-multitasking-in-apple-browsers-for-2024/"><u>Unlocking Full Multitasking in Apple Browsers for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

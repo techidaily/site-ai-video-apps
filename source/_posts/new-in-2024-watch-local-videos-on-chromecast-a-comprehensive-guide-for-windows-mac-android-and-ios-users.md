@@ -1,0 +1,185 @@
+---
+title: New In 2024, Watch Local Videos on Chromecast A Comprehensive Guide for Windows, Mac, Android, and iOS Users
+date: 2024-08-02T06:30:05.246Z
+updated: 2024-08-03T06:30:05.246Z
+tags: 
+  - video editing software
+  - video editing
+categories: 
+  - ai
+  - video
+description: This Article Describes New In 2024, Watch Local Videos on Chromecast A Comprehensive Guide for Windows, Mac, Android, and iOS Users
+excerpt: This Article Describes New In 2024, Watch Local Videos on Chromecast A Comprehensive Guide for Windows, Mac, Android, and iOS Users
+keywords: local video casting made easy chromecast guide for windows mac android and ios,local video streaming made easy chromecast guide for windows mac android and ios devices,watch local videos on chromecast a comprehensive guide for windows mac android and ios users,burning videos to dvd a comprehensive guide for windows and mac users,chromecast local media a comprehensive guide for windows mac android and ios users,transfer videos to dvd a comprehensive guide for windows and mac users,watch your local videos on tv chromecast streaming tutorial for windows mac android and ios
+thumbnail: https://thmb.techidaily.com/c225407e5eb523ea35626965d7952f3e8eff461a435028604a3c634507f598f5.png
+---
+
+## Watch Local Videos on Chromecast: A Comprehensive Guide for Windows, Mac, Android, and iOS Users
+
+# How to Stream Local Video to Chromecast on Windows/Mac/Android/iOS
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+Get below a detailed Chromecast app list. It tells you how to stream local files to TV through Chromecast from PC, Mac, Android, or iPhone, iPad and more. Now the Google cast supported video formats are limited to MP4 and WebM. If you have the format incompatibility issue, just use [Video Converter](https://tools.techidaily.com/wondershare/videoconverter/download/)to convert your video to be supported by Chrome.
+
+To stream local files to TV from PC or Mac, there are totally 4 ways to choose from. Just get the 4 solutions below.
+
+* [Solution 1: Cast Chrome browser to TV](#part1)
+* [Solution 2: Cast with Wondershare Video Converter](#part2)
+* [Solution 3: Cast with Plex for Chromecast](#part3)
+* [Solution 4: Cast with Videostream for Google Chromecast](#part3)
+
+## Solution 1: Cast Chrome browser to TV
+
+![cast chrome browser to tv](https://images.wondershare.com/images/multimedia/chromecast/connect-chromecast.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 1\. Install Chrome browser and Chromecast extension
+
+Make sure that you have the latest version of Chrome. You can check by clicking Settings > About Google Chrome to update your chrome.
+
+### Step 2: Connect Chromecast with TV
+
+Plug in Chromecast in the HDMI input on your TV, and then plug the USB cord on the other end of the Chromecast to power it.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
+![cast from chrome browser](https://images.wondershare.com/images/multimedia/chromecast/cast-browser.jpg)
+
+### Step 3.Connect WiFi
+
+Make sure that your computer and TV are connected in the same network. You should be connected to 2.4 GHz Wi-Fi 802.11 b/g/n Wi-Fi network.  
+If your Chromecast can't be connected to the Wi-Fi network, please [check the Chromecast router compatibility here](https://support.google.com/chromecast/table/3477832?hl=en&ref%5Ftopic=3205565).
+
+### Step 4.Install Google cast extension
+
+[Please download Google cast extension here](https://chrome.google.com/webstore/detail/google-cast/boadgeojelhgndaghljhdicfkmllpafd?hl). After installation, there will be a Cast tab on the Chrome browser. You can click the option button to set video quality as Extreme (720p high bitrate) or High (720p) for your HD TV.
+
+![cast from chrome browser](https://images.wondershare.com/images/multimedia/chromecast/cast-video.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 5\. Play local Video or music
+
+Drag your local files to chrome browser, or press Ctr + O to browse and import your files. And then your video will be played in Chrome's built-in video viewer. Then click the Cast current tab on your browser to stream media files to Chromecast and then play it on TV.
+
+Also you can choose Cast entire screen to share your desktop screen instead of a Chrome tab to TV.
+
+**Note:**
+
+1\. If your videos can't be streamed, that's because Chromecast doesn't support these formats. [You can check all the supported media here](https://developers.google.com/cast/docs/media). If you really want to cast any format, check the second solution.
+
+2\. Stream video in background: When you stream video to your TV, you can use the 2 Windows short cuts to stream local video to Chromecast in background.  
+Alt+Tab: It lets you do other things by switching to other opened programs/apps  
+Ctrl+Esc: You can start a new program by pressing the 2 buttons to pop up the Star menu.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
+## Solution 2: Cast with Wondershare Video Converter
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![stream files by video converter](https://images.wondershare.com/images/multimedia/video-converter-ultimate/stream-files-on-convert.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 1\. Install Wondershare UniConverter
+
+<
+
+Download and install [Wondershare UniConverter Video Converter](https://tools.techidaily.com/wondershare/videoconverter/download/) from its official website page.
+
+### Step 2\. Import any video to the software
+
+Make sure your Chromecast and PC are located in the same network. Then click the "Add Files" button or directly drag-n-drop to import your video to the program. After that, click the "Stream" pane on the right side and choose your Chromecast as the streaming device. When everything is ready, hit the "Stream" button at the bottom.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
+![cast from converter](https://images.wondershare.com/images/multimedia/video-converter-ultimate/start-streaming.jpg)
+
+### Step 3\. Start streaming
+
+In the pop up window, click the "Play To TV" button to stream your video to Chromecast. Then after a few seconds, you can enjoy your video right on the big screen. You can also control the playback process by clicking the perspective buttons in the streaming window. That's done!
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
+## Solution 3: Cast with Plex for Chromecast
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![plex chromecast](https://images.wondershare.com/images/multimedia/chromecast/plex-download.jpg)
+
+Plex is a Chromecast app for PC, Mac and Linux. It is designed to stream local homemade videos and movies to your TV through Chromecast. To use this app, you need to subscribe the PlexPass and pay $4.99 for Plex app. After everything is prepared, just hit play and tap on the Chromecast button, and then your local videos can be successfully streamed to your TV. It supports MP4 and WebM.
+
+More Information about [How to use Plex for Chromecast](https://plexapp.zendesk.com/hc/en-us/articles/200264746-Quick-start-Step-by-Step).
+
+## Solution 4: Cast with Videostream for Google Chromecast
+
+![videostream chromecast](https://images.wondershare.com/images/multimedia/chromecast/videostream.jpg)
+
+[Videostream](https://chrome.google.com/webstore/detail/videostream-for-google-ch/cnciopoikihiagdjbjpnocolokfelagl?hl=en) for Google Chromecast is a free Chrome extension. To install it, the version of Chrome 32.0 is required. You can use it to free play local videos on Chromecast from your PC - Subtitles supported! Its supported format is MP4 and WebM.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-giggle-ground-zero-ticktock-of-the-funniest-tiktok-content-for-2024/"><u>[New] Giggle Ground Zero  Ticktock of the Funniest TikTok Content for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-2023s-best-free-dvd-players-for-windowsmac-pcs/"><u>[Updated] 2023'S Best Free DVD Players for Windows/Mac PCs</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-unveiling-tiktok-to-twitter-conversion/"><u>2024 Approved  Unveiling TikTok to Twitter Conversion</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Vivo S18e? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-google-pixel-fold-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Google Pixel Fold to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-step-in-stride-guide-sharing-personalized-youtube-videos-with-google/"><u>In 2024, Step-in-Stride Guide  Sharing Personalized YouTube Videos with Google</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ins-and-outs-of-designing-a-standout-podcast-promo/"><u>In 2024, The Ins and Outs of Designing a Standout Podcast Promo</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-unleash-your-artistry-top-10-music-video-creation-services/"><u>In 2024, Unleash Your Artistry Top 10 Music Video Creation Services</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-best-in-class-text-animation-solutions/"><u>New 2024 Approved Best-in-Class Text Animation Solutions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-countdown-made-easy-a-3-step-guide-for-fcpx-users/"><u>New 2024 Approved Countdown Made Easy A 3-Step Guide for FCPX Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-create-stunning-videos-best-collage-apps-for-ios-devices/"><u>New 2024 Approved Create Stunning Videos Best Collage Apps for iOS Devices</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-elevate-your-gaming-content-best-free-video-editing-software/"><u>New 2024 Approved Elevate Your Gaming Content Best Free Video Editing Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-fcp-or-lumafusion-the-pros-and-cons-of-each-video-editing-software/"><u>New 2024 Approved FCP or LumaFusion The Pros and Cons of Each Video Editing Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-lego-movies-are-painstaking-but-you-will-get-quicker-and-better-with-practice-here-are-5-best-stop-motion-apps-for-lego-movie-on-iphone-ip/"><u>New 2024 Approved Lego Movies Are Painstaking, but You Will Get Quicker and Better with Practice. Here Are 5 Best Stop Motion Apps for Lego Movie on iPhone, iPad and Android Devices</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-maintain-anonymity-face-blurring-features-in-leading-video-editors/"><u>New 2024 Approved Maintain Anonymity Face Blurring Features in Leading Video Editors</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-make-your-own-3d-videos-top-tools-for-beginners-and-pros-alike/"><u>New 2024 Approved Make Your Own 3D Videos Top Tools for Beginners and Pros Alike</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-mp4-to-mp3-converter-reviews-find-the-best-tool-for-your-needs/"><u>New 2024 Approved MP4 to MP3 Converter Reviews Find the Best Tool for Your Needs</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-os-x-mavericks-mp4-editing-software-top-picks/"><u>New 2024 Approved OS X Mavericks MP4 Editing Software Top Picks</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-save-big-on-final-cut-pro-explore-our-exclusive-education-offer/"><u>New 2024 Approved Save Big on Final Cut Pro Explore Our Exclusive Education Offer</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-reverse-effect-mastering-tiktok-video-reversal-in-minutes/"><u>New 2024 Approved The Reverse Effect Mastering TikTok Video Reversal in Minutes</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-best-free-video-orientation-correction-tools-for-iphone-for-2024/"><u>New Best Free Video Orientation Correction Tools for iPhone for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-edit-like-a-pro-best-android-video-editor-apps-for-chromebook-users-for-2024/"><u>New Edit Like a Pro Best Android Video Editor Apps for Chromebook Users for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-create-a-blockbuster-easy-movie-making-for-everyone/"><u>New In 2024, Create a Blockbuster Easy Movie Making for Everyone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-final-cut-pro-x-captioning-a-step-by-step-guide/"><u>New In 2024, Final Cut Pro X Captioning A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-how-do-you-get-the-bokeh-effect-app-here-are-some-of-the-best-bokeh-apps-for-the-iphone-and-android/"><u>New In 2024, How Do You Get the Bokeh Effect App? Here Are some of the Best Bokeh Apps for the iPhone and Android</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-guide-to-mp4-video-tag-editors/"><u>New In 2024, The Ultimate Guide to MP4 Video Tag Editors</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-8-tools-to-disguise-facial-features-online/"><u>Top 8 Tools to Disguise Facial Features Online</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-how-to-add-emojis-to-discord-for-2024/"><u>Updated How to Add Emojis To Discord for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
