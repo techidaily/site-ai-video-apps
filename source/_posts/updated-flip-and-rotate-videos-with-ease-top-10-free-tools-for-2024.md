@@ -1,0 +1,213 @@
+---
+title: Updated Flip and Rotate Videos with Ease Top 10 Free Tools for 2024
+date: 2024-08-09T07:06:56.286Z
+updated: 2024-08-10T07:06:56.286Z
+tags: 
+  - video editing software
+  - video editing
+categories: 
+  - ai
+  - video
+description: This Article Describes Updated Flip and Rotate Videos with Ease Top 10 Free Tools for 2024
+excerpt: This Article Describes Updated Flip and Rotate Videos with Ease Top 10 Free Tools for 2024
+keywords: rotate your avi videos with ease top 5 free tools,rotate videos for free top 10 video flip and rotate tools,flip and rotate videos with ease top 10 free tools,flip and rotate iphone videos with ease top free apps,rotate videos for free top 10 online and offline tools,rotate videos with ease top 10 free tools for windows mac android and iphone,free avi video editor rotate flip and more with these top tools
+thumbnail: https://thmb.techidaily.com/fd49bc993ce8510e13bd3ece8f5853b9890f1d550e51d2b3c30dcfc01a7a61b2.jpg
+---
+
+## Flip and Rotate Videos with Ease: Top 10 Free Tools
+
+# Top 10+ Free Video Rotators to Rotate or Flip Videos
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+Nowadays people tend to use high-resolution cameras in mobile devices instead of the old large video cameras to capture videos. But most of the time, you may fail to pay attention to the orientation of the video, thus the final recording is totally inverted. Don't worry! You can make use of some free tools to turn it back to normal orientation (instead of turning your neck to watch the video). Here are some easy-to-use tools (software and online solutions) that allow you to rotate, flip or turn your videos without hassle.
+
+---
+
+The following mentioned tools may not cover all your needs when you want to do more video editing tasks. For a more vivid and presentable video, you can try some more powerful video applications like the [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). It's a more professional video editor but still simple to use. Watch the video below to find out more information and download it to try now!
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Check this step by step tutorial to find out [How to Rotate Video in Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+
+---
+
+## Top 10+ Free Tools to Rotate or Flip Videos
+
+* [online-video-cutter.com - online](#tab%5F01)
+* [ezgif.com - online](#tab%5F02)
+* [Kapwing.com - online](#tab%5F03)
+* [Rotate Video - online](#tab%5F04)
+* [Windows Movie Maker - software](#tab%5F05)
+* [iMovie - software](#tab%5F06)
+* [Free Video Flip and Rotate - software](#tab%5F07)
+* [Freemake Video Converter - software](#tab%5F08)
+* [Windows 10 Photos app- software](#tab%5F09)
+* [VLC - software](#tab%5F10)
+
+#### 1\. [online-video-cutter.com](https://online-video-cutter.com/)
+
+If you don't want to install any software on your computer, you can try an online video rotator. online-video-cutter.com is a very simple and practical online video tool which allows you to trim as well as rotate a video. The max uploaded video file is limited to 500MB, and you can upload videos from Google Drive or just pasting a video link. You can rotate your video 90, 180 or 270 degrees.
+
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
+![rotate video with online video cutter](https://images.wondershare.com/filmora/article-images/online-video-cutter-rotate-video.jpg)
+
+#### 2\. [ezgif.com](https://ezgif.com/rotate-video)
+
+Although ezgif is used as a GIF maker mainly, it also allows you to edit videos, like cutting, rotating, resizing, reversing, etc. And the uploaded video size is up to 100MB. You can rotate 90 degrees, rotate 180 degrees or rotate 270 degrees (90 counter-clockwise).
+
+![rotate video online with ezgif](https://images.wondershare.com/filmora/article-images/ezgif-rotate-video-online.jpg)
+
+#### 3\. [kapwing.com](https://www.kapwing.com/)
+
+Kapwing is a comprehensive online video editor which allows you to rotate, resize, convert, trim, loop videos easily. Besides, it features the Studio tool which allows you to edit a video from stratch.
+
+Rotating videos with Kapwing can be finished in several ways, you can use the handles in the preview window to drag it to any angle as you like, or you can use the rotate icon to rotage fast to 90, 180 or 270 degrees.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
+![free video rator kapwing online](https://images.wondershare.com/filmora/article-images/rotate-video-online-in-kapwing.jpg)
+
+#### 4\. [Rotate Video](http://www.rotatevideo.org/)
+
+Rotate Video is such a free web service that can rotate videos stored on the computer. The supported video formats include FLV, AVI, MPG, WMV and MP4\. You can turn the video in 90 degree clockwise or anti-clockwise. However, like other online video editors, your video files cannot exceed a size limit of 5MB.
+
+![rotate video online](https://images.wondershare.com/images/multimedia/video-editor/rotate-video.jpg)
+
+Note: Above free rotators are web-based, which means you can use these free online video rotator on desktop and mobile devices. You can check this article to find out more tools to [rotate videos online](https://tools.techidaily.com/wondershare/filmora/download/) .
+
+#### 5\. [Windows Movie Make](http://windows.microsoft.com/en-us/windows-live/movie-maker)
+
+If you're a Windows user, Windows Movie Maker can be the easiest tool to help you rotate or flip videos. This feature-rich yet easy-to-use video editing tool is able to rotate the video by 90, 180 or 270 degrees, as well as flipping (mirroring) vertically or horizontally.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
+![window movie maker rotating video](https://images.wondershare.com/filmora/article-images/windows-movies-maker.jpg)
+
+[Learn more details about how to rotate videos and photos in Windows Movie Maker](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 6\. [iMovie](http://www.apple.com/mac/imovie/)
+
+Instead, if you're a Mac user, iMovie can be the best choice. It comes bundled with every Mac so there is no need to download or purchase any additional software. Each click turns the image 90 degrees. Here is a detailed guide about how to use iMovie to rotate videos.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![imovie flip video](https://images.wondershare.com/filmora/article-images/imovie-interface.jpg)
+
+You May also like: [Learn more details about how to rotate videos and photos in iMovie](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Note: Windows Movie Maker is discontinued already, if you are running Windows 10, you can try the Photos App to rotate video on Windows for free, which will be introduced later.
+
+#### 7\. [Free Video Flip and Rotate](http://www.dvdvideosoft.com/products/dvd/Free-Video-Flip-and-Rotate.htm)
+
+Free Video Flip and Rotate is a fast and straightforward tool that enables you to rotate the video in different standard predefined angles. You can rotate the video by 90 degrees, 180 degrees in a clockwise and anti-clockwise directions. With it, you can also flip the video vertically as well as horizontally to make more corrections to the original video or rotated video.
+
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
+![flip and rotate](https://images.wondershare.com/images/multimedia/video-editor/flip-and-rotate.jpg)
+
+#### 8\. [Freemake Video Converter](http://www.freemake.com/)
+
+Freemake Video Converter is a free and all-in-one video converter. It supports 250+ video formats such as MP4, WMV, MKV, AVI, FLV, DVD and more. It also includes a basic video editor which allows you to easily rotate videos from iPhone, PC or camcorder 90, -90, 180 degrees easily.
+
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![rotate video with Freemake](https://images.wondershare.com/filmora/article-images/freemake-video-converter.jpg)
+
+#### 9\. [Windows 10 Photos](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Windows 10 users, who don’t have the Windows Movie Maker tool, can use the Photos app to rotate the video to 90, 180, and 270 degrees easily. Here are several ways to rotate video with Photos:
+
+1. You can right-click the video after importing it to the storyboard, and then click Rotate menu;
+2. Or, you can click the rotate icon in the storyboard toolbar to rotate the video.
+
+![Windows10 Photos App rotate video](https://images.wondershare.com/filmora/article-images/rotate-video-windows10-video-editor.jpg)
+
+#### 10\. [VLC Media Player](https://tools.techidaily.com/wondershare/filmora/download/)
+
+VLC is a free media player and video editor program for Windows, Mac, and Linux computers. Rotating a video in VLC is simple and free, and you can rotate the video in 90, 180, and 270 degrees, what’s more, it also provides flip options, which allow you to flip the video horizontally and vertically.
+
+![VLC rotate video](https://images.wondershare.com/filmora/article-images/rotate-video-with-vlc.jpg)
+
+---
+
+#### Conclusion
+
+If you are not a Filmora user at the moment, why not giving it a try? With its powerful features, Filmora is totally free to try. Click through to see whether this [video editor](https://tools.techidaily.com/wondershare/filmora/download/) meets your appetites!
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-calculating-youtubes-income-potential-with-cpm-rates/"><u>[New] 2024 Approved  Calculating YouTube's Income Potential with CPM Rates</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-screen-spectrum-your-gateway-to-gameplay/"><u>[New] 2024 Approved  Screen Spectrum  Your Gateway to Gameplay</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-media-preservation-instagram-to-iphone-saved-for-2024/"><u>[New] Mastering Media Preservation  Instagram to iPhone Saved for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-disseminate-vimeo-videos-widely/"><u>[Updated] In 2024, Disseminate Vimeo Videos Widely</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-streamlabs-versus-obs-the-ultimate-showdown-for-2024/"><u>[Updated] Streamlabs Versus OBS  The Ultimate Showdown for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-harness-the-power-of-gs-for-clear-video-ctas/"><u>2024 Approved  Harness the Power of GS for Clear Video CTAs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-snapshotpro-v2021-ultimate-edition/"><u>2024 Approved  SnapshotPro V2021 - Ultimate Edition</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-top-strategies-for-zoom-use-with-a-chrome-os-device/"><u>2024 Approved  Top Strategies for Zoom Use with a Chrome OS Device</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-rapid-blinking-behavior-in-hp-monitors/"><u>Correcting Rapid Blinking Behavior in HP Monitors</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-samsung-galaxy-m54-5g-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Samsung Galaxy M54 5G.</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/enhanced-functionality/"><u>Enhanced Functionality</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mkv-files-on-xiaomi-redmi-12-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do you play MKV files on Xiaomi Redmi 12 5G?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-realme-c67-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Realme C67 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-premier-collection-of-popular-mobile-alert-melodies/"><u>In 2024, Premier Collection of Popular Mobile Alert Melodies</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-turn-your-photos-into-a-beautiful-video-with-music-2023-tutorial/"><u>In 2024, Turn Your Photos Into a Beautiful Video with Music 2023 Tutorial</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-best-in-class-text-animation-solutions/"><u>New 2024 Approved Best-in-Class Text Animation Solutions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-create-stunning-videos-best-collage-apps-for-ios-devices/"><u>New 2024 Approved Create Stunning Videos Best Collage Apps for iOS Devices</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-elevate-your-gaming-content-best-free-video-editing-software/"><u>New 2024 Approved Elevate Your Gaming Content Best Free Video Editing Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-from-watermarks-7-reliable-video-merger-solutions/"><u>New 2024 Approved Free From Watermarks 7 Reliable Video Merger Solutions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-video-hosting-10-top-options-for-personal-and-professional-use/"><u>New 2024 Approved Free Video Hosting 10 Top Options for Personal and Professional Use</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-from-beginner-to-pro-best-mac-video-editing-software/"><u>New 2024 Approved From Beginner to Pro Best Mac Video Editing Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-from-forward-to-backward-a-comprehensive-guide-to-reversing-tiktok-videos/"><u>New 2024 Approved From Forward to Backward A Comprehensive Guide to Reversing TikTok Videos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-generate-random-faces-online-top-free-tools-and-websites/"><u>New 2024 Approved Generate Random Faces Online Top Free Tools and Websites</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-maintain-anonymity-face-blurring-features-in-leading-video-editors/"><u>New 2024 Approved Maintain Anonymity Face Blurring Features in Leading Video Editors</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-mp4-to-mp3-converter-reviews-find-the-best-tool-for-your-needs/"><u>New 2024 Approved MP4 to MP3 Converter Reviews Find the Best Tool for Your Needs</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-os-x-mavericks-mp4-editing-software-top-picks/"><u>New 2024 Approved OS X Mavericks MP4 Editing Software Top Picks</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-reverse-effect-mastering-tiktok-video-reversal-in-minutes/"><u>New 2024 Approved The Reverse Effect Mastering TikTok Video Reversal in Minutes</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-5-best-free-vob-video-editors/"><u>New 2024 Approved Top 5 Best Free VOB Video Editors</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-best-free-online-gif-loop-generators-2023-edition-for-2024/"><u>New Best Free Online GIF Loop Generators 2023 Edition for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-a-simple-way-to-get-kinemaster-on-your-mac-download-and-install/"><u>New In 2024, A Simple Way to Get KineMaster on Your Mac Download and Install</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-design-your-dream-face-free-online-generators/"><u>New In 2024, Design Your Dream Face Free Online Generators</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-download-filmora-for-free-safe-and-virus-free-methods/"><u>New In 2024, Download Filmora for Free Safe and Virus-Free Methods</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-en-2022-puede-editar-todos-los-videos-inmediatamente-despues-de-capturarlos-pero-primero-debe-descubrir-una-aplicacion-de-edicion-de-vlogs-que-r/"><u>New In 2024, En 2022, Puede Editar Todos Los Videos Inmediatamente Después De Capturarlos, Pero Primero Debe Descubrir Una Aplicación De Edición De Vlogs Que Realmente Le Guste Usar</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-final-cut-pro-x-captioning-a-step-by-step-guide/"><u>New In 2024, Final Cut Pro X Captioning A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-make-a-masterpiece-top-online-photo-and-video-collage-generators/"><u>New In 2024, Make a Masterpiece Top Online Photo and Video Collage Generators</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-make-your-own-reaction-videos-with-these-top-rated-apps/"><u>New In 2024, Make Your Own Reaction Videos with These Top-Rated Apps</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-stream-movies-from-your-device-to-chromecast-windows-mac-android-and-ios-instructions/"><u>New In 2024, Stream Movies From Your Device to Chromecast Windows, Mac, Android, and iOS Instructions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-best-video-editor-for-beginners-videopad-review-and-recommendation/"><u>New In 2024, The Best Video Editor for Beginners? Videopad Review and Recommendation</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-guide-to-mp4-video-tag-editors/"><u>New In 2024, The Ultimate Guide to MP4 Video Tag Editors</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-huawei-nova-y71-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Huawei Nova Y71 on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-picturesaveerror-in-windows-11/"><u>Resolving PictureSaveError in Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-samsung-galaxy-m14-4g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Samsung Galaxy M14 4G Phone With/Without IMEI Number</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
