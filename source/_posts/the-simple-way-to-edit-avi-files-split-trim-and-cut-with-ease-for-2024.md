@@ -1,7 +1,7 @@
 ---
 title: The Simple Way to Edit AVI Files Split, Trim, and Cut with Ease for 2024
-date: 2024-08-27T04:37:39.532Z
-updated: 2024-08-28T04:37:39.532Z
+date: 2024-09-04T12:34:05.231Z
+updated: 2024-09-05T12:34:05.231Z
 tags: 
   - video editing software
   - video editing
@@ -139,5 +139,8 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

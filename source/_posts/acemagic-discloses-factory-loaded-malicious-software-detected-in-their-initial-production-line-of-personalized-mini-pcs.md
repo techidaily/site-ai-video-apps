@@ -1,7 +1,7 @@
 ---
 title: AceMagic Discloses Factory-Loaded Malicious Software Detected in Their Initial Production Line of Personalized Mini PCs
-date: 2024-08-27T04:34:08.898Z
-updated: 2024-08-28T04:34:08.898Z
+date: 2024-09-04T12:34:08.694Z
+updated: 2024-09-05T12:34:08.694Z
 tags:
   - desktop
 categories:
@@ -118,5 +118,8 @@ __Ayaneo Retro Mini PC AM01 Specification__
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering FCP Top 3 Transition Techniques for Smooth Edits
-date: 2024-08-27T04:36:41.775Z
-updated: 2024-08-28T04:36:41.775Z
+date: 2024-09-04T12:34:06.176Z
+updated: 2024-09-05T12:34:06.176Z
 tags: 
   - video editing software
   - video editing
@@ -156,5 +156,8 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

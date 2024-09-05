@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Boost Your Editing Speed 40 Expert-Level Keyboard Shortcuts for FCPX
-date: 2024-08-27T04:32:27.321Z
-updated: 2024-08-28T04:32:27.321Z
+date: 2024-09-04T12:34:10.438Z
+updated: 2024-09-05T12:34:10.438Z
 tags: 
   - video editing software
   - video editing
@@ -175,5 +175,8 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
