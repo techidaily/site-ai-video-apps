@@ -1,7 +1,7 @@
 ---
 title: Updated Reaction Video Mastery Tips and Tricks with Filmora
-date: 2024-09-09T02:50:00.217Z
-updated: 2024-09-10T02:50:00.217Z
+date: 2024-09-10T17:17:35.624Z
+updated: 2024-09-15T03:00:53.729Z
 tags: 
   - video editing software
   - video editing
@@ -49,34 +49,10 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 ![make-reaction-video-ai-portrait-step2](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step2.png)
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 03:** Place both of these videos into the timeline. Make sure to place your reaction above.
 
 ![make-reaction-video-ai-portrait-step3.png](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step3.png)
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 04:** Select your reaction video on the timeline and go to the "Effects". Here you will find a new folder named "AI Portrait", open it. Here you will find multiple AI portrait effects.
 
 ![make-reaction-video-ai-portrait-step4](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step4.png)
@@ -85,42 +61,18 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 ![make-reaction-video-ai-portrait-step5](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 06:** Once the effect is successfully applied to the video, its background will be removed automatically.
 
 ![make-reaction-video-ai-portrait-step6](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 07:** Adjust the video by making it smaller and place it in the bottom left corner of the screen. Your reaction video is ready to be uploaded on video-sharing platforms.
 
 ![make-reaction-video-ai-portrait-step7](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 08:** To make your video look cool and stunning, you can also add multiple other effects to your reaction. AI portrait allows you to add a border around the character to make it look more visible and separate it from another video. Go to the AI portrait and drag Human Border Effect and drop it into your reaction. It will create an outline around the character and make it look more visible.
 
 ![make-reaction-video-ai-portrait-step8](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 09:** In some instances, you might need to change the position or size of your reaction. You can easily do that by applying the Keyframes to it. If you feel like changing the part of your reaction at some point in the video, go to that point in the timeline and click on the keyframe button above the timeline.
 
 ![make-reaction-video-ai-portrait-step9](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step9.png)
@@ -137,65 +89,11 @@ AI Portrait allows you to create wonderful effects using artificial intelligence
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-earning-potential-in-gaming-videos/"><u>[New] 2024 Approved  Earning Potential in Gaming Videos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-fb-top-10-crafting-engaging-songs-for-fb-videos/"><u>[New] FB Top 10  Crafting Engaging Songs for FB Videos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-top-8-android-multi-user-video-chat-tools/"><u>[New] In 2024, Top 8 Android Multi-User Video Chat Tools</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-selecting-the-ideal-imagery-for-remote-meetings/"><u>[New] Selecting the Ideal Imagery for Remote Meetings</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-enhancing-your-facebook-presence-with-effective-covers/"><u>[Updated] 2024 Approved  Enhancing Your Facebook Presence with Effective Covers</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-premier-open-source-switch-clones/"><u>[Updated] 2024 Approved  Premier Open-Source Switch Clones</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-unlock-the-secret-of-social-media-impact/"><u>[Updated] 2024 Approved  Unlock the Secret of Social Media Impact</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-guidelines-to-create-impactful-youtube-banners-for-2024/"><u>[Updated] Essential Guidelines to Create Impactful YouTube Banners for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-top-10-best-free-mmorpg-games/"><u>[Updated] In 2024, Top 10 Best Free MMORPG Games</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-the-speedy-route-to-collecting-cutting-edge-tiktoks/"><u>[Updated] The Speedy Route to Collecting Cutting-Edge TikToks</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-facebook-overhaul-the-2023-updates-explained/"><u>2024 Approved  Facebook Overhaul  The 2023 Updates Explained</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mythos-makers-mecca-prime-pantheon-seven/"><u>2024 Approved  Mythos Makers’ Mecca - Prime Pantheon Seven</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-tiktok-to-twitter-strategy-for-maximum-engagement/"><u>2024 Approved  TikTok-to-Twitter Strategy for Maximum Engagement</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/battling-anxiety-with-ai-tips-and-tricks-for-utilizing-chatgpt/"><u>Battling Anxiety with AI: Tips and Tricks for Utilizing ChatGPT</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/cutting-expenses-with-an-affordable-ibuypower-built-to-order-esports-rig/"><u>Cutting Expenses with an Affordable iBUYPOWER Built-to-Order Esports Rig</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-amplify-your-music-experience-with-youtubes-playlist-guide/"><u>In 2024, Amplify Your Music Experience with YouTube's Playlist Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-honor-play-7t-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Honor Play 7T Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastery-in-dialogue-top-techniques-for-chatgpt-advancement/"><u>Mastery in Dialogue: Top Techniques for ChatGPT Advancement</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-speed-up-your-video-editing-workflow-essential-tips-for-cutting-large-videos-on-mac/"><u>New Speed Up Your Video Editing Workflow Essential Tips for Cutting Large Videos on Mac</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-upload-ps4-screenshots-to-social-media-a-beginners-tutorial-for-2024/"><u>New Upload PS4 Screenshots to Social Media A Beginners Tutorial for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-zero-cost-flv-video-editing-top-5-tools-to-get-the-job-done-for-2024/"><u>New Zero-Cost FLV Video Editing Top 5 Tools to Get the Job Done for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/photo-8-estrella-remediacion-en-windows-como-solicitar-y-descargar-el-programa-corrector-de-fotos/"><u>Photo 8 Estrella Remediación en Windows - Cómo Solicitar Y Descargar El Programa Corrector De Fotos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/slow-response-analyzing-chatgpt-4-against-gpt-35s-agility/"><u>Slow Response: Analyzing ChatGPT-4 Against GPT-3.5's Agility</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/speak-the-code-vr-lingo-essentials/"><u>Speak the Code  VR Lingo Essentials</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/step-into-virtual-reality-top-converters-for-seamless-video-conversion-for-2024/"><u>Step Into Virtual Reality Top Converters for Seamless Video Conversion for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-your-laserjet-printing-new-windows-10-drivers/"><u>Streamline Your Laserjet Printing: New Windows 10 Drivers</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/the-best-free-video-cutters-for-mov-file-editing-for-2024/"><u>The Best Free Video Cutters for MOV File Editing for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/top-mp4-metadata-editors-for-video-organization-for-2024/"><u>Top MP4 Metadata Editors for Video Organization for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-3d-animation-on-a-budget-free-and-affordable-software-options-you-need-to-know/"><u>Updated 2024 Approved 3D Animation on a Budget Free and Affordable Software Options You Need to Know</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-download-kinemaster-for-macstep-by-step-guide/"><u>Updated 2024 Approved Download KineMaster for MacStep-by-Step Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-edit-mp4-videos-on-windows-8-a-simple-guide/"><u>Updated 2024 Approved Edit MP4 Videos on Windows 8 A Simple Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-editing-videos-in-mavericks-tips-tricks-and-techniques/"><u>Updated 2024 Approved Editing Videos in Mavericks Tips, Tricks, and Techniques</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-and-easy-video-stabilization-top-picks/"><u>Updated 2024 Approved Free and Easy Video Stabilization Top Picks</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-lego-stop-motion-artists-to-watch/"><u>Updated 2024 Approved Lego Stop Motion Artists to Watch</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-mac-users-install-lumafusion-or-discover-its-top-competitors/"><u>Updated 2024 Approved Mac Users Install Lumafusion or Discover Its Top Competitors</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-no-budget-no-problem-16-free-and-easy-to-use-video-editing-tools/"><u>Updated In 2024, No Budget, No Problem 16 Free and Easy-to-Use Video Editing Tools</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-best-of-the-app-store-top-iphone-apps/"><u>Updated In 2024, The Best of the App Store Top iPhone Apps</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-top-glitch-video-editing-software-for-windows-and-mac-free-and-paid-options/"><u>Updated In 2024, Top Glitch Video Editing Software for Windows and Mac Free and Paid Options</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-unleash-your-creativity-best-free-video-fx-apps-for-ios-and-android/"><u>Updated In 2024, Unleash Your Creativity Best Free Video FX Apps for iOS and Android</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-macos-x-video-editor-fast-and-easy-video-editing/"><u>Updated MacOS X Video Editor Fast and Easy Video Editing</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-top-rated-3d-video-production-tools-free-paid-and-in-between/"><u>Updated Top-Rated 3D Video Production Tools Free, Paid, and In-Between</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-video-editing-dilemma-final-cut-pro-or-lumafusion-weve-got-the-answer/"><u>Updated Video Editing Dilemma? Final Cut Pro or LumaFusion - Weve Got the Answer</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/video-to-picture-the-ultimate-list-of-10-conversion-tools-for-2024/"><u>Video to Picture The Ultimate List of 10 Conversion Tools for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/vn-video-editor-app-review-pros-and-cons-for-2024/"><u>VN Video Editor App Review Pros and Cons for 2024</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -203,3 +101,37 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-unlocking-social-media-success-start-with-facebook-insights/"><u>[New] Unlocking Social Media Success Start with Facebook Insights</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-elevate-your-visual-storytelling-ios-and-androids-best-image-stickers/"><u>[Updated] 2024 Approved Elevate Your Visual Storytelling IOS & Android's Best Image Stickers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-delightful-no-cost-access-to-youtubes-nine-full-length-yule-celebrations-for-2024/"><u>[Updated] Delightful, No-Cost Access to YouTube's Nine Full-Length Yule Celebrations for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-real-time-recording-battle-obs-studio-against-fraps-for-2024/"><u>[Updated] Real-Time Recording Battle OBS Studio Against Fraps for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-react-and-relate-harness-the-power-of-alternate-perspectives-for-compelling-youtube-vids-2-pov-method/"><u>2024 Approved React and Relate - Harness the Power of Alternate Perspectives for Compelling YouTube Vids (2 POV Method)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-fixes-to-resolve-401-unauthorized-access-errors-online/"><u>Easy Fixes to Resolve 401 Unauthorized Access Errors Online</u></a></li>
+<li><a href="https://driver-download.techidaily.com/flawless-workflow-with-wacom-intuos-3-ultimate-driver-downloads-for-windows-systems/"><u>Flawless Workflow with Wacom Intuos 3: Ultimate Driver Downloads for Windows Systems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-itel-a60s-devices-by-drfone-android/"><u>How to Reset Gmail Password on Itel A60s Devices</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unlock-efficient-video-editing-top-5-free-mpeg-video-splitters/"><u>New Unlock Efficient Video Editing Top 5 Free MPEG Video Splitters</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/touchscreen-macbook-news-and-expected-price-release-date-specs-and-more-rumors/"><u>Touchscreen MacBook: News and Expected Price, Release Date, Specs; and More Rumors</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-from-beginner-to-pro-5-final-cut-pro-editing-tips-to-up-your-game/"><u>Updated 2024 Approved From Beginner to Pro 5 Final Cut Pro Editing Tips to Up Your Game</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-final-cut-pro-x-debugging-secrets-unleash-your-editing-potential-for-2024/"><u>Updated Final Cut Pro X Debugging Secrets Unleash Your Editing Potential for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-best-split-screen-video-apps-for-ios-and-android/"><u>Updated In 2024, Best Split Screen Video Apps for iOS And Android</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-ultimate-list-of-online-video-reversal-software/"><u>Updated In 2024, The Ultimate List of Online Video Reversal Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-guide-to-jump-cuts-in-fcpx-best-practices-for-2024/"><u>Updated The Ultimate Guide to Jump Cuts in FCPX Best Practices for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-unlock-stunning-transitions-top-10-premiere-pro-plugins/"><u>Updated Unlock Stunning Transitions Top 10 Premiere Pro Plugins</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

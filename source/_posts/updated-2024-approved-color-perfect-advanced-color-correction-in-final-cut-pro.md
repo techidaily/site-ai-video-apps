@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Color Perfect Advanced Color Correction in Final Cut Pro
-date: 2024-09-09T02:50:01.784Z
-updated: 2024-09-10T02:50:01.784Z
+date: 2024-09-09T02:46:33.763Z
+updated: 2024-09-14T20:36:56.464Z
 tags: 
   - video editing software
   - video editing
@@ -38,12 +38,6 @@ The steps below can help all beginners to develop easy video edited projects usi
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
 **Related article:**
@@ -63,44 +57,14 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 ![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
 ![Effect Browser](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-2.png)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Choose **Window** and then click on **Go To**, you will find **Color Board** on the appeared drop-down menu.
 
 ![Go to Color Board](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
 ![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
@@ -127,28 +91,10 @@ Now it is time to work on color correction directly. There are three types of co
 
 ![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
 ![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Step 4
 
 It is possible to preview all the corrections on the original image before making them final. Simple hit the arrow with left-facing formation in the top left corner of the Color Board and then return to the video inspector. Hit on the Blue box to switch between correction On and Off options.
@@ -159,66 +105,11 @@ It is possible to preview all the corrections on the original image before makin
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-global-perspective-inclusive-technology-review-for-2024/"><u>[New] Global Perspective  Inclusive Technology Review for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-seamless-tweet-to-snap-transition-guide/"><u>[New] The Seamless Tweet-to-Snap Transition Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-adding-emojis-in-youtube-discussions/"><u>[Updated] 2024 Approved  Adding Emojis in YouTube Discussions</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-enhancing-video-reach-convert-yt-to-igtv/"><u>[Updated] In 2024, Enhancing Video Reach  Convert YT to IGTV</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-revealed-the-10-most-reliable-android-and-ios-countdown-clocks-for-marriage-bliss/"><u>2024 Approved  Revealed  The 10 Most Reliable Android and iOS Countdown Clocks for Marriage Bliss</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/essential-tips-for-gameplay-screen-captures-on-xbox-one/"><u>Essential Tips for Gameplay Screen Captures on Xbox One</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/excel-mastery-through-artificayerly-crafted-chatgpt-solutions/"><u>Excel Mastery Through Artificayerly-Crafted ChatGPT Solutions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/eye-catching-podcast-logos-step-by-step-creation/"><u>Eye-Catching Podcast Logos  Step-by-Step Creation</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-nubia-red-magic-8s-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Nubia Red Magic 8S Pro Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-2023-best-facebook-video-downloader-and-addons-for-firefox/"><u>In 2024, 2023 | Best Facebook Video Downloader And Addons for Firefox</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-on-apple-iphone-13-pro-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock On Apple iPhone 13 Pro - 4 Easy Ways</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-realme-narzo-60x-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Realme Narzo 60x 5G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-pro-max-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 14 Pro Max Without Swiping Up? 6 Ways</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-nextv-networks-the-ultimate-streamers-global-guide/"><u>In 2024, NexTV Networks  The Ultimate Streamer's Global Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-power-of-jump-cuts-in-engaging-videos/"><u>In 2024, The Power of Jump Cuts in Engaging Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/proficient-techniques-securely-embedding-a-url-in-tiktok-profiles-for-2024/"><u>Proficient Techniques  Securely Embedding a URL in TikTok Profiles for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reinstating-active-status-on-a-windows-scanner-device/"><u>Reinstating Active Status on a Windows Scanner Device</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-the-antique-ribbon-interface-of-explorer/"><u>Restoring the Antique Ribbon Interface of Explorer</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-xiaomi-13-ultra-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Xiaomi 13 Ultra FRP</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-adobe-premiere-pro-power-user-master-these-20-shortcuts/"><u>Updated 2024 Approved Adobe Premiere Pro Power User Master These 20 Shortcuts</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-beyond-powerdirector-the-best-mobile-video-editing-apps/"><u>Updated 2024 Approved Beyond PowerDirector The Best Mobile Video Editing Apps</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-convert-images-to-cartoons-with-ease/"><u>Updated 2024 Approved Convert Images to Cartoons with Ease</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-no1-free-dailymotion-to-mp4-converter-online/"><u>Updated 2024 Approved No.1 Free Dailymotion to MP4 Converter Online</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-premiere-pro-cs6-for-mac-instant-download-no-cost/"><u>Updated 2024 Approved Premiere Pro CS6 for Mac - Instant Download, No Cost</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-tag-organize-and-enjoy-best-video-tag-editors-for-windows-and-macos/"><u>Updated 2024 Approved Tag, Organize, and Enjoy Best Video Tag Editors for Windows and macOS</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-list-of-10-image-to-video-makers-online/"><u>Updated 2024 Approved The Ultimate List of 10 Image to Video Makers Online</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-unleash-your-creativity-the-best-online-stop-motion-animation-studios/"><u>Updated 2024 Approved Unleash Your Creativity The Best Online Stop Motion Animation Studios</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-video-editing-vs-visual-effects-premiere-vs-after-effects-explained/"><u>Updated 2024 Approved Video Editing vs Visual Effects Premiere vs After Effects Explained</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-best-14-vlog-video-editing-software-for-hot-platformsfree-and-paid-for-2024/"><u>Updated Best 14 Vlog Video Editing Software for Hot PlatformsFree & Paid for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-best-top-intro-makers-for-pc-both-online-and-offline-for-2024/"><u>Updated Best Top Intro Makers for PC, Both Online and Offline for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-make-your-own-cartoons-top-rated-mobile-apps/"><u>Updated In 2024, Make Your Own Cartoons Top-Rated Mobile Apps</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-powerdirector-color-grading-tips-for-seamless-clip-integration/"><u>Updated In 2024, PowerDirector Color Grading Tips for Seamless Clip Integration</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-quicktime-video-editing-essentials-for-mac-users/"><u>Updated In 2024, QuickTime Video Editing Essentials for Mac Users</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-say-goodbye-to-clutter-how-to-convert-your-dvd-library-to-digital-files/"><u>Updated In 2024, Say Goodbye to Clutter How to Convert Your DVD Library to Digital Files</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-ultimate-list-5-free-online-tone-generators/"><u>Updated In 2024, The Ultimate List 5 Free Online Tone Generators</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-vertical-video-editing-made-easy-top-ios-and-android-apps/"><u>Updated In 2024, Vertical Video Editing Made Easy Top iOS and Android Apps</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-ken-burns-effect-in-final-cut-pro-a-beginners-guide-to-professional-results-for-2024/"><u>Updated Ken Burns Effect in Final Cut Pro A Beginners Guide to Professional Results for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-mac-users-install-lumafusion-or-discover-its-top-competitors/"><u>Updated Mac Users Install Lumafusion or Discover Its Top Competitors</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-the-best-free-face-generator-websites-to-create-synthetic-identities-for-2024/"><u>Updated The Best Free Face Generator Websites to Create Synthetic Identities for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-guide-to-vlog-video-editing-best-software-for-creators/"><u>Updated The Ultimate Guide to Vlog Video Editing Best Software for Creators</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-top-rated-avi-file-combiners-10-free-solutions-for-you/"><u>Updated Top-Rated AVI File Combiners 10 Free Solutions for You</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-watch-your-local-videos-on-tv-chromecast-streaming-tutorial-for-windows-mac-android-and-ios/"><u>Updated Watch Your Local Videos on TV Chromecast Streaming Tutorial for Windows, Mac, Android, and iOS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/xerox-workcentre-6515-driver-download-and-update/"><u>Xerox WorkCentre 6515 Driver Download & Update</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/yosemite-video-editing-101-a-beginners-guide-to-editing-videos-on-mac-for-2024/"><u>Yosemite Video Editing 101 A Beginners Guide to Editing Videos on Mac for 2024</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -226,3 +117,28 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-rotation-revelation-manual-transform-your-visual-content-on-social-media-sites/"><u>[New] In 2024, The Rotation Revelation Manual Transform Your Visual Content on Social Media Sites</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-winning-9-gif-recorder-apps-master-your-animated-archive/"><u>[Updated] In 2024, Winning 9 GIF Recorder Apps Master Your Animated Archive</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/audiophiles-dream-list-top-2024-audio-wearables/"><u>Audiophile's Dream List: Top 2024 Audio Wearables</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-sculpting-textures-creating-realistic-3d-effects-in-illustrator/"><u>In 2024, Sculpting Textures Creating Realistic 3D Effects in Illustrator</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-easter-treat-for-creators-wondershare-filmora-exclusive-offer/"><u>Updated 2024 Approved Easter Treat for Creators Wondershare Filmora Exclusive Offer</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-macos-compatible-video-editor-avs-software/"><u>Updated In 2024, MacOS Compatible Video Editor AVS Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-video-editing-software-similar-to-virtualdub-features-and-pricing/"><u>Updated Video Editing Software Similar to VirtualDub Features and Pricing</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

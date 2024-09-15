@@ -1,7 +1,7 @@
 ---
 title: Updated Edit Faster, Edit Smarter Top 20 Adobe Premiere Shortcuts for 2024
-date: 2024-09-09T02:50:03.718Z
-updated: 2024-09-10T02:50:03.718Z
+date: 2024-09-10T16:50:41.904Z
+updated: 2024-09-14T23:55:46.837Z
 tags: 
   - video editing software
   - video editing
@@ -14,12 +14,6 @@ keywords: unlock efficiency top adobe premiere shortcuts for faster editing,edit
 thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9fefb2b304db02c765d66484d.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Edit Faster, Edit Smarter: Top 20 Adobe Premiere Shortcuts
 
 # Top 20 Adobe Premiere Shortcuts You Will Use When Editing Video Files
@@ -44,12 +38,6 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shortcut-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Before we step into the most useful shortcuts, a brief note here on the different platforms, although I'm sure most readers are aware. The PC and Mac versions of the software do share the same basic shortcuts with the one caveat that where the PC uses the Control and Alt keys, the Mac has Command and Option keys instead. Other than that the functionality is the same. I'll include the shortcuts for both platforms with each to make referencing easier.
 
 #### 1Select Window
@@ -111,12 +99,6 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### 5 Navigation within a clip
 
  This one works within the program monitor/timeline or source monitor windows, ensure the desired one is active first of course. You can move to a specific time code within the clip, or go forwards or backwards a set number of frames using the number pad. To go to a specific time code simply type that on the number pad. To travel a set number of frames simply type + or – (to signify direction) and the number of frames.
@@ -147,12 +129,6 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In addition, turning on looping for this can help to fine tune edits.
 
 #### 9Toggle Audio During Scrubbing
@@ -193,12 +169,6 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### 15Add the default Transition
 
  This option applies the default transition to all selected media. To do this use Shift+D.
@@ -231,69 +201,11 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-autonomy-in-speech/"><u>[New] 2024 Approved  Autonomy in Speech</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-advanced-distortion-methods-for-photography-tools/"><u>[New] Advanced Distortion Methods for Photography Tools</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-get-it-right-a-beginners-guide-to-iphone-screen-shots/"><u>[New] In 2024, Get It Right  A Beginner's Guide to iPhone Screen Shots</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-navigating-job-interviews-with-confidence-and-competence/"><u>[New] Navigating Job Interviews with Confidence and Competence</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-swift-stylizing-boost-your-digital-artistry-on-pc-photos-editor/"><u>[New] Swift Stylizing  Boost Your Digital Artistry on PC Photos Editor</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/he-opposite-view-creative-ways-to-watch-youtube-backwards/"><u>[New] The Opposite View  Creative Ways to Watch YouTube Backwards</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-blueprint-for-srt-file-excellence/"><u>[New] The Ultimate Blueprint for SRT File Excellence</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-elevate-your-content-incorporating-exact-timestamps-in-videos/"><u>[Updated] Elevate Your Content  Incorporating Exact Timestamps in Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-lgs-new-tech-horizon-in-bp550/"><u>[Updated] Exploring LG's New Tech Horizon in BP550</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-8-top-picks-for-seamless-screen-recording-experience/"><u>[Updated] In 2024, 8 Top Picks for Seamless Screen Recording Experience</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-broadcasting-brilliance-in-final-fragments/"><u>[Updated] In 2024, Broadcasting Brilliance in Final Fragments</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-decoding-the-download-your-guide-to-fb-videography/"><u>2024 Approved  Decoding the Download  Your Guide to FB Videography</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-jumpstart-your-day-top-10-motivational-feel-good-flicks/"><u>2024 Approved  Jumpstart Your Day  Top 10 Motivational Feel-Good Flicks</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-rethink-your-favorite-films-top-7-replacements/"><u>2024 Approved  Rethink Your Favorite Films - Top 7 Replacements</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-selecting-the-prime-sky-vault-for-firms/"><u>2024 Approved  Selecting the Prime Sky Vault for Firms</u></a></li>
-<li><a href="https://fox-that.techidaily.com/experiencing-iphone-sound-problems-here-are-7-ways-to-repair-button-malfunctions/"><u>Experiencing iPhone Sound Problems? Here Are 7 Ways to Repair Button Malfunctions</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-itel-p40-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Itel P40 Phones? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-i-screen-mirroring-apple-iphone-13-pro-to-tvlaptop-drfone-by-drfone-ios/"><u>In 2024, How Can I Screen Mirroring Apple iPhone 13 Pro to TV/Laptop? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on iPhone 6s Plus</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/in-2024-unbiased-review-how-to-use-filmora-for-free-without-risks/"><u>In 2024, Unbiased Review How to Use Filmora for Free Without Risks</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-digital-trailer-development-agencies/"><u>New 2024 Approved Digital Trailer Development Agencies</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-dubit-for-macos/"><u>New 2024 Approved DubIt for macOS</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-how-to-crop-a-video-with-avidemux/"><u>New 2024 Approved How to Crop a Video with Avidemux</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-master-video-blurring-top-rated-apps-for-iphone-and-android-users/"><u>New 2024 Approved Master Video Blurring Top Rated Apps for iPhone and Android Users</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-best-mp4-to-mp3-conversion-software-for-windows-and-mac/"><u>New 2024 Approved The Best MP4 to MP3 Conversion Software for Windows and Mac</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-best-video-collage-creators-for-iphone-and-ipad/"><u>New 2024 Approved The Best Video Collage Creators for iPhone and iPad</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-top-pc-intro-makers-a-beginners-guide-to-getting-started/"><u>New 2024 Approved The Top PC Intro Makers A Beginners Guide to Getting Started</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-3d-animation-software-for-mobile-devices-free-to-download/"><u>New 2024 Approved Top 3D Animation Software for Mobile Devices (Free to Download)</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unleash-your-creativity-top-5-iphone-video-editing-apps-you-need/"><u>New 2024 Approved Unleash Your Creativity Top 5 iPhone Video Editing Apps You Need</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-animate-your-text-the-top-10-generators-to-boost-engagement-for-2024/"><u>New Animate Your Text The Top 10 Generators to Boost Engagement for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-best-free-online-video-editors-for-merging-clips-for-2024/"><u>New Best Free Online Video Editors for Merging Clips for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-beyond-premiere-top-10-video-editing-software-alternatives-for-beginners-and-pros-for-2024/"><u>New Beyond Premiere Top 10 Video Editing Software Alternatives for Beginners and Pros for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-choosing-the-perfect-green-screen-tool-for-mac-users-for-2024/"><u>New Choosing the Perfect Green Screen Tool for Mac Users for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-elevate-your-videos-expert-guide-to-adding-mind-blowing-effects-for-2024/"><u>New Elevate Your Videos Expert Guide to Adding Mind-Blowing Effects for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-elevate-your-videos-top-rated-ipad-video-editors-for-2024/"><u>New Elevate Your Videos Top-Rated iPad Video Editors for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-free-image-heaven-top-10-public-domain-sites-for-2024/"><u>New Free Image Heaven Top 10 Public Domain Sites for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-from-fast-to-slow-a-comprehensive-guide-to-slow-motion-effects-in-windows-live-movie-maker-for-2024/"><u>New From Fast to Slow A Comprehensive Guide to Slow Motion Effects in Windows Live Movie Maker for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-fcp-mastery-top-5-editing-tips-and-tricks-from-the-experts/"><u>New In 2024, FCP Mastery Top 5 Editing Tips and Tricks From the Experts</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-m4a-editor-software-top-5-options/"><u>New In 2024, Free M4A Editor Software Top 5 Options</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-mp4-to-mp3-conversion-made-easy-top-converters-reviewed/"><u>New In 2024, MP4 to MP3 Conversion Made Easy Top Converters Reviewed</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-mp4-video-editor-for-pc-seamless-editing-on-windows-8/"><u>New In 2024, MP4 Video Editor for PC Seamless Editing on Windows 8</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-neon-typography-made-easy-9-best-online-text-generator-tools/"><u>New In 2024, Neon Typography Made Easy 9 Best Online Text Generator Tools</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-preserving-privacy-in-video-content-face-blurring-software-reviews/"><u>New In 2024, Preserving Privacy in Video Content Face Blurring Software Reviews</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-guide-to-mobile-vlog-editing-top-10-apps/"><u>New In 2024, The Ultimate Guide to Mobile Vlog Editing Top 10 Apps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/precise-participation-the-key-to-zooming-in-on-google-meet-talks-for-2024/"><u>Precise Participation  The Key to Zooming in on Google Meet Talks for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unpacking-excellence-with-the-samsung-galaxy-tab-s7plus-review-your-go-to-for-superior-android-experience/"><u>Unpacking Excellence with the Samsung Galaxy Tab S7+ Review: Your Go-To for Superior Android Experience</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-wax-video-editing-software-tips-tricks-and-tutorials-for-2024/"><u>Updated Wax Video Editing Software Tips, Tricks, and Tutorials for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/what-is-facebook-dating-how-to-get-started/"><u>What Is Facebook Dating? How to Get Started</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -301,3 +213,29 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-capturing-attention-a-guide-to-captivate-videos/"><u>[New] 2024 Approved Capturing Attention A Guide to Captivate Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-dissecting-the-mastery-of-high-definition-with-benq-sw320-monitor/"><u>[New] 2024 Approved Dissecting the Mastery of High Definition with BenQ SW320 Monitor</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-socialvideocutter-download-feature/"><u>[Updated] 2024 Approved SocialVideoCutter Download Feature</u></a></li>
+<li><a href="https://fox-http.techidaily.com/8-key-metaverse-ventures-unveiling-core-concepts/"><u>8 Key Metaverse Ventures Unveiling Core Concepts</u></a></li>
+<li><a href="https://driver-download.techidaily.com/canon-mf8200c-driver-download-for-windows-71081/"><u>Canon MF8200C Driver Download for Windows 7/10/8.1</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-hue-transformations-expert-tactics-revealed/"><u>In 2024, Mastering Hue Transformations Expert Tactics Revealed</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-video-editing-face-off-final-cut-pro-vs-lumafusion-which-one-wins-in-2024/"><u>New Video Editing Face-Off Final Cut Pro vs LumaFusion - Which One Wins, In 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/pc-video-editors-like-gopro-quik-top-picks-and-reviews-for-2024/"><u>PC Video Editors Like GoPro Quik Top Picks and Reviews for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-easy-driver-update-for-intels-iris-plus-640-graphics-card/"><u>Step-by-Step: Easy Driver Update for Intel's Iris Plus 640 Graphics Card</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-mastering-fcp-top-3-transition-techniques-for-smooth-edits/"><u>Updated Mastering FCP Top 3 Transition Techniques for Smooth Edits</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-taking-lower-thirds-to-the-next-level-in-final-cut-pro-x-for-2024/"><u>Updated Taking Lower Thirds to the Next Level in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-which-video-editor-reigns-supreme-final-cut-pro-or-lumafusion/"><u>Updated Which Video Editor Reigns Supreme Final Cut Pro or LumaFusion?</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

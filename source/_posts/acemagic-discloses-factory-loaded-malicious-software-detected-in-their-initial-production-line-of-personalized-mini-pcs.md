@@ -1,7 +1,7 @@
 ---
 title: AceMagic Discloses Factory-Loaded Malicious Software Detected in Their Initial Production Line of Personalized Mini PCs
-date: 2024-09-09T02:50:04.014Z
-updated: 2024-09-10T02:50:04.014Z
+date: 2024-09-12T22:34:56.762Z
+updated: 2024-09-14T23:45:39.557Z
 tags:
   - desktop
 categories:
@@ -9,18 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/dRHyNaamRCQLExiuR9YCBH-320-80.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Introducing the AM01 by Ayaneo: The Perfect Blend of Classic Appeal and Modern Power – Available Now in Stores
 
 Ayaneo is officially selling its retro mini PC, the AM01, outside of its crowdfunding campaign via its[website](https://ayaneo.com/goods/8451695378677?) . The AM01 mini PC is reminiscent of the Macintosh Classic and is available in multiple configurations. The AM01 is much smaller than the Macintosh Classic, but it's packed with features and can be purchased with a memory configuration of between 8 and 32GB and primary SSD storage options of up to 1TB.
@@ -58,12 +46,6 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 ![Ayaneo AM01 Mini PC](https://cdn.mos.cms.futurecdn.net/WGEpGR8Pts2g8USJ2KBFfh-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Ayaneo)
 
  The pricing is fairly attractive, with the highest-spec options retailing at $449 including shipping, though customs charges may vary depending on country. Also, you may not receive full warranty support, depending on country. There are, of course, other mini PCs to consider — the main selling point of the AM01 is its Macintosh-themed design. If you're just looking for a mini PC,[Asus' NUCs](https://www.tomshardware.com/desktops/mini-pcs/asus-reveals-pricing-for-its-new-nucs-nuc-14-pro-starts-at-dollar394-and-nuc-14-pro-at-dollar869) are a local option.
@@ -72,12 +54,6 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -86,14 +62,11 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -104,39 +77,28 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-a-critical-examination-of-vlcs-rivals/"><u>[New] A Critical Examination of VLC's Rivals</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-charting-success-navigating-youtube-statistics-with-social-blade/"><u>[New] In 2024, Charting Success  Navigating YouTube Statistics with Social Blade</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-exploring-no-cost-cam-screens-reviews-and-high-alternatives/"><u>[Updated] 2024 Approved  Exploring No-Cost Cam Screens  Reviews & High Alternatives</u></a></li>
-<li><a href="https://common-error.techidaily.com/a-complete-walkthrough-to-fix-monitors-showing-no-image-error-easily-and-quickly/"><u>A Complete Walkthrough to Fix Monitors Showing No Image Error Easily and Quickly</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862709133-amazon-prime-day-alert-discounted-16-inch-macbook-pro-with-m3-pro-saving-you-500/"><u>Amazon Prime Day Alert: Discounted 16-Inch MacBook Pro with M3 Pro, Saving You $500</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-realme-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-a-xlsm-file-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a .xlsm file document online</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-poco-f5-pro-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Poco F5 Pro 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/in-2024-windows-10-video-editing-made-easy-top-imovie-alternatives/"><u>In 2024, Windows 10 Video Editing Made Easy Top iMovie Alternatives</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/investigating-how-tseries-makes-money-with-youtube-viewers-for-2024/"><u>Investigating How TSeries Makes Money with YouTube Viewers for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722966931286-microsoft-windows-stereo-and-headset-drivers-immediate-download-available-now/"><u>Microsoft Windows Stereo and Headset Drivers: Immediate Download Available Now</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-audio-post-production-in-fcp-tips-and-tricks/"><u>New 2024 Approved Audio Post-Production in FCP Tips and Tricks</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-create-a-face-from-scratch-best-free-online-generators/"><u>New 2024 Approved Create a Face From Scratch Best Free Online Generators</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-online-video-editing-for-free-the-top-options-compared/"><u>New 2024 Approved Online Video Editing for Free The Top Options Compared</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-revolutionize-your-video-content-how-to-convert-videos-into-cartoons-in-minutes/"><u>New 2024 Approved Revolutionize Your Video Content How to Convert Videos Into Cartoons in Minutes</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-rotate-your-avi-videos-with-ease-5-best-free-tools/"><u>New 2024 Approved Rotate Your AVI Videos with Ease 5 Best Free Tools</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-royalty-free-video-heaven-top-download-sites/"><u>New 2024 Approved Royalty-Free Video Heaven Top Download Sites</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-s-most-popular-video-animation-tools-for-iphone-ipad-and-android/"><u>New 2024 Approved S Most Popular Video Animation Tools for iPhone, iPad, and Android</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-tiktok-watermark-remover-software-online-options-compared/"><u>New 2024 Approved TikTok Watermark Remover Software Online Options Compared</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unlocking-fcpx-advanced-freeze-frame-and-slow-motion-techniques/"><u>New 2024 Approved Unlocking FCPX Advanced Freeze Frame and Slow Motion Techniques</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-video-editing-pro-unlock-awesome-visuals-in-minutes/"><u>New 2024 Approved Video Editing Pro Unlock Awesome Visuals in Minutes</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-video-editors-paradise-10-essential-software-solutions/"><u>New 2024 Approved Video Editors Paradise 10 Essential Software Solutions</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-avchd-video-editing-the-top-5-software-options-this-year-for-2024/"><u>New AVCHD Video Editing The Top 5 Software Options This Year for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-convert-your-videos-top-mp4-to-mp3-converters-for-any-device-for-2024/"><u>New Convert Your Videos Top MP4 to MP3 Converters for Any Device for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-cut-combine-repeat-the-top-free-online-video-editing-tools-for-2024/"><u>New Cut, Combine, Repeat The Top Free Online Video Editing Tools for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-face-swap-frenzy-the-top-rated-apps-for-iphone-and-android-this-year-for-2024/"><u>New Face Swap Frenzy The Top-Rated Apps for iPhone and Android This Year for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-final-cut-pro-for-less-take-advantage-of-education-pricing-for-2024/"><u>New Final Cut Pro for Less Take Advantage of Education Pricing for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-final-cut-pro-x-essentials-adding-and-customizing-titles-for-2024/"><u>New Final Cut Pro X Essentials Adding and Customizing Titles for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-and-easy-the-best-3gp-video-rotators/"><u>New Free and Easy The Best 3GP Video Rotators</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-free-animation-software-for-windows-and-mac-our-top-picks-for-2024/"><u>New Free Animation Software for Windows and Mac Our Top Picks for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-from-basic-to-brilliant-adding-effects-in-fcp-x-in-3-easy-steps-for-2024/"><u>New From Basic to Brilliant Adding Effects in FCP X in 3 Easy Steps for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-from-novice-to-pro-the-top-animation-maker-tools-you-need-to-know-for-2024/"><u>New From Novice to Pro The Top Animation Maker Tools You Need to Know for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-from-start-to-finish-how-to-edit-video-files-on-mac-os-x-yosemite-for-2024/"><u>New From Start to Finish How to Edit Video Files on Mac OS X Yosemite for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-breaking-the-rules-10-innovative-glitch-art-video-editing-apps-for-mobile/"><u>New In 2024, Breaking the Rules 10 Innovative Glitch Art Video Editing Apps for Mobile</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-epic-creators-colloquium/"><u>[New] The Epic Creator's Colloquium</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-enhance-your-social-media-experience-with-these-top-tools-for-2024/"><u>[Updated] Enhance Your Social Media Experience with These Top Tools for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-artistry-of-image-editing-understanding-luts-role/"><u>2024 Approved The Artistry of Image Editing Understanding LUTs' Role</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-conversion-techniques-from-dvd-to-avi-video-format-explained/"><u>Effortless Conversion Techniques From DVD to AVI Video Format Explained</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experience-effortless-reading-in-depth-analysis-of-amazons-latest-kindle-paperwhite-gen/"><u>Experience Effortless Reading: In-Depth Analysis of Amazon's Latest Kindle Paperwhite (Gen )</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722050626295-how-to-find-your-ideal-ai-chatbot-service-check-out-these-critical-7-features-first/"><u>How to Find Your Ideal AI Chatbot Service: Check Out These Critical 7 Features First!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-poco-f5-5g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Poco F5 5G?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-crossfade-sounds-using-audacity/"><u>In 2024, The Ultimate Guide to Crossfade Sounds Using Audacity</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/hts-on-how-youtube-handles-uploaded-videos/"><u>Insights on How YouTube Handles Uploaded Videos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-virtualdub-a-comprehensive-review-and-comparison-to-rivals/"><u>New Virtualdub A Comprehensive Review and Comparison to Rivals</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-list-of-avi-video-cutters-16-best-options-for-windows-mac-and-android-users/"><u>Updated 2024 Approved The Ultimate List of AVI Video Cutters 16 Best Options for Windows, MAC, and Android Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-elevate-your-storytelling-wevideos-online-video-editing-solution/"><u>Updated In 2024, Elevate Your Storytelling WeVideos Online Video Editing Solution</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-no-watermark-no-cost-top-10-online-video-editing-tools/"><u>Updated In 2024, No Watermark, No Cost Top 10 Online Video Editing Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-s-most-popular-mkv-clip-editors-for-mac/"><u>Updated In 2024, S Most Popular MKV Clip Editors for Mac</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-make-animated-magic-happen-top-5-online-stop-motion-makers/"><u>Updated Make Animated Magic Happen Top 5 Online Stop Motion Makers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-take-your-editing-to-the-next-level-10-fcpx-plugins-you-need/"><u>Updated Take Your Editing to the Next Level 10 FCPX Plugins You Need</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

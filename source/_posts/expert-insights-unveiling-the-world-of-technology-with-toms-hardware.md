@@ -1,7 +1,7 @@
 ---
 title: "Expert Insights: Unveiling the World of Technology with Tom's Hardware"
-date: 2024-09-09T02:50:00.199Z
-updated: 2024-09-10T02:50:00.199Z
+date: 2024-09-12T06:59:37.314Z
+updated: 2024-09-14T21:34:00.291Z
 tags:
   - desktop
 categories:
@@ -9,18 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/d09e418474d756f5a8ffe485c9482504fd4de6868009955288d3f3888a8492e7.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Destroy with Purpose: Compete in the Cutting Edge Sport of Server Smash - The World Championship, 2024 Edition
 
 The 2024 World Server Throwing Championship (WSTC) organizers are[calling for entrants](https://www.cloudfest.com/world-server-throwing-championship#server-reg) . Scheduled for March 19, the bare metal vs. raw power event is set to become a must-watch experience of the annual CloudFest conference.
@@ -37,30 +25,12 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 ![Server throwing athletes](https://cdn.mos.cms.futurecdn.net/wtmZvaBCUd7W2J88EkoF6b-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: CloudFest)
 
  If we had to place a bet on the winner’s nationality, it would probably be Dutch, as the country where the sport seems to have become established. We discovered that some of the WTSC partners have already promoted server throwing in Dutch events. The winner of a Dutch national championship event[in 2022](https://dutchcloudcommunity.nl/agenda/summer-bbq-dutch-cloud-community-2022/) managed to fling a 10kg+ (22 pounds +) server 12.23 meters (over 40 feet).
 
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -71,14 +41,11 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
  The CloudFest 2024 event occurs at Europa-park in Rust,[Germany](https://www.tomshardware.com/pc-components/gpus/intel-submits-schematics-for-1nm-chip-fabs-in-germany-two-new-fabs-open-in-2027) , from March 18 to 24\. It is described as a must-attend event for anyone who works in[the cloud](https://www.tomshardware.com/reviews/cloud-computing-security,2829-2.html) , with a packed schedule featuring keynotes, panel discussions, masterclasses, networking events, and more. Only paying attendees can sign up for the chance to show off their server-throwing prowess. Tickets start at 499 euros.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -89,44 +56,23 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-prime-flood-and-flow-video-game-reviews-for-2024/"><u>[Updated] Prime Flood & Flow Video Game Reviews for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-elevate-your-content-with-advanced-vsco-techniques/"><u>2024 Approved  Elevate Your Content with Advanced VSCO Techniques</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-strategies-to-triple-your-earnings-on-youtube-shorts/"><u>2024 Approved  Strategies to Triple Your Earnings on Youtube Shorts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-stepwise-approach-to-saving-gpt-dialogues/"><u>A Stepwise Approach to Saving GPT Dialogues</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-truthgpt-coin-understanding-its-legitimacy-and-potential-for-scam-allegations/"><u>Demystifying TruthGPT Coin – Understanding Its Legitimacy and Potential for Scam Allegations</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/expert-recommendations-on-asmr-and-restful-nights/"><u>Expert Recommendations on ASMR & Restful Nights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpts-impact-on-cybersecurity-landscapes/"><u>GPT's Impact on Cybersecurity Landscapes</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-video-editing-smackdown-adobe-premiere-pro-takes-on-after-effects-for-2024/"><u>New Video Editing Smackdown Adobe Premiere Pro Takes on After Effects for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-tecno-spark-10-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Tecno Spark 10 5G? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/smooth-audio-transitions-2-methods-to-fade-in-and-out-in-fcp-for-2024/"><u>Smooth Audio Transitions 2 Methods to Fade In and Out in FCP for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/the-ultimate-guide-to-slow-motion-video-editing-top-10-software-for-2024/"><u>The Ultimate Guide to Slow Motion Video Editing Top 10 Software for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/top-8-youtuber-blunders-to-avoid-and-why-theyre-common/"><u>Top 8 Youtuber Blunders to Avoid and Why They're Common</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/unleash-creativity-10-top-public-domain-image-sources-for-2024/"><u>Unleash Creativity 10 Top Public Domain Image Sources for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-cut-to-perfection-the-top-10-final-cut-pro-movies/"><u>Updated 2024 Approved Cut to Perfection The Top 10 Final Cut Pro Movies</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-digital-video-trailer-development-solutions/"><u>Updated 2024 Approved Digital Video Trailer Development Solutions</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-discover-the-top-free-dvd-players-for-windows-10/"><u>Updated 2024 Approved Discover the Top Free DVD Players for Windows 10</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-elevate-your-editing-professional-jump-cuts-in-final-cut-pro-x/"><u>Updated 2024 Approved Elevate Your Editing Professional Jump Cuts in Final Cut Pro X</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-mastering-audio-transitions-2-methods-for-fading-in-and-out-in-final-cut-pro/"><u>Updated 2024 Approved Mastering Audio Transitions 2 Methods for Fading In and Out in Final Cut Pro</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-say-goodbye-to-color-inconsistencies-powerdirectors-best-practices/"><u>Updated 2024 Approved Say Goodbye to Color Inconsistencies PowerDirectors Best Practices</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-take-your-gopro-videos-to-the-next-level-best-alternative-editing-software/"><u>Updated 2024 Approved Take Your GoPro Videos to the Next Level Best Alternative Editing Software</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-guide-to-blurring-videos-online-for-free-updated-2023/"><u>Updated 2024 Approved The Ultimate Guide to Blurring Videos Online for Free (Updated 2023)</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-guide-to-converting-videos-to-live-photos-on-mobile/"><u>Updated 2024 Approved The Ultimate Guide to Converting Videos to Live Photos on Mobile</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-top-10-robotic-voice-generators/"><u>Updated 2024 Approved Top 10 Robotic Voice Generators</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-top-8-free-online-video-stabilization-tools-for-smoother-footage/"><u>Updated 2024 Approved Top 8 Free Online Video Stabilization Tools for Smoother Footage</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-top-mp4-to-mp3-converter-apps-for-mobile-devices/"><u>Updated 2024 Approved Top MP4 to MP3 Converter Apps for Mobile Devices</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-dvd-to-digital-how-to-convert-dvd-to-digital-video-file-formats-for-2024/"><u>Updated DVD to Digital How to Convert DVD to Digital Video File Formats for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-final-cut-pro-x-crash-fix-solutions-for-2024/"><u>Updated Final Cut Pro X Crash Fix Solutions for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-get-noticed-10-exceptional-music-video-makers-for-emerging-artists-for-2024/"><u>Updated Get Noticed 10 Exceptional Music Video Makers for Emerging Artists for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-best-vignette-apps-for-ios-and-android-free-and-paid/"><u>Updated In 2024, Best Vignette Apps for iOS and Android Free & Paid</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-download-kinemaster-for-macstep-by-step-guide/"><u>Updated In 2024, Download KineMaster for MacStep-by-Step Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-lumafusion-or-final-cut-pro-the-battle-for-video-editing-supremacy/"><u>Updated In 2024, LumaFusion or Final Cut Pro The Battle for Video Editing Supremacy</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-s-top-free-divx-video-editors-for-cutting-and-trimming/"><u>Updated In 2024, S Top Free Divx Video Editors for Cutting and Trimming</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-best-of-the-best-4k-video-editing-software-for-professionals/"><u>Updated In 2024, The Best of the Best 4K Video Editing Software for Professionals</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-ultimate-list-of-adobe-premiere-pro-shortcuts-for-beginners-and-pros/"><u>Updated In 2024, The Ultimate List of Adobe Premiere Pro Shortcuts for Beginners and Pros</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-s-top-picks-android-video-editor-apps-compatible-with-chromebook/"><u>Updated S Top Picks Android Video Editor Apps Compatible with Chromebook</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-the-art-of-audio-fading-2-expert-tips-for-final-cut-pro-users-for-2024/"><u>Updated The Art of Audio Fading 2 Expert Tips for Final Cut Pro Users for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-unclutter-your-mac-a-comprehensive-guide-to-liberating-space-for-fcpx/"><u>Updated Unclutter Your Mac A Comprehensive Guide to Liberating Space for FCPX</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-unlock-fcps-full-potential-top-5-editing-secrets-revealed/"><u>Updated Unlock FCPs Full Potential Top 5 Editing Secrets Revealed</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>What Pokémon Evolve with A Dawn Stone For Apple iPhone 15? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/wmv-file-splitter-top-5-free-solutions-this-year-for-2024/"><u>WMV File Splitter Top 5 Free Solutions This Year for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-screen-recorders-face-off-determining-superiority-of-bandicam-and-camtasia/"><u>[New] 2024 Approved Screen Recorders Face-Off Determining Superiority of Bandicam & Camtasia</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-a-guide-to-unwavering-visual-captures-for-2024/"><u>[Updated] A Guide to Unwavering Visual Captures for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-scrutinizing-active-presenters-record-quality/"><u>[Updated] Scrutinizing Active Presenter's Record Quality</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-oppo-reno-10-pro-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Oppo Reno 10 Pro 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-yield-assessment-predicting-youtube-money/"><u>In 2024, Yield Assessment Predicting YouTube Money</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-list-of-educational-animation-software/"><u>New The Ultimate List of Educational Animation Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-art-of-stability-fcpx-techniques-for-smoother-video/"><u>Updated 2024 Approved The Art of Stability FCPX Techniques for Smoother Video</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-wax-how-to-use-free-video-editor-wax-to-edit-videos/"><u>Updated In 2024, Wax - How to Use Free Video Editor Wax to Edit Videos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-make-movies-without-breaking-the-bank-10-essential-low-budget-tools/"><u>Updated Make Movies Without Breaking the Bank 10 Essential Low-Budget Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/webs-best-vertical-video-editors-a-2023-review-for-2024/"><u>Webs Best Vertical Video Editors A 2023 Review for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/windows-8-flv-editor-the-ultimate-solution-for-video-editing-needs-for-2024/"><u>Windows 8 FLV Editor The Ultimate Solution for Video Editing Needs for 2024</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
