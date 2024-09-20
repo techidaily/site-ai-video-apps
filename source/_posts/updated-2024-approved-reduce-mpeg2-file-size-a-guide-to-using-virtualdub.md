@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Reduce MPEG2 File Size A Guide to Using VirtualDub
-date: 2024-09-12T22:41:17.925Z
-updated: 2024-09-15T04:04:51.600Z
+date: 2024-09-16T10:17:18.080Z
+updated: 2024-09-20T03:09:30.882Z
 tags: 
   - video editing software
   - video editing
@@ -50,13 +50,6 @@ As shown above, select the XVID MPEG-4 codec and click Configure button to make 
 
 Audio compression setup is similar to video compression, go to Audio/Full processing mode, and again Audio/Compression to open the dialog, where MPEG Layer-3 is recommended.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 3: Start Compressing
 
 Now it's the time to start processing your video, here is how:
@@ -67,10 +60,10 @@ Now it's the time to start processing your video, here is how:
 4. Click Save.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -82,6 +75,13 @@ If you don't like VirtualDub MPEG-2 and would like to find some more powerful ed
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -98,16 +98,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-dueling-masters-topping-10-royale-clashes/"><u>[New] In 2024, Dueling Masters Topping 10 Royale Clashes</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-learning-the-ropes-of-telegram-promotion-for-beginners/"><u>[Updated] 2024 Approved Learning the Ropes of Telegram Promotion for Beginners</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-fun-on-a-budget-meme-creators-handbook/"><u>[Updated] In 2024, Fun on a Budget – Meme Creator’s Handbook</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-swift-and-simple-techniques-to-download-hundreds-on-tiktok/"><u>2024 Approved Swift and Simple Techniques to Download Hundreds on TikTok</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/how-to-craft-contagious-instagram-visuals-for-2024/"><u>How to Craft Contagious Instagram Visuals for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-unlock-efficient-video-editing-top-5-free-mpeg-video-splitters/"><u>New Unlock Efficient Video Editing Top 5 Free MPEG Video Splitters</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixes-for-diablo-ii-resurrected-failed-startup-issues/"><u>Troubleshooting Guide: Fixes for Diablo II Resurrected Failed Startup Issues</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-from-beginner-to-pro-5-final-cut-pro-editing-tips-to-up-your-game/"><u>Updated 2024 Approved From Beginner to Pro 5 Final Cut Pro Editing Tips to Up Your Game</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-art-of-stability-fcpx-techniques-for-smoother-video/"><u>Updated 2024 Approved The Art of Stability FCPX Techniques for Smoother Video</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-final-cut-pro-x-debugging-secrets-unleash-your-editing-potential-for-2024/"><u>Updated Final Cut Pro X Debugging Secrets Unleash Your Editing Potential for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-unlock-stunning-transitions-top-10-premiere-pro-plugins/"><u>Updated Unlock Stunning Transitions Top 10 Premiere Pro Plugins</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-top-10plus-free-online-youtube-intro-makers/"><u>[New] 2024 Approved Top 10+ Free Online YouTube Intro Makers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-ultimate-list-of-top-tier-cameras/"><u>[Updated] The Ultimate List of Top-Tier Cameras</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-deciphering-the-disappearance-of-recommended-video-content-in-your-newsfeed/"><u>2024 Approved Deciphering the Disappearance of Recommended Video Content in Your Newsfeed</u></a></li>
+<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sns-vs-competitors-a-critical-hdr-software-comparison/"><u>SNS vs Competitors A Critical HDR Software Comparison</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/switch-cards-between-apple-iphone-12-pro-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>Switch Cards Between Apple iPhone 12 Pro and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-breaking-the-rules-10-innovative-glitch-art-video-editing-apps-for-mobile/"><u>Updated In 2024, Breaking the Rules 10 Innovative Glitch Art Video Editing Apps for Mobile</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-joining-avi-videos-made-easy-top-10-free-avi-joiner-programs/"><u>Updated In 2024, Joining AVI Videos Made Easy Top 10 Free AVI Joiner Programs</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-ultimate-list-of-free-imovie-alternatives-for-online-video-editing/"><u>Updated In 2024, The Ultimate List of Free iMovie Alternatives for Online Video Editing</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-split-and-trim-mkv-files-best-free-tools-for-2024/"><u>Updated Split and Trim MKV Files Best Free Tools for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/whats-new-in-avs-video-editor-2023-a-comprehensive-review-and-guide-for-2024/"><u>Whats New in AVS Video Editor 2023? A Comprehensive Review and Guide for 2024</u></a></li>
 </ul></div>
 

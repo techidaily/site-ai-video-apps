@@ -1,7 +1,7 @@
 ---
 title: Take Your Videos to the Next Level Mastering the Ken Burns Effect in Final Cut Pro for 2024
-date: 2024-09-13T03:04:41.662Z
-updated: 2024-09-15T04:53:16.860Z
+date: 2024-09-19T00:00:03.272Z
+updated: 2024-09-20T04:46:05.950Z
 tags: 
   - video editing software
   - video editing
@@ -57,6 +57,13 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Ken Burns Customization
 
 You can also customize the ken burns effects in Final Cut.
@@ -70,19 +77,6 @@ You can also customize the ken burns effects in Final Cut.
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
 
@@ -98,13 +92,6 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
@@ -118,6 +105,13 @@ The Ken Burns Effect is famous for a reason. It allows you to fill up space if y
 The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places that they wouldn’t otherwise get to. It is excellent for both glimpsing into the past, and for flashing forward into imagined futures. Best of all, it lets you go there when you aren’t a big-budget Hollywood film producer. We love anything that saves a buck or two while we edit.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -134,18 +128,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-oven-to-screen-cooking-videos-unveiled-for-2024/"><u>[Updated] From Oven to Screen Cooking Videos Unveiled for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-twitter-video-series-breakdown-area-format-duration/"><u>[Updated] Twitter Video Series Breakdown Area, Format, Duration</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-rx-memory-revamp/"><u>2024 Approved RX Memory Revamp</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-google-pixel-8-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Google Pixel 8</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/download-high-definition-video-compressor-tools-compatible-with-windows-and-macos-free-version-available/"><u>Download High-Definition Video Compressor Tools Compatible with Windows and macOS, Free Version Available!</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-htc-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on HTC FRP Bypass</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/social-media-best-practices-uploading-and-displaying-subtitles-for-2024/"><u>Social Media Best Practices Uploading and Displaying Subtitles for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-dvd-to-computer-the-easy-way-to-convert-and-store-your-favorite-movies/"><u>Updated 2024 Approved DVD to Computer The Easy Way to Convert and Store Your Favorite Movies</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-cut-to-the-chase-filmora-coupon-codes-without-the-fuss-for-2024/"><u>Updated Cut to the Chase Filmora Coupon Codes Without the Fuss for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-top-rated-free-video-editors-for-avi-files-for-2024/"><u>Updated Top-Rated Free Video Editors for AVI Files for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-top-rated-movie-trailer-apps-for-ios-devices-this-year/"><u>Updated Top-Rated Movie Trailer Apps for iOS Devices This Year</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-transform-your-videos-top-10-webm-to-mp4-conversion-tools/"><u>Updated Transform Your Videos Top 10 WebM to MP4 Conversion Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-iphone-sound-capturing-101-voice-memo-processing/"><u>[New] IPhone Sound Capturing 101 – Voice Memo Processing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-win-11s-best-practices-the-ultimate-guide-to-saving-mov-files/"><u>[New] Win 11'S Best Practices The Ultimate Guide to Saving MOV Files</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-focused-adventure-getting-up-close-in-roblox-landscapes/"><u>[Updated] Focused Adventure Getting Up Close in Roblox Landscapes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-techies-guide-best-non-gaming-screen-capture-tech/"><u>2024 Approved Techie's Guide Best Non-Gaming Screen Capture Tech</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-15-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 15 Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Vivo Y36i? | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-guide-to-sql-data-reset/"><u>Stellar Guide to SQL Data Reset</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/top-rated-video-promo-maker-websites-for-2024/"><u>Top-Rated Video Promo Maker Websites for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/try-the-easy-movie-maker-software-using-the-following-guide-for-2024/"><u>Try the Easy Movie Maker Software Using the Following Guide for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-no-more-jitters-the-top-free-online-video-stabilizers-for-smoother-videos/"><u>Updated 2024 Approved No More Jitters The Top Free Online Video Stabilizers for Smoother Videos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-say-goodbye-to-filmora-watermark-free-and-paid-solutions-revealed/"><u>Updated 2024 Approved Say Goodbye to Filmora Watermark Free and Paid Solutions Revealed</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-say-goodbye-to-sideways-videos-16-free-avi-video-rotators-for-every-situation/"><u>Updated In 2024, Say Goodbye to Sideways Videos 16 Free AVI Video Rotators for Every Situation</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-top-rated-free-whiteboard-animation-software-for-pc/"><u>Updated In 2024, Top-Rated Free Whiteboard Animation Software for PC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Reduce MPEG2 File Size with VirtualDub A Beginners Guide
-date: 2024-09-10T06:38:14.841Z
-updated: 2024-09-14T18:03:53.517Z
+date: 2024-09-18T22:30:19.787Z
+updated: 2024-09-20T11:56:39.586Z
 tags: 
   - video editing software
   - video editing
@@ -51,10 +51,10 @@ As shown above, select the XVID MPEG-4 codec and click Configure button to make 
 Audio compression setup is similar to video compression, go to Audio/Full processing mode, and again Audio/Compression to open the dialog, where MPEG Layer-3 is recommended.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 3: Start Compressing
@@ -67,10 +67,10 @@ Now it's the time to start processing your video, here is how:
 4. Click Save.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -98,20 +98,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-simplifying-your-snapchat-experience-3-essential-steps/"><u>[Updated] 2024 Approved Simplifying Your Snapchat Experience - 3 Essential Steps</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-hidden-costs-of-youtube-earning-for-2024/"><u>[Updated] The Hidden Costs of YouTube Earning for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-guide-to-all-the-windows-photos-keyboard-shortcuts/"><u>A Guide to All the Windows Photos Keyboard Shortcuts</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-honor-100-pro-lock-screen-password-by-drfone-android/"><u>How To Change Honor 100 Pro Lock Screen Password?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Motorola Moto G73 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-lava-storm-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Lava Storm 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/m1-pro-vs-m1-max-delving-into-the-details-of-apples-latest-cpus/"><u>M1 Pro Vs. M1 Max Delving Into the Details of Apple's Latest CPUs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/steps-for-identifying-fake-chatgpt-websites-and-action-plan-when-found/"><u>Steps for Identifying Fake ChatGPT Websites & Action Plan When Found</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-apples-secrets-top-announcebies-at-the-worldwide-developer-conference-2025/"><u>Unlocking Apple's Secrets: Top Announcebies at the Worldwide Developer Conference 2025</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/unveiling-the-newest-gadgets-with-tom-a-hardware-journey/"><u>Unveiling the Newest Gadgets with Tom - A Hardware Journey</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-5-best-free-apps-to-compress-videos-on-iphone-and-ipad/"><u>Updated 2024 Approved 5 Best Free Apps to Compress Videos on iPhone & iPad</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-quik-but-not-quick-enough-a-review-and-pc-alternatives-for-faster-video-editing/"><u>Updated 2024 Approved Quik, But Not Quick Enough? A Review & PC Alternatives for Faster Video Editing</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-filmora-13-editor-download-free-no-subscription-needed-for-2024/"><u>Updated Filmora 13 Editor Download Free No Subscription Needed for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-bring-your-ideas-to-life-top-animation-software-for-beginners-and-pros/"><u>Updated In 2024, Bring Your Ideas to Life Top Animation Software for Beginners and Pros</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/webm-to-mp3-made-easy-10-reliable-converter-options-for-2024/"><u>WebM to MP3 Made Easy 10 Reliable Converter Options for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-mcb-branding-elements-download-free-pack/"><u>[New] 2024 Approved MCB Branding Elements Download Free Pack</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-achieve-more-with-costless-timer-software/"><u>[New] Achieve More with Costless Timer Software</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-efficient-remote-recording-a-step-by-step-guide-for-2024/"><u>[New] Efficient Remote Recording A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1716069520108-updated-in-2024-capture-your-screen-on-chromebook-methods-4-you/"><u>[Updated] In 2024, Capture Your Screen on Chromebook Methods 4 You!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-making-sense-of-creative-commons-licensing-and-usage/"><u>[Updated] Making Sense of Creative Commons Licensing & Usage</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/high-definition-horizons-comparing-ultrawide-and-uhd-4k-monitors-for-2024/"><u>High-Definition Horizons Comparing UltraWide and UHD 4K Monitors for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-video-editing-pro-unlock-awesome-visuals-in-minutes-for-2024/"><u>New Video Editing Pro Unlock Awesome Visuals in Minutes for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/nine-indispensable-electronics-every-learner-requires-in-classroom/"><u>Nine Indispensable Electronics Every Learner Requires in Classroom</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/revolutionize-your-video-editing-the-top-free-adobe-premiere-plugins-for-2024/"><u>Revolutionize Your Video Editing The Top Free Adobe Premiere Plugins for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-pros-guide-to-best-ever-360-degree-cams-2023-for-2024/"><u>The Pro’s Guide to Best-Ever 360-Degree Cams, 2023 for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-online-video-orientation-changer-best-options/"><u>Updated 2024 Approved Free Online Video Orientation Changer Best Options</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-decision-final-cut-pro-or-lumafusion-for-your-video-needs/"><u>Updated The Ultimate Decision Final Cut Pro or LumaFusion for Your Video Needs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New Unlocking the Power of Chroma Keying in Final Cut Pro X
-date: 2024-09-13T19:02:31.361Z
-updated: 2024-09-14T20:04:05.841Z
+date: 2024-09-18T00:22:16.675Z
+updated: 2024-09-19T21:03:53.551Z
 tags: 
   - video editing software
   - video editing
@@ -136,10 +136,10 @@ Then, drag each of the four circles to create a shape such that your foreground 
 However, the big limitation of the Mask effect is that you only have four points to work with. That's where a free effect comes in, which allows you to create far more flexible shapes with it. It's written by Alex Gollner and is available on his website – alex4d.wordpress.com/fcpx/ – I recommend his effects highly.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Create a Chroma-Key in easier ways?
@@ -152,6 +152,13 @@ By adopting AI portrait, you can add those stunning effects in simple steps: How
 
 Or: [How to Add a Shake Effect to your Videos?](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 The chroma-key filter in FCP X allows us to create some amazing effects. If you want to use green screen effects more easily, here is [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) for you. You can appaly Chroma-Key effects with just a few click. Have fun playing with it.
@@ -159,13 +166,6 @@ The chroma-key filter in FCP X allows us to create some amazing effects. If you 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -182,18 +182,15 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-global-audiences-local-stories-crafting-engaging-instagramcaptions/"><u>2024 Approved Global Audiences, Local Stories - Crafting Engaging #InstagramCaptions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-the-moderation-error-issue-with-chatgpt-expert-tips/"><u>Fixing the 'Moderation Error' Issue with ChatGPT - Expert Tips</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-poco-c55-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Poco C55 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-10-cool-features-that-make-you-love-filmora-video-editor/"><u>In 2024, 10 Cool Features That Make You Love Filmora Video Editor</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-a-comprehensive-list-of-8-authentic-propagation-tools/"><u>In 2024, A Comprehensive List of 8 Authentic Propagation Tools</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-tecno-pova-5-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Tecno Pova 5 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mirrorless-4k-cameras-top-10-list-unveiled/"><u>Mirrorless 4K Cameras Top 10 List Unveiled</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/speech-synthesis-simplified-from-ssa-to-compelling-srt-files-for-2024/"><u>Speech Synthesis Simplified From SSA to Compelling SRT Files for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/streamline-your-workflow-the-best-video-editing-apps-for-4k-proxy-files-for-2024/"><u>Streamline Your Workflow The Best Video Editing Apps for 4K Proxy Files for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-lower-thirds-that-pop-creative-strategies-for-final-cut-pro-x/"><u>Updated In 2024, Lower Thirds That Pop Creative Strategies for Final Cut Pro X</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-revolutionize-your-video-content-high-quality-made-simple/"><u>Updated In 2024, Revolutionize Your Video Content High-Quality Made Simple</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-unbiased-comparison-final-cut-pro-and-lumafusion-which-one-is-right-for-you-for-2024/"><u>Updated Unbiased Comparison Final Cut Pro and LumaFusion - Which One Is Right for You for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-tecno-camon-30-pro-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Tecno Camon 30 Pro 5G Device</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-securing-streams-of-cash-from-content-creation/"><u>[New] 2024 Approved Securing Streams of Cash From Content Creation</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-dreame-bot-l10-pro-analysis-exploring-the-latest-lidar-enabled-cleaning-machine/"><u>Comprehensive Dreame Bot L10 Pro Analysis: Exploring the Latest LiDAR-Enabled Cleaning Machine</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/discovering-the-yuneec-typhoon-hs-potential/"><u>Discovering the Yuneec Typhoon H's Potential</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-infinix-hot-30i-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Infinix Hot 30i Safely | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/leading-personalities-sparking-tech-disputes/"><u>Leading Personalities Sparking Tech Disputes</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-replace-sony-vegas-with-these-top-windows-alternatives/"><u>Updated 2024 Approved Replace Sony Vegas with These Top Windows Alternatives</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-unleash-your-creativity-top-online-collage-makers-for-photos-and-videos/"><u>Updated In 2024, Unleash Your Creativity Top Online Collage Makers for Photos and Videos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-mac-video-editing-software-comparison-for-for-2024/"><u>Updated The Ultimate Mac Video Editing Software Comparison For for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-top-video-editing-tools-for-young-creators-free-and-paid-options/"><u>Updated Top Video Editing Tools for Young Creators Free and Paid Options</u></a></li>
 </ul></div>
 

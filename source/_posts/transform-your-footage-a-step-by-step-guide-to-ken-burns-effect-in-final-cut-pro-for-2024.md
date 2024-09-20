@@ -1,7 +1,7 @@
 ---
 title: Transform Your Footage A Step-by-Step Guide to Ken Burns Effect in Final Cut Pro for 2024
-date: 2024-09-08T17:46:08.750Z
-updated: 2024-09-14T23:28:01.860Z
+date: 2024-09-18T05:15:47.831Z
+updated: 2024-09-20T10:09:12.007Z
 tags: 
   - video editing software
   - video editing
@@ -67,6 +67,13 @@ You can also customize the ken burns effects in Final Cut.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
@@ -85,13 +92,6 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
@@ -107,16 +107,10 @@ The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places t
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -134,15 +128,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-fifa-highlights-and-trends-charting-on-youtube-for-2024/"><u>[Updated] FIFA Highlights & Trends Charting on YouTube for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-how-to-convert-your-best-videography-into-melodic-mp3s-insta/"><u>2024 Approved How to Convert Your Best Videography Into Melodic MP3s (Insta)</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/exploring-the-disparities-between-youtube-and-dailymention/"><u>Exploring the Disparities Between YouTube and DailyMention</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-narzo-60-pro-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-utilize-the-windows-odbc-tools/"><u>How to Utilize the Windows ODBC Tools?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-best-split-screen-video-apps-for-ios-and-android/"><u>Updated In 2024, Best Split Screen Video Apps for iOS And Android</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-top-spots-10plus-websites-to-download-free-and-paid-games/"><u>Updated In 2024, The Top Spots 10+ Websites to Download Free and Paid Games</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-ultimate-list-of-online-video-reversal-software/"><u>Updated In 2024, The Ultimate List of Online Video Reversal Software</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-guide-to-jump-cuts-in-fcpx-best-practices-for-2024/"><u>Updated The Ultimate Guide to Jump Cuts in FCPX Best Practices for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-elevate-video-consumption-constructing-an-ideal-watch-later-list-on-youtube/"><u>[New] 2024 Approved Elevate Video Consumption Constructing an Ideal 'Watch Later' List on YouTube</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-top-5-budget-friendly-pinterest-video-grabs/"><u>[New] In 2024, Top 5 Budget-Friendly Pinterest Video Grabs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/audio-callback-sensor-for-iphone-x2-24-for-2024/"><u>Audio Callback Sensor for iPhone X2 '24 for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-vivo-y55s-5g-2023-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Vivo Y55s 5G (2023) Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-oppo-f25-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-xiaomi-redmi-note-12-pro-5g-by-drfone-android/"><u>How to Bypass FRP from Xiaomi Redmi Note 12 Pro 5G?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-videopad-video-editor-is-it-worth-the-investment-for-2024/"><u>New Videopad Video Editor Is It Worth the Investment for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/triggering-windows-11-hdr-in-dynamic-mode/"><u>Triggering Windows 11 HDR in Dynamic Mode</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-fcpx-pro-tips-creating-dramatic-pauses-and-slow-mo-effects-for-2024/"><u>Updated FCPX Pro Tips Creating Dramatic Pauses and Slow-Mo Effects for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-tivo-or-comcast-the-ultimate-guide-to-choosing-the-best-dvr-for-your-needs/"><u>Updated In 2024, TiVo or Comcast The Ultimate Guide to Choosing the Best DVR for Your Needs</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-top-gopro-video-editors-alternatives-to-gopro-studio/"><u>Updated In 2024, Top GoPro Video Editors Alternatives to GoPro Studio</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/videokassetten-auf-dvd-kopieren-und-ubertragen-schnell-lernen-wie-man-vhs-digitalisiert/"><u>Videokassetten Auf DVD Kopieren Und Übertragen - Schnell Lernen, Wie Man VHS Digitalisiert</u></a></li>
 </ul></div>
 

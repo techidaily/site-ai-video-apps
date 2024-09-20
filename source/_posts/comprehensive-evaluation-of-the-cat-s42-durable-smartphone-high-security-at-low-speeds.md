@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Evaluation of the CAT S42 Durable Smartphone: High Security at Low Speeds"
-date: 2024-09-11T23:32:16.852Z
-updated: 2024-09-15T06:45:46.016Z
+date: 2024-09-14T02:44:21.698Z
+updated: 2024-09-20T11:49:13.221Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Evaluation of the CAT S42 Durable Smartphone: High Security at Low Speeds"
@@ -86,6 +86,19 @@ Lifewire / Yoona Wagener
 
  Lifewire / Yoona Wagener
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Setup Process** :**Up and running in minutes**
 
  Setting up the 50-inch TCL Roku TV is a breeze. We opted to forego mounting the television, but the user manual indicates that this model is compatible with a VESA 200 x 200 wall mount with M6 x 12mm screws.
@@ -95,6 +108,13 @@ Lifewire / Yoona Wagener
  Since we already had a Roku account, all of our previously selected channels and apps downloaded to the TV, which just took a few minutes, and then we were free to begin exploring. The amount of additional setup is pretty minimal. By default, you’ll see an HDR notification when you’re viewing HDR-enabled content, but you can turn this off from the settings panel if you like.
 
  Additionally, if you plan to use a set-top cable box or antenna, the user manual offers straightforward instructions for doing so. You also have the option of enabling the Smart TV experience when you use antenna TV mode. This setting uses automatic content recognition (ACR) to make viewing recommendations based on what you view through your antenna or connected HDMI devices.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Image Quality: Clear and vivid without any tweaking**
 
@@ -116,19 +136,6 @@ Lifewire / Yoona Wagener
 
  Lifewire / Yoona Wagener
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Audio Quality: Solid but not spellbinding**
 
  While the TCL Roku TV offers impressive picture quality, the sound is less noteworthy. The two built-in 8-watt speakers offer decent volume levels, but there’s no advanced audio settings menu in this model. You do have control over aspects like sound mode and volume mode. The default sound mode is “normal,” which is appropriate for everyday viewing. But you can also select options for higher treble, more bass, movie, or music mode. As for volume modes, you can either turn on leveling, to balance the contrast between lows and highs in audio, or enable night mode, which sets a threshold for how high the volume can go.
@@ -139,21 +146,7 @@ Lifewire / Yoona Wagener
 
 ![TCL 50S425 50-inch Roku TV (2019)](https://www.lifewire.com/thmb/oA3AbTZysdVWZbOWuuVGOa56_8c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4061017_02-04183ae8dcd44b778b4da0e7706d5df2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Yoona Wagener
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Software: Intuitive and streamlined**
 
@@ -166,6 +159,13 @@ Lifewire / Yoona Wagener
 ## **Price: A great bargain on a budget**
 
  If you don’t want to spend a fortune on a 4K TV, but you want to get as much value as possible, the TCL 50S425 50-inch Roku TV is a compelling option. It retails for $350, which situates it in the growing and competitive class of 4K TVs under $500\. In the TCL 4-Series alone you have several other models to consider that all share the same specifications except for size. The larger 55-inch TCL Roku TV retails for just $30 more than the 50-inch version and features a larger screen size of 54.6 inches. It may not seem considerable, but if you’re limited with space, the extra width and height (five and two inches, respectively) can actually feel like a pretty massive difference. And if you opt for a smaller display and a lower price tag, the 43-inch TCL Roku TV retails for about $280, but you’re sacrificing 7 inches of display.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **TCL 50S425 50-inch Roku TV (2019) vs. Toshiba 55LF711U20 55-inch Fire TV Edition**
 
@@ -190,10 +190,10 @@ Lifewire / Yoona Wagener
 * [LG 27UD58-B 27-Inch 4K UHD IPS Monitor](https://www.lifewire.com/lg-27ud58-b27-inch-4k-uhd-ips-monitor-review-4778916)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -228,13 +228,20 @@ Lifewire / Yoona Wagener
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-effortless-integration-uploading-and-showcasing-imovie-videos-to-vimeo/"><u>[New] 2024 Approved Effortless Integration Uploading and Showcasing iMovie Videos to Vimeo</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-angle-away-discover-our-top-11-bridge-photography-tools/"><u>[Updated] In 2024, Angle Away! Discover Our Top 11 Bridge Photography Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/create-personalized-email-alert-tones-with-gmail-a-step-by-step-guide/"><u>Create Personalized Email Alert Tones with Gmail: A Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/eight-superb-mobile-game-choices-for-uninterrupted-fun/"><u>Eight Superb Mobile Game Choices for Uninterrupted Fun</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-from-screen-to-share-3-easy-video-game-recording-methods/"><u>New From Screen to Share 3 Easy Video Game Recording Methods</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-free-and-easy-the-best-online-tone-generator-sites-for-2024/"><u>Updated Free and Easy The Best Online Tone Generator Sites for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-elevate-your-videos-3-simple-ways-to-add-transitions-in-fcp/"><u>Updated In 2024, Elevate Your Videos 3 Simple Ways to Add Transitions in FCP</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-top-5-free-online-tone-generator-tools-for-easy-use/"><u>Updated In 2024, Top 5 Free Online Tone Generator Tools for Easy Use</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-master-non-youtube-editors-the-top-5-list-you-need/"><u>[New] In 2024, Master Non-Youtube Editors The Top 5 List You Need</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-top-10-ultimate-audio-capture-plugins-for-spotify/"><u>[Updated] Top 10 Ultimate Audio Capture Plugins for Spotify</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/achieving-professional-editing-without-the-price-tag-for-2024/"><u>Achieving Professional Editing Without the Price Tag for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ai-powered-frame-interpolation-boost-your-games-frames-per-second-and-ensure-smooth-transitions/"><u>AI-Powered Frame Interpolation: Boost Your Game's Frames Per Second and Ensure Smooth Transitions</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/explore-new-territory-your-guide-to-live-streaming-tiktoks/"><u>Explore New Territory Your Guide to Live-Streaming TikToks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-xiaomi-redmi-note-12-pro-4g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Xiaomi Redmi Note 12 Pro 4G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unlock-4k-the-ultimate-list-of-free-video-converters/"><u>New Unlock 4K The Ultimate List of Free Video Converters</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unlock-pro-level-videos-top-free-online-video-editing-tools-for-2024/"><u>New Unlock Pro-Level Videos Top Free Online Video Editing Tools for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shorten-system-awakening-edit-boot-sequence-timing-windows-11/"><u>Shorten System Awakening: Edit Boot Sequence Timing Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-and-solving-the-stuck-shader-compilation-bug-in-black-ops-cold-war/"><u>Troubleshooting and Solving the Stuck Shader Compilation Bug in Black Ops Cold War</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme Device</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-unlock-exclusive-deals-top-7-filmora-discount-codes/"><u>Updated 2024 Approved Unlock Exclusive Deals Top 7 Filmora Discount Codes</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-choosing-the-best-video-editor-sony-vegas-vs-adobe-premiere-pro-2023-analysis-for-2024/"><u>Updated Choosing the Best Video Editor Sony Vegas vs Adobe Premiere Pro 2023 Analysis for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-from-blurry-to-brilliant-video-quality-improvement-solutions-for-2024/"><u>Updated From Blurry to Brilliant Video Quality Improvement Solutions for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-this-article-shows-the-detail-steps-to-crop-an-image-in-final-cut-pro-with-screenshots-for-2024/"><u>Updated This Article Shows the Detail Steps to Crop an Image in Final Cut Pro with Screenshots for 2024</u></a></li>
 </ul></div>
 
