@@ -1,7 +1,7 @@
 ---
 title: Updated Elevate Your Audio 2 Fade-In/Fade-Out Methods in FCP for 2024
-date: 2024-09-13T23:31:42.641Z
-updated: 2024-09-20T05:04:47.336Z
+date: 2024-09-22T22:59:38.515Z
+updated: 2024-09-26T02:53:47.110Z
 tags: 
   - video editing software
   - video editing
@@ -64,6 +64,13 @@ You should remember that the fades appear at the beginning and the end of each c
 
 See more details on how to fade audio in Final Cut Pro from the following video.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Fade Music by using Fade Handles
 
 You have already learned how to find the fade handles on the screen. Now, you just have to manually drag the handle to the exact point from which you want the fade to begin or end. Just keep in mid this simple rule: fade handles at the beginning of a clip produce fade-in effects, whereas fade handles at the end give fade-out effects.
@@ -80,11 +87,32 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -112,12 +140,20 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-expedited-photographic-viewing-in-windows-10/"><u>[New] Expedited Photographic Viewing in Windows 10</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-sharing-sites-guide-for-instagram-story-and-post-links/"><u>2024 Approved Sharing Sites Guide for Instagram Story and Post Links</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elevate-your-livestreams-discover-manycam-the-leading-virtual-camera-and-streaming-toolkit/"><u>Elevate Your Livestreams: Discover ManyCam - The Leading Virtual Camera and Streaming Toolkit</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-masterful-monetization-crafting-a-revenue-driven-youtube-presence/"><u>In 2024, Masterful Monetization Crafting a Revenue-Driven Youtube Presence</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-guide-to-creating-virtual-space-with-iphone/"><u>In 2024, Step-by-Step Guide to Creating Virtual Space with iPhone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-soundtrack-of-stills-visual-audio-crafting/"><u>In 2024, The Soundtrack of Stills Visual-Audio Crafting</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-arm-support-now-live-upgrade-your-filmora-x-experience/"><u>New 2024 Approved ARM Support Now Live Upgrade Your Filmora X Experience</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-avidemux-for-beginners-cropping-cutting-and-polishing-your-video-footage/"><u>New 2024 Approved Avidemux for Beginners Cropping, Cutting, and Polishing Your Video Footage</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-video-trimming-and-merging-tools-for-beginners-2023-update/"><u>New 2024 Approved Free Video Trimming and Merging Tools for Beginners (2023 Update)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-title-design-made-easy-a-final-cut-pro-x-tutorial/"><u>New 2024 Approved Title Design Made Easy A Final Cut Pro X Tutorial</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-10-music-video-creators-for-stunning-visuals/"><u>New 2024 Approved Top 10 Music Video Creators for Stunning Visuals</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-edit-videos-like-a-pro-microsoft-video-editor-for-windows-10-8-and-7-for-2024/"><u>New Edit Videos Like a Pro Microsoft Video Editor for Windows 10, 8, and 7 for 2024</u></a></li>
+</ul></div>
 

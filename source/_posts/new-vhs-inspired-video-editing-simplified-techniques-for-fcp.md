@@ -1,7 +1,7 @@
 ---
 title: New VHS-Inspired Video Editing Simplified Techniques for FCP
-date: 2024-09-16T17:27:07.254Z
-updated: 2024-09-20T01:10:43.950Z
+date: 2024-09-20T11:54:03.272Z
+updated: 2024-09-25T17:00:08.196Z
 tags: 
   - video editing software
   - video editing
@@ -86,6 +86,13 @@ After your video is rendered, you will get the final results using the VHS filte
 
 ![final_result_of_vhs_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/final_result_of_vhs_effect_in_final_cut_pro.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part2: How to do VHS effect in easy steps?
 
 If you want to quickly add VHS effect to your video, you can use Filmora X. You will have to add different effects and values to get the final results. You can use VHS effects on your lyric video, intro, outro, or any other video that you like by following the same process.
@@ -114,6 +121,13 @@ Go to Effect, and in the search bar, type **VHS**.
 * Double click on it and change the Alpha value to 25 and click Ok.
 
 ![add_vhs_distortion_bad](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion_bad.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Now drag the VHS Distortion effect and place it above the previous one.
 * Double click on it and change its Alpha value to 35 and click Ok.
@@ -159,6 +173,13 @@ You can play around with these values to change the intensity of the VHS effect.
 
 Still not enough? See this article: [The Best Glitch Video Editors.](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part3: Where to find the best plugins or templates for the VHS effect?
 
 If you want to recreate some of that analog feel to your video clip with plugins or templates, you can use the following recommendations to give your film a VHS effect:
@@ -195,6 +216,19 @@ The appearance and feel of your production may be significantly enhanced by usin
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -208,18 +242,20 @@ Follow @Shanoon Cox
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-androids-free-screen-snip-picks-our-best-8-on-display/"><u>[New] 2024 Approved Android's Free Screen Snip Picks – Our Best 8 on Display</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-kitchen-to-screen-unveiling-the-top-7-cooking-film-tricks/"><u>2024 Approved From Kitchen to Screen Unveiling the Top 7 Cooking Film Tricks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-apple-iphone-6-plus-video-to-computer-drfone-by-drfone-ios/"><u>In 2024, How to Stream Apple iPhone 6 Plus Video to Computer? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagrams-hidden-gems-how-to-upload-large-amounts-of-content/"><u>Instagram's Hidden Gems How to Upload Large Amounts of Content</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-hp-officejet-pro-8715-driver-on-windows-latest-version-for-11-10-and-8/"><u>Install HP OfficeJet Pro 8715 Driver on Windows - Latest Version for 11, 10 & 8</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-cura-fuzzy-texture-technique-a-step-by-step-guide-for-enhanced-3d-printed-objects/"><u>Mastering the Cura Fuzzy Texture Technique: A Step-by-Step Guide for Enhanced 3D Printed Objects</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-top-gif-speed-editors-for-every-platform/"><u>New In 2024, Top GIF Speed Editors for Every Platform</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-no-cost-split-screen-video-creators-web-based-and-downloadable-options/"><u>New No-Cost Split Screen Video Creators Web-Based and Downloadable Options</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-snap-share-repeat-the-ultimate-ps4-screenshot-sharing-guide-for-2024/"><u>New Snap, Share, Repeat The Ultimate PS4 Screenshot Sharing Guide for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-top-online-tools-to-create-fake-faces-for-free/"><u>New Top Online Tools to Create Fake Faces for Free</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-why-your-pc-doesnt-recognize-wireless-adapter-tl-wn722n/"><u>Troubleshooting: Why Your PC Doesn't Recognize Wireless Adapter (TL-WN722N)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-nokia-xr21-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Nokia XR21 Phones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/movavi-m4a-opus/"><u>オンラインでのMovavi M4Aファイル変換サービス無料 - OPUS形式</u></a></li>
+</ul></div>
 

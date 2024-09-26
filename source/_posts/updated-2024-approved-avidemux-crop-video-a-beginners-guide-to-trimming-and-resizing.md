@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Avidemux Crop Video A Beginners Guide to Trimming and Resizing
-date: 2024-09-19T00:29:43.069Z
-updated: 2024-09-20T09:51:17.652Z
+date: 2024-09-24T00:29:58.504Z
+updated: 2024-09-26T13:10:10.669Z
 tags: 
   - video editing software
   - video editing
@@ -114,17 +114,51 @@ Avidemux is a great piece of software, it lacks the polish of some of its commer
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 1**: Open a video that you want to edit. Go to “Import” and choose the file that you want to upload and put it in the Media Library.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-12.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2**: Select the "Crop and Zoom" icon in the Filmora editing tool.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3**: To alter the size of the crop frame, drag the pointer from any corner of your video preview window.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4**: When you've changed it to your liking, click the green "OK" button. As a result, you may effortlessly add or remove any element of a video clip on Filmora.
 
@@ -145,12 +179,23 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-best-quick-windows-gallery-app-for-2024/"><u>[New] Best Quick Windows Gallery App for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-taking-flight-in-depth-review-of-the-x4-fpv-quadcopter/"><u>[New] Taking Flight In-Depth Review of the X4 FPV Quadcopter</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-expert-picks-top-5-high-performing-android-recorders/"><u>2024 Approved Expert Picks Top 5 High-Performing Android Recorders</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/from-casual-follower-to-dedicated-subscriber-inspirational-journey/"><u>From Casual Follower to Dedicated Subscriber Inspirational Journey</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-infinix-gt-10-prowithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Infinix GT 10 Prowith/without a PC</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-video-splitter-tools-online-and-offline-editors-compared/"><u>New 2024 Approved Free Video Splitter Tools Online and Offline Editors Compared</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-top-mkv-video-cutting-software-for-mac/"><u>New 2024 Approved The Top MKV Video Cutting Software for Mac</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-tiktok-video-magic-how-to-reverse-speed-up-and-slow-down-your-clips/"><u>New 2024 Approved TikTok Video Magic How to Reverse, Speed Up, and Slow Down Your Clips</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-fcpx-survival-guide-overcoming-common-obstacles-and-challenges-for-2024/"><u>New FCPX Survival Guide Overcoming Common Obstacles and Challenges for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-from-flat-to-fabulous-converting-videos-to-vr-with-ease-for-2024/"><u>New From Flat to Fabulous Converting Videos to VR with Ease for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-get-moving-best-motion-tracking-apps-for-smartphones-and-tablets/"><u>New In 2024, Get Moving Best Motion Tracking Apps for Smartphones and Tablets</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-adobe-premiere-cheat-sheet-6-game-changing-editing-tips/"><u>New In 2024, The Ultimate Adobe Premiere Cheat Sheet 6 Game-Changing Editing Tips</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/recording-realms-6-effective-ways-to-document-minecraft/"><u>Recording Realms 6 Effective Ways to Document Minecraft</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-gaming-sessions-with-acers-powerful-and-compact-predator-helios-neo-14-laptop/"><u>Revolutionize Your Gaming Sessions with Acer's Powerful & Compact Predator Helios Neo 14 Laptop</u></a></li>
+</ul></div>
 
