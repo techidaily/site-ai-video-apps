@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting iPhone: Top 10 Solutions When Your Phone Can't Send SMS"
-date: 2024-08-22T12:41:19.134Z
-updated: 2024-08-23T12:41:19.134Z
+date: 2024-09-27T11:37:08.688Z
+updated: 2024-10-01T01:00:18.689Z
 tags:
   - iphone
   - apple
@@ -40,7 +40,21 @@ thumbnail: https://thmb.techidaily.com/c3a01c2ae3f81e16b541392d97981a23b54ae2c3a
 
 ![iOS Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/01-iphone-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Messages settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/02-iphone-messages-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![SMS and MMS enabled on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/03-sms-mms-enabled-iphone.jpg)
 
@@ -56,6 +70,13 @@ Here's how you can activate MMS messages:
 
  Do note that your personal cell plan may not cover MMS messaging. In this case, any text message sent with multimedia will fail to send. MMS is limited, too. We recommend using one of [the best instant messaging apps](https://www.makeuseof.com/best-instant-messaging-apps-2021/) if you'd like to share media files without a fuss when iMessage fails.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Are You in Airplane Mode?
 
  Airplane Mode prevents your iPhone from sending and receiving cellular signals. Unless you're connected to a Wi-Fi network, you won't be able to send or receive text messages via iMessage when you enable Airplane mode.
@@ -64,14 +85,8 @@ Here's how you can activate MMS messages:
 
 ![An iPhone's Home Screen in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/01-ios-home-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Control Center in iOS with Airplane Mode enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/02-control-center-iphone-airplane-mode.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Control Center in iOS with Airplane Mode disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/03-control-center-airplane-mode-disabled.jpg)
 
 Close
@@ -107,18 +122,19 @@ You can also delete conversations in Messages by doing the following:
 
 ![Deleting a message in Messages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/02-deleting-message-imessage.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![Delete message pop-up confirmation in Messages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/03-message-deletion-confirmation-imessage.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
  This method is extremely useful if a message continually tries to send but is unable to do so.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Is Your Mobile Plan Active?
 
  You should next check whether you currently have an active mobile service plan. If you don't have one, you won't be able to send texts.
@@ -127,9 +143,6 @@ Close
 
  In either case, you should contact your network provider to ensure there are no issues with your account services.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Restart Your iPhone
 
  If you've tried all of the above, you can [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) next. Restarts clear temporary memory, so they can be a good way of removing any issues affecting how your iPhone works.
@@ -149,9 +162,6 @@ Close
 
 ![Shutting down an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/03-shutting-down-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Close
 
  When the phone turns back on, you should be able to enter Messages and easily resend the problematic text.
@@ -169,20 +179,21 @@ Close
 
 ![Settings app in iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/01-settings-app-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![General settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/02-software-update-ios-settings.jpg)
 
 ![iOS software updates page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/03-ios-update-page.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  If your iPhone says, "iOS is up to date," you have the latest version installed and don't need to do anything else.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Reset Your Network Settings
 
  You shouldn't take resetting your iPhone's network settings too lightly. Network settings save data such as Wi-Fi networks and passwords, so it isn't ideal to erase them.
@@ -201,25 +212,37 @@ Here's how to clear your iPhone's network settings:
 ![General Settings page on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/01-General-settings-page-iphone-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Reset iPhone option in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/02-Reset-iPhone.jpg)
 
 ![iPhone reset options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/03-Reset-iPhone-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 10\. Still Not Working? Get Professional Help
 
  If your iPhone still won't send SMS messages after all this, your last option is to contact your mobile operator. Try calling the customer service line. If they can't help you, it's likely a hardware issue, and you should contact Apple or an authorized service provider for expert assistance.
 
  Depending on your location, you can [book an Apple Store appointment at a Genius Bar](https://www.makeuseof.com/apple-store-appointment-genius-bar/) . You may have to eventually replace the iPhone, but that should be the last case scenario.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix Your iPhone Messaging Issues
 
@@ -233,8 +256,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -242,4 +263,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-transform-your-streams-adopting-these-four-recording-approaches/"><u>[Updated] 2024 Approved Transform Your Streams Adopting These Four Recording Approaches</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hilarity-unleashed-kinemaster-meme-creation/"><u>[Updated] Hilarity Unleashed KineMaster Meme Creation</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-approaches-to-mend-obs-fullscreen-errors/"><u>[Updated] In 2024, Approaches to Mend OBS Fullscreen Errors</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-seamless-streaming-expert-use-of-netflixs-pip-feature/"><u>[Updated] In 2024, Seamless Streaming Expert Use of Netflix's PIP Feature</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-honor-90-pro-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/evaluating-ev-lifespan-a-comparative-look-to-conventional-car-years/"><u>Evaluating EV Lifespan: A Comparative Look to Conventional Car Years</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-cricket-iphone-xs-for-free-by-drfone-ios/"><u>In 2024, How To Unlock Cricket iPhone XS for Free</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mediaguardian-protect-and-restore-video/"><u>MediaGuardian: Protect and Restore Video</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-mp4-video-editor-for-pc-seamless-editing-on-windows-8/"><u>New 2024 Approved MP4 Video Editor for PC Seamless Editing on Windows 8</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-vn-video-editor-pro-review-can-it-replace-your-go-to-video-editor/"><u>New 2024 Approved VN Video Editor Pro Review Can It Replace Your Go-To Video Editor?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-best-android-video-editor-apps-for-chromebook/"><u>New In 2024, Best Android Video Editor Apps for Chromebook</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-best-free-avi-video-rotators-multi-platform-solutions-compared/"><u>New In 2024, Best Free AVI Video Rotators Multi-Platform Solutions Compared</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-here-are-some-of-the-best-free-online-glitch-effect-generators-you-can-use-to-edit-photos-and-videos/"><u>New In 2024, Here Are some of the Best Free Online Glitch Effect Generators You Can Use to Edit Photos and Videos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-kinemaster-for-mac-a-step-by-step-installation-guide/"><u>New In 2024, KineMaster for Mac A Step-by-Step Installation Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-oppo-f23-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Oppo F23 5G Phone With/Without IMEI Number</u></a></li>
+</ul></div>
 

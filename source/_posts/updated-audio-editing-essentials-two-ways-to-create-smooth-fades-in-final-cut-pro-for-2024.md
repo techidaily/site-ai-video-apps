@@ -1,7 +1,7 @@
 ---
 title: Updated Audio Editing Essentials Two Ways to Create Smooth Fades in Final Cut Pro for 2024
-date: 2024-08-22T12:45:17.012Z
-updated: 2024-08-23T12:45:17.012Z
+date: 2024-09-27T17:36:35.763Z
+updated: 2024-09-30T16:22:47.132Z
 tags: 
   - video editing software
   - video editing
@@ -81,8 +81,19 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
@@ -90,8 +101,12 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
 * +3dB: Picks up quickly and then gradually peters out toward the end. This is the considered to be the most useful mode while choosing a quick fade.
@@ -106,15 +121,17 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -122,3 +139,27 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/updated-best-way-to-use-zoom-for-skype/"><u>[Updated] Best Way to Use Zoom for Skype</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-essential-top-rated-virtual-world-films/"><u>[Updated] In 2024, Essential Top-Rated Virtual World Films</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-insights-on-genius-widecam-f100-camera-performance-tackling-image-clarity-and-acoustic-quality/"><u>Comprehensive Insights on Genius WideCam F100 Camera Performance: Tackling Image Clarity & Acoustic Quality</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-vivo-y200e-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Vivo Y200e 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-xiaomi-redmi-note-12t-pro-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Xiaomi Redmi Note 12T Pro phone? | Dr.fone</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/introducing-abbyy-one-the-cutting-edge-tool-revolutionizing-smart-business-process-automation/"><u>Introducing ABBYY One: The Cutting-Edge Tool Revolutionizing Smart Business Process Automation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pave-way-for-personalized-dialogue/"><u>Pave Way for Personalized Dialogue</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-and-simple-driver-update-for-enhanced-performance-on-surface-docks/"><u>Quick and Simple Driver Update for Enhanced Performance on Surface Docks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-nvidia-control-panel-not-working-on-windows-10/"><u>Solved: NVIDIA Control Panel Not Working on Windows 10</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/streamline-your-workflow-the-best-video-editing-apps-for-4k-proxy-files-for-2024/"><u>Streamline Your Workflow The Best Video Editing Apps for 4K Proxy Files for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/the-capabilities-of-final-cut-pro-have-evolved-significantly-and-here-we-list-top-10-famous-movies-made-by-final-cut-pro-for-2024/"><u>The Capabilities of Final Cut Pro Have Evolved Significantly and Here We List Top 10 Famous Movies Made by Final Cut Pro for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/uncovering-true-reflection-in-distorted-facebook-video/"><u>Uncovering True Reflection in Distorted Facebook Video</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-cartoonify-your-footage-the-ultimate-video-to-cartoon-tutorial-for-2024/"><u>Updated Cartoonify Your Footage The Ultimate Video-to-Cartoon Tutorial for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-free-gif-maker-tools-the-ultimate-list-for-2024/"><u>Updated Free GIF Maker Tools The Ultimate List for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-from-flat-to-fabulous-converting-videos-for-vr-with-ease-for-2024/"><u>Updated From Flat to Fabulous Converting Videos for VR with Ease for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-lower-thirds-that-pop-creative-strategies-for-final-cut-pro-x/"><u>Updated In 2024, Lower Thirds That Pop Creative Strategies for Final Cut Pro X</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-revolutionize-your-video-content-high-quality-made-simple/"><u>Updated In 2024, Revolutionize Your Video Content High-Quality Made Simple</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-mac-subtitle-editing-made-easy-top-subtitle-edit-alternatives/"><u>Updated Mac Subtitle Editing Made Easy Top Subtitle Edit Alternatives</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-unbiased-comparison-final-cut-pro-and-lumafusion-which-one-is-right-for-you-for-2024/"><u>Updated Unbiased Comparison Final Cut Pro and LumaFusion - Which One Is Right for You for 2024</u></a></li>
+</ul></div>
+

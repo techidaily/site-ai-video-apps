@@ -1,7 +1,7 @@
 ---
 title: Updated From Still to Stunning How to Use Ken Burns Effect in Final Cut Pro for Maximum Impact for 2024
-date: 2024-08-22T12:45:36.915Z
-updated: 2024-08-23T12:45:36.915Z
+date: 2024-09-23T19:36:00.867Z
+updated: 2024-10-01T04:23:15.825Z
 tags: 
   - video editing software
   - video editing
@@ -43,6 +43,13 @@ The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, sl
 
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Steps to Making the Ken Burns Effect Final Cut Pro
 
 Now that we know what is Ken Burns Effect. Let’s go over the steps to making the Ken Burns Effect in Final Cut Pro.
@@ -52,17 +59,18 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
 
 **Step 3** – Hold down both the shift key and the letter C. This is the fast way to cut out what you need. You can always stick to the right-click to cut a clip if you are more comfortable with this.
 
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Ken Burns Customization
 
 You can also customize the ken burns effects in Final Cut.
@@ -73,12 +81,16 @@ You can also customize the ken burns effects in Final Cut.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
 
@@ -95,17 +107,18 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## The Ken Burns Conclusion
 
 The Ken Burns Effect is famous for a reason. It allows you to fill up space if you don’t have footage for certain things. It can be used to depict ancient battles without the use of CGI.
@@ -114,16 +127,11 @@ The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places t
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -131,3 +139,25 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-50plus-best-text-effects-for-videographers/"><u>[New] 2024 Approved 50+ Best Text Effects for Videographers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/arnessing-your-youtube-content-for-financial-rewards-for-2024/"><u>[New] Harnessing Your YouTube Content for Financial Rewards for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-get-the-perfect-slideshow-design-10-places-to-download-for-inspiration/"><u>[Updated] In 2024, Get the Perfect Slideshow Design 10 Places to Download for Inspiration</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-practices-in-upgrading-to-a-high-end-4k-camera-lens/"><u>2024 Approved Best Practices in Upgrading to a High-End 4K Camera Lens</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-master-the-art-of-subtitle-integration-on-wmp/"><u>2024 Approved Master the Art of Subtitle Integration on WMP</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/aspiring-pro-modders-expert-advice-and-essential-strategies/"><u>Aspiring Pro Modders: Expert Advice and Essential Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-correcting-the-problem-of-failed-opengl-context-initialization-with-qsurfaceformat/"><u>Expert Tips: Correcting the Problem of Failed OpenGL Context Initialization with QSurfaceFormat</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-honor-x8b-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Honor X8b on Mac?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/reverse-video-online-top-picks-for-this-year-for-2024/"><u>Reverse Video Online Top Picks for This Year for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-gif-speed-editors-the-ultimate-online-and-app-roundup/"><u>Updated 2024 Approved GIF Speed Editors The Ultimate Online and App Roundup</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-easy-video-editing-top-picks-for-beginners-free-and-paid-for-2024/"><u>Updated Easy Video Editing Top Picks for Beginners (Free & Paid) for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-bringing-your-photos-to-life-a-final-cut-pro-slideshow-tutorial/"><u>Updated In 2024, Bringing Your Photos to Life A Final Cut Pro Slideshow Tutorial</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-get-noticed-with-a-professional-video-resume-top-4-makers/"><u>Updated In 2024, Get Noticed with a Professional Video Resume Top 4 Makers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-here-you-will-find-10-best-free-animation-software-for-windows-and-mac-if-you-want-to-know-what-they-are-the-pros-and-cons-check-it-out/"><u>Updated In 2024, Here, You Will Find 10 Best Free Animation Software for Windows and Mac. If You Want to Know What They Are, the Pros and Cons, Check It Out</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-guide-to-video-resumes-4-best-makers-and-free-resources-for-2024/"><u>Updated The Ultimate Guide to Video Resumes 4 Best Makers and Free Resources for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-unleash-your-creativity-how-to-edit-videos-with-windows-movie-maker/"><u>Updated Unleash Your Creativity How to Edit Videos with Windows Movie Maker</u></a></li>
+</ul></div>
+

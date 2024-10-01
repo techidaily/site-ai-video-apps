@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Compress MPEG2 Videos Like a Pro A VirtualDub Tutorial
-date: 2024-08-22T12:41:08.914Z
-updated: 2024-08-23T12:41:08.914Z
+date: 2024-09-28T04:41:02.335Z
+updated: 2024-10-01T02:31:11.542Z
 tags: 
   - video editing software
   - video editing
@@ -30,6 +30,13 @@ VirtualDub is a free video capture/processing tool for Windows platforms (2000/X
 
 You could [download VirtualDub MPEG-2](http://www.videohelp.com/download/VirtualDub-MPEG224586%20.zip?r=LcPXQgGCmNps) here and extract files to a folder. Now you get a video processing software with MPEG-2 video import supported. To run VirtualDub MPEG-2, double click the VirtualDub.exe.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use VirtualDub MPEG-2 to Compress Large MPEG-2 Videos
 
 VirtualDub-MPEG2 is designed to work with mpeg2 video, such as Digital TV shows, un-encrypted DVD files (\*.vob) and these video files are usually in big size. Now you can compress them using VirtualDub MPEG-2.
@@ -40,28 +47,30 @@ Open your MPEG-2 video file through File/Open video file..., then go to Video/Co
 
 ![virtualdub mpeg2](https://images.wondershare.com/topic/video-editing/virtualdub-video-compression.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 As shown above, select the XVID MPEG-4 codec and click Configure button to make Xvid settings.
 
 ![virtualdub mepg2 tutorial](https://images.wondershare.com/topic/video-editing/virtualdub-mpeg2-compress.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Note**: If Compression is disable, switch to Full processing mode first in the Video menu.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 2: Set Up Audio Compression
 
 Audio compression setup is similar to video compression, go to Audio/Full processing mode, and again Audio/Compression to open the dialog, where MPEG Layer-3 is recommended.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Step 3: Start Compressing
 
 Now it's the time to start processing your video, here is how:
@@ -79,21 +88,20 @@ If you don't like VirtualDub MPEG-2 and would like to find some more powerful ed
 
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -101,3 +109,23 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-breakdown-of-leading-free-video-conferencing-services-for-commercial-and-academic-use/"><u>[New] Breakdown of Leading Free Video Conferencing Services for Commercial and Academic Use</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-adding-soundtracks-to-shareable-fb-moments/"><u>[Updated] Adding Soundtracks to Shareable FB Moments</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-samsung-gear-360-replacements-latest-innovations-in-camera-tech/"><u>[Updated] Samsung Gear 360 Replacements Latest Innovations in Camera Tech</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-capture-your-social-face-video/"><u>2024 Approved Capture Your Social Face Video</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-dive-into-your-digital-collection-find-fb-watched-content-now/"><u>2024 Approved Dive Into Your Digital Collection Find FB Watched Content Now</u></a></li>
+<li><a href="https://blog-min.techidaily.com/cloudconvert-analysis-evaluating-safety-security-and-reliability/"><u>CloudConvert Analysis: Evaluating Safety, Security & Reliability</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-vivo-s17e-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Vivo S17e Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-unleash-your-creativity-top-rated-stop-motion-apps-for-mobile/"><u>In 2024, Unleash Your Creativity Top-Rated Stop Motion Apps for Mobile</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-edit-avchd-like-a-pro-top-5-software-recommendations/"><u>New 2024 Approved Edit AVCHD Like a Pro Top 5 Software Recommendations</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-get-splice-video-editing-software-for-mac/"><u>New 2024 Approved Get Splice Video Editing Software for Mac</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-in-this-article-i-want-to-show-you-how-to-apply-an-effect-to-a-clip-modify-that-effect-temporarily-turn-that-effect-on-or-off-or-delete-it/"><u>New 2024 Approved In This Article, I Want to Show You How to Apply an Effect to a Clip, Modify that Effect, Temporarily Turn that Effect on or Off, or Delete It Entirely</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-uncover-the-best-green-screen-software-for-mac-video-editing/"><u>New 2024 Approved Uncover the Best Green Screen Software for Mac Video Editing</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-cut-edit-share-the-10-best-free-and-paid-android-video-editors/"><u>New In 2024, Cut, Edit, Share The 10 Best Free and Paid Android Video Editors</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-online-dailymotion-converter-no-registration-required/"><u>New In 2024, Free Online Dailymotion Converter No Registration Required</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726026532307-mp3/"><u>ビデオ録画音声抽出MP3変換法と、お得なフリーサイト</u></a></li>
+</ul></div>
+

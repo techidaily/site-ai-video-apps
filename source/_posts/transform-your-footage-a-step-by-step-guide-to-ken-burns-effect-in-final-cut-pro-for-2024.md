@@ -1,7 +1,7 @@
 ---
 title: Transform Your Footage A Step-by-Step Guide to Ken Burns Effect in Final Cut Pro for 2024
-date: 2024-09-20T22:47:38.790Z
-updated: 2024-09-26T10:33:29.724Z
+date: 2024-09-28T14:36:40.175Z
+updated: 2024-10-01T12:50:34.877Z
 tags: 
   - video editing software
   - video editing
@@ -51,6 +51,13 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
 
 **Step 3** – Hold down both the shift key and the letter C. This is the fast way to cut out what you need. You can always stick to the right-click to cut a clip if you are more comfortable with this.
@@ -58,10 +65,10 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Ken Burns Customization
@@ -74,28 +81,15 @@ You can also customize the ken burns effects in Final Cut.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
@@ -112,18 +106,18 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Ken Burns Conclusion
 
@@ -148,24 +142,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/lash-clip-content-wizard/"><u>[New] Flash Clip Content Wizard</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-critically-acclaimed-video-cards-for-clear-youtube-broadcasts/"><u>[New] In 2024, Critically Acclaimed Video Cards for Clear YouTube Broadcasts</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-fives-finest-time-lapse-capture-apps-reviewed/"><u>2024 Approved Five's Finest Time-Lapse Capture Apps Reviewed</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-nvidia-3d-vision-drivers-for-free-on-windows-complete-solution/"><u>Download Nvidia 3D Vision Drivers for Free on Windows - Complete Solution</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-realme-gt-3-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-15-plus-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 15 Plus In Different Conditionsin | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-vivo-y200e-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Vivo Y200e 5G Phone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/in-2024-video-editing-software-like-virtualdub-top-picks-and-reviews/"><u>In 2024, Video Editing Software Like VirtualDub Top Picks and Reviews</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ey-through-time-the-best-history-yt-channels-ranked-1-10/"><u>Journey Through Time The Best History YT Channels Ranked #1-10</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-10-essential-animation-programs-for-interactive-learning-for-2024/"><u>New 10 Essential Animation Programs for Interactive Learning for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-beyond-powerdirector-the-best-mobile-video-editing-apps-of/"><u>New 2024 Approved Beyond PowerDirector The Best Mobile Video Editing Apps Of</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-fcpx-not-working-try-resetting-a-simple-solution-to-common-issues-for-2024/"><u>New FCPX Not Working? Try Resetting A Simple Solution to Common Issues for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-fcpx-and-lumafusion-differ-in-os-portability-price-and-performance-know-your-own-demands-and-choose-accordingly/"><u>New In 2024, FCPX and Lumafusion Differ in OS, Portability, Price, and Performance. Know Your Own Demands and Choose Accordingly</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-no-downloads-needed-10-free-online-video-compression-solutions/"><u>New In 2024, No Downloads Needed 10 Free Online Video Compression Solutions</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-steady-as-a-rock-how-to-stabilize-your-video-in-fcpx/"><u>New In 2024, Steady as a Rock How to Stabilize Your Video in FCPX</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-final-cut-pro-slideshow-tutorial-for-beginners/"><u>New In 2024, The Ultimate Final Cut Pro Slideshow Tutorial for Beginners</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-guide-to-mp4-tag-editors-for-windows-and-mac/"><u>New In 2024, The Ultimate Guide to MP4 Tag Editors for Windows and Mac</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-recovery-addressing-loot-issues-in-legends/"><u>Quick Recovery: Addressing Loot Issues in Legends</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-keeping-your-tv-remote-germ-free-and-fresh/"><u>Step-by-Step Tutorial: Keeping Your TV Remote Germ-Free and Fresh</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-capture-record-and-share-the-essence-of-spring-screens-for-2024/"><u>[New] Capture, Record, and Share - The Essence of Spring Screens for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-economics-of-video-promotion-platforms-for-2024/"><u>[Updated] The Economics of Video Promotion Platforms for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-broken-movie-files-mp4-and-mov-quick-tips-for-success-using-vlc/"><u>Fixing Broken Movie Files (MP4 & MOV) - Quick Tips for Success Using VLC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-oneplus-ace-2-pro-lock-screen-password-by-drfone-android/"><u>How To Change OnePlus Ace 2 Pro Lock Screen Password?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/imagedivide-review-summary-for-2024/"><u>ImageDivide Review Summary for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-12-pro-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock On Apple iPhone 12 Pro Online</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/instructions-on-integrating-audio-into-unboxings-for-2024/"><u>Instructions on Integrating Audio Into Unboxings for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/making-a-mark-on-instagram-strategies-for-securing-brand-funding-and-partnerships/"><u>Making a Mark on Instagram Strategies for Securing Brand Funding and Partnerships</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/mastering-the-art-of-iqiyi-file-extraction-a-comprehensive-tutorial-on-secure-download-methods/"><u>Mastering the Art of iQIYI File Extraction: A Comprehensive Tutorial on Secure Download Methods</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-using-compressor-in-final-cut-pro-x-best-practices-and-workflows/"><u>New Using Compressor in Final Cut Pro X Best Practices and Workflows</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-create-stunning-collages-best-web-based-photo-and-video-editors/"><u>Updated 2024 Approved Create Stunning Collages Best Web-Based Photo and Video Editors</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-final-cut-pro-color-grading-simplify-your-workflow/"><u>Updated 2024 Approved Final Cut Pro Color Grading Simplify Your Workflow</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-take-your-gopro-videos-to-the-next-level-easy-editing-tips-and-tricks/"><u>Updated 2024 Approved Take Your GoPro Videos to the Next Level Easy Editing Tips and Tricks</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-fcpx-essentials-how-to-achieve-pro-level-video-stability-for-2024/"><u>Updated FCPX Essentials How to Achieve Pro-Level Video Stability for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-game-on-top-10plus-websites-for-free-game-downloads-for-2024/"><u>Updated Game On! Top 10+ Websites for Free Game Downloads for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-best-tiktok-watermark-removers-for-creators-on-a-budget/"><u>Updated In 2024, The Best TikTok Watermark Removers for Creators on a Budget</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-tiktok-video-reversal-made-easy-a-beginners-guide-updated/"><u>Updated TikTok Video Reversal Made Easy A Beginners Guide Updated </u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-top-video-trailer-creators-for-mac-and-pc-2023-update-for-2024/"><u>Updated Top Video Trailer Creators for Mac and PC (2023 Update) for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-710-screen-settings-preservation-how-to-fix-fixing-done/"><u>Windows 7/10 Screen Settings Preservation - How to Fix [Fixing Done]</u></a></li>
 </ul></div>
 

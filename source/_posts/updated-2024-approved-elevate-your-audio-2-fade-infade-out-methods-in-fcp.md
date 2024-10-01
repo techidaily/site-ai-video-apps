@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Elevate Your Audio 2 Fade-In/Fade-Out Methods in FCP
-date: 2024-08-15T04:26:53.743Z
-updated: 2024-08-16T04:26:53.743Z
+date: 2024-09-27T11:06:41.319Z
+updated: 2024-10-01T12:23:02.274Z
 tags: 
   - video editing software
   - video editing
@@ -65,8 +65,18 @@ You should remember that the fades appear at the beginning and the end of each c
 See more details on how to fade audio in Final Cut Pro from the following video.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Fade Music by using Fade Handles
 
 You have already learned how to find the fade handles on the screen. Now, you just have to manually drag the handle to the exact point from which you want the fade to begin or end. Just keep in mid this simple rule: fade handles at the beginning of a clip produce fade-in effects, whereas fade handles at the end give fade-out effects.
@@ -82,21 +92,25 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 **Step 3** **:** Now, you'll have to drag the fade handles of each clip to the exact points where you want the fade to start and finish.
 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
@@ -111,8 +125,12 @@ The ultimate burning program for all your needs!</a>
 [](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -121,11 +139,29 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-add-text-to-youtube-video-before-or-after-uploading/"><u>[New] In 2024, How to Add Text to YouTube Video Before or After Uploading</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-revolutionize-your-augmented-reality-graphics-using-custom-luts/"><u>[New] Revolutionize Your Augmented Reality Graphics Using Custom LUTs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unlocking-classic-facebook-narratives-laptop-and-mobile-strategies/"><u>[Updated] Unlocking Classic Facebook Narratives Laptop & Mobile Strategies</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-oppo-reno-11-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Oppo Reno 11 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-samsung-galaxy-z-fold-5-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Samsung Galaxy Z Fold 5.</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-transform-your-canon-footage-advanced-video-editing-software-and-strategies/"><u>In 2024, Transform Your Canon Footage Advanced Video Editing Software and Strategies</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/maximizing-fcpx-efficiency-troubleshooting-strategies-for-editors-for-2024/"><u>Maximizing FCPX Efficiency Troubleshooting Strategies for Editors for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/navigate-to-the-best-10-sites-for-vector-image-download/"><u>Navigate to the Best 10 Sites for Vector Image Download</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-slow-and-steady-wins-the-game-top-10-video-players/"><u>New 2024 Approved Slow and Steady Wins the Game Top 10 Video Players</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-adobe-premiere-pro-the-complete-guide-to-importing-and-exporting-videos-for-2024/"><u>New Adobe Premiere Pro The Complete Guide to Importing and Exporting Videos for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-from-chrome-to-pro-running-professional-video-editing-software-on-your-chromebook-for-2024/"><u>New From Chrome to Pro Running Professional Video Editing Software on Your Chromebook for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-music-making-software-the-top-10-picks/"><u>New In 2024, Free Music Making Software The Top 10 Picks</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-maximize-your-fcpx-experience-10-free-plugins-to-try/"><u>New In 2024, Maximize Your FCPX Experience 10 Free Plugins to Try</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/zestful-user-sign-up-routine-for-2024/"><u>Zestful User Sign-Up Routine for 2024</u></a></li>
+</ul></div>
+

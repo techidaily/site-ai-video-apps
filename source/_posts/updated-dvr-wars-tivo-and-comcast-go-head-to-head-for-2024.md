@@ -1,7 +1,7 @@
 ---
 title: Updated DVR Wars TiVo and Comcast Go Head-to-Head for 2024
-date: 2024-08-22T12:41:38.282Z
-updated: 2024-08-23T12:41:38.282Z
+date: 2024-09-23T23:03:09.710Z
+updated: 2024-10-01T07:35:01.416Z
 tags: 
   - video editing software
   - video editing
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 
 ![tivo comcast interface](https://images.wondershare.com/multimedia/tivo-comcast-interface.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Comcast interface
 
 ![comcast-menu](https://images.wondershare.com/multimedia/comcast-menu.jpg)
@@ -58,9 +65,6 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 
  Down the road, Comcast is planning the X2 system which would have cloud recording capacity, thus ending the need for a box in your house at all. TiVo has not yet announced such a plan.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. TiVo vs Comcast: Connection to a network
 
  TiVos can be connected to your home computer network, and the newest one, the Roamio, comes with built-in wifi, for total freedom of use. Because it’s on the network, you can stream shows from your computer through the TiVo box for later playback. It supports channels like Netflix, Hulu Plus, and Amazon Instant. You can also stream shows to your Apple portable devices and then take the shows with you on the plane or to the gym, or use the device as a remote control. (Android devices will have the same capacity soon.) The network capacity also means you can use your computer to control the TiVo box and view content wherever you are.
@@ -71,12 +75,16 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 
 ![iphone app](https://images.wondershare.com/multimedia/iphone-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  A TiVo does have limitations of who can access which channels. For instance, it does not stream HBOGo, nor does it interface with Apple’s TV programming. For that you still need an AppleTV device.
 
  Comcast boxes simply do not network well. They are designed to broadcast the cable signals through your TV, but not on a home network. They are often easier to connect, however, just requiring a cable from the box to be plugged into the TV.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. TiVo vs Comcast: Recording capacity
 
@@ -86,9 +94,6 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 
  The Comcast X1 DVR has four tuners and it can record them simultaneously. You can watch a prerecorded program while it’s recording, too. It can hold 120 hours of HD or 600 hours of SD programming.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. TiVo vs Comcast: User interface
 
  The Comcast X1 DVR system has a voice-activated interface and a completely different look and layout than their standard system has.
@@ -96,15 +101,23 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 ![x1 remoteerer](https://images.wondershare.com/multimedia/x1-remoteerer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The basic Comcast remote is a multi-function remote and capable of controlling all functions, but it does not have the ability to connect to a portable device like a tablet or a smartphone to have connectivity that way like a TiVo can through an app. The remote has to be line of sight in order to work.
 
 ![comcast remotes](https://images.wondershare.com/multimedia/comcast-remotes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The TiVo device menu is in standard definition, so for those who have a high definition set up, you may find this a bit distraction or fuzzy. It does come with apps for extending what the box can do, including games for kids.
 
  Many reviewers liked the interface on the TiVo better than the grid used on the Comcast service. The TiVo programming guide allows you to delete channels you don’t watch so you’re only looking at the channels you like. Comcast’s guide covers every channel they offer, even ones that are not available on your tier of service.
@@ -126,15 +139,17 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -142,3 +157,25 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-top-10-innovative-tweets-de-followers-and-cleanup-apps/"><u>[Updated] 2024 Approved Top 10 Innovative Tweets De-Followers & Cleanup Apps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-infinite-vision-capture-app/"><u>[Updated] In 2024, Infinite Vision Capture App</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-top-15-whatsapp-tricks-that-will-change-everything/"><u>[Updated] In 2024, Top 15 WhatsApp Tricks That Will Change Everything</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-realme-c55-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Realme C55 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/crafting-perfect-ootd-tiktok-videos-on-a-mac/"><u>Crafting Perfect OOTD TikTok Videos on a Mac</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-techniques-for-embedding-programming-snippets-in-microsoft-word/"><u>Effective Techniques for Embedding Programming Snippets in Microsoft Word</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevate-your-match-chances-with-clever-tinder-bios/"><u>Elevate Your Match Chances with Clever Tinder Bios</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-unleash-your-artistry-top-10-music-video-creation-services/"><u>In 2024, Unleash Your Artistry Top 10 Music Video Creation Services</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-countdown-made-easy-a-3-step-guide-for-fcpx-users/"><u>New 2024 Approved Countdown Made Easy A 3-Step Guide for FCPX Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-fcp-or-lumafusion-the-pros-and-cons-of-each-video-editing-software/"><u>New 2024 Approved FCP or LumaFusion The Pros and Cons of Each Video Editing Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-lego-movies-are-painstaking-but-you-will-get-quicker-and-better-with-practice-here-are-5-best-stop-motion-apps-for-lego-movie-on-iphone-ip/"><u>New 2024 Approved Lego Movies Are Painstaking, but You Will Get Quicker and Better with Practice. Here Are 5 Best Stop Motion Apps for Lego Movie on iPhone, iPad and Android Devices</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-make-your-own-3d-videos-top-tools-for-beginners-and-pros-alike/"><u>New 2024 Approved Make Your Own 3D Videos Top Tools for Beginners and Pros Alike</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-best-free-video-orientation-correction-tools-for-iphone-for-2024/"><u>New Best Free Video Orientation Correction Tools for iPhone for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-edit-like-a-pro-best-android-video-editor-apps-for-chromebook-users-for-2024/"><u>New Edit Like a Pro Best Android Video Editor Apps for Chromebook Users for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-how-do-you-get-the-bokeh-effect-app-here-are-some-of-the-best-bokeh-apps-for-the-iphone-and-android/"><u>New In 2024, How Do You Get the Bokeh Effect App? Here Are some of the Best Bokeh Apps for the iPhone and Android</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719208597283-unravel-complex-windows-issues-help-at-hand/"><u>Unravel Complex Windows Issues: Help at Hand</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-arm-support-now-live-upgrade-your-filmora-x-experience/"><u>Updated In 2024, ARM Support Now Live Upgrade Your Filmora X Experience</u></a></li>
+</ul></div>
+

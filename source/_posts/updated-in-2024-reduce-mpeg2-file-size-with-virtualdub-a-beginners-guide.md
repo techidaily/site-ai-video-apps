@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Reduce MPEG2 File Size with VirtualDub A Beginners Guide
-date: 2024-09-22T06:35:21.504Z
-updated: 2024-09-26T12:27:23.365Z
+date: 2024-09-25T21:57:49.730Z
+updated: 2024-09-30T23:53:47.076Z
 tags: 
   - video editing software
   - video editing
@@ -31,16 +31,10 @@ VirtualDub is a free video capture/processing tool for Windows platforms (2000/X
 You could [download VirtualDub MPEG-2](http://www.videohelp.com/download/VirtualDub-MPEG224586%20.zip?r=LcPXQgGCmNps) here and extract files to a folder. Now you get a video processing software with MPEG-2 video import supported. To run VirtualDub MPEG-2, double click the VirtualDub.exe.
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use VirtualDub MPEG-2 to Compress Large MPEG-2 Videos
@@ -60,10 +54,10 @@ As shown above, select the XVID MPEG-4 codec and click Configure button to make 
 **Note**: If Compression is disable, switch to Full processing mode first in the Video menu.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: Set Up Audio Compression
@@ -71,10 +65,10 @@ As shown above, select the XVID MPEG-4 codec and click Configure button to make 
 Audio compression setup is similar to video compression, go to Audio/Full processing mode, and again Audio/Compression to open the dialog, where MPEG Layer-3 is recommended.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 3: Start Compressing
@@ -94,14 +88,14 @@ If you don't like VirtualDub MPEG-2 and would like to find some more powerful ed
 
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -118,24 +112,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-revolutionizing-patient-outreach-with-fb-ads-for-2024/"><u>[New] Revolutionizing Patient Outreach with FB Ads for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-rhythmic-repository-perfect-dj-templates-instantly-downloadable/"><u>[New] Rhythmic Repository Perfect DJ Templates, Instantly Downloadable</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-for-a-seamless-google-podcast-upload-experience/"><u>2024 Approved Expert Tips for a Seamless Google Podcast Upload Experience</u></a></li>
-<li><a href="https://extra-information.techidaily.com/5-best-graphics-cards-for-4k-video-editing-and-rendering/"><u>5 Best Graphics Cards for 4K Video Editing and Rendering</u></a></li>
-<li><a href="https://extra-information.techidaily.com/bebop-2s-avian-spectacle-a-compreran-analysis-for-2024/"><u>Bebop 2'S Avian Spectacle – A Compreran Analysis for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/content-creation-with-a-human-touch-understanding-why-ai-chatbots-have-limits-for-writers/"><u>Content Creation with a Human Touch: Understanding Why AI Chatbots Have Limits for Writers</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ing-high-impact-short-waterway-previews-for-2024/"><u>Creating High-Impact Short Waterway Previews for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-6s-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID From your iPhone 6s?</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/in-2024-top-video-editing-tools-you-need-to-know/"><u>In 2024, Top Video Editing Tools You Need to Know</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/in-2024-video-editing-on-a-shoestring-best-low-cost-options/"><u>In 2024, Video Editing on a Shoestring Best Low-Cost Options</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-best-free-flv-video-editors-for-beginners-and-pros-alike/"><u>New 2024 Approved Best Free FLV Video Editors for Beginners and Pros Alike</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-mac-video-editing-install-lumafusion-or-try-these-other-options/"><u>New 2024 Approved Mac Video Editing Install Lumafusion or Try These Other Options</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-fcpx-beauty-essentials-how-to-achieve-smooth-skin-without-plugins-for-2024/"><u>New FCPX Beauty Essentials How to Achieve Smooth Skin Without Plugins for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-frame-your-memories-the-best-free-and-paid-vignette-apps-for-mobile-for-2024/"><u>New Frame Your Memories The Best Free and Paid Vignette Apps for Mobile for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-elevate-your-video-experience-best-quality-enhancement-software/"><u>New In 2024, Elevate Your Video Experience Best Quality Enhancement Software</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-flv-editor-for-windows-8-easily-edit-flv-videos-on-pc/"><u>New In 2024, FLV Editor for Windows 8 Easily Edit FLV Videos on PC</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-other-great-video-editing-options-besides-powerdirector-for-android-and-ios/"><u>New In 2024, Other Great Video Editing Options Besides PowerDirector for Android and iOS</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-windows-system-hiccups-with-fixed-drivers/"><u>Resolving Windows System Hiccups with Fixed Drivers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlock-chromes-full-potential-with-pip-across-devices-for-2024/"><u>Unlock Chrome's Full Potential with PIP Across Devices for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-deciphering-the-complexity-of-online-content-monetization-for-2024/"><u>[Updated] Deciphering the Complexity of Online Content Monetization for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-overcoming-dragon-age-origins-crashing-woes-in-windows-10/"><u>Expert Advice: Overcoming Dragon Age: Origins' Crashing Woes in Windows 10</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-oppo-find-x7-ultra-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Oppo Find X7 Ultra to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-y77t-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Vivo Y77t to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-15-best-rock-songs-that-you-should-know/"><u>In 2024, 15 Best Rock Songs That You Should Know</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-lumafusion-vs-final-cut-pro-x-which-do-you-need-for-2024/"><u>New LumaFusion vs Final Cut Pro X Which Do You Need for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-macbook-users-learn-how-to-download-and-use-videoleap-for-2024/"><u>New MacBook Users Learn How to Download and Use Videoleap for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-no-watermark-no-problem-free-and-paid-solutions-for-filmora-for-2024/"><u>New No Watermark, No Problem Free and Paid Solutions for Filmora for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-guide-to-ken-burns-effect-in-final-cut-pro-tips-tricks-and-best-practices-for-2024/"><u>New The Ultimate Guide to Ken Burns Effect in Final Cut Pro Tips, Tricks, and Best Practices for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-list-10-free-online-video-compression-tools/"><u>New The Ultimate List 10 Free Online Video Compression Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unbeatable-free-mp4-video-editors-top-10-list/"><u>New Unbeatable Free MP4 Video Editors Top 10 List</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unleash-your-creativity-top-rated-online-animation-software-for-video-making/"><u>New Unleash Your Creativity Top-Rated Online Animation Software for Video Making</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-latest-version-of-new-world-stabilized-performance-issues-on-pc/"><u>Resolved: Latest Version of 'New World' Stabilized Performance Issues on PC</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/streamlining-your-discord-chat-experience-on-devices/"><u>Streamlining Your Discord Chat Experience on Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/trade-your-old-processor-with-newegg-get-up-to-300-for-intel-i9-or-220-for-amd-ryzen/"><u>Trade Your Old Processor with Newegg - Get Up to $300 for Intel I9 or $220 for AMD Ryzen!</u></a></li>
 </ul></div>
 

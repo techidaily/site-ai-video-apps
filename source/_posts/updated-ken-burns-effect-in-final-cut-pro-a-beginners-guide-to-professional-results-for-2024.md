@@ -1,7 +1,7 @@
 ---
 title: Updated Ken Burns Effect in Final Cut Pro A Beginners Guide to Professional Results for 2024
-date: 2024-08-22T12:46:33.501Z
-updated: 2024-08-23T12:46:33.501Z
+date: 2024-09-24T08:33:41.683Z
+updated: 2024-10-01T12:55:14.638Z
 tags: 
   - video editing software
   - video editing
@@ -43,9 +43,6 @@ The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, sl
 
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Steps to Making the Ken Burns Effect Final Cut Pro
 
 Now that we know what is Ken Burns Effect. Let’s go over the steps to making the Ken Burns Effect in Final Cut Pro.
@@ -54,11 +51,25 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
 
 **Step 3** – Hold down both the shift key and the letter C. This is the fast way to cut out what you need. You can always stick to the right-click to cut a clip if you are more comfortable with this.
 
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Ken Burns Customization
 
@@ -70,16 +81,17 @@ You can also customize the ken burns effects in Final Cut.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
 
 Now that we know how to open and apply the Ken Burns Effect in Final Cut Pro. Let’s examine how we zoom in Final Cut Pro using keyframing. Keyframing, of course, involves [basic animation](https://tools.techidaily.com/wondershare/filmora/download/) that allows movement to be added to a still frame. So how do you use the Ken Burns Effect in Final Cut Pro X in conjunction with keyframing? Let’s talk you through it.
@@ -95,18 +107,18 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## The Ken Burns Conclusion
 
 The Ken Burns Effect is famous for a reason. It allows you to fill up space if you don’t have footage for certain things. It can be used to depict ancient battles without the use of CGI.
@@ -115,16 +127,11 @@ The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places t
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -132,3 +139,25 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-mastering-the-art-of-finding-lost-chats/"><u>[New] In 2024, Mastering the Art of Finding Lost Chats</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-maps-to-mastery-terrarias-quintessential-gold-hunt-for-2024/"><u>[Updated] Maps to Mastery Terraria's Quintessential Gold Hunt for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-screen-recorder-showdown-leading-tools-and-apowersofts-stance-for-2024/"><u>[Updated] Screen Recorder Showdown Leading Tools and Apowersoft's Stance for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-ultimate-lg-screen-chronicles-a-complete-review-of-4k-quality/"><u>[Updated] The Ultimate LG Screen Chronicles A Complete Review of 4K Quality</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-engagement-with-this-easy-trick-linking-pinterest-tab-to-your-facebook-profile/"><u>Boost Engagement with This Easy Trick: Linking Pinterest Tab to Your Facebook Profile</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-windows-11-with-personal-touches/"><u>Enhancing Windows 11 with Personal Touches</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/from-amateur-to-expert-a-compreenhensive-tutorial-on-zoom-recording-quality-for-2024/"><u>From Amateur to Expert A Compreenhensive Tutorial on Zoom Recording Quality for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-a-non-responsive-logitech-g-hub-on-your-pc/"><u>How to Fix a Non-Responsive Logitech G Hub on Your PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-nvidia-geforce-rtx-3080-ti-driver-installation-guide-for-windows-1087/"><u>Latest NVIDIA GeForce RTX 3080 Ti Driver Installation Guide for Windows 10/8/7</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-dvr-wars-tivo-and-comcast-go-head-to-head-for-2024/"><u>Updated DVR Wars TiVo and Comcast Go Head-to-Head for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-capture-the-speed-of-life-2-easy-ways-to-create-stunning-time-lapse-videos/"><u>Updated In 2024, Capture the Speed of Life 2 Easy Ways to Create Stunning Time Lapse Videos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-mobile-video-editing-essentials-best-apps-for-vertical-content/"><u>Updated In 2024, Mobile Video Editing Essentials Best Apps for Vertical Content</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-splice-video-editor-mac-version-download-and-install-today/"><u>Updated In 2024, Splice Video Editor Mac Version Download and Install Today</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-vn-video-editor-pro-apk-a-game-changer-for-mobile-video-editing/"><u>Updated In 2024, VN Video Editor Pro Apk A Game-Changer for Mobile Video Editing?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-art-of-color-consistency-a-powerdirector-users-guide/"><u>Updated The Art of Color Consistency A PowerDirector Users Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-unleash-your-creativity-best-vignette-apps-for-ios-and-android-users-for-2024/"><u>Updated Unleash Your Creativity Best Vignette Apps for iOS and Android Users for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-wevideo-where-video-creation-meets-simplicity-for-2024/"><u>Updated WeVideo Where Video Creation Meets Simplicity for 2024</u></a></li>
+</ul></div>
+

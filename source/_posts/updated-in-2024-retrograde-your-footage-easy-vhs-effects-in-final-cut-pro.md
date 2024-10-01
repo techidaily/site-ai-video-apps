@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Retrograde Your Footage Easy VHS Effects in Final Cut Pro
-date: 2024-08-27T04:29:46.310Z
-updated: 2024-08-28T04:29:46.310Z
+date: 2024-09-26T01:40:11.564Z
+updated: 2024-10-01T10:54:15.086Z
 tags: 
   - video editing software
   - video editing
@@ -94,6 +94,13 @@ First, if you haven't got Filmora, click here to download it for free!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To do VHS effects quickly, follow these steps:
 
 ![select_sample_color](https://images.wondershare.com/filmora/images/final-cut-pro/select_sample_color.jpg)
@@ -142,6 +149,13 @@ Search for **Chromatic Aberration effect**.
 
 ![add_chromatic_abberation](https://images.wondershare.com/filmora/images/final-cut-pro/add_chromatic_abberation.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now Search for **VCR Distortion** in the search bar.
 
 1. Drag and drop it above the previous layer.
@@ -159,9 +173,6 @@ You can play around with these values to change the intensity of the VHS effect.
 
 Still not enough? See this article: [The Best Glitch Video Editors.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part3: Where to find the best plugins or templates for the VHS effect?
 
 If you want to recreate some of that analog feel to your video clip with plugins or templates, you can use the following recommendations to give your film a VHS effect:
@@ -185,8 +196,12 @@ Click to learn more about [glitch effect in Filmstock.](https://tools.techidaily
 ![filmstock-effects](https://images.wondershare.com/filmora/images/final-cut-pro/filmstock-effects.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Stories – Glitch & VHS Edition**
 
 This template is ideal for use with mobile apps like Instagram Stories. You'll get two vertical video openers, complete with glitches and VHS effects. Premiere Pro CC 2017 and newer are supported!
@@ -202,15 +217,17 @@ The appearance and feel of your production may be significantly enhanced by usin
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -218,3 +235,25 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-dynamic-unpriced-visual-bonding-games/"><u>[Updated] Dynamic Unpriced Visual Bonding Games</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-unlocking-the-full-potential-of-iphone-7-screen-save/"><u>[Updated] Unlocking the Full Potential of iPhone 7 Screen Save</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/aiming-high-selecting-the-best-webcams-for-live-gameplay-streams/"><u>Aiming High Selecting the Best Webcams for Live Gameplay Streams</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/descarga-gratuita-convertidor-de-archivos-flac-a-wma-sin-problemas/"><u>Descarga Gratuita: Convertidor De Archivos FLAC a WMA Sin Problemas</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-sony-xperia-10-v-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Sony Xperia 10 V Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-zte-nubia-z60-ultra-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From ZTE Nubia Z60 Ultra to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-sony-bdp-s3700-review-updated/"><u>In 2024, Sony BDP- S3700 Review - Updated</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-safe-listing-a-step-by-step-guide-to-adding-your-email/"><u>Mastering the Art of Safe Listing: A Step-by-Step Guide to Adding Your Email</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-2024-guide-quick-fixes-for-users-facing-issues-with-opening-battlenet/"><u>The 2024 Guide: Quick Fixes for Users Facing Issues with Opening Battle.net</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-animation-powerhouses-top-8-software-for-mac-and-windows-creators-for-2024/"><u>Updated Animation Powerhouses Top 8 Software for Mac and Windows Creators for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-final-cut-pro-x-crash-fix-get-back-to-editing-for-2024/"><u>Updated Final Cut Pro X Crash Fix Get Back to Editing for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-create-a-standout-video-resume-4-best-tools-with-free-templates/"><u>Updated In 2024, Create a Standout Video Resume 4 Best Tools with Free Templates</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-merge-videos-without-a-trace-7-best-options/"><u>Updated In 2024, Merge Videos Without a Trace 7 Best Options</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-make-unforgettable-invitations-top-video-apps-for-mobile/"><u>Updated Make Unforgettable Invitations Top Video Apps for Mobile</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-professional-grade-glitch-video-editors-paid-and-free-solutions-compared-for-2024/"><u>Updated Professional-Grade Glitch Video Editors Paid and Free Solutions Compared for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-unleash-dynamic-text-top-motion-tracking-software-for-2024/"><u>Updated Unleash Dynamic Text Top Motion Tracking Software for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-unlock-the-power-of-animation-converting-digital-videos-into-cartoons-made-easy-for-2024/"><u>Updated Unlock the Power of Animation Converting Digital Videos Into Cartoons Made Easy for 2024</u></a></li>
+</ul></div>
+

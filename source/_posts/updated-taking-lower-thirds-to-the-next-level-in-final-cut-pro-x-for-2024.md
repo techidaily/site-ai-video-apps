@@ -1,7 +1,7 @@
 ---
 title: Updated Taking Lower Thirds to the Next Level in Final Cut Pro X for 2024
-date: 2024-09-21T04:07:34.329Z
-updated: 2024-09-26T00:29:08.086Z
+date: 2024-09-29T16:12:58.934Z
+updated: 2024-10-01T13:19:36.373Z
 tags: 
   - video editing software
   - video editing
@@ -60,10 +60,10 @@ Try different color schemes with Green, Magenta, Orange, and Blue to create a me
 ![color-factor](https://images.wondershare.com/filmora/images/final-cut-pro/color-factor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. **Motion effect**
@@ -93,17 +93,10 @@ Proper alignment and the best coordinates on the screen make the lower third mod
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Part3: How to make a lower third quickly in final cut pro X?**
@@ -130,6 +123,13 @@ You can download the app and install them in your system. Launch the tool by dou
 
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2Step 2: Add the Title**
 
 In the home screen, import the video that requires the edits and then tap the ‘Titles’ tab at the left top of the screen. Click the ‘Build-in/Build-out’ option to custom the Title element. According to your needs, you can repeat it to insert the desired titles on the video screen.
@@ -149,10 +149,10 @@ For those who still need more guides about making lower thirds, this Filmora tut
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
@@ -196,24 +196,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-elevate-your-content-top-10-must-use-hashtags-on-ig-for-2024/"><u>[New] Elevate Your Content Top 10 Must-Use Hashtags on IG for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-beyond-hd-an-in-depth-analysis-of-eizos-cg318-4k/"><u>2024 Approved Beyond HD An In-Depth Analysis of EIZO's CG318-4K</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-online-collaboration-conjurer/"><u>2024 Approved Ultimate Online Collaboration Conjurer</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-pl2303-usb-to-serial-adapter-drivers-for-windows-systems/"><u>Get the Latest PL2303 USB to Serial Adapter Drivers for Windows Systems</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/how-the-samsung-galaxy-s10plus-holds-up-compared-to-the-latest-s20-model-a-detailed-assessment/"><u>How the Samsung Galaxy S10+ Holds Up Compared to the Latest S20 Model – A Detailed Assessment</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-google-pixel-7a-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Google Pixel 7a? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/in-2024-virtualdub-substitutes-explore-these-video-editing-options/"><u>In 2024, VirtualDub Substitutes Explore These Video Editing Options</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/make-unforgettable-moments-top-video-collage-apps-for-ios-for-2024/"><u>Make Unforgettable Moments Top Video Collage Apps for iOS for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-movie-magic-for-all-a-comprehensive-guide-to-producing-high-quality-videos/"><u>New 2024 Approved Movie Magic for All A Comprehensive Guide to Producing High-Quality Videos</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-ultimate-list-of-adobe-premiere-pro-shortcuts-for-beginners-and-pros/"><u>New 2024 Approved The Ultimate List of Adobe Premiere Pro Shortcuts for Beginners and Pros</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unlock-pro-quality-videos-gopro-quik-editing-on-macbook-made-simple/"><u>New 2024 Approved Unlock Pro-Quality Videos GoPro Quik Editing on MacBook Made Simple</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-best-online-video-spinners-rotate-your-clips-with-ease/"><u>New In 2024, Best Online Video Spinners Rotate Your Clips with Ease</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-discover-the-ultimate-video-editing-solution-for-windows-8/"><u>New In 2024, Discover the Ultimate Video Editing Solution for Windows 8</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-mastering-video-import-and-export-in-adobe-premiere-pro/"><u>New In 2024, Mastering Video Import and Export in Adobe Premiere Pro</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-mp4-video-trimming-made-easy-top-free-tools/"><u>New In 2024, MP4 Video Trimming Made Easy Top Free Tools</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/sdk-upgrade-alert-enhancing-facebook-video-downloader-apps-for-android-for-2024/"><u>SDK Upgrade Alert Enhancing Facebook Video Downloader Apps for Android for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-issue-of-logitech-gaming-application-not-launching-properly/"><u>Solving the Issue of Logitech Gaming Application Not Launching Properly</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/undercover-echo-enthusiasts-6-hidden-voice-capture-apps/"><u>Undercover Echo Enthusiasts 6 Hidden Voice Capture Apps</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-eyecatcher-ultimate-screen-capture-guide/"><u>[New] EyeCatcher Ultimate Screen Capture Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-crafting-prime-valorant-video-thumbnails-on-youtube/"><u>[Updated] In 2024, Crafting Prime Valorant Video Thumbnails on YouTube</u></a></li>
+<li><a href="https://blog-min.techidaily.com/expert-choice-the-ideal-instagram-video-editor-and-converter-seamless-adaptation-of-content-to-insta-standards/"><u>Expert Choice: The Ideal Instagram Video Editor and Converter - Seamless Adaptation of Content to Insta Standards</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-cutting-edge-method-quick-erasure-of-youtube-comments/"><u>In 2024, Cutting-Edge Method Quick Erasure of Youtube Comments</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-embed-presentation-asset-as-video-feature/"><u>In 2024, Embed Presentation Asset as Video Feature</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-vivo-v30-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Vivo V30 Devices | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-15-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone 15 Pro Max? Heres the Best Fixes</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-tecno-spark-20-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Tecno Spark 20 FRP Locks</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-list-10-free-video-editors-for-mp4-videos/"><u>New In 2024, The Ultimate List 10 Free Video Editors for MP4 Videos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-top-5-best-mp4-video-editors-totally-free/"><u>New In 2024, Top 5 Best MP4 Video Editors Totally Free</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-make-it-pop-how-to-add-eye-catching-effects-to-your-videos-for-2024/"><u>New Make It Pop How to Add Eye-Catching Effects to Your Videos for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-mobile-video-editing-mastery-top-10-vlog-apps/"><u>New Mobile Video Editing Mastery Top 10 Vlog Apps</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-online-video-editing-for-free-the-top-options-compared-for-2024/"><u>New Online Video Editing for Free The Top Options Compared for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-send-unforgettable-invites-with-these-best-video-apps-for-ios-and-android/"><u>New Send Unforgettable Invites with These Best Video Apps for iOS & Android</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-shrink-mpeg2-files-get-virtualdub-for-video-compression-for-2024/"><u>New Shrink MPEG2 Files Get VirtualDub for Video Compression for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-top-rated-avi-file-combiners-join-videos-without-cost-for-2024/"><u>New Top-Rated AVI File Combiners Join Videos Without Cost for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/seamlessly-switch-from-h265-to-h264-top-4-techniques-ensuring-lossless-video-quality/"><u>Seamlessly Switch From H.265 To H.264: Top 4 Techniques Ensuring Lossless Video Quality</u></a></li>
 </ul></div>
 

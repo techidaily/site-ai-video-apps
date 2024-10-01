@@ -1,7 +1,7 @@
 ---
 title: Updated FCPX Audio Editing Essentials L-Cuts, J-Cuts, and More for 2024
-date: 2024-09-24T16:15:07.611Z
-updated: 2024-09-26T05:14:16.070Z
+date: 2024-09-29T12:33:03.638Z
+updated: 2024-09-30T20:11:03.299Z
 tags: 
   - video editing software
   - video editing
@@ -39,10 +39,10 @@ When you look at the above interface, you will see the basic phenomenon behind t
 Then, **what is a J cut in Final Cut Pro**? It is ultimately reverse or opposite of L-Cuts. Yes, the second clip's audio starts a while before the scene of the first video ends.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Step-by-step Guide on Using L-Cuts and J-Cuts in Final Cut Pro X
@@ -76,10 +76,10 @@ In the case of Final Cut Pro **J-Cuts**, the process is reverse, where you need 
 When you look at the transition closely, you can see that it resembles the letter J.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Final Cut Pro X Keyboard Shortcuts for L-Cuts and J-Cuts
@@ -105,16 +105,10 @@ Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts a
 * Using timecode to add or subtract the present edit: press the “**Plus (+)**” or “**Minus (-)**” key with the timecode duration.
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -124,10 +118,10 @@ Are you wondering and puzzled that you are a popular Final Cut Pro X user but we
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -145,18 +139,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-free-to-paid-subscriber-count-surpasses-500/"><u>[Updated] In 2024, From Free to Paid Subscriber Count Surpasses 500</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-mac-efficiency-for-academics-audio-record-of-classroom-learning/"><u>[Updated] Mac Efficiency for Academics Audio Record of Classroom Learning</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-vivo-y27-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-melodic-overlays-on-digital-imagery/"><u>In 2024, Melodic Overlays on Digital Imagery</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-download-now-top-20-premiere-pro-title-templates/"><u>New 2024 Approved Download Now Top 20 Premiere Pro Title Templates</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-face-blurring-made-easy-a-step-by-step-guide-with-the-top-10-free-apps/"><u>New 2024 Approved Face Blurring Made Easy A Step-by-Step Guide with the Top 10 Free Apps</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-combine-multiple-avi-files-into-one-10-best-free-freeware-for-2024/"><u>New Combine Multiple AVI Files Into One 10 Best Free Freeware for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-edit-avi-videos-for-free-top-editor-choices-for-2024/"><u>New Edit AVI Videos for Free Top Editor Choices for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-get-started-with-green-screen-top-10-free-mobile-apps-for-beginners-for-2024/"><u>New Get Started with Green Screen Top 10 Free Mobile Apps for Beginners for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/seamless-clicking-experience-fixing-unreliable-wireless-mouse-problems/"><u>Seamless Clicking Experience: Fixing Unreliable Wireless Mouse Problems</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-monetizing-machine-how-reels-and-revenue-are-revolutionized-by-meta/"><u>The Monetizing Machine: How Reels and Revenue Are Revolutionized by Meta</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-updating-your-pcs-web-cam-driver-on-a-windows-10-system/"><u>Troubleshooting & Updating Your PC's Web Cam Driver on a Windows 10 System</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleash-the-potential-of-ai-with-an-affordable-local-chatgpt-clone-for-windows-users/"><u>Unleash the Potential of AI with an Affordable Local ChatGPT Clone for Windows Users</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-decoding-the-secret-of-instagrams-video-cap/"><u>[Updated] 2024 Approved Decoding the Secret of Instagram's Video Cap</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/capture-the-crash-expert-surfer-cameras-review/"><u>Capture the Crash - Expert Surfer Cameras Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-install-iphone-drivers-for-windows-11-devices-and-how-to-get-them/"><u>Easy Install: IPhone Drivers for Windows 11 Devices and How to Get Them</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/error-code-2e-strategies-for-windows-update-fix/"><u>Error Code 2E: Strategies for Windows Update Fix</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-10-urls-for-quality-vector-images/"><u>Essential 10 URLs for Quality Vector Images</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-redmi-note-13-proplus-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-slow-down-your-footage-top-video-editing-software-for-slo-mo/"><u>New Slow Down Your Footage Top Video Editing Software for Slo-Mo</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-guide-to-mts-video-editing-5-best-tools/"><u>New The Ultimate Guide to MTS Video Editing 5 Best Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-times-running-out-learn-to-add-a-countdown-timer-in-fcpx-fast-for-2024/"><u>New Times Running Out! Learn to Add a Countdown Timer in FCPX Fast for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unbranded-and-unbeatable-the-best-free-online-video-editors-for-2024/"><u>New Unbranded and Unbeatable The Best Free Online Video Editors for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unleashing-imagination-the-top-lego-stop-motion-makers/"><u>New Unleashing Imagination The Top Lego Stop Motion Makers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/simplified-nft-artistry-for-first-timers-for-2024/"><u>Simplified NFT Artistry for First-Timers for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-lava-agni-2-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Lava Agni 2 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-customer-testimonial-recovered-thousands-of-photos-from-memory-card-with-stellar-photo-recovery/"><u>Video - Customer Testimonial: Recovered Thousands of Photos From Memory Card with Stellar Photo Recovery</u></a></li>
 </ul></div>
 
