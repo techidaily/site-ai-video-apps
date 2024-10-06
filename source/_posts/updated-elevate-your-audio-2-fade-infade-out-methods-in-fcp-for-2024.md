@@ -1,7 +1,7 @@
 ---
 title: Updated Elevate Your Audio 2 Fade-In/Fade-Out Methods in FCP for 2024
-date: 2024-09-23T16:59:52.797Z
-updated: 2024-10-01T08:50:37.420Z
+date: 2024-10-02T20:46:49.195Z
+updated: 2024-10-06T21:22:14.055Z
 tags: 
   - video editing software
   - video editing
@@ -64,6 +64,13 @@ You should remember that the fades appear at the beginning and the end of each c
 
 See more details on how to fade audio in Final Cut Pro from the following video.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Fade Music by using Fade Handles
 
 You have already learned how to find the fade handles on the screen. Now, you just have to manually drag the handle to the exact point from which you want the fade to begin or end. Just keep in mid this simple rule: fade handles at the beginning of a clip produce fade-in effects, whereas fade handles at the end give fade-out effects.
@@ -81,17 +88,17 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -99,13 +106,6 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -121,10 +121,10 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -142,16 +142,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-a-step-by-step-journey-through-the-landscape-of-instagram-reels/"><u>[New] 2024 Approved A Step-by-Step Journey Through the Landscape of Instagram Reels</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-prime-top-10-tools-convert-srt-files-for-no-charge/"><u>[New] In 2024, Prime Top 10 Tools Convert Srt Files for No Charge</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-best-gopro-video-processing-apps/"><u>[Updated] Best GoPro Video Processing Apps</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-hone-your-talks-expert-insights-into-google-meet-chats-for-2024/"><u>[Updated] Hone Your Talks Expert Insights Into Google Meet Chats for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fix-your-frozen-windows-spotlight-with-these-simple-steps/"><u>Fix Your Frozen Windows Spotlight with These Simple Steps</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-master-device-agnostic-recording-techniques-for-youtube-live-streams/"><u>In 2024, Master Device-Agnostic Recording Techniques for YouTube Live Streams</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-sound-problems-repairing-logitech-g935-microphone-compatibility-with-windows/"><u>Solving Sound Problems: Repairing Logitech G935 Microphone Compatibility with Windows</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/the-ultimate-guide-to-online-animation-software-top-10-picks-for-2024/"><u>The Ultimate Guide to Online Animation Software Top 10 Picks for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-no-cost-split-screen-video-editing-online-and-offline-tools-compared/"><u>Updated 2024 Approved No-Cost Split Screen Video Editing Online and Offline Tools Compared</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-slow-mo-showdown-top-10-video-players-compared/"><u>Updated In 2024, The Slow-Mo Showdown Top 10 Video Players Compared</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-make-music-videos-on-your-phone-to-for-2024/"><u>Updated Make Music Videos on Your Phone To for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-hunt-for-heated-online-hearings/"><u>[Updated] In 2024, Hunt for Heated Online Hearings</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/basics-of-online-videos-the-easiest-10-ideas-for-beginners-on-youtube-for-2024/"><u>Basics of Online Videos The Easiest 10 Ideas for Beginners on YouTube for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/comprehensive-huawei-p30-pro-assessment-my-continual-admiration/"><u>Comprehensive Huawei P30 Pro Assessment: My Continual Admiration</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-hardware-reset-for-every-generation-of-ipad-devices/"><u>Master the Hardware Reset for Every Generation of iPad Devices</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mastering-the-resolution-of-csr8510-a10-motherboard-driver-glitches-on-your-pc-with-windows-os/"><u>Mastering the Resolution of CSR8510 A10 Motherboard Driver Glitches on Your PC with Windows OS</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-directx-error-in-warzone-a-quick-4-step-guide/"><u>Resolving the 'DirectX Error in Warzone': A Quick 4-Step Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/techniques-for-fabulous-photo-collage-artistry/"><u>Techniques for Fabulous Photo Collage Artistry</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ultimate-guide-mastering-dav-video-playback-with-top-dav-player-apps-and-conversion-techniques/"><u>Ultimate Guide: Mastering DAV Video Playback with Top DAV Player Apps & Conversion Techniques</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-from-video-to-live-photo-best-conversion-apps-and-methods/"><u>Updated 2024 Approved From Video to Live Photo Best Conversion Apps and Methods</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-take-your-videos-to-the-next-level-insider-video-editing-tips-and-tricks/"><u>Updated 2024 Approved Take Your Videos to the Next Level Insider Video Editing Tips and Tricks</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-discover-the-best-3d-animation-programs-free-trials-and-paid-favorites-for-2024/"><u>Updated Discover the Best 3D Animation Programs Free Trials and Paid Favorites for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-experience-the-future-of-video-top-10-4k-samples/"><u>Updated In 2024, Experience the Future of Video Top 10 4K Samples</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-this-article-introduces-a-stylish-and-versatile-mp4-editor-for-windows-8-that-enables-you-to-create-hollywood-like-home-movies-with-titles-e/"><u>Updated In 2024, This Article Introduces a Stylish and Versatile MP4 Editor for Windows 8 that Enables You to Create Hollywood-Like Home Movies with Titles, Effects and Transitions Easily</u></a></li>
 </ul></div>
 

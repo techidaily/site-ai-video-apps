@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Streamline Your MPEG2 Videos with VirtualDub Download
-date: 2024-08-15T04:22:35.614Z
-updated: 2024-08-16T04:22:35.614Z
+date: 2024-10-03T22:18:13.234Z
+updated: 2024-10-06T20:17:23.769Z
 tags: 
   - video editing software
   - video editing
@@ -30,41 +30,47 @@ VirtualDub is a free video capture/processing tool for Windows platforms (2000/X
 
 You could [download VirtualDub MPEG-2](http://www.videohelp.com/download/VirtualDub-MPEG224586%20.zip?r=LcPXQgGCmNps) here and extract files to a folder. Now you get a video processing software with MPEG-2 video import supported. To run VirtualDub MPEG-2, double click the VirtualDub.exe.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use VirtualDub MPEG-2 to Compress Large MPEG-2 Videos
 
 VirtualDub-MPEG2 is designed to work with mpeg2 video, such as Digital TV shows, un-encrypted DVD files (\*.vob) and these video files are usually in big size. Now you can compress them using VirtualDub MPEG-2.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Step 1: Set Up Video Compression
 
 Open your MPEG-2 video file through File/Open video file..., then go to Video/Compression to bring up the following dialog.
 
 ![virtualdub mpeg2](https://images.wondershare.com/topic/video-editing/virtualdub-video-compression.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 
 As shown above, select the XVID MPEG-4 codec and click Configure button to make Xvid settings.
 
 ![virtualdub mepg2 tutorial](https://images.wondershare.com/topic/video-editing/virtualdub-mpeg2-compress.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 
 **Note**: If Compression is disable, switch to Full processing mode first in the Video menu.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 2: Set Up Audio Compression
 
 Audio compression setup is similar to video compression, go to Audio/Full processing mode, and again Audio/Compression to open the dialog, where MPEG Layer-3 is recommended.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Step 3: Start Compressing
 
 Now it's the time to start processing your video, here is how:
@@ -73,6 +79,13 @@ Now it's the time to start processing your video, here is how:
 2. Select Save as AVI...
 3. Select where you want to save the AVI and name it.
 4. Click Save.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -83,9 +96,6 @@ If you don't like VirtualDub MPEG-2 and would like to find some more powerful ed
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -93,11 +103,30 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-cutting-edge-cinematography-with-lgs-innovative-31mu97-b-display/"><u>[New] Cutting Edge Cinematography with LG's Innovative 31MU97-B Display</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-optimal-energy-kits-for-gopro-hero5-genuine-and-third-party-brands/"><u>[New] Optimal Energy Kits for GoPro Hero5 – Genuine and Third-Party Brands</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-capture-every-word-a-guide-to-recording-in-google-meet/"><u>[Updated] In 2024, Capture Every Word A Guide to Recording in Google Meet</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-becoming-a-podcast-writer-pro-strategies-and-comprehensible-script-samples/"><u>2024 Approved Becoming a Podcast Writer Pro Strategies & Comprehensible Script Samples</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-adblock-software-threatens-youtubes-revenue-stream-and-user-experience/"><u>How Adblock Software Threatens YouTube’s Revenue Stream and User Experience</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-unlock-free-sound-effects-for-your-fcp-projects-top-resources-and-tutorials/"><u>In 2024, Unlock Free Sound Effects for Your FCP Projects Top Resources & Tutorials</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-version-of-wacom-intuos-graphics-tablet-drivers-download-and-installation-guide/"><u>Latest Version of Wacom Intuos Graphics Tablet Drivers: Download and Installation Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-face-generation-software-top-online-options/"><u>New 2024 Approved Free Face Generation Software Top Online Options</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-protecting-identities-top-video-editing-tools-for-face-blurring/"><u>New 2024 Approved Protecting Identities Top Video Editing Tools for Face Blurring</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-today-we-will-take-a-look-at-the-best-motion-tracking-video-editing-apps-for-ios-and-android-devices/"><u>New 2024 Approved Today We Will Take a Look at the Best Motion Tracking Video Editing Apps for iOS & Android Devices</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unleash-your-creativity-running-windows-and-mac-video-editing-apps-on-chrome-os/"><u>New 2024 Approved Unleash Your Creativity Running Windows and Mac Video Editing Apps on Chrome OS</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-from-photos-to-film-a-beginners-guide-to-video-creation-for-2024/"><u>New From Photos to Film A Beginners Guide to Video Creation for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-master-fcp-x-effects-in-minutes-a-3-step-guide/"><u>New In 2024, Master FCP X Effects in Minutes A 3-Step Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/stream-your-podcast-with-one-move-only/"><u>Stream Your Podcast with One Move Only</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transform-your-photos-using-adobes-power/"><u>Transform Your Photos Using Adobe's Power</u></a></li>
+<li><a href="https://tools.techidaily.com/winpatrol/products/"><u>Winpatrol's Products</u></a></li>
+</ul></div>
+

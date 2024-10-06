@@ -1,7 +1,7 @@
 ---
 title: The Ultimate FCPX Skin Smoothing Hack No Plugins Needed for 2024
-date: 2024-09-30T03:14:13.363Z
-updated: 2024-10-01T13:48:28.623Z
+date: 2024-09-29T21:36:24.954Z
+updated: 2024-10-06T16:49:48.113Z
 tags: 
   - video editing software
   - video editing
@@ -56,6 +56,13 @@ step3Now, go to the top of the Inspector and turn on the blue checkbox next to G
 
 For better results, add a Vignette by selecting and combining the two clips into a Compound Clip. From the Effects Browser, select Stylize > Vignette and adjust drag the vignette. Now, customize the compound clip settings in the Inspector pane until you achieve your desired look. Compare the results between two images before and after editing
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Where to Find Good Skin Smoother Plugins?
 
 Plugins make it easy for beginners and users with limited expertise to add a skin smoother effect in Final Cut Pro X. You can find both free and paid skin smoother plugins for FCPX online. Given below are some popular skin smoothening plugins for Final Cut Pro X.
@@ -79,6 +86,13 @@ Skin Smoother 2 is a powerful and easy-to-use plugin that allows you to smooth o
 Color Finale is a user-friendly, fine-tuned, and fully-featured professional skin smoother plugin purpose bit for FCP.
 
 ![color-finale-2](https://images.wondershare.com/filmora/article-images/top-10-free-fcpx-plugins-color-finale-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Price:** $152
 
@@ -104,19 +118,6 @@ A comprehensive FCP tool with 89 individual plugins to apply the next-generation
 * A variety of cool presents and text generators; and
 * Number counters, chromatic aberration, VHS looks, camera shake, glitch effects.
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: How to adopt Skin Smoothing Plugins into FCPX?
 
 Follow these steps to use the Skin Smooth 2 Plugin for Final Cut Pro X:
@@ -126,33 +127,20 @@ Follow these steps to use the Skin Smooth 2 Plugin for Final Cut Pro X:
 3. To apply the skin-smoothing effect, click on Add Color Mask, and select the areas of the face where the color mask has to be added.![Skin_Smoother_Effect_5](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_5.png)
 4. Adjust the Skin Smoothing, Smoothing Mix, and the Softness of the color mask as per your requirements.![Skin_Smoother_Effect_6](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Finally, click on Add Shape Mask, two circles will appear on the image. Adjust the covering area of both circles for Shape Mask 1 to add a smiling face.![Skin_Smoother_Effect_7](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_7.png)
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: How to Smooth Skin in Filmora?
 
 Wondershare Filmora features advanced tuning tools and a variety of video filters and overlays. Learn how to smooth skin or beautify your face in the video with this advanced video-editing software.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Open Filmora, open New Project and click Import to load your videos to the timeline.
 2. Double click on the video to open the editing window. Open the Color panel and adjust parameters according to your preference such as white balance, tone, and 3D LUT, etc.
@@ -181,10 +169,16 @@ There are two methods to add a skin smooth effect with FCPX: By using in-built s
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -202,18 +196,20 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-a-beginners-blueprint-for-effective-facebook-analytics-for-2024/"><u>[Updated] A Beginner's Blueprint for Effective Facebook Analytics for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adapt-calc-app-for-night-time-viewing-dark-mode-tutorial/"><u>Adapt Calc App for Night-Time Viewing: Dark Mode Tutorial</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/change-location-on-yik-yak-for-your-xiaomi-civi-3-disney-100th-anniversary-edition-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Xiaomi Civi 3 Disney 100th Anniversary Edition to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-lava-yuva-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unmatched-smartphone-camera-apps-on-ios-and-android-devices/"><u>In 2024, Unmatched Smartphone Camera Apps on iOS & Android Devices</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-what-sets-final-cut-pro-apart-from-final-cut-express-in-2024/"><u>New What Sets Final Cut Pro Apart From Final Cut Express, In 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/trasformare-i-tuoi-file-webm-in-formato-ogv-gratuito-utilizzando-lutilita-di-movavi/"><u>Trasformare I Tuoi File WebM in Formato OGV Gratuito Utilizzando L'utilità Di Movavi</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-from-still-to-stunning-how-to-add-the-ken-burns-effect-to-your-videos/"><u>Updated 2024 Approved From Still to Stunning How to Add the Ken Burns Effect to Your Videos</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-streamline-your-workflow-40-essential-fcpx-keyboard-shortcuts/"><u>Updated In 2024, Streamline Your Workflow 40 Essential FCPX Keyboard Shortcuts</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-best-free-wmv-video-editors-you-need-to-try/"><u>Updated In 2024, The Best Free WMV Video Editors You Need to Try</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-time-lapse-video-editing-made-easy-top-software-freeandpaid/"><u>Updated Time-Lapse Video Editing Made Easy Top Software Free&Paid</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-top-rated-video-creation-tools-for-windows-10-for-2024/"><u>Updated Top-Rated Video Creation Tools for Windows 10 for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-superior-ff-videograbber-package-easy-and-reliable-for-2024/"><u>[New] Superior FF Videograbber Package - Easy and Reliable for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-vlc-screen-recorder-review/"><u>[Updated] VLC Screen Recorder Review</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-zte-nubia-flip-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset ZTE Nubia Flip 5G Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-no-expense-full-experience-the-fcp-way/"><u>In 2024, No Expense, Full Experience The FCP Way</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-a-guide-on-starting-private-live-streams-on-youtube/"><u>New 2024 Approved A Guide on Starting Private Live Streams on YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-drones-best-deals-today-for-2024/"><u>Premium Drones, Best Deals Today for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/prime-virtual-lecture-title-craftsman/"><u>Prime Virtual Lecture Title Craftsman</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-definitive-guide-to-fixing-a-non-launching-pacific-drive-quick-remedies/"><u>The Definitive Guide to Fixing a Non-Launching Pacific Drive – Quick Remedies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-empfehlung-fur-screen-recorder-auf-windows-1187-vollstandige-oder-selektive-aufnahme/"><u>Top Empfehlung Für Screen-Recorder Auf Windows 11/8/7: Vollständige Oder Selektive Aufnahme</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/unlock-your-creativity-microsoft-video-editor-for-windows-10-8-and-7-for-2024/"><u>Unlock Your Creativity Microsoft Video Editor for Windows 10, 8, and 7 for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-best-free-video-editing-software-for-32-bit-windows/"><u>Updated 2024 Approved Best Free Video Editing Software for 32-Bit Windows</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-best-of-the-web-vertical-video-editors-for-mobile-first-content/"><u>Updated 2024 Approved Best of the Web Vertical Video Editors for Mobile-First Content</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-10-simple-yet-effective-neon-text-generators-online/"><u>Updated In 2024, 10 Simple Yet Effective Neon Text Generators Online</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-nikon-video-editing-essentials-software-tips-and-best-practices/"><u>Updated In 2024, Nikon Video Editing Essentials Software, Tips, and Best Practices</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-unlock-the-power-of-freeze-frames-tips-and-tricks-for-video-editors/"><u>Updated In 2024, Unlock the Power of Freeze Frames Tips and Tricks for Video Editors</u></a></li>
 </ul></div>
 
