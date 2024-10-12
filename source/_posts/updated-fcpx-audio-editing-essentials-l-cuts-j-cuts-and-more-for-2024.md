@@ -1,7 +1,7 @@
 ---
 title: Updated FCPX Audio Editing Essentials L-Cuts, J-Cuts, and More for 2024
-date: 2024-10-03T22:40:07.440Z
-updated: 2024-10-06T20:05:07.764Z
+date: 2024-10-08T16:09:41.391Z
+updated: 2024-10-12T16:16:50.436Z
 tags: 
   - video editing software
   - video editing
@@ -39,16 +39,10 @@ When you look at the above interface, you will see the basic phenomenon behind t
 Then, **what is a J cut in Final Cut Pro**? It is ultimately reverse or opposite of L-Cuts. Yes, the second clip's audio starts a while before the scene of the first video ends.
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Step-by-step Guide on Using L-Cuts and J-Cuts in Final Cut Pro X
@@ -82,10 +76,10 @@ In the case of Final Cut Pro **J-Cuts**, the process is reverse, where you need 
 When you look at the transition closely, you can see that it resembles the letter J.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Final Cut Pro X Keyboard Shortcuts for L-Cuts and J-Cuts
@@ -111,10 +105,10 @@ Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts a
 * Using timecode to add or subtract the present edit: press the “**Plus (+)**” or “**Minus (-)**” key with the timecode duration.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -124,10 +118,10 @@ Are you wondering and puzzled that you are a popular Final Cut Pro X user but we
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -145,22 +139,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-illuminating-emotions-an-hdr-portraitists-guide/"><u>[New] 2024 Approved Illuminating Emotions An HDR Portraitist's Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bioshock-2-enhanced-remaster-update-fixing-glitches-and-improving-experience/"><u>Bioshock 2: Enhanced Remaster Update - Fixing Glitches & Improving Experience</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/blur-out-not-into-discovering-photo-clarity-web-tools/"><u>Blur Out, Not Into! Discovering Photo Clarity Web Tools</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-google-pixel-8-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Google Pixel 8 Pro FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-nokia-c32-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Nokia C32 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-16-best-kickstart-videos-on-youtube-for-visibility-boost/"><u>In 2024, 16 Best Kickstart Videos on YouTube for Visibility Boost</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For OnePlus 12R | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-oppo-k11-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Oppo K11 5G?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-4-must-have-tools-for-following-and-participating-in-twitter-hashtag-chats/"><u>The Ultimate Guide: 4 Must-Have Tools for Following and Participating in Twitter Hashtag Chats</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-audio-post-production-in-fcp-a-beginners-guide-to-pro-results/"><u>Updated 2024 Approved Audio Post-Production in FCP A Beginners Guide to Pro Results</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-fcpx-essentials-adding-a-skin-smoothing-effect-from-scratch/"><u>Updated 2024 Approved FCPX Essentials Adding a Skin Smoothing Effect From Scratch</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-fcpx-plugin-problems-heres-how-to-get-them-working-again/"><u>Updated 2024 Approved FCPX Plugin Problems? Heres How to Get Them Working Again</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-mp4-file-editor-for-mavericks-cut-merge-and-customize/"><u>Updated 2024 Approved MP4 File Editor for Mavericks Cut, Merge, and Customize</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-stop-motion-like-a-pro-expert-tips-and-techniques-for-instagram-success/"><u>Updated 2024 Approved Stop Motion Like a Pro Expert Tips and Techniques for Instagram Success</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-unleash-the-power-of-transitions-3-fcp-editing-essentials/"><u>Updated 2024 Approved Unleash the Power of Transitions 3 FCP Editing Essentials</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-animators-toolkit-8-essential-software-for-mac-and-windows/"><u>Updated In 2024, The Animators Toolkit 8 Essential Software for Mac and Windows</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-unify-your-visuals-a-step-by-step-color-matching-tutorial-for-powerdirector/"><u>Updated Unify Your Visuals A Step-by-Step Color Matching Tutorial for PowerDirector</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-list-of-10-vectors-stock-pics-websites/"><u>[New] The Ultimate List of 10 Vectors Stock Pics Websites</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-premier-vr-screens-producers/"><u>[Updated] 2024 Approved Premier VR Screens Producers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-ultimate-framework-perfecting-live-broadcasts-via-obs-and-zoom/"><u>[Updated] 2024 Approved The Ultimate Framework Perfecting Live Broadcasts via OBS & Zoom</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-transform-your-recording-experience-moving-past-fbx-methods/"><u>[Updated] 2024 Approved Transform Your Recording Experience Moving Past FBX Methods</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/constructing-captivating-conclusions/"><u>Constructing Captivating Conclusions</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/elite-selection-top-downloader-apps-for-vimeo-videos-for-2024/"><u>Elite Selection Top Downloader Apps for Vimeo Videos for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-rtx-2080-drivers-now-compatible-with-windows-10-and-11-systems/"><u>Get the Latest RTX 2080 Drivers Now! Compatible with Windows 10 & 11 Systems</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-excellent-10-drone-fleet-for-professional-photos-and-films/"><u>In 2024, Excellent 10-Drone Fleet for Professional Photos & Films</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-discover-the-best-free-and-paid-sony-vegas-alternatives-for-windows/"><u>New In 2024, Discover the Best Free and Paid Sony Vegas Alternatives for Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-meizu-21-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Meizu 21 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-anonymize-your-media-top-10-free-face-blurring-apps-for-pc-and-mobile/"><u>Updated 2024 Approved Anonymize Your Media Top 10 Free Face Blurring Apps for PC and Mobile</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-create-a-heartfelt-valentines-day-message-a-step-by-step-guide-for-2024/"><u>Updated Create a Heartfelt Valentines Day Message A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-from-video-to-live-photo-expert-recommended-apps-and-guides-for-2024/"><u>Updated From Video to Live Photo Expert-Recommended Apps and Guides for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-get-filmora-for-free-no-hidden-fees-or-malware-for-2024/"><u>Updated Get Filmora for Free No Hidden Fees or Malware for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-10-top-rated-image-to-video-creation-platforms/"><u>Updated In 2024, 10 Top-Rated Image to Video Creation Platforms</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-unleashing-the-power-of-lower-thirds-in-fcpx-video-editing/"><u>Updated In 2024, Unleashing the Power of Lower Thirds in FCPX Video Editing</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-rotate-videos-with-ease-top-10-free-tools-for-windows-mac-android-and-iphone-for-2024/"><u>Updated Rotate Videos with Ease Top 10 Free Tools for Windows, Mac, Android, and iPhone for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-best-virtualdub-replacements-for-video-editing-for-2024/"><u>Updated The Best Virtualdub Replacements for Video Editing for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-jaycut-guide-free-online-video-editing-for-beginners-and-pros/"><u>Updated The Ultimate Jaycut Guide Free Online Video Editing for Beginners and Pros</u></a></li>
 </ul></div>
 

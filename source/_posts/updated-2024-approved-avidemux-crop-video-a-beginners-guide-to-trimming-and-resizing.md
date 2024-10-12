@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Avidemux Crop Video A Beginners Guide to Trimming and Resizing
-date: 2024-09-29T21:23:53.213Z
-updated: 2024-10-06T16:09:02.195Z
+date: 2024-10-06T16:05:45.627Z
+updated: 2024-10-12T16:26:13.241Z
 tags: 
   - video editing software
   - video editing
@@ -114,50 +114,56 @@ Avidemux is a great piece of software, it lacks the polish of some of its commer
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 1**: Open a video that you want to edit. Go to “Import” and choose the file that you want to upload and put it in the Media Library.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-12.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2**: Select the "Crop and Zoom" icon in the Filmora editing tool.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3**: To alter the size of the crop frame, drag the pointer from any corner of your video preview window.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-6.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4**: When you've changed it to your liking, click the green "OK" button. As a result, you may effortlessly add or remove any element of a video clip on Filmora.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -175,17 +181,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-trimming-the-extras-a-practical-guide-to-instagram-video-edits-for-2024/"><u>[New] Trimming the Extras A Practical Guide to Instagram Video Edits for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-customizing-video-assets-for-instagram-mastery/"><u>2024 Approved Customizing Video Assets for Instagram Mastery</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-the-ultimate-guide-to-fisheye-camera-capabilities/"><u>2024 Approved The Ultimate Guide to Fisheye Camera Capabilities</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/cookiebot-enabled-enhancing-user-experience-with-smart-technology/"><u>Cookiebot-Enabled: Enhancing User Experience with Smart Technology</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-tecno-spark-10-4g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Tecno Spark 10 4G Phones with/without a PC</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-metaverse-meme-compendium-ideas-galore-for-2024/"><u>The Ultimate Metaverse Meme Compendium Ideas Galore for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-stop-mordhau-from-crashing-on-your-device/"><u>Ultimate Guide: Stop Mordhau From Crashing on Your Device</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-add-humor-to-your-videos-best-dubbing-apps/"><u>Updated 2024 Approved Add Humor to Your Videos Best Dubbing Apps</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-effortless-webm-to-mp3-conversion-top-10-converter-reviews-for-2024/"><u>Updated Effortless WebM to MP3 Conversion Top 10 Converter Reviews for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-guide-to-gopro-quik-and-its-pc-alternatives-for-video-editing-mastery-for-2024/"><u>Updated The Ultimate Guide to GoPro Quik & Its PC Alternatives for Video Editing Mastery for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-top-6-video-voiceover-tools-for-windows-free-to-try-for-2024/"><u>Updated Top 6 Video Voiceover Tools for Windows Free to Try for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/windows-11-on-screen-keyboard-management-a-quick-how-to/"><u>Windows 11 On-Screen Keyboard Management - A Quick How-To</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-sustainable-growth-developing-a-long-term-personal-brand-on-youtube/"><u>[New] In 2024, Sustainable Growth Developing a Long-Term Personal Brand on YouTube</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-face-fluidity-adding-dynamic-blur-to-photos-via-picsart/"><u>[Updated] 2024 Approved Face Fluidity Adding Dynamic Blur to Photos via Picsart</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-navigating-the-world-of-windows-11s-in-built-high-dynamic-range-feature/"><u>[Updated] In 2024, Navigating the World of Windows 11'S In-Built High Dynamic Range Feature</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-a-deep-dive-into-inshots-editing-proficiency/"><u>2024 Approved A Deep Dive Into InShot's Editing Proficiency</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-task-efficiency-through-gpt-3-insights/"><u>Enhancing Task Efficiency Through GPT-3 Insights</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-motorola-moto-g24-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Motorola Moto G24 Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-easy-ways-to-record-a-powerpoint-presentation/"><u>In 2024, Easy Ways to Record a PowerPoint Presentation</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-redmi-note-12t-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Xiaomi Redmi Note 12T Pro Lock Screen Password?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-oppo-find-x6-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Oppo Find X6 FRP Bypass</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/the-best-of-both-worlds-top-10-free-and-paid-fcpx-plugins-for-every-editor-for-2024/"><u>The Best of Both Worlds Top 10 Free and Paid FCPX Plugins for Every Editor for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/unleash-your-creativity-a-comprehensive-guide-to-video-editing-with-windows-movie-maker-for-2024/"><u>Unleash Your Creativity A Comprehensive Guide to Video Editing with Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-from-selfie-to-toon-top-rated-apps-for-cartoon-style-photos-for-2024/"><u>Updated From Selfie to Toon Top-Rated Apps for Cartoon-Style Photos for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-filmora-watermark-removal-free-and-paid-methods/"><u>Updated In 2024, Filmora Watermark Removal Free and Paid Methods</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-google-plays-top-picks-the-best-android-apps-around/"><u>Updated In 2024, Google Plays Top Picks The Best Android Apps Around</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-unlock-your-creativity-how-to-edit-mp4-videos-on-mac-and-windows-computers/"><u>Updated In 2024, Unlock Your Creativity How to Edit MP4 Videos on Mac and Windows Computers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-powerdirector-color-grading-unifying-your-video-clips-look/"><u>Updated PowerDirector Color Grading Unifying Your Video Clips Look</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-list-10-best-free-whiteboard-animation-programs-for-2024/"><u>Updated The Ultimate List 10 Best Free Whiteboard Animation Programs for 2024</u></a></li>
 </ul></div>
 

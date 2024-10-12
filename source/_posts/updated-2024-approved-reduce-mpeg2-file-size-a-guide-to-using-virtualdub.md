@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Reduce MPEG2 File Size A Guide to Using VirtualDub
-date: 2024-10-03T18:56:48.242Z
-updated: 2024-10-06T22:47:08.014Z
+date: 2024-10-07T16:22:46.644Z
+updated: 2024-10-12T16:19:44.107Z
 tags: 
   - video editing software
   - video editing
@@ -45,19 +45,20 @@ As shown above, select the XVID MPEG-4 codec and click Configure button to make 
 ![virtualdub mepg2 tutorial](https://images.wondershare.com/topic/video-editing/virtualdub-mpeg2-compress.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note**: If Compression is disable, switch to Full processing mode first in the Video menu.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 2: Set Up Audio Compression
 
@@ -73,16 +74,16 @@ Now it's the time to start processing your video, here is how:
 4. Click Save.
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -93,20 +94,13 @@ If you don't like VirtualDub MPEG-2 and would like to find some more powerful ed
 
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -124,21 +118,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-fast-and-efficient-snipping-on-a-pc-top-5-screen-grabber-reviews/"><u>[New] In 2024, Fast & Efficient Snipping on a PC Top 5 Screen Grabber Reviews</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-pixel-perfect-facebook-recording-tools-for-2024/"><u>[Updated] Pixel-Perfect Facebook Recording Tools for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-complete-process-to-tweak-your-instagram-voice-for-2024/"><u>[Updated] The Complete Process to Tweak Your Instagram Voice for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/10-pro-tips-for-effortless-android-recording/"><u>10 Pro Tips for Effortless Android Recording</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhancing-user-experience-with-the-power-of-cookiebot-technology/"><u>Enhancing User Experience with the Power of Cookiebot Technology</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-apple-iphone-12-pro-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From Apple iPhone 12 Pro?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y100-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y100 5G Bootloader Easily</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-the-ultimate-list-igtv-masterminds-and-maestros/"><u>In 2024, The Ultimate List IGTV Masterminds & Maestros</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-oppo-a1-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Oppo A1 5G Phones</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/the-ultimate-list-of-3d-video-software-you-cant-miss-for-2024/"><u>The Ultimate List of 3D Video Software You Cant Miss for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-and-fabulous-10-public-domain-image-websites/"><u>Updated 2024 Approved Free and Fabulous 10 Public Domain Image Websites</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-public-domain-video-heaven-top-sites-for-free-downloads/"><u>Updated 2024 Approved Public Domain Video Heaven Top Sites for Free Downloads</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-capture-your-best-moments-3-simple-video-game-recording-solutions/"><u>Updated In 2024, Capture Your Best Moments 3 Simple Video Game Recording Solutions</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-top-10-premiere-pro-transition-effects-to-elevate-your-edits/"><u>Updated Top 10 Premiere Pro Transition Effects to Elevate Your Edits</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-unleash-your-inner-toon-top-cartoonization-apps-for-mobile/"><u>Updated Unleash Your Inner Toon Top Cartoonization Apps for Mobile</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-upgrading-your-edit-why-final-cut-pro-outshines-final-cut-express/"><u>Updated Upgrading Your Edit Why Final Cut Pro Outshines Final Cut Express</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-simple-strategies-upside-down-video-rotation-via-vlc/"><u>[New] 2024 Approved Simple Strategies Upside-Down Video Rotation via VLC</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2023-8-most-viewed-videos-on-facebook-for-2024/"><u>[Updated] 2023 | 8 Most Viewed Videos on Facebook for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-5-vr-sets-elevating-uav-experience/"><u>[Updated] Ultimate 5 VR Sets Elevating UAV Experience</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/5-ways-to-record-webinar-for-free/"><u>5 Ways to Record Webinar for Free</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/assessing-risks-the-security-of-non-official-chatgpt-applications/"><u>Assessing Risks: The Security of Non-Official ChatGPT Applications</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-compelling-spotify-campaigns-a-practical-guide/"><u>In 2024, Crafting Compelling Spotify Campaigns A Practical Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-transforming-ideas-into-engaging-youtube-video-plans/"><u>In 2024, Transforming Ideas Into Engaging YouTube Video Plans</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-virtualdub-for-mac-for-2024/"><u>New VirtualDub for Mac for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-vn-video-editor-for-pc-a-short-and-sweet-review-for-2024/"><u>New VN Video Editor for PC A Short and Sweet Review for 2024</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-c32-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of C32</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/there-are-actually-many-free-avi-joiners-out-there-and-here-we-list-the-top-10-free-avi-joiners-for-you-for-2024/"><u>There Are Actually Many Free AVI Joiners Out There and Here We List the Top 10 Free AVI Joiners for You for 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-infinix-note-30-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Infinix Note 30.</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-streamline-your-mpeg2-videos-with-virtualdub-download/"><u>Updated 2024 Approved Streamline Your MPEG2 Videos with VirtualDub Download</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-gaming-on-a-budget-top-10-free-game-download-platforms-for-pc-and-android-for-2024/"><u>Updated Gaming on a Budget Top 10 Free Game Download Platforms for PC and Android for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-make-your-own-gif-loops-with-these-top-free-tools/"><u>Updated In 2024, Make Your Own GIF Loops with These Top Free Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-streamline-your-post-production-gopro-quik-for-macbook-tutorial/"><u>Updated In 2024, Streamline Your Post-Production GoPro Quik for MacBook Tutorial</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-ultimate-list-top-10-free-webm-video-editors-you-need-to-try/"><u>Updated In 2024, The Ultimate List Top 10 Free WebM Video Editors You Need to Try</u></a></li>
 </ul></div>
 

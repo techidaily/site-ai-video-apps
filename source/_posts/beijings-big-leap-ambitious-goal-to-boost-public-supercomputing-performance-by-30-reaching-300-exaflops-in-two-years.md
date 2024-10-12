@@ -1,7 +1,7 @@
 ---
 title: "Beijing's Big Leap: Ambitious Goal to Boost Public Supercomputing Performance by 30%%, Reaching 300 ExaFLOPS in Two Years"
-date: 2024-08-15T04:17:04.101Z
-updated: 2024-08-16T04:17:04.101Z
+date: 2024-10-09T16:07:43.380Z
+updated: 2024-10-12T16:14:48.065Z
 tags:
   - desktop
 categories:
@@ -61,14 +61,11 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
  But even at a much higher price, the Turbo Mini X and Streamplay X could be a very compelling combination. Users with limited desk space or those who just like the idea of a tiny desktop could get a lot of performance and flexibility with a very small footprint.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -77,8 +74,26 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/fast-forward-fame-insta-popularity-through-content/"><u>Fast Forward Fame Insta Popularity Through Content</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-canon-pixma-mg2522-driver-version-for-enhanced-functionality/"><u>Get the Newest Canon PIXMA MG2522 Driver Version for Enhanced Functionality</u></a></li>
+<li><a href="https://fox-info.techidaily.com/how-to-transfer-videos-and-photos-from-a-pc-to-an-iphone-for-2024/"><u>How to Transfer Videos and Photos From a PC to an iPhone for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-unlock-your-creative-potential-top-ipad-video-editors/"><u>In 2024, Unlock Your Creative Potential Top iPad Video Editors</u></a></li>
+<li><a href="https://article-posts.techidaily.com/insta-tips-for-enthusiasts-on-uploading-podcasts-for-2024/"><u>Insta-Tips for Enthusiasts on Uploading Podcasts for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-accessibility-inserting-captions-into-instagram-story-content/"><u>Mastering Accessibility: Inserting Captions Into Instagram Story Content</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-mp4-video-editor-for-pc-seamless-editing-on-windows-8/"><u>New 2024 Approved MP4 Video Editor for PC Seamless Editing on Windows 8</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-edit-like-a-pro-top-free-wmv-video-editors-for-2024/"><u>New Edit Like a Pro Top Free WMV Video Editors for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-best-android-video-editor-apps-for-chromebook/"><u>New In 2024, Best Android Video Editor Apps for Chromebook</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-best-free-avi-video-rotators-multi-platform-solutions-compared/"><u>New In 2024, Best Free AVI Video Rotators Multi-Platform Solutions Compared</u></a></li>
+<li><a href="https://windows11.techidaily.com/stopping-google-chrome-alerts-tips-for-windows/"><u>Stopping Google Chrome Alerts: Tips for Windows</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

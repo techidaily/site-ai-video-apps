@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Fade In, Fade Out Two Essential Audio Techniques in FCP
-date: 2024-08-15T04:16:46.637Z
-updated: 2024-08-16T04:16:46.637Z
+date: 2024-10-09T16:06:40.176Z
+updated: 2024-10-12T16:11:50.402Z
 tags: 
   - video editing software
   - video editing
@@ -65,13 +65,12 @@ You should remember that the fades appear at the beginning and the end of each c
 See more details on how to fade audio in Final Cut Pro from the following video.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Fade Music by using Fade Handles
 
 You have already learned how to find the fade handles on the screen. Now, you just have to manually drag the handle to the exact point from which you want the fade to begin or end. Just keep in mid this simple rule: fade handles at the beginning of a clip produce fade-in effects, whereas fade handles at the end give fade-out effects.
@@ -87,21 +86,32 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 **Step 3** **:** Now, you'll have to drag the fade handles of each clip to the exact points where you want the fade to start and finish.
 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
@@ -116,9 +126,6 @@ You can easily change the sound of your fades by modifying the default fade shap
 [](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -126,11 +133,31 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-twitching-videos-seamlessly-twitter-and-tumblr-guide-for-2024/"><u>[New] Twitching Videos Seamlessly Twitter & Tumblr Guide for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-top-8-youtube-ranks-expertly-navigating-with-key-tools/"><u>[Updated] In 2024, Top 8 YouTube Ranks Expertly Navigating with Key Tools</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/facilita-di-realizzare-un-timelapse-con-movavi-video-editor-tutorial-completo/"><u>Facilità Di Realizzare Un TimeLapse Con Movavi Video Editor - Tutorial Completo</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206395864-how-to-get-your-windows-11-touchpad-working-perfectly-again/"><u>How To Get Your Windows 11 Touchpad Working Perfectly Again.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-microphone-functionality-on-your-iphone-easily/"><u>How to Restore Microphone Functionality on Your iPhone Easily</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-samsung-galaxy-xcover-7-frp-bypass-by-drfone-android/"><u>In 2024, About Samsung Galaxy XCover 7 FRP Bypass</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-samsung-galaxy-xcover-7-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Samsung Galaxy XCover 7 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-honor-magic-6-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Honor Magic 6 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-elevate-your-edit-6-essential-adobe-premiere-pro-tips-and-techniques/"><u>New 2024 Approved Elevate Your Edit 6 Essential Adobe Premiere Pro Tips and Techniques</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-ultimate-list-slow-motion-video-editing-solutions/"><u>New 2024 Approved The Ultimate List Slow Motion Video Editing Solutions</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-6-popular-animated-emoji-video-effects/"><u>New 6 Popular Animated Emoji Video Effects</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-cool-video-editor-how-to-add-cool-effects-to-video/"><u>New In 2024, Cool Video Editor How to Add Cool Effects to Video</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-edit-without-limits-the-top-10-free-online-video-editors/"><u>New In 2024, Edit Without Limits The Top 10 Free Online Video Editors</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-fake-it-top-online-face-generators-for-creating-artificial-faces/"><u>New In 2024, Fake It! Top Online Face Generators for Creating Artificial Faces</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-game-downloads-the-top-10-websites-you-need-to-know/"><u>New In 2024, Free Game Downloads The Top 10 Websites You Need to Know</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-take-your-mobile-videos-to-the-next-level-top-vertical-editors/"><u>New In 2024, Take Your Mobile Videos to the Next Level Top Vertical Editors</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-top-5-free-mov-video-splicing-tools/"><u>New In 2024, The Top 5 Free MOV Video Splicing Tools</u></a></li>
+</ul></div>
+

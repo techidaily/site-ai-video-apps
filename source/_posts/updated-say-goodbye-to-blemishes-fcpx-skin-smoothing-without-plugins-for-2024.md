@@ -1,7 +1,7 @@
 ---
 title: Updated Say Goodbye to Blemishes FCPX Skin Smoothing Without Plugins for 2024
-date: 2024-10-01T17:42:12.241Z
-updated: 2024-10-06T18:08:06.933Z
+date: 2024-10-06T16:16:40.827Z
+updated: 2024-10-12T16:19:27.254Z
 tags: 
   - video editing software
   - video editing
@@ -80,6 +80,13 @@ Color Finale is a user-friendly, fine-tuned, and fully-featured professional ski
 
 ![color-finale-2](https://images.wondershare.com/filmora/article-images/top-10-free-fcpx-plugins-color-finale-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Price:** $152
 
 **Software Requirements:** FCP 10.4.8 - 10.5.1
@@ -112,14 +119,21 @@ Follow these steps to use the Skin Smooth 2 Plugin for Final Cut Pro X:
 2. Open the FCPX, go to Effects, and click on Skin Smoother 2\. A list of options will appear. Import the image or video you want to edit.![Skin_Smoother_Effect_4](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_4.png)
 3. To apply the skin-smoothing effect, click on Add Color Mask, and select the areas of the face where the color mask has to be added.![Skin_Smoother_Effect_5](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Adjust the Skin Smoothing, Smoothing Mix, and the Softness of the color mask as per your requirements.![Skin_Smoother_Effect_6](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_6.png)
 5. Finally, click on Add Shape Mask, two circles will appear on the image. Adjust the covering area of both circles for Shape Mask 1 to add a smiling face.![Skin_Smoother_Effect_7](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: How to Smooth Skin in Filmora?
@@ -128,25 +142,11 @@ Wondershare Filmora features advanced tuning tools and a variety of video filter
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Open Filmora, open New Project and click Import to load your videos to the timeline.
 2. Double click on the video to open the editing window. Open the Color panel and adjust parameters according to your preference such as white balance, tone, and 3D LUT, etc.
 3. Open the toolbar, click the Advanced Color Tuning icon, go to the advanced color tuning window, and adjust the white balance, color tint and temperature, HSL, 3D LUT, Vignette, and Light. If you are a beginner, try applying the present templates.
 4. To set a specific tone or beautify your video, open the Tools tab and click the Color Correction option to change the color tones.
 5. Open Effects and Transitions and select the skin smooth filter. Hover the cursor over the filter and click the plus icon in the middle to add that effect. You can also apply the effect to the whole clip by dragging and dropping it directly onto the video clip.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 5: How to smooth skin in Adobe Pro?
 
@@ -169,10 +169,10 @@ There are two methods to add a skin smooth effect with FCPX: By using in-built s
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -190,19 +190,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-moziscreen-plugins-for-firefox/"><u>[New] In 2024, MoziScreen Plugins for Firefox</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-techniques-in-archiving-web-based-music-tracks/"><u>[New] In 2024, Techniques in Archiving Web-Based Music Tracks</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-uploading-youtube-vids-seamlessly-on-instagram/"><u>[New] Uploading YouTube Vids Seamlessly on Instagram</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-essential-technique-screen-recording-on-the-go/"><u>[Updated] 2024 Approved The Essential Technique Screen Recording on the Go</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-optimize-zoom-performance-top-three-tactical-approaches/"><u>[Updated] Optimize Zoom Performance Top Three Tactical Approaches</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-funny-facades-top-quality-free-meme-files/"><u>2024 Approved Funny Facades Top-Quality, FREE Meme Files</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-groundbreaking-screenplays-in-8-movie-categories/"><u>In 2024, Groundbreaking Screenplays in 8 Movie Categories</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-vn-video-editor-pc-edition-a-brief-inspection-for-2024/"><u>New VN Video Editor PC Edition A Brief Inspection for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-best-online-photo-and-video-collage-makers/"><u>Updated 2024 Approved Best Online Photo and Video Collage Makers</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-list-of-10-image-to-video-makers-online/"><u>Updated 2024 Approved The Ultimate List of 10 Image to Video Makers Online</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-watermark-free-video-editing-the-top-10-free-online-options/"><u>Updated 2024 Approved Watermark-Free Video Editing The Top 10 Free Online Options</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-unleash-the-power-of-slow-mo-top-10-video-players/"><u>Updated In 2024, Unleash the Power of Slow Mo Top 10 Video Players</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-which-software-is-best-for-logo-animation-having-a-great-animated-logo-can-be-a-great-strategy-to-engage-your-audience-here-are-over-11-best/"><u>Updated In 2024, Which Software Is Best for Logo Animation? Having a Great Animated Logo Can Be a Great Strategy to Engage Your Audience. Here Are over 11 Best Logo Animation Makers and Making Tips for You</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-innovation-in-action-reviewing-vidmas-new-screen-recording-features/"><u>[New] Innovation in Action? Reviewing Vidma's New Screen Recording Features</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-taxonomy-of-video-and-film-capture-systems/"><u>[New] Taxonomy of Video and Film Capture Systems</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-key-to-captivating-audiences-crafting-fb-slideshows-for-2024/"><u>[New] The Key to Captivating Audiences Crafting FB Slideshows for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-expert-mac-system-for-high-definition-screen-plus-audio-recording/"><u>[Updated] 2024 Approved Expert Mac System for High Definition Screen + Audio Recording</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-enhancing-your-video-experience-a-guide-to-using-logitech-webcam/"><u>2024 Approved Enhancing Your Video Experience - A Guide to Using Logitech Webcam</u></a></li>
+<li><a href="https://fox-that.techidaily.com/imessage-not-working-here-are-10-ways-to-restore-your-iphone-texting-capabilities/"><u>IMessage Not Working? Here Are 10 Ways to Restore Your iPhone Texting Capabilities</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-survivals-tightrope-ranking-the-top-8-zombie-adventures/"><u>In 2024, Survival's Tightrope Ranking the Top 8 Zombie Adventures</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-the-perfect-match-download-drivers-for-logitech-g203-on-windows-os-versions/"><u>Installing the Perfect Match: Download Drivers for Logitech G203 on Windows OS Versions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/stay-active-with-the-best-motion-tracking-apps-on-android-and-ios-for-2024/"><u>Stay Active with the Best Motion Tracking Apps on Android and iOS for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/unleash-your-creativity-avi-editor-for-windows-8-with-advanced-features-for-2024/"><u>Unleash Your Creativity AVI Editor for Windows 8 with Advanced Features for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-no-more-jitters-the-top-free-online-video-stabilizers-for-smoother-videos/"><u>Updated 2024 Approved No More Jitters The Top Free Online Video Stabilizers for Smoother Videos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-unlock-smooth-conversions-top-10-free-4k-video-converters/"><u>Updated 2024 Approved Unlock Smooth Conversions Top 10 Free 4K Video Converters</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-create-a-film-on-mac-a-step-by-step-guide-for-2024/"><u>Updated Create a Film on Mac A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-say-goodbye-to-sideways-videos-16-free-avi-video-rotators-for-every-situation/"><u>Updated In 2024, Say Goodbye to Sideways Videos 16 Free AVI Video Rotators for Every Situation</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-streamline-your-movie-collection-how-to-convert-dvds-to-digital-formats/"><u>Updated In 2024, Streamline Your Movie Collection How to Convert DVDs to Digital Formats</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-s-best-free-mkv-editors-for-cutting-and-trimming/"><u>Updated S Best Free MKV Editors for Cutting and Trimming</u></a></li>
+<li><a href="https://win-able.techidaily.com/zombie-army-4-on-pc-now-stable-after-fixing-the-infamous-game-crash/"><u>Zombie Army 4 on PC Now Stable After Fixing the Infamous Game Crash</u></a></li>
 </ul></div>
 
