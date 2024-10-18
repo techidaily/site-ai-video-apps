@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved The Ultimate Adobe Premiere Shortcut Guide 20 Essentials
-date: 2024-08-09T07:14:02.734Z
-updated: 2024-08-10T07:14:02.734Z
+date: 2024-10-11T21:31:10.673Z
+updated: 2024-10-17T21:31:40.670Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5
 
 # Top 20 Adobe Premiere Shortcuts You Will Use When Editing Video Files
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -33,18 +30,12 @@ thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5
 
  This is a basic tutorial about Adobe Premiere, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/), which is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
  This is achieved by going through the path edit > keyboard shortcuts as below:
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shortcut-1.jpg)
 
  Before we step into the most useful shortcuts, a brief note here on the different platforms, although I'm sure most readers are aware. The PC and Mac versions of the software do share the same basic shortcuts with the one caveat that where the PC uses the Control and Alt keys, the Mac has Command and Option keys instead. Other than that the functionality is the same. I'll include the shortcuts for both platforms with each to make referencing easier.
@@ -84,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5
 * Step Back - Left Arrow
 * Step Forward - Right Arrow
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-2.jpg)
 
 #### 4 Timeline Panel
@@ -109,9 +97,6 @@ thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5
 * Arc Tool - A
 * Ellipse Tool – E
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-4.jpg)
 
 #### 5 Navigation within a clip
@@ -142,9 +127,6 @@ thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5
 
  To get the best from this it is necessary to set some options beforehand, as Play Around plays the portion of the timeline around the Playhead, and where it plays is dependent on the options set. This is done through the menu via edit > preferences > playback, here I have preroll and postroll set to 4 seconds, meaning that it plays 4 seconds prior and following the point where the playhead is placed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-5.jpg)
 
  In addition, turning on looping for this can help to fine tune edits.
@@ -225,11 +207,40 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-decoding-the-mechanics-of-obtaining-facebooks-badge-of-trust/"><u>[New] 2024 Approved Decoding the Mechanics of Obtaining Facebook's Badge of Trust</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-how-to-record-gameplay-on-xbox-one/"><u>[New] How to Record Gameplay on Xbox One</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-mastering-the-art-of-minecraft-gameplay-capture/"><u>[New] In 2024, Mastering the Art of Minecraft Gameplay Capture</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-honor-70-lite-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Honor 70 Lite 5G PC | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-vivo-g2-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Vivo G2 Phone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Infinix Smart 7 HD? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-samsung-galaxy-f54-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Samsung Galaxy F54 5G Phones</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-unlock-canon-footage-a-step-by-step-video-editing-guide/"><u>In 2024, Unlock Canon Footage A Step-by-Step Video Editing Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/keeping-your-radeon-rx-590-at-peak-performance-free-driver-downloads-and-installation-tips-windows/"><u>Keeping Your Radeon RX 590 at Peak Performance: Free Driver Downloads & Installation Tips (Windows)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/make-a-statement-with-these-online-photo-and-video-collage-tools-for-2024/"><u>Make a Statement with These Online Photo and Video Collage Tools for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-wevideo-the-simple-way-to-make-professional-looking-videos/"><u>New 2024 Approved WeVideo The Simple Way to Make Professional-Looking Videos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-a-picture-in-picture-effect-is-a-very-popular-effect-in-that-it-allows-us-to-see-two-images-at-once-this-tutorial-shows-you-how-to-create-this-in-fcp-fo/"><u>New A Picture-in-Picture Effect Is a Very Popular Effect in that It Allows Us to See Two Images at Once. This Tutorial Shows You How to Create This in FCP for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-discover-the-best-video-editing-apps-for-kids-a-comprehensive-list-for-2024/"><u>New Discover the Best Video Editing Apps for Kids A Comprehensive List for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-discover-the-best-3d-video-production-tools-for-stunning-visuals/"><u>New In 2024, Discover the Best 3D Video Production Tools for Stunning Visuals</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-pro-level-hd-video-editing-top-5-software-options/"><u>New In 2024, Pro-Level HD Video Editing Top 5 Software Options</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-best-online-resources-for-flipping-videos/"><u>New In 2024, The Best Online Resources for Flipping Videos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-list-10-best-cartoon-video-maker-apps-for-android-and-iphone/"><u>New In 2024, The Ultimate List 10 Best Cartoon Video Maker Apps for Android & iPhone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/ranking-nations-by-their-number-of-french-communicators/"><u>Ranking Nations by Their Number of French Communicators</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solution-handling-the-absence-of-mfc42dll-file-errors/"><u>Step-by-Step Solution: Handling the Absence of mfc42.dll File Errors</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: Updated Get Retro with FCP Simple VHS Effect Techniques for 2024
-date: 2024-08-09T07:14:48.635Z
-updated: 2024-08-10T07:14:48.635Z
+date: 2024-10-14T17:19:18.562Z
+updated: 2024-10-18T14:17:26.800Z
 tags: 
   - video editing software
   - video editing
@@ -34,9 +34,6 @@ In this article, you will learn how to add VHS effects to a video in Final Cut P
 
 A VHS effect is a textured, warped effect that looks like an outdated analog videotape cassette recording. Adding this antique effect to an edit adds a fantastic old-school discord. How often should you utilize these glitchy and vintage effects? When the mood you're trying to create begs for some visual or aural distortion. Perhaps you need to recreate the appearance of discovered film or express a dramatic flashback to a character's history. In any case, VHS tapes and glitch effects are pretty trendy right now.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![vhs_effect](https://images.wondershare.com/filmora/images/final-cut-pro/vhs_effect.jpg)
 
 If you want to know how to add VHS effect to your videos without any plugins in Final Cut Pro X, then follow these steps:
@@ -51,28 +48,18 @@ Drag and drop your footage in the timeline of FCPX. After this, scale your proje
 
 Open the Effects, and in the search bar, type Add Noise. Select the Add Noise effect and drop it on your footage.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add_noise_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/add_noise_in_final_cut_pro.jpg)
 
 Go to the option Blend Mode and select Color Dodge. Now click on Type and select Gaussian Noise (Film Grain). In the Amount section, add the amount between 0.23-0.32.
 
 Now go back to the search bar and type Gaussian Blur. Select that and drop it to your footage in FCPX.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![add_guassian_blur_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/add_guassian_blur_in_final_cut_pro.jpg)
 
 Go to the Gaussian settings and set the amount to roughly 2.0-3.0.
 
 Go back to the search bar in FCPX and type Sharpen. Select the Sharpen effect and drop it to your footage in Final Cut Pro.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![add_sharpness_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/add_sharpness_in_final_cut_pro.jpg)
 
 Set the amount of sharpness to around 8.0-9.0.
@@ -85,9 +72,6 @@ Set the amount of the effect to roughly around 8.0-9.0\. In the option, Static T
 
 Now go to the search bar again and type Prism. Select the prism effect and drop it to your footage in Final Cut Pro. This will add some 3D effect to your footage.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![add_prism_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/add_prism_effect_in_final_cut_pro.jpg)
 
 Set the amount to around 13.0-14.0.
@@ -108,17 +92,18 @@ If you want to quickly add VHS effect to your video, you can use Filmora X. You 
 
 First, if you haven't got Filmora, click here to download it for free!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 To do VHS effects quickly, follow these steps:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select_sample_color](https://images.wondershare.com/filmora/images/final-cut-pro/select_sample_color.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Open Wondershare Filmora on your device.
 * Go to the Media tab and select Sample Colors.
@@ -135,17 +120,11 @@ Go to Effect, and in the search bar, type **VHS**.
 * Drag and drop the VHS Distortion Bad effect on the timeline above the text layer.
 * Double click on it and change the Alpha value to 25 and click Ok.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![add_vhs_distortion_bad](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion_bad.jpg)
 
 * Now drag the VHS Distortion effect and place it above the previous one.
 * Double click on it and change its Alpha value to 35 and click Ok.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add_vhs_distortion](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion.jpg)
 
 * Drag and Place the VHS Rewind effect above the previous layer.
@@ -159,10 +138,14 @@ Go to Effect, and in the search bar, type **VHS**.
 * Stretch it all the way across.
 * Change its Alpha value to 25 and click Ok.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![add_strong_glitch](https://images.wondershare.com/filmora/images/final-cut-pro/add_strong_glitch.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Search for **Chromatic Aberration effect**.
 
@@ -190,6 +173,13 @@ You can play around with these values to change the intensity of the VHS effect.
 
 Still not enough? See this article: [The Best Glitch Video Editors.](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part3: Where to find the best plugins or templates for the VHS effect?
 
 If you want to recreate some of that analog feel to your video clip with plugins or templates, you can use the following recommendations to give your film a VHS effect:
@@ -210,9 +200,6 @@ A resources center built for Filmora. You can find all the materials and effects
 
 Click to learn more about [glitch effect in Filmstock.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![filmstock-effects](https://images.wondershare.com/filmora/images/final-cut-pro/filmstock-effects.png)
 
 **Stories – Glitch & VHS Edition**
@@ -229,13 +216,18 @@ The appearance and feel of your production may be significantly enhanced by usin
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -243,3 +235,23 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-dull-to-dynamic-an-in-depth-guide-to-hue-mastery/"><u>[Updated] From Dull to Dynamic An In-Depth Guide to Hue Mastery</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-youtube-snippets-guide-essential-info-inside-in-2024/"><u>[Updated] YouTube Snippets Guide Essential Info Inside, In 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-polity-playlists-the-premier-gamified-elections/"><u>2024 Approved Polity Playlists The Premier Gamified Elections</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/futures-palette-the-best-sci-fi-films-crafting-virtual-worlds/"><u>Future's Palette The Best Sci-Fi Films Crafting Virtual Worlds</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-14-pro-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-10-best-free-apps-for-blurring-faces-in-photos-and-videos-how-to-blur-faces-in-video-beginners-guide/"><u>New 2024 Approved 10 Best Free Apps for Blurring Faces in Photos and Videos How to Blur Faces in Video (Beginners Guide)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-5-fantastic-free-online-video-editors-like-imovie-updated-2023/"><u>New 2024 Approved 5 Fantastic Free Online Video Editors Like iMovie (Updated 2023)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-compress-videos-without-breaking-the-bank-5-best-free-ios-apps/"><u>New 2024 Approved Compress Videos Without Breaking the Bank 5 Best Free iOS Apps</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-discover-the-power-of-wax-a-free-video-editor-tutorial/"><u>New 2024 Approved Discover the Power of Wax A Free Video Editor Tutorial</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-from-fast-to-slow-mastering-the-art-of-slow-motion-in-windows-live-movie-maker/"><u>New 2024 Approved From Fast to Slow Mastering the Art of Slow Motion in Windows Live Movie Maker</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-no-cost-no-problem-the-5-best-free-online-video-mergers/"><u>New 2024 Approved No Cost, No Problem The 5 Best Free Online Video Mergers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-zero-cost-4k-video-conversion-top-10-solutions/"><u>New 2024 Approved Zero-Cost 4K Video Conversion Top 10 Solutions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-realme-gt-3-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Realme GT 3 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-call-of-duty-ww2-error-4220-for-smoother-gaming/"><u>Troubleshooting Call of Duty WW2 Error 4220 for Smoother Gaming</u></a></li>
+</ul></div>
+

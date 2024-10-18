@@ -1,7 +1,7 @@
 ---
 title: Updated Discover the Power of Wax A Free Video Editor Tutorial for 2024
-date: 2024-08-09T07:14:10.280Z
-updated: 2024-08-10T07:14:10.280Z
+date: 2024-10-10T20:05:16.675Z
+updated: 2024-10-18T09:51:32.801Z
 tags: 
   - video editing software
   - video editing
@@ -18,14 +18,6 @@ thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f
 
 # Wax - How to Use Free Video Editor Wax to Edit Videos
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -40,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f
 
  Note: If you think Wax is something complicated, you can turn to [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which enables you to edit videos with separate tracks and add transitions to your videos, finally, convert your video to any video format you like.Download the free trial version of Wondershare Filmora (originally Wondershare Video Editor) (Windows/Mac) below.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -51,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f
 
  Download Wax and install it first. Run the software and Load Media Files by right-clicking on MediaPool panel. But this doesn't finish. To edit video, you need to drag-n-drop desired media files to the timeline. Then switch to Video Plugins to drag-n-drop Quick 3d plugin to the just added track.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![wax free video editor](https://images.wondershare.com/topic/video-editing/wax.jpg)
 
  As shown above, click the triangle next to Quick 3d, you would see many options such as Posx, Posz, Cropleft, Cropbottom, etc. Please see detailed instructions to make editing in Wax:
@@ -70,25 +56,16 @@ thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f
 
  Press F3 or click the Project Settings button in the tool bar to bring up the dialog. There, specify the file name, save path and video options, including video dimensions, frame rate, and click OK.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![how to use wax](https://images.wondershare.com/topic/video-editing/wax-settings.jpg)
 
 #### 3. Render AVI video
 
  Click the green arrow button on the tool bar to start saving video to specified path in the project settings. A few minutes later, you will get the edited video.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![wax video editing](https://images.wondershare.com/topic/video-editing/wax-render.jpg)
 
  To be concluded, this is just the beginning Wax tutorial. You will find more features while using it. Just download Wax and have a try.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -97,11 +74,38 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-engaging-audiences-through-text-a-comprehensive-video-guide/"><u>[New] Engaging Audiences Through Text A Comprehensive Video Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-mr-beast-net-worth-overview/"><u>[Updated] 2024 Approved Mr. Beast Net Worth Overview</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-samsung-galaxy-s8-changes-high-definition-viewing/"><u>[Updated] How Samsung Galaxy S8 Changes High-Definition Viewing</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-effortless-guide-to-adding-banners-on-gaming-channels/"><u>[Updated] In 2024, Effortless Guide to Adding Banners on Gaming Channels</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-search-of-alternatives-to-vlc-media-player/"><u>[Updated] In Search of Alternatives to VLC Media Player</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-mastering-youtubes-defense-confronting-critics/"><u>[Updated] Mastering YouTube's Defense Confronting Critics</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-prime-picks-easy-youtube-template-downloads/"><u>[Updated] Prime Picks Easy YouTube Template Downloads</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sprint-through-style-speedy-tips-for-enhancing-photos-in-windows-app/"><u>2024 Approved Sprint Through Style Speedy Tips for Enhancing Photos in Windows App</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-unleash-your-artistry-top-10-music-video-creation-services/"><u>In 2024, Unleash Your Artistry Top 10 Music Video Creation Services</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-best-in-class-text-animation-solutions/"><u>New 2024 Approved Best-in-Class Text Animation Solutions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-create-stunning-videos-best-collage-apps-for-ios-devices/"><u>New 2024 Approved Create Stunning Videos Best Collage Apps for iOS Devices</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-elevate-your-gaming-content-best-free-video-editing-software/"><u>New 2024 Approved Elevate Your Gaming Content Best Free Video Editing Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-maintain-anonymity-face-blurring-features-in-leading-video-editors/"><u>New 2024 Approved Maintain Anonymity Face Blurring Features in Leading Video Editors</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-os-x-mavericks-mp4-editing-software-top-picks/"><u>New 2024 Approved OS X Mavericks MP4 Editing Software Top Picks</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-final-cut-pro-x-captioning-a-step-by-step-guide/"><u>New In 2024, Final Cut Pro X Captioning A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-guide-to-mp4-video-tag-editors/"><u>New In 2024, The Ultimate Guide to MP4 Video Tag Editors</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-10-android-collage-designers-revealed/"><u>Top 10 Android Collage Designers Revealed</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

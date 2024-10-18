@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, FCPX Essentials Working with Freeze Frames and Slow Motion Video
-date: 2024-08-09T07:14:20.608Z
-updated: 2024-08-10T07:14:20.608Z
+date: 2024-10-17T00:46:21.697Z
+updated: 2024-10-18T13:11:31.927Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 
 # Final Cut Pro X: Freeze-Frames and Slow Motion
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -51,9 +48,6 @@ This creates a two-second freeze-frame at the position of the playhead.
 
 Adjust the duration of the frame by trimming the edge; just like any other clip. Here, for example, I'm making the duration of the freeze-frame 11 frames shorter.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![freeze frames in FCP X](https://images.wondershare.com/multimedia/speed004.jpg)
 
 In case you were wondering, this is what the freeze looks like. It freezes the flight of the hummingbird in the middle of playback, allowing us to add graphics or other text then resume the action as though nothing had happened.
@@ -66,16 +60,10 @@ So, here's another way to do this.
 
 Put the playhead (or skimmer, but I prefer the playhead) on the frame you want to freeze, select the clip, then type Shift+F.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![Playhead](https://images.wondershare.com/multimedia/speed005.jpg)
 
 This locates the source clip in the Browser, selects both the Browser and the clip, and matches the position of the In, Out, and playhead.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![match clips](https://images.wondershare.com/multimedia/speed006.jpg)
 
 Now, with the Browser selected, type Option+F. This creates a freeze-frame of the Browser clip and places it at the location of the playhead as a connected clip in the Timeline.
@@ -88,9 +76,6 @@ I use both these techniques in many different projects.
 
 A Hold Frame is similar to an in-line still frame, but with more flexibility.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![hold frame](https://images.wondershare.com/multimedia/speed013.jpg)
 
 Put the playhead (or skimmer) on the frame you want to hold. Then, Then, using either Modify > Retime or the "Smurf-on-a-headset" Toolbar icon, choose Hold Frame (or type: Shift+H).
@@ -99,9 +84,6 @@ Put the playhead (or skimmer) on the frame you want to hold. Then, Then, using e
 
 This displays the orange Retime editor bar above the clip, with a small red portion indicating the Hold frame.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![create hold frames](https://images.wondershare.com/multimedia/speed015.jpg)
 
 Change the duration of the Hold frame by dragging the small thumb at the right end of the red bar.
@@ -110,9 +92,6 @@ Change the duration of the Hold frame by dragging the small thumb at the right e
 
 Add a speed ramp transition at the end of the Hold frame by clicking the downward-pointing arrow next to the word "Hold" in the Retime Editor.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![speed018](https://images.wondershare.com/multimedia/speed018.jpg)
 
 To change the actual frame being held, double-click the bar icon to the LEFT of the red Hold section and choose Source Frame (Edit). This allows you to slide the Hold frame selection left or right.
@@ -121,9 +100,6 @@ NOTE: Changing the source frame is a feature that I like a LOT!
 
 #### 3\.  SLOW (or FAST) MOTION
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fast/slow motion](https://images.wondershare.com/multimedia/speed007.jpg)
 
 We use slow-motion to show events that are too fast for the unaided eye to see. And fast motion to speed up very slow events. Both of these effects use what's called a "constant speed change," where the entire clip changes by the same amount - either faster or slower.
@@ -171,9 +147,6 @@ You will get the smoothest speed changes when the percentage you choose divides 
 
 There is one more setting to consider when slowing a clip. (This does not apply when creating fast motion.)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![speed012](https://images.wondershare.com/multimedia/speed012.jpg)
 
 Using, again, either Modify > Retime or the "Smurf" menu, select Video Quality.
@@ -198,9 +171,6 @@ This is a basic tutorial about Apple Final Cut Pro X, a professional video editi
 
 Whether you want your clips to speed up, slow down or just plain stop, Final Cut Pro X makes the entire process easy.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -209,11 +179,37 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-key-strategies-for-recruiting-superior-video-artists/"><u>[New] Key Strategies for Recruiting Superior Video Artists</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-link-sounds-to-visual-elements-in-ppt/"><u>[Updated] In 2024, Link Sounds to Visual Elements in PPT</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-mastering-close-up-web-views-on-screen/"><u>[Updated] Mastering Close-Up Web Views on Screen</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-explore-mp4-recording-tools-today/"><u>2024 Approved Explore MP4 Recording Tools Today</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-creativity-with-free-audio-effects-online-in-2024/"><u>Boost Creativity with Free Audio Effects Online, In 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-future-proofing-filmmaking-with-green-tools/"><u>In 2024, Future-Proofing Filmmaking with Green Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-optimal-mkv-watcher-for-laptops/"><u>In 2024, Optimal MKV Watcher for Laptops</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/mobile-reaction-video-creation-top-tools-and-apps-for-2024/"><u>Mobile Reaction Video Creation Top Tools and Apps for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-best-free-online-video-cutters-top-picks/"><u>New 2024 Approved Best Free Online Video Cutters Top Picks</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-ultimate-guide-to-splitting-videos-in-windows-live-movie-maker-2023-edition/"><u>New 2024 Approved The Ultimate Guide to Splitting Videos in Windows Live Movie Maker (2023 Edition)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-ultimate-list-of-mac-video-metadata-editors-top-picks/"><u>New 2024 Approved The Ultimate List of Mac Video Metadata Editors Top Picks</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-blur-hide-protect-the-ultimate-guide-to-face-blurring-in-video-for-2024/"><u>New Blur, Hide, Protect The Ultimate Guide to Face Blurring in Video for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-effortless-mp4-video-editing-tips-tricks-and-techniques-for-mac-and-windows-users/"><u>New In 2024, Effortless MP4 Video Editing Tips, Tricks, and Techniques for Mac and Windows Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-from-still-to-motion-the-8-best-tools-to-animate-your-photos/"><u>New In 2024, From Still to Motion The 8 Best Tools to Animate Your Photos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unbeatable-portable-amplifier-showcases-impressive-clarity-and-range-for-every-type-of-song-a-review-by-zdnet/"><u>Unbeatable Portable Amplifier Showcases Impressive Clarity & Range for Every Type of Song - A Review by ZDNET</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

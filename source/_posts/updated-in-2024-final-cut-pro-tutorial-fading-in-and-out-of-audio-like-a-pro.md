@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Final Cut Pro Tutorial Fading In and Out of Audio Like a Pro
-date: 2024-08-09T07:17:05.349Z
-updated: 2024-08-10T07:17:05.349Z
+date: 2024-10-16T10:03:23.087Z
+updated: 2024-10-18T07:15:51.955Z
 tags: 
   - video editing software
   - video editing
@@ -34,9 +34,6 @@ Creating a fade in or out effect in [Final Cut Pro](https://www.apple.com/final-
 
 This tutorial offers only the basics of the audio fading techniques in Apple Final Cut Pro X, which is a specialized video editing software used by professionals worldwide. If you are an amateur who is new to video editing, we suggest you begin with [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) (originally Wondershare Video Editor for Mac). It is a powerful yet easy-to-use software that is ideal for beginners. You can download the free trial version of Wondershare Filmora below.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 With this modern and extremely user-friendly tool, you'll find that applying effects like fade-in, fade-out, or crossfade to your audio clips is very easy.
@@ -53,9 +50,6 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 **Step 1** **:** First, you have to select the audio or the video clips with audio in the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
@@ -71,8 +65,12 @@ You should remember that the fades appear at the beginning and the end of each c
 See more details on how to fade audio in Final Cut Pro from the following video.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Fade Music by using Fade Handles
 
 You have already learned how to find the fade handles on the screen. Now, you just have to manually drag the handle to the exact point from which you want the fade to begin or end. Just keep in mid this simple rule: fade handles at the beginning of a clip produce fade-in effects, whereas fade handles at the end give fade-out effects.
@@ -87,19 +85,27 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 **Step 3** **:** Now, you'll have to drag the fade handles of each clip to the exact points where you want the fade to start and finish.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -112,10 +118,14 @@ You can easily change the sound of your fades by modifying the default fade shap
 
 [](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -123,11 +133,24 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-tutorial-on-utilizing-googles-automatic-speech-transcription/"><u>[New] Expert Tutorial on Utilizing Google's Automatic Speech Transcription</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-strategically-showcasing-achievements/"><u>[New] In 2024, Strategically Showcasing Achievements</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-must-have-filmmaking-tools-for-aspiring-youtubers/"><u>[Updated] Must-Have Filmmaking Tools for Aspiring YouTubers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-synergizing-social-networks-share-your-igtv-content/"><u>[Updated] Synergizing Social Networks Share Your IGTV Content</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/the-young-directors-handbook-teach-kids-to-make-their-own-movies-for-2024/"><u>The Young Directors Handbook Teach Kids to Make Their Own Movies for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/top-11-video-transcoding-tools-for-windows-11-desktop-and-web-solutions/"><u>Top 11 Video Transcoding Tools for Windows 11: Desktop & Web Solutions</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-10-premier-websites-to-access-high-quality-bgm-libraries/"><u>Updated 2024 Approved 10 Premier Websites to Access High-Quality BGM Libraries</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-breathtaking-4k-the-most-stunning-video-clips-you-need-to-see/"><u>Updated In 2024, Breathtaking 4K The Most Stunning Video Clips You Need to See</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-say-goodbye-to-blemishes-fcpx-skin-smoothing-without-plugins-for-2024/"><u>Updated Say Goodbye to Blemishes FCPX Skin Smoothing Without Plugins for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-whats-better-than-subtitle-edit-for-mac-explore-these-alternatives/"><u>Updated Whats Better Than Subtitle Edit for Mac? Explore These Alternatives</u></a></li>
+</ul></div>
+

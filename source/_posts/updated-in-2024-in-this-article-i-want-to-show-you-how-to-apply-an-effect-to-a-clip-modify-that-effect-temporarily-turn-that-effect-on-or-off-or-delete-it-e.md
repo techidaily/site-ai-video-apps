@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, In This Article, I Want to Show You How to Apply an Effect to a Clip, Modify that Effect, Temporarily Turn that Effect on or Off, or Delete It Entirely
-date: 2024-08-09T07:15:43.542Z
-updated: 2024-08-10T07:15:43.542Z
+date: 2024-10-13T20:30:17.195Z
+updated: 2024-10-18T14:56:08.629Z
 tags: 
   - video editing software
   - video editing
@@ -36,9 +36,6 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Apply Effects to Video in Final Cut Pro X
 
 * [Find and apply an effect](#part1)
@@ -54,24 +51,14 @@ Here is our clip - a fearsome polar bear.
 
 To apply an effect, first select the clip in the Timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx002.jpg "add effects in fcp")
 
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
 
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx004.jpg "add effects in fcp")
 
 Here, for example, I've selected the Blur category, with my cursor near the Gaussian blur effect. (Gaussian blur is the best effect to use when you want a clip to look blurry.)
@@ -99,18 +86,12 @@ Grab a slider and drag it to see what happens. For example, to make an image blu
 
 To temporarily disable an effect, without deleting it, click the blue box so that it turns gray.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx008.jpg "add effects in fcp")
 
 To enable an effect, click the gray box so it turns blue again.
 
 To delete an effect, click the name of the effect - in this example: Gaussian - and press the big Delete key.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx009.jpg "add effects in fcp")
 
 The effect will be deleted from the selected clip.
@@ -131,11 +112,31 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-a-new-take-on-favorite-movies-7-alternatives/"><u>[New] In 2024, A New Take on Favorite Movies - #7 Alternatives</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-teamwork-made-simple-the-ultimate-guide-to-8-schedulers-for-2024/"><u>[New] Teamwork Made Simple The Ultimate Guide to 8 Schedulers for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-explaining-the-freeze-photo-booth-film-flow-for-2024/"><u>[Updated] Explaining the Freeze Photo Booth Film Flow for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-transforming-spontaneitous-tunes-into-structured-youtube-playlists/"><u>2024 Approved Transforming Spontaneitous Tunes Into Structured YouTube Playlists</u></a></li>
+<li><a href="https://fox-making.techidaily.com/download-apowersofts-latest-update-the-new-version-40-of-streaming-audio-recorder/"><u>Download Apowersoft's Latest Update: The New Version 4.0 of Streaming Audio Recorder</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/metaverse-comedy-the-art-and-science-of-creating-viral-online-laughs-for-2024/"><u>Metaverse Comedy The Art & Science of Creating Viral Online Laughs for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-rated-quicktime-editors-free-and-easy-to-use/"><u>New 2024 Approved Top-Rated QuickTime Editors Free and Easy to Use</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-transition-like-a-pro-3-expert-techniques-in-final-cut-pro/"><u>New 2024 Approved Transition Like a Pro 3 Expert Techniques in Final Cut Pro</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-final-cut-pro-the-industry-standard-for-a-reason/"><u>New In 2024, Final Cut Pro The Industry Standard for a Reason</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-safe-and-secure-top-10plus-websites-to-download-games-online/"><u>New In 2024, Safe and Secure Top 10+ Websites to Download Games Online</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

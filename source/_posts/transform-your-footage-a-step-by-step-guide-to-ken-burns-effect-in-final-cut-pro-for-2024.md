@@ -1,7 +1,7 @@
 ---
 title: Transform Your Footage A Step-by-Step Guide to Ken Burns Effect in Final Cut Pro for 2024
-date: 2024-10-06T16:20:30.355Z
-updated: 2024-10-12T16:14:49.828Z
+date: 2024-10-11T06:06:01.163Z
+updated: 2024-10-18T01:01:08.837Z
 tags: 
   - video editing software
   - video editing
@@ -35,6 +35,13 @@ To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut,
 
 First, let’s talk about what Ken Burns is and why he has an effect named after him in Final Cut programs!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What is the Ken Burns Effect
 
 [Ken Burns](https://en.wikipedia.org/wiki/Ken%5FBurns%5Feffect) is a world-famous American documentary filmmaker. He is well known for producing documentaries that take a candid if somewhat old-world-feeling look into different worlds. He has covered Baseball, the Civil War, and other fascinating times and places. Arguably, he is best known for using archival footage as film footage. How does he do this? By using the Ken Burns Effect, of course.
@@ -42,13 +49,6 @@ First, let’s talk about what Ken Burns is and why he has an effect named after
 The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, slow pan, and scroll across archive photography and still film. This will enable you to substitute whole parts of the program you are making with photographs if you haven’t taken enough footage. It is commonly used in editing, particularly when making things like [wedding videos](https://tools.techidaily.com/wondershare/filmora/download/), which often feature lots of photos of the happy couple.
 
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Steps to Making the Ken Burns Effect Final Cut Pro
 
@@ -65,10 +65,16 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Ken Burns Customization
@@ -81,22 +87,15 @@ You can also customize the ken burns effects in Final Cut.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
@@ -127,6 +126,13 @@ The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places t
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -142,24 +148,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-cut-the-cord-with-youtube-mp3-conversion-tools/"><u>[New] In 2024, Cut the Cord with YouTube-MP3 Conversion Tools</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-tecno-pop-7-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Tecno Pop 7 Pro without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-great.techidaily.com/einleitung-in-die-medientragersicherstellung-ein-umfassender-leitfaden-fur-den-effektiven-datenspeichervorgang/"><u>Einleitung in Die Medienträgersicherstellung: Ein Umfassender Leitfaden Für Den Effektiven Datenspeichervorgang</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Vivo V30? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-realme-11-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Realme 11 5G Fingerprint Lock</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-samsung-galaxy-a23-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Samsung Galaxy A23 5G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/keepvid-problem-solved-optimizing-your-setup-for-flawless-video-downloads-now/"><u>KeepVid Problem Solved: Optimizing Your Setup for Flawless Video Downloads Now!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-intel-usb-30-drivers-free-download-for-windows-10-users/"><u>Latest Intel USB 3.0 Drivers - Free Download for Windows 10 Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-steps-for-addressing-dev-error-5573-in-call-of-duty-vanguard/"><u>Solution Steps for Addressing Dev Error 5573 in Call of Duty Vanguard</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-tips-reactivating-your-disrupted-discord-webcam-functionality/"><u>Step-by-Step Tips: Reactivating Your Disrupted Discord Webcam Functionality</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-kinemaster-for-mac-a-step-by-step-installation-tutorial/"><u>Updated 2024 Approved KineMaster for Mac A Step-by-Step Installation Tutorial</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-top-5-best-free-iphone-video-rotators/"><u>Updated 2024 Approved Top 5 Best Free iPhone Video Rotators</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-top-rated-online-trailer-editing-services/"><u>Updated 2024 Approved Top-Rated Online Trailer Editing Services</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-edit-large-videos-in-no-time-a-step-by-step-guide-for-mac-users-for-2024/"><u>Updated Edit Large Videos in No Time A Step-by-Step Guide for Mac Users for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-top-vlog-editing-tools-for-popular-platforms-free-and-paid-options/"><u>Updated In 2024, Top Vlog Editing Tools for Popular Platforms Free and Paid Options</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-mac-os-compatible-download-splice-video-editor-and-start-editing-for-2024/"><u>Updated Mac OS Compatible Download Splice Video Editor and Start Editing for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-make-music-videos-on-your-phone-to/"><u>Updated Make Music Videos on Your Phone To</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-revolutionize-your-job-search-best-video-resume-software-free-templates/"><u>Updated Revolutionize Your Job Search Best Video Resume Software (Free Templates)</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-list-5-best-hd-video-editing-tools-for-creators-for-2024/"><u>Updated The Ultimate List 5 Best HD Video Editing Tools for Creators for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/2018s-top-4-must-know-avi-editors-for-stunning-video-creations/"><u>2018'S Top 4 Must-Know AVI Editors for Stunning Video Creations</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-revolutionize-your-play-with-top-tips-for-ps4-gameplay-recording/"><u>2024 Approved Revolutionize Your Play with Top Tips for PS4 Gameplay Recording</u></a></li>
+<li><a href="https://win-best.techidaily.com/configurar-un-sistema-de-respaldo-automatico-con-aomei-backupper-guia-en-5-fases/"><u>Configurar Un Sistema De Respaldo Automático Con AOMEI Backupper: Guía en 5 Fases</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-pc-upgrade-install-surface-pro-4-drivers-in-windows/"><u>Efficient PC Upgrade: Install Surface Pro 4 Drivers in Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-transform-your-footage-essential-video-editing-skills-in-windows-movie-maker/"><u>New In 2024, Transform Your Footage Essential Video Editing Skills in Windows Movie Maker</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-say-goodbye-to-grainy-videos-top-resolution-enhancement-tools/"><u>New Say Goodbye to Grainy Videos Top Resolution Enhancement Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-stream-anything-to-chromecast-the-ultimate-video-format-guide-for-2024/"><u>New Stream Anything to Chromecast The Ultimate Video Format Guide for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-list-5-free-mov-video-merger-software-options-for-2024/"><u>New The Ultimate List 5 Free MOV Video Merger Software Options for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-top-rated-pc-intro-makers-free-and-paid-tools-online-and-offline-for-2024/"><u>New Top-Rated PC Intro Makers Free and Paid Tools Online & Offline for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/oppo-a18-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Oppo A18 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/smart-shopping-what-to-look-for-when-selecting-your-next-video-capturer/"><u>Smart Shopping: What to Look For When Selecting Your Next Video Capturer</u></a></li>
 </ul></div>
 

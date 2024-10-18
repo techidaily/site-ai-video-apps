@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Get Retro with FCP Simple VHS Effect Techniques
-date: 2024-08-09T07:13:49.573Z
-updated: 2024-08-10T07:13:49.573Z
+date: 2024-10-16T09:16:17.213Z
+updated: 2024-10-18T07:40:30.155Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/738343d11636524e97e883ecdfb55ee8c179338e8
 
 # Do VHS Effect with Final Cut Pro in the Right Way
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -33,16 +30,10 @@ Fortunately, you don't have to reshoot your video using an analog camera and tra
 
 In this article, you will learn how to add VHS effects to a video in Final Cut Pro X, how to use VHS video effects, and some common VHS filter choices to use in your next project, so keep reading:
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Part1: How to do VHS effect in FCPX?
 
 A VHS effect is a textured, warped effect that looks like an outdated analog videotape cassette recording. Adding this antique effect to an edit adds a fantastic old-school discord. How often should you utilize these glitchy and vintage effects? When the mood you're trying to create begs for some visual or aural distortion. Perhaps you need to recreate the appearance of discovered film or express a dramatic flashback to a character's history. In any case, VHS tapes and glitch effects are pretty trendy right now.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![vhs_effect](https://images.wondershare.com/filmora/images/final-cut-pro/vhs_effect.jpg)
 
 If you want to know how to add VHS effect to your videos without any plugins in Final Cut Pro X, then follow these steps:
@@ -93,20 +84,15 @@ Click on Exposure and adjust the Highlights, Midtones, and Shadow. Go to the Sat
 
 After your video is rendered, you will get the final results using the VHS filter in Final Cut Pro. Your video will look like it was made in a VCR Video format.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![final_result_of_vhs_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/final_result_of_vhs_effect_in_final_cut_pro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part2: How to do VHS effect in easy steps?
 
 If you want to quickly add VHS effect to your video, you can use Filmora X. You will have to add different effects and values to get the final results. You can use VHS effects on your lyric video, intro, outro, or any other video that you like by following the same process.
@@ -127,35 +113,37 @@ To do VHS effects quickly, follow these steps:
 * Drag and drop Credit 1 to your project timeline and pace it above the black image.
 * Stretch it all the way to the black image. Change all the text in it as you like.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![select_end_credits](https://images.wondershare.com/filmora/images/final-cut-pro/select_end_credits.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Go to Effect, and in the search bar, type **VHS**.
 
 * Drag and drop the VHS Distortion Bad effect on the timeline above the text layer.
 * Double click on it and change the Alpha value to 25 and click Ok.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![add_vhs_distortion_bad](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion_bad.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Now drag the VHS Distortion effect and place it above the previous one.
 * Double click on it and change its Alpha value to 35 and click Ok.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add_vhs_distortion](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion.jpg)
 
 * Drag and Place the VHS Rewind effect above the previous layer.
 * Change its Alpha value to 10 and click Ok.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![add_vhs_rewind](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_rewind.jpg)
 
  Now search for the **Strong Glitch effect**.
@@ -166,6 +154,13 @@ Go to Effect, and in the search bar, type **VHS**.
 
 ![add_strong_glitch](https://images.wondershare.com/filmora/images/final-cut-pro/add_strong_glitch.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Search for **Chromatic Aberration effect**.
 
 * Drag and drop it above the previous layer.
@@ -173,9 +168,6 @@ Search for **Chromatic Aberration effect**.
 * Double click on it.
 * Change its Alpha value to 60 and Fade to 0.05 and click Ok.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add_chromatic_abberation](https://images.wondershare.com/filmora/images/final-cut-pro/add_chromatic_abberation.jpg)
 
  Now Search for **VCR Distortion** in the search bar.
@@ -215,9 +207,6 @@ A resources center built for Filmora. You can find all the materials and effects
 
 Click to learn more about [glitch effect in Filmstock.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![filmstock-effects](https://images.wondershare.com/filmora/images/final-cut-pro/filmstock-effects.png)
 
 **Stories – Glitch & VHS Edition**
@@ -240,11 +229,29 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-beyond-vimeo-a-compilation-of-premier-video-editors/"><u>[New] Beyond Vimeo A Compilation of Premier Video Editors</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/automatische-erfassung-von-rechnungen-mit-abbyy-bei-der-deurag-hotel-holding-gmbh/"><u>Automatische Erfassung Von Rechnungen Mit ABBYY Bei Der Deurag-Hotel Holding GmbH</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/best-5-dvd-ripping-tools-convert-your-discs-into-digital-files-with-ease/"><u>Best 5 DVD Ripping Tools: Convert Your Discs Into Digital Files with Ease</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-latest-hp-m45n-color-laserjet-printer-driver-for-improved-performance/"><u>Download the Latest HP M45n Color LaserJet Printer Driver for Improved Performance</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-vivo-y200e-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Vivo Y200e 5G Phone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/mkv-video-editing-made-easy-top-mac-trimmers-2023-for-2024/"><u>MKV Video Editing Made Easy Top Mac Trimmers 2023 for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/watch-asmr-video-gems-online-for-2024/"><u>Must-Watch ASMR Video Gems Online for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-disrupt-the-norm-top-glitch-art-video-editing-apps-for-ios-and-android-creators/"><u>New 2024 Approved Disrupt the Norm Top Glitch Art Video Editing Apps for iOS and Android Creators</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-best-adobe-premiere-pro-extensions-for-video-editing-free-and-paid/"><u>New In 2024, Best Adobe Premiere Pro Extensions for Video Editing - Free & Paid</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-correct-your-video-orientation-with-these-16-free-avi-rotators/"><u>New In 2024, Correct Your Video Orientation with These 16 Free AVI Rotators</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-rotate-your-3gp-videos-with-ease-best-free-tools-of-the-year/"><u>New In 2024, Rotate Your 3GP Videos with Ease Best Free Tools of the Year</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-s-most-popular-free-video-fx-apps-for-iphone-and-android/"><u>New In 2024, S Most Popular Free Video FX Apps for iPhone and Android</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-list-10-best-animated-text-generators-for-stunning-results/"><u>New In 2024, The Ultimate List 10 Best Animated Text Generators for Stunning Results</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/strategies-for-hiring-superior-cinematographers/"><u>Strategies for Hiring Superior Cinematographers</u></a></li>
+</ul></div>
+

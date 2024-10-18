@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Slow Down or Freeze Time Expert FCPX Editing Techniques
-date: 2024-08-09T07:14:21.628Z
-updated: 2024-08-10T07:14:21.628Z
+date: 2024-10-13T23:26:05.265Z
+updated: 2024-10-17T16:27:13.467Z
 tags: 
   - video editing software
   - video editing
@@ -44,9 +44,6 @@ In Final Cut Pro X, put the playhead (or skimmer) on the frame you want to freez
 
 This creates a two-second freeze-frame at the position of the playhead.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![create freeze frame](https://images.wondershare.com/multimedia/speed003.jpg)
 
 Adjust the duration of the frame by trimming the edge; just like any other clip. Here, for example, I'm making the duration of the freeze-frame 11 frames shorter.
@@ -63,9 +60,6 @@ So, here's another way to do this.
 
 Put the playhead (or skimmer, but I prefer the playhead) on the frame you want to freeze, select the clip, then type Shift+F.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![Playhead](https://images.wondershare.com/multimedia/speed005.jpg)
 
 This locates the source clip in the Browser, selects both the Browser and the clip, and matches the position of the In, Out, and playhead.
@@ -86,16 +80,10 @@ A Hold Frame is similar to an in-line still frame, but with more flexibility.
 
 Put the playhead (or skimmer) on the frame you want to hold. Then, Then, using either Modify > Retime or the "Smurf-on-a-headset" Toolbar icon, choose Hold Frame (or type: Shift+H).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![hold frames in fcp x](https://images.wondershare.com/multimedia/speed014.jpg)
 
 This displays the orange Retime editor bar above the clip, with a small red portion indicating the Hold frame.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![create hold frames](https://images.wondershare.com/multimedia/speed015.jpg)
 
 Change the duration of the Hold frame by dragging the small thumb at the right end of the red bar.
@@ -104,9 +92,6 @@ Change the duration of the Hold frame by dragging the small thumb at the right e
 
 Add a speed ramp transition at the end of the Hold frame by clicking the downward-pointing arrow next to the word "Hold" in the Retime Editor.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![speed018](https://images.wondershare.com/multimedia/speed018.jpg)
 
 To change the actual frame being held, double-click the bar icon to the LEFT of the red Hold section and choose Source Frame (Edit). This allows you to slide the Hold frame selection left or right.
@@ -115,9 +100,6 @@ NOTE: Changing the source frame is a feature that I like a LOT!
 
 #### 3\.  SLOW (or FAST) MOTION
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![fast/slow motion](https://images.wondershare.com/multimedia/speed007.jpg)
 
 We use slow-motion to show events that are too fast for the unaided eye to see. And fast motion to speed up very slow events. Both of these effects use what's called a "constant speed change," where the entire clip changes by the same amount - either faster or slower.
@@ -130,9 +112,6 @@ Select the clip who's speed you want to change. Then, using either Modify > Reti
 
 Choose one of the available speeds; in this case, 50%. (Yes, you can change this to any value you want, I'll show you how in a minute.)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![create slow/fast motion](https://images.wondershare.com/multimedia/speed009.jpg)
 
 Three things happen at once:
@@ -168,9 +147,6 @@ You will get the smoothest speed changes when the percentage you choose divides 
 
 There is one more setting to consider when slowing a clip. (This does not apply when creating fast motion.)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![speed012](https://images.wondershare.com/multimedia/speed012.jpg)
 
 Using, again, either Modify > Retime or the "Smurf" menu, select Video Quality.
@@ -187,9 +163,6 @@ Frame blending is relatively fast and easy. Optical Flow will look better in mos
 
 This is a basic tutorial about Apple Final Cut Pro X, a professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -198,9 +171,6 @@ This is a basic tutorial about Apple Final Cut Pro X, a professional video editi
 
 Whether you want your clips to speed up, slow down or just plain stop, Final Cut Pro X makes the entire process easy.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -209,11 +179,40 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-vimeos-revenue-revolution-strategies-for-successful-advertising-earning/"><u>[New] In 2024, Vimeo's Revenue Revolution Strategies for Successful Advertising Earning</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-reclaim-social-life-overcoming-a-hack-on-facebook/"><u>[New] Reclaim Social Life Overcoming a Hack on Facebook</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-elite-action-video-capture-top-15-handheld-devices-for-2024/"><u>[Updated] Elite Action Video Capture Top 15 Handheld Devices for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-from-iphone-13-pro-max-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud from iPhone 13 Pro Max Safe and Legal</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effortless-ipod-data-migration-a-comprehensive-guide-to-moving-photos-tunes-and-films/"><u>Effortless IPod Data Migration: A Comprehensive Guide to Moving Photos, Tunes & Films</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-track-to-your-ft232r-uart-driver-download-speedy-setup-tips/"><u>Fast Track to Your FT232R UART Driver Download – Speedy Setup Tips</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-nokia-c110-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-12-location-by-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 12 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-android-video-editors-for-chromebook-top-recommendations/"><u>New 2024 Approved Android Video Editors for Chromebook Top Recommendations</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-best-free-online-video-editors-for-movie-creation/"><u>New 2024 Approved Best Free Online Video Editors for Movie Creation</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-cropping-images-in-final-cut-pro-x-a-comprehensive-guide-for-2024/"><u>New Cropping Images in Final Cut Pro X A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-game-on-top-10-websites-to-download-pc-games-this-year-for-2024/"><u>New Game On! Top 10 Websites to Download PC Games This Year for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-10-best-final-cut-pro-x-alternatives-free-and-paid/"><u>New In 2024, 10 Best Final Cut Pro X Alternatives Free & Paid</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-crash-free-editing-tips-and-tricks-for-a-stable-final-cut-pro-x-experience/"><u>New In 2024, Crash-Free Editing Tips and Tricks for a Stable Final Cut Pro X Experience</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-dual-approaches-to-audio-fades-in-final-cut-pro-a-step-by-step-guide/"><u>New In 2024, Dual Approaches to Audio Fades in Final Cut Pro A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-art-of-freeze-frame-converting-videos-to-images-with-10-expert-tools/"><u>New In 2024, The Art of Freeze-Frame Converting Videos to Images with 10 Expert Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-guide-to-video-metadata-editing-on-mac-8-top-picks/"><u>New In 2024, The Ultimate Guide to Video Metadata Editing on Mac 8 Top Picks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/no-cash-no-problem-gpt-4s-four-free-alternatives/"><u>No Cash, No Problem: GPT-4's Four Free Alternatives</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-strategies-for-finding-a-match-on-bumble-when-you-keep-getting-no-hits/"><u>Top Strategies for Finding a Match on Bumble When You Keep Getting No Hits</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

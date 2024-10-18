@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, FCPX Mastery Creating Professional-Looking Lower Thirds
-date: 2024-10-09T16:12:05.489Z
-updated: 2024-10-12T16:25:16.798Z
+date: 2024-10-14T20:14:32.059Z
+updated: 2024-10-18T06:38:08.777Z
 tags: 
   - video editing software
   - video editing
@@ -60,10 +60,10 @@ Try different color schemes with Green, Magenta, Orange, and Blue to create a me
 ![color-factor](https://images.wondershare.com/filmora/images/final-cut-pro/color-factor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. **Motion effect**
@@ -92,13 +92,6 @@ Proper alignment and the best coordinates on the screen make the lower third mod
 
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Part3: How to make a lower third quickly in final cut pro X?**
 
 The Final Cut Pro X is a fabulous program to edit your videos professionally. Insert the desired elements and customize them quickly. To work on this platform, you do not require any special skills.
@@ -124,10 +117,10 @@ You can download the app and install them in your system. Launch the tool by dou
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2Step 2: Add the Title**
@@ -148,6 +141,13 @@ For those who still need more guides about making lower thirds, this Filmora tut
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
  You can find the best collections of lower third templates in the online space. Evanto Elements offers an incredible design structure for the lower third module to add value to your videos. They are unique and jaw-dropping. You can opt for this template, instead of creating from the scratch.
@@ -167,10 +167,10 @@ Colorful and yet attractive design from the Evanto elements. This design has a f
 In this template group, you can find the design seems to be simple and minimal. It offers a lighter touch to your videos. The text overlays do not distract the viewers. Everything looks the same but still, you can feel the difference in it when you customize it according to your needs.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,19 +196,17 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-optimizing-facebook-search-efficiency-101/"><u>[New] Optimizing Facebook Search Efficiency 101</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-highest-humor-infused-cut-and-paste/"><u>[Updated] Highest Humor-Infused Cut & Paste</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-screen-capturing-made-easy-best-apps-for-windows-10/"><u>2024 Approved Screen Capturing Made Easy Best Apps for Windows 10</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-realme-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-xcover-7-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Samsung Galaxy XCover 7?</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/photo-to-cartoon-converter-online-for-2024/"><u>Photo to Cartoon Converter Online for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/ultimate-guide-hp-chromebook-11-the-perfect-blend-of-productivity-and-entertainment/"><u>Ultimate Guide: HP Chromebook 11 - The Perfect Blend of Productivity & Entertainment</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-the-full-potential-discover-essential-uses-of-your-12-in-one-airpods/"><u>Unlock the Full Potential: Discover Essential Uses of Your 12-In-One AirPods</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/update-like-a-pro-11-exceptional-freeware-applications-for-your-system/"><u>Update Like a Pro: 11 Exceptional Freeware Applications for Your System</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-unleash-your-creativity-mp4-video-editing-tips-and-tricks-for-mac-and-windows/"><u>Updated 2024 Approved Unleash Your Creativity MP4 Video Editing Tips and Tricks for Mac and Windows</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-mac-video-editing-made-easy-slideshows-home-videos-and-more-with-ezvid/"><u>Updated In 2024, Mac Video Editing Made Easy Slideshows, Home Videos, and More with Ezvid</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-top-rated-free-wmv-video-cutters-2023-review/"><u>Updated In 2024, Top-Rated Free WMV Video Cutters 2023 Review</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-reviewing-minitool-movie-maker-features-pros-and-cons-and-alternative-options-for-2024/"><u>Updated Reviewing Minitool Movie Maker Features, Pros, and Cons, and Alternative Options for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-unlock-the-power-of-animation-converting-videos-into-cartoons-for-2024/"><u>Updated Unlock the Power of Animation Converting Videos Into Cartoons for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-transcription-aid-for-your-youtube-videos/"><u>[New] In 2024, Best Transcription Aid for Your YouTube Videos</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-budget-friendly-top-7-tiktok-edits-for-macos/"><u>[Updated] 2024 Approved Budget-Friendly Top 7 TikTok Edits for MacOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/descargar-e-importar-archivos-ogv-como-mp4-sin-coste-con-la-herramienta-online-de-convertir-video/"><u>Descargar E Importar Archivos OGV Como MP4 Sin Coste Con La Herramienta Online De Convertir Video</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a15-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Samsung Galaxy A15 5G Phone Without Password?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-fast-and-free-dailymotion-to-mp3-converter-online/"><u>New 2024 Approved Fast and Free Dailymotion to MP3 Converter Online</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-mastering-mp4-video-editing-a-step-by-step-guide-for-mac-and-windows-users/"><u>New 2024 Approved Mastering MP4 Video Editing A Step-by-Step Guide for Mac and Windows Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-online-tools-to-create-fake-faces-for-free/"><u>New 2024 Approved Top Online Tools to Create Fake Faces for Free</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-bring-your-ideas-to-life-top-5-online-stop-motion-animation-tools-for-2024/"><u>New Bring Your Ideas to Life Top 5 Online Stop Motion Animation Tools for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-discover-the-power-of-vn-video-editor-on-pc-for-2024/"><u>New Discover the Power of VN Video Editor on PC for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-top-10-glitch-art-video-editing-apps-for-ios-and-android/"><u>New In 2024, Top 10 Glitch Art Video Editing Apps for iOS and Android</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reactivate-your-locked-iphoneipad-a-comprehensive-guide/"><u>Reactivate Your Locked iPhone/iPad - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-future-is-now-with-these-spectacular-additions-to-bard-ai-as-announced-at-google-io-2023/"><u>The Future Is Now with These Spectacular Additions to BARD AI, as Announced at Google I/O 2023!</u></a></li>
 </ul></div>
 

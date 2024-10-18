@@ -1,7 +1,7 @@
 ---
 title: Updated Elevate Your Audio 2 Fade-In/Fade-Out Methods in FCP for 2024
-date: 2024-10-11T16:07:45.834Z
-updated: 2024-10-12T16:04:38.689Z
+date: 2024-10-10T16:17:33.907Z
+updated: 2024-10-18T00:27:19.643Z
 tags: 
   - video editing software
   - video editing
@@ -64,13 +64,6 @@ You should remember that the fades appear at the beginning and the end of each c
 
 See more details on how to fade audio in Final Cut Pro from the following video.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Fade Music by using Fade Handles
 
 You have already learned how to find the fade handles on the screen. Now, you just have to manually drag the handle to the exact point from which you want the fade to begin or end. Just keep in mid this simple rule: fade handles at the beginning of a clip produce fade-in effects, whereas fade handles at the end give fade-out effects.
@@ -88,17 +81,17 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -108,10 +101,10 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
@@ -126,6 +119,13 @@ You can easily change the sound of your fades by modifying the default fade shap
 [](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -142,20 +142,15 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-low-investment-high-rewards-channel-size-doesnt-deter-sponsorship/"><u>[New] Low-Investment, High Rewards Channel Size Doesn't Deter Sponsorship</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-datadeliverers-professional-view/"><u>[Updated] DataDeliverers Professional View</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-art-of-perfect-video-quality-in-zoom-sessions/"><u>[Updated] The Art of Perfect Video Quality in Zoom Sessions</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/101-words-and-phrases-to-sound-like-an-aussie/"><u>101 Words and Phrases to Sound Like an Aussie</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/fb-video-mastery-on-windows-and-mobile-a-unified-guide-for-users-for-2024/"><u>FB Video Mastery on Windows & Mobile A Unified Guide for Users for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-attracting-more-followers-on-xtwitter-easily-and-effectively/"><u>Mastering the Art of Attracting More Followers on X/Twitter Easily and Effectively</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/revolutionize-your-videos-best-quality-improvement-tools-for-2024/"><u>Revolutionize Your Videos Best Quality Improvement Tools for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/sneak-peek-at-facebooks-upcoming-identity-change/"><u>Sneak Peek at Facebook's Upcoming Identity Change</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/top-strategies-how-to-fix-a-non-responsive-rust-application/"><u>Top Strategies: How To Fix a Non-Responsive Rust Application</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-adobe-premiere-pro-for-mac-is-the-most-popular-professional-video-editor-if-youre-planning-to-try-it-out-for-your-mac-heres-all-you-need-to-know-abo/"><u>Updated Adobe Premiere Pro for Mac Is the Most Popular Professional Video Editor. If Youre Planning to Try It Out for Your Mac, Heres All You Need to Know About It for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-follow-the-steps-we-are-about-to-outline-and-you-will-have-no-issues-with-your-3gp-video-cutting-experience-for-2024/"><u>Updated Follow the Steps We Are About to Outline and You Will Have No Issues with Your 3GP Video Cutting Experience for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-pinnacle-studio-not-your-cup-of-tea-explore-these-mac-alternatives/"><u>Updated Pinnacle Studio Not Your Cup of Tea? Explore These Mac Alternatives</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-solving-the-sync-problem-audio-and-video-alignment-in-fcpx-2024/"><u>Updated Solving the Sync Problem Audio and Video Alignment in FCPX 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-top-10-free-video-editing-software-for-web/"><u>Updated Top 10 Free Video Editing Software for Web</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-top-10-free-video-stabilization-tools-online-a-comprehensive-review/"><u>Updated Top 10 Free Video Stabilization Tools Online A Comprehensive Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-error-0x80072efd-a-windows-store-solution/"><u>Eliminating Error 0X80072EFD: A Windows Store Solution</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Vivo S17t? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ting-your-stream-reverse-your-video-order-now-for-2024/"><u>Resetting Your Stream Reverse Your Video Order Now for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-creativity-with-costless-auditory-extras-in-2024/"><u>Spark Creativity with Costless Auditory Extras, In 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/the-ultimate-guide-to-online-stop-motion-software-5-top-picks-for-2024/"><u>The Ultimate Guide to Online Stop Motion Software 5 Top Picks for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-realme-narzo-60-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Realme Narzo 60 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-eliminating-windows-error-0x8007251d/"><u>Understanding and Eliminating Windows Error 0X8007251D</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-elevate-your-storytelling-with-wevideos-online-video-editor-for-2024/"><u>Updated Elevate Your Storytelling with WeVideos Online Video Editor for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-5-essential-tools-for-creating-viral-reaction-videos/"><u>Updated In 2024, 5 Essential Tools for Creating Viral Reaction Videos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-top-motion-detection-apps-for-mobile-devices/"><u>Updated In 2024, Top Motion Detection Apps for Mobile Devices</u></a></li>
 </ul></div>
 

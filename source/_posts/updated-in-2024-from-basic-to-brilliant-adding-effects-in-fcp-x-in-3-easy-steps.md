@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, From Basic to Brilliant Adding Effects in FCP X in 3 Easy Steps
-date: 2024-08-09T07:13:35.789Z
-updated: 2024-08-10T07:13:35.789Z
+date: 2024-10-17T01:33:03.869Z
+updated: 2024-10-18T07:36:35.928Z
 tags: 
   - video editing software
   - video editing
@@ -32,16 +32,10 @@ I've written previously about how to use Inspector effects to create a [picture-
 
 This is a basic tutorial about Apple Final Cut Pro X, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## How to Apply Effects to Video in Final Cut Pro X
 
 * [Find and apply an effect](#part1)
@@ -57,17 +51,10 @@ Here is our clip - a fearsome polar bear.
 
 To apply an effect, first select the clip in the Timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx002.jpg "add effects in fcp")
 
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
 
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
@@ -93,18 +80,12 @@ Click the Video tab in the Inspector. Effects from the Effects Browser are alway
 
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx007.jpg "add effects in fcp")
 
 #### Disable and delete an effect
 
 To temporarily disable an effect, without deleting it, click the blue box so that it turns gray.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx008.jpg "add effects in fcp")
 
 To enable an effect, click the gray box so it turns blue again.
@@ -131,11 +112,32 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-expert-techniques-for-crafting-stunning-collage-photos-on-iphone/"><u>[New] Expert Techniques for Crafting Stunning Collage Photos on iPhone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-samsung-gear-360-replacements-latest-innovations-in-camera-tech/"><u>[Updated] Samsung Gear 360 Replacements Latest Innovations in Camera Tech</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/fujifilm-x100v-unveiled-a-comprehensive-review-of-the-most-popular-camera-today/"><u>Fujifilm X100V Unveiled: A Comprehensive Review of The Most Popular Camera Today</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-windows-data-evaluation-guide/"><u>In 2024, Quick Windows Data Evaluation Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719574725009-mondly-teams-up-with-pearson-schooling-corp/"><u>Mondly Teams Up with Pearson Schooling Corp.</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-audio-editing-in-fcp-tips-tricks-and-best-practices/"><u>New 2024 Approved Audio Editing in FCP Tips, Tricks, and Best Practices</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-how-to-edit-flv-videos-on-windows-8-a-step-by-step-guide-for-2024/"><u>New How to Edit FLV Videos on Windows 8 A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-3d-video-production-made-easy-top-free-and-paid-tools/"><u>New In 2024, 3D Video Production Made Easy Top Free and Paid Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-mpeg-video-assembly-top-5-programs/"><u>New In 2024, Free MPEG Video Assembly Top 5 Programs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-ultimate-guide-to-import-photos-and-videos-into-windows-10-for-2024/"><u>The Ultimate Guide to Import Photos & Videos Into Windows 10 for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
