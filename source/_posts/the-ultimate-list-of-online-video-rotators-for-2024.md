@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of Online Video Rotators for 2024
-date: 2024-08-09T07:10:33.502Z
-updated: 2024-08-10T07:10:33.502Z
+date: 2024-10-19T19:43:08.197Z
+updated: 2024-10-23T20:50:36.596Z
 tags: 
   - video editing software
   - video editing
@@ -36,9 +36,6 @@ Double click the video, elements, titles, or images in the track, and then go to
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Rotate Videos Online For Free
 
 The number of supported file formats, as well as the maximum size of a video file you can upload to the platforms that allow its users to rotate videos, can limit your options significantly. That’s why you need to make sure that each video you want to rotate online meets the platform’s specifications. Let’s take a look at some of the best online platforms you can use to rotate your videos online.
@@ -49,6 +46,13 @@ Website: <https://www.kapwing.com/rotate>
 
 ![online video rotator - kapwing](https://images.wondershare.com/filmora/article-images/rotate-video-online-in-kapwing.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Kapwing is an [online video editing platform](https://tools.techidaily.com/wondershare/filmora/download/) that offers a wide spectrum of video editing tools that enable you to resize or add text to videos, among other things. You can either **upload a video** to Kapwing from your computer or you can **use the video’s URL to import it to Kapwing** if it is stored online.
 
 Once you’ve uploaded the file you simply have to choose if you want to **rotate a video for 90, 180, or 270 degrees** and click on the Export Video button. Kapwing provides the rotation presets of 90, 180, 270, and 360 degrees, which allows you to rotate the video quickly. When you click the Rotate button, you will see the degree number beside. What about rotating at any angle? That’s simple in Kapwing, you can drag the Rotate button to any degree based on your need. Please note if you’re using the Kapwing free plan, the largest video that you can upload is 250MB.
@@ -57,10 +61,14 @@ Once you’ve uploaded the file you simply have to choose if you want to **rotat
 
 Website: <https://ezgif.com/rotate-video>
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![online video rotator - ezgif](https://images.wondershare.com/filmora/article-images/ezgif-rotate-video-online.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Cropping videos, changing the playback speed of videos, or cutting videos are only a few among the numerous options Ezgif provides. The platform supports a wide range of video file formats such as **MP4, AVI, or MOV,** but **you can’t use Ezgif to rotate videos that are larger than 100MB.** After you upload a video using its URL or directly from your computer, you can choose to flip a video horizontally and vertically or **rotate it by 90, 180, and 270 degrees**.
 
@@ -70,10 +78,14 @@ Make sure that the checkbox next to the option you’ve selected is checked, **c
 
 Website: <https://clideo.com/rotate-video>
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![online video rotator - Clideo](https://images.wondershare.com/filmora/article-images/clideo-rotate-video-online.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Clideo provides 2 rotation options for you to rotate the video quickly, so you can convert a portrait video to horizontal without any effort. Besides uploading a video from your computer Video Rotate also lets you import videos you stored on Dropbox, Google Drive, and URL, but the platform won’t let you upload videos larger than **500MB** for free plan users.
 
@@ -83,9 +95,6 @@ Once the upload process is completed, you will be able to **rotate a video left 
 
 Website: <https://rotatemyvideo.net/>
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![online video rotator - Rotatemyvideo](https://images.wondershare.com/filmora/article-images/rotatemyvideo-online-video-rotator.jpg)
 
 The process of rotating a video with this online video editing tool is both quick and simple. After you arrive at the homepage you just have to click on the **Pick Video**  button to start uploading the video you’d like to rotate. However, **you won’t be able to import videos that are stored online**, because the platform doesn’t offer this option. The maximum video size you can upload is limited to   **250MB**.
@@ -106,9 +115,6 @@ You can choose between **MP4, M4V, and MKV output formats** and you can rotate a
 
 Website: <https://www.fastreel.com/rotate-video.html>
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![online video rotator - Fastreel RotateVideo Online](https://images.wondershare.com/filmora/article-images/fastreel-rotate-video.jpg)
 
 Changing the orientation of your videos with this platform is easy since you just have to upload a video from your computer, Dropbox, and decide whether you want to **rotate a video to the left or the right.** However, **the files you upload to this platform can’t be larger than 500MB**, and you need to make sure that the video you want to rotate doesn’t exceed this limit. You can also **optimize your videos for web, mobile, PC, or GIF, select the resolution, choose between several different output file formats, and set the quality to low, medium, or high.**
@@ -117,9 +123,6 @@ Changing the orientation of your videos with this platform is easy since you jus
 
 Website: <https://www.veed.io/tools/rotate-video>
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![online video rotator -   Veed.io Video Rotator ](https://images.wondershare.com/filmora/article-images/veedio-online-video-rotation.jpg)
 
 As its name suggests this online tool is dedicated solely to **rotate videos horizontally or vertically**. You can import videos stored online using a **YouTube URL** **or import them from Dropbox, or your computer**, but you need to make sure that the videos you want to rotate are **smaller than 50MB** if you didn't upgrade to Pro plan.
@@ -142,6 +145,13 @@ Website: <https://www.video2edit.com/rotate-video>
 
 ![online video rotator -   Video2Edit ](https://images.wondershare.com/filmora/article-images/video2edit-rotate-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Using this online tool, you can rotate the video to the left or right at 90, 180, 270 degrees, flip it horizontally or vertically. This online video rotator supports several uploading methods including, using URL, Dropbox, Google Drive or uploading from local files. As soon as you select a video you would like to rotate a new page will load. Th proceed to rotate your video **90, 180, and 270 degrees.** . Click on the **Start**  button in the lower right corner and after the rendering process is completed, you’ll have to **insert your email address** before you can save the video.
 
 If you are not registered, the video size you can upload is limited to 75MB.
@@ -150,9 +160,6 @@ If you are not registered, the video size you can upload is limited to 75MB.
 
 Website: <https://online-video-cutter.com/>
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![online video rotator -   Video Cutter Online  ](https://images.wondershare.com/filmora/article-images/online-video-cutter.jpg)
 
 Video Cutter Online is a video editing platform that offers basic video editing tools that enable you to cut, trim, crop, or rotate videos quickly. You can either **drag and drop a video file from a folder on your computer or you can add a file to Video Cutter Online from an online source.** Once you’ve chosen the file you want to rotate you simply have **to click on the Rotate icon** first and then choose to rotate right or left to change the orientation of the video.
@@ -163,12 +170,16 @@ After you’ve rotated the video, you can **select the output quality** before c
 
 Each of the video editing platforms we featured in this article lets you rotate videos in just a few simple steps, but before you can start changing the orientation of a video you must make sure that the file you want to upload meets all of the platform’s specifications. Which online destination do you like to use the most to rotate your videos? In case you are looking for a video editing app for Windows and Mac which provides plentiful resources and effects, try Wondershare Filmora video editor.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -176,11 +187,33 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-exclusive-action-cam-colorization-top-15-luts-to-enhance-cinematography-for-2024/"><u>[Updated] Exclusive Action Cam Colorization Top 15 LUTs to Enhance Cinematography for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-pump-up-your-viewership-with-these-proven-methods/"><u>[Updated] Pump Up Your Viewership with These Proven Methods</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-motorola-g24-power-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-practices-for-using-manycam-as-your-live-streaming-solution-and-virtual-camera/"><u>Best Practices for Using ManyCam as Your Live Streaming Solution and Virtual Camera</u></a></li>
+<li><a href="https://win11.techidaily.com/improving-troubleshooting-tools-for-smooth-windows-performance/"><u>Improving Troubleshooting Tools for Smooth Windows Performance</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-sony-xperia-5-v-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Sony Xperia 5 V</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-smile-and-watch-your-guide-to-the-top-15-funny-youtubers/"><u>In 2024, Smile and Watch Your Guide to the Top 15 Funny YouTubers</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-techniques-for-high-quality-avi-to-divx-hd-conversion-online-and-offline-solutions/"><u>Top Techniques for High-Quality AVI to DivX HD Conversion: Online & Offline Solutions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-display-guide-the-best-monitors-for-pixel-enthusiasts/"><u>Ultimate Display Guide - The Best Monitors for Pixel Enthusiasts</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-final-cut-pro-x-title-templates-how-to-use-and-customize-them/"><u>Updated 2024 Approved Final Cut Pro X Title Templates How to Use and Customize Them</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-video-storage-10-reliable-hosts-for-personal-and-commercial-videos/"><u>Updated 2024 Approved Free Video Storage 10 Reliable Hosts for Personal and Commercial Videos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-how-to-stream-local-video-to-chromecast-on-windowsmacandroidios/"><u>Updated 2024 Approved How to Stream Local Video to Chromecast on Windows/Mac/Android/iOS</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-tiktok-hack-reversing-videos-in-just-a-few-clicks/"><u>Updated 2024 Approved The Ultimate TikTok Hack Reversing Videos in Just a Few Clicks</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-dvr-wars-tivo-and-comcast-go-head-to-head-for-2024/"><u>Updated DVR Wars TiVo and Comcast Go Head-to-Head for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-capture-the-speed-of-life-2-easy-ways-to-create-stunning-time-lapse-videos/"><u>Updated In 2024, Capture the Speed of Life 2 Easy Ways to Create Stunning Time Lapse Videos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-mobile-video-editing-essentials-best-apps-for-vertical-content/"><u>Updated In 2024, Mobile Video Editing Essentials Best Apps for Vertical Content</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-vn-video-editor-pro-apk-a-game-changer-for-mobile-video-editing/"><u>Updated In 2024, VN Video Editor Pro Apk A Game-Changer for Mobile Video Editing?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-unleash-your-creativity-best-vignette-apps-for-ios-and-android-users-for-2024/"><u>Updated Unleash Your Creativity Best Vignette Apps for iOS and Android Users for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Motorola Moto G24 | Dr.fone</u></a></li>
+</ul></div>
+

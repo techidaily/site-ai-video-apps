@@ -1,7 +1,7 @@
 ---
 title: Updated FCPX Audio Editing Essentials L-Cuts, J-Cuts, and More for 2024
-date: 2024-10-10T18:53:42.092Z
-updated: 2024-10-18T05:49:23.577Z
+date: 2024-10-19T16:11:58.668Z
+updated: 2024-10-23T17:02:45.579Z
 tags: 
   - video editing software
   - video editing
@@ -39,10 +39,10 @@ When you look at the above interface, you will see the basic phenomenon behind t
 Then, **what is a J cut in Final Cut Pro**? It is ultimately reverse or opposite of L-Cuts. Yes, the second clip's audio starts a while before the scene of the first video ends.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Step-by-step Guide on Using L-Cuts and J-Cuts in Final Cut Pro X
@@ -76,10 +76,16 @@ In the case of Final Cut Pro **J-Cuts**, the process is reverse, where you need 
 When you look at the transition closely, you can see that it resembles the letter J.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Final Cut Pro X Keyboard Shortcuts for L-Cuts and J-Cuts
@@ -105,10 +111,10 @@ Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts a
 * Using timecode to add or subtract the present edit: press the “**Plus (+)**” or “**Minus (-)**” key with the timecode duration.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -118,10 +124,10 @@ Are you wondering and puzzled that you are a popular Final Cut Pro X user but we
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -139,18 +145,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-transform-your-photos-using-adobes-power/"><u>[New] 2024 Approved Transform Your Photos Using Adobe's Power</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-recording-your-iphoneipad-whats-new/"><u>[New] Recording Your iPhone/iPad What's New</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-revolutionize-editing-the-secret-techniques-for-background-obliteration-in-affinity/"><u>[Updated] Revolutionize Editing The Secret Techniques for Background Obliteration in Affinity</u></a></li>
-<li><a href="https://ai-video.techidaily.com/2024-approved-chrome-video-translators-top-5-video-translation-chrome-extensions/"><u>2024 Approved Chrome Video Translators Top 5 Video Translation Chrome Extensions</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-the-art-of-film-crafting-with-kinemaster-tools/"><u>2024 Approved The Art of Film Crafting with Kinemaster Tools</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/checking-in-is-psn-experiencing-downtime-or-are-connection-issues-on-your-end/"><u>Checking In: Is PSN Experiencing Downtime or Are Connection Issues on Your End?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elevate-your-ae-projects-with-top-10-texts/"><u>Elevate Your AE Projects with Top 10 Texts</u></a></li>
-<li><a href="https://fox-that.techidaily.com/handling-a-rejected-payment-on-apple-platforms-try-these-6-quick-remedies/"><u>Handling a Rejected Payment on Apple Platforms? Try These 6 Quick Remedies</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-instantize-dynamic-images-in-photoshop/"><u>In 2024, Instantize Dynamic Images in Photoshop</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-times-running-out-learn-to-add-a-countdown-timer-in-fcpx-fast/"><u>New In 2024, Times Running Out! Learn to Add a Countdown Timer in FCPX Fast</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-transform-your-videos-with-a-robust-64-bit-editor-for-windows/"><u>New In 2024, Transform Your Videos with a Robust 64-Bit Editor for Windows</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-avi-editor-for-windows-8-effortless-video-editing-experience-2023/"><u>New The Ultimate AVI Editor for Windows 8 Effortless Video Editing Experience - 2023</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-top-meme-maker-apps-for-android-and-ios-devices-2023-update/"><u>New Top Meme Maker Apps for Android & iOS Devices (2023 Update)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-shines-mastering-the-art-of-content-highlights/"><u>[New] Instagram Shines Mastering the Art of Content Highlights</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlock-fast-video-trimming-in-windows-11-apps/"><u>[New] Unlock Fast Video Trimming in Windows 11 Apps</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-unlock-tiktoks-potential-with-our-sizzling-template-selection-for-2024/"><u>[New] Unlock TikTok’s Potential with Our Sizzling Template Selection for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-ultimate-checklist-for-compelling-audio-intros/"><u>[Updated] In 2024, The Ultimate Checklist for Compelling Audio Intros</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-revolutionize-your-online-audio-with-these-5-methods-for-2024/"><u>[Updated] Revolutionize Your Online Audio with These 5 Methods for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-recommended-photo-restoration-services-save-your-precious-images/"><u>Expert-Recommended Photo Restoration Services: Save Your Precious Images</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/how-to-streamline-your-vimeo-video-subtitles/"><u>How to Streamline Your Vimeo Video Subtitles</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-step-by-step-guide-to-flawless-zoom-screen-sharing/"><u>In 2024, Step-by-Step Guide to Flawless Zoom Screen Sharing</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-transform-your-images-into-engaging-videos-with-these-10-tools/"><u>In 2024, Transform Your Images Into Engaging Videos with These 10 Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/launch-your-fortune-on-periscope-live-chats-for-2024/"><u>Launch Your Fortune on Periscope Live Chats for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-final-cut-pro-sound-design-how-to-source-free-sound-effects-online/"><u>New 2024 Approved Final Cut Pro Sound Design How to Source Free Sound Effects Online</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-mkv-file-trimming-made-simple-top-3-mac-apps/"><u>New 2024 Approved MKV File Trimming Made Simple Top 3 Mac Apps</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-skip-the-hunt-exclusive-filmora-coupon-codes-inside/"><u>New 2024 Approved Skip the Hunt Exclusive Filmora Coupon Codes Inside</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unlocking-adobe-premiere-a-step-by-step-guide-to-video-import-and-export/"><u>New 2024 Approved Unlocking Adobe Premiere A Step-by-Step Guide to Video Import and Export</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-fcpx-visual-effects-freeze-frames-slow-motion-and-advanced-editing-for-2024/"><u>New FCPX Visual Effects Freeze Frames, Slow Motion, and Advanced Editing for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-16-top-rated-free-avi-video-rotation-tools-for-all-devices/"><u>New In 2024, 16 Top-Rated Free AVI Video Rotation Tools for All Devices</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-5-essential-tools-for-creating-viral-reaction-videos/"><u>New In 2024, 5 Essential Tools for Creating Viral Reaction Videos</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Take Your Videos to the Next Level Mastering the Ken Burns Effect in Final Cut Pro for 2024
-date: 2024-10-15T00:14:27.198Z
-updated: 2024-10-18T15:18:45.060Z
+date: 2024-10-22T18:03:31.343Z
+updated: 2024-10-23T19:06:04.047Z
 tags: 
   - video editing software
   - video editing
@@ -43,13 +43,6 @@ The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, sl
 
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Steps to Making the Ken Burns Effect Final Cut Pro
 
 Now that we know what is Ken Burns Effect. Let’s go over the steps to making the Ken Burns Effect in Final Cut Pro.
@@ -58,11 +51,25 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
 
 **Step 3** – Hold down both the shift key and the letter C. This is the fast way to cut out what you need. You can always stick to the right-click to cut a clip if you are more comfortable with this.
 
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Ken Burns Customization
 
@@ -75,22 +82,15 @@ You can also customize the ken burns effects in Final Cut.
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
 
@@ -106,13 +106,6 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
@@ -126,6 +119,13 @@ The Ken Burns Effect is famous for a reason. It allows you to fill up space if y
 The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places that they wouldn’t otherwise get to. It is excellent for both glimpsing into the past, and for flashing forward into imagined futures. Best of all, it lets you go there when you aren’t a big-budget Hollywood film producer. We love anything that saves a buck or two while we edit.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -142,22 +142,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-10-key-devices-for-effective-zoom-sessions/"><u>[New] 2024 Approved 10 Key Devices for Effective Zoom Sessions</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-must-watch-10-unique-igtv-content-formats-for-brands/"><u>[New] Must-Watch 10 Unique IGTV Content Formats for Brands</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-capture-webpages-entirety-on-screen/"><u>[Updated] 2024 Approved Capture Webpage's Entirety on Screen</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/affordable-tablet-showdown-the-best-picks-of-2erry-2024-as-ranked-by-experts-zdnet/"><u>Affordable Tablet Showdown: The Best Picks of 2Erry 2024 as Ranked by Experts | ZDNet</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/best-chromecast-substitutes-top-5-picks-of-2019/"><u>Best ChromeCast Substitutes: Top 5 Picks of 2019</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-honor-magic-6-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Honor Magic 6 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/navigating-lunapic-like-an-ace-photographer/"><u>Navigating LunaPic Like an Ace Photographer</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/rise-and-shine-brighter-with-ihomes-zenergy-an-authoritative-guide-to-next-level-morning-alertness-and-sleep-therapy/"><u>Rise and Shine Brighter with iHome's Zenergy: An Authoritative Guide to Next-Level Morning Alertness and Sleep Therapy</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-5-network-server-rack-and-enclosures-innovations-of-2024/"><u>Top 5 Network Server Rack & Enclosures Innovations of 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-best-free-video-cutters-and-joiners-for-beginners/"><u>Updated 2024 Approved Best Free Video Cutters and Joiners for Beginners</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-canon-camcorder-video-editing-made-easy-tips-tricks-and-software/"><u>Updated 2024 Approved Canon Camcorder Video Editing Made Easy Tips, Tricks, and Software</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-desktop-video-editing-solutions-gopro-quik-and-beyond/"><u>Updated 2024 Approved Desktop Video Editing Solutions GoPro Quik and Beyond</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-watermark-less-video-combining-7-expert-approved-tools/"><u>Updated 2024 Approved Watermark-Less Video Combining 7 Expert-Approved Tools</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-free-and-paid-3d-animation-solutions-a-comprehensive-review-for-2024/"><u>Updated Free and Paid 3D Animation Solutions A Comprehensive Review for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-from-zero-to-hero-fixing-fcpx-plugin-problems-in-minutes-for-2024/"><u>Updated From Zero to Hero Fixing FCPX Plugin Problems in Minutes for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-list-10-free-and-paid-alternatives-to-final-cut-pro-x/"><u>Updated The Ultimate List 10 Free and Paid Alternatives to Final Cut Pro X</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-wevideo-your-go-to-platform-for-easy-video-creation/"><u>Updated WeVideo Your Go-To Platform for Easy Video Creation</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-cut-the-redundancy-a-step-by-step-to-adding-times-in-your-videos/"><u>[New] Cut the Redundancy A Step-by-Step to Adding Times in Your Videos</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-discovering-6-interactive-workout-ideas-for-social-media-success/"><u>[New] Discovering 6 Interactive Workout Ideas for Social Media Success</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/insignia-fire-tv-review-featuring-alexa-and-stunning-ultra-hd-on-a-budget/"><u>Insignia Fire TV Review - Featuring Alexa and Stunning Ultra HD on a Budget</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-color-correction-mastery-a-tutorial-on-matching-video-clips-in-final-cut-pro/"><u>New 2024 Approved Color Correction Mastery A Tutorial on Matching Video Clips in Final Cut Pro</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-from-flat-to-fabulous-converting-videos-for-vr-with-ease/"><u>New 2024 Approved From Flat to Fabulous Converting Videos for VR with Ease</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-streamline-your-video-library-top-mac-metadata-editing-tools/"><u>New 2024 Approved Streamline Your Video Library Top Mac Metadata Editing Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-tiktok-watermark-removal-made-easy-top-online-tools/"><u>New 2024 Approved TikTok Watermark Removal Made Easy Top Online Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-vllo-for-mac-a-comprehensive-guide-to-downloads-and-substitutes/"><u>New 2024 Approved VLLO for Mac A Comprehensive Guide to Downloads and Substitutes</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-bring-your-vision-to-life-10-best-music-video-production-companies-for-2024/"><u>New Bring Your Vision to Life 10 Best Music Video Production Companies for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-create-stunning-3d-videos-top-free-and-paid-makers-for-2024/"><u>New Create Stunning 3D Videos Top Free and Paid Makers for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-edit-on-the-fly-10-free-video-speed-changing-apps-for-mobile-devices/"><u>New In 2024, Edit on the Fly 10 Free Video Speed Changing Apps for Mobile Devices</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-mystery-behind-football-manager-2022s-postponed-launch-and-how-to-beat-it/"><u>The Mystery Behind Football Manager 2022'S Postponed Launch – And How to Beat It</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-simplest-way-to-correct-the-windows-update-failure-error-0x80070652/"><u>The Simplest Way to Correct the Windows Update Failure (Error 0X80070652)</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ultimate-free-video-fixer-for-damaged-footage/"><u>Ultimate Free Video Fixer for Damaged Footage</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Xiaomi Redmi K70E | Dr.fone</u></a></li>
 </ul></div>
 
