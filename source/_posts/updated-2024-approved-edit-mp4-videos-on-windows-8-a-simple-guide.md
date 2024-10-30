@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Edit MP4 Videos on Windows 8 A Simple Guide
-date: 2024-08-09T07:07:12.224Z
-updated: 2024-08-10T07:07:12.224Z
+date: 2024-10-27T18:53:49.408Z
+updated: 2024-10-29T18:37:31.820Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 
 # MP4 Editor for Windows 8: Easily Edit MP4 Files on PC
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -31,9 +28,6 @@ MP4 format is quite popular among computer users, therefore there are numerous v
 
 In this article, a stylish and versatile MP4 editor for Windows 8 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) (Windows 10/8/7/XP/Vista supported) is shared with you. This program enables you to create Hollywood-like home movies with titles, effects, and transitions from all regular videos, audio, and photos. Plus, it offers a free trial for you to evaluate. Just download the free trial of MP4 editor Windows 8 and follow below step by step guide.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## Easily Edit MP4 Files on PC
@@ -44,9 +38,6 @@ Click Import or directly drop and drop to load your source videos into Filmora a
 
 The imported MP4 videos will show as thumbnails in the user's album's item tray. Double click it, you can preview them on the right screen (full screen is available), and take snapshots freely.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to edit mp4 on windows 8](https://images.wondershare.com/filmora/article-images/import-source-image2.jpg)
 
 #### 2\.  Easy MP4 editing in Windows 8
@@ -63,28 +54,18 @@ If you want to edit and personalize your MP4 videos, the timeline panel will off
 
 Select a clip in the Timeline, drag the Indicator to where you want to split and click the "Split" button. Then the clip will be [split into two](https://tools.techidaily.com/wondershare/filmora/download/). Right click the video clip, you can also choose "Delete", "Copy", "Paste" option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![best mp4 editor windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-split-trim.jpg)
 
 ##### Rotate, Crop, Adjust Brightness, Speed, etc
 
 To rotate video, [crop some unwanted parts](https://tools.techidaily.com/wondershare/filmora/download/) of the video, you can select the editing box as your editing helper. Double click the video clip, or right click and choose Edit option, you'll go to the edit window.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![simple mp4 editor windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-video-audio-editing.jpg)
 
 ##### Add Scene Transition
 
 Click "Transition" tab on the main interface and drag one scene transition you like to your video, or you can right click on a favorite transition and choose the option "Apply to All", which can apply the certain transition effect to all your videos.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![mp4 editor for windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-transition.jpg)
 
 In all, with this MP4 editor for Windows 8, everything is at your fingertips. If you also want to add [intro/credits](https://tools.techidaily.com/wondershare/filmora/download/), apply special effects, create picture-in-picture effects, etc., please go to the [detailed guide](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -107,11 +88,40 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-top-7-free-dvd-player-software-for-laptop-windowsmac/"><u>[New] 2024 Approved Top 7 Free DVD Player Software for Laptop [Windows/Mac]</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-unleash-your-photo-flair-insta-covers-for-tech-giants/"><u>2024 Approved Unleash Your Photo Flair Insta Covers for Tech Giants</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/a-compreenas-guide-to-auto-and-advanced-camera-exposure-methods-for-2024/"><u>A Compreenas Guide to Auto and Advanced Camera Exposure Methods for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-implemented-origin-previously-offline-now-up-and-running-smoothly/"><u>Fix Implemented: Origin Previously Offline, Now Up & Running Smoothly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-itel-s23plus-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Itel S23+ Through Google Earth?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 13 mini</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/maximize-your-social-media-presence-with-cross-platform-strategies-fb-li-xing-plus-youtube/"><u>Maximize Your Social Media Presence with Cross-Platform Strategies (FB, LI, Xing + YouTube)</u></a></li>
+<li><a href="https://win-help.techidaily.com/shop-aomei-total-solutions-centralized-backup-software-now/"><u>Shop AOMEI Total Solution's Centralized Backup Software Now</u></a></li>
+<li><a href="https://facebook.techidaily.com/strategies-for-clearing-frozen-fb-alerts-and-posts/"><u>Strategies for Clearing Frozen FB Alerts and Posts</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-get-sound-back-in-avidemux-easy-fixes/"><u>Updated 2024 Approved Get Sound Back in Avidemux Easy Fixes</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-top-10-vlogging-editing-apps-for-mobile-devices/"><u>Updated 2024 Approved Top 10 Vlogging Editing Apps for Mobile Devices</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-top-rated-4k-video-conversion-software-2023-edition/"><u>Updated 2024 Approved Top-Rated 4K Video Conversion Software 2023 Edition</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-below-is-a-list-of-top-5-free-wmv-splitters-which-can-help-you-split-your-frames-without-damaging-the-quality-of-your-video/"><u>Updated In 2024, Below Is a List of Top 5 Free WMV Splitters Which Can Help You Split Your Frames without Damaging the Quality of Your Video</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-beyond-gopro-quik-top-pc-video-editing-software-options/"><u>Updated In 2024, Beyond GoPro Quik Top PC Video Editing Software Options</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-fast-forward-your-memories-best-time-lapse-video-apps/"><u>Updated In 2024, Fast Forward Your Memories Best Time-Lapse Video Apps</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-trim-cut-and-edit-divx-videos-with-these-free-tools/"><u>Updated In 2024, Trim, Cut, and Edit Divx Videos with These Free Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-lowdown-on-vn-video-editor-for-pc-a-2024-assessment/"><u>Updated The Lowdown on VN Video Editor for PC A 2024 Assessment</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-guide-to-free-mp4-video-editing-software-2023-edition-for-2024/"><u>Updated The Ultimate Guide to Free MP4 Video Editing Software (2023 Edition) for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Motorola Moto G73 5G | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

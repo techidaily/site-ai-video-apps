@@ -1,7 +1,7 @@
 ---
 title: New Mastering PiP A Step-by-Step Guide to Final Cut Pro for 2024
-date: 2024-08-02T06:30:43.162Z
-updated: 2024-08-03T06:30:43.162Z
+date: 2024-10-28T18:33:56.324Z
+updated: 2024-10-30T00:39:20.781Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/1a0a225965c2ce4acfd77f7b81b0abb5e4b211b4f
 
 # How to Create a Picture-in-Picture Effect Using Final Cut Pro
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -41,10 +38,6 @@ If you are ready with two videos and now want to bring them to the same screen t
 
 The very first step that you need to follow for PIP effect generation using FCP is to bring your main or background video to the timeline as a primary storyline. Once you have created the primary storyline then all videos for the PIP effect will be added to it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![add pip video](https://images.wondershare.com/filmora/article-images/add-pip-videos-in-fcp.jpg)
 
 #### Step 2: Add PIP videos
@@ -59,9 +52,6 @@ Note that lower clips use to stay in the background in final results whereas upp
 
 As now you have added both videos on-screen now you have to select the higher video and then click over the rectangular transform button that is available on the lower-left corner of viewer screen. As soon as you make this selection, the icon will turn into blue color, and naturally 8 dots will appear around the selected image or video. Use any one of these dots for scaling your selection in asymmetrical order.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![adjust pip effect](https://images.wondershare.com/filmora/article-images/adjust-pip-effect-in-fcp.jpg)
 
 #### Step 4: Adjust PIP Effect
@@ -75,9 +65,6 @@ As now you have added both videos on-screen now you have to select the higher vi
 
 Simply select the top clip and then hit Command + 4 to open the inspector. Now click on that blue show button over your FCP screen and it will provide you complete information about the transform category of available built-in effects. If you use inspector for this task then it can help you to get very precise results for scaling needs. It assists users to manage images with accurate position and size.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![precise adjustment](https://images.wondershare.com/filmora/article-images/precise-adjustment-in-fcp.jpg)
 
 #### Step 6: Apply Cross- Dissolve
@@ -85,12 +72,16 @@ Simply select the top clip and then hit Command + 4 to open the inspector. Now c
 * Now choose the leading edge of effect and use Command + T. It will immediately apply the default cross-dissolve option for starting clip.
 * You will be glad to know that the PIP effect does not restrict users to work just upon a single image rather it can be used to process as many pictures as your project needs and that can fit inside the frame.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![dissolve effect](https://images.wondershare.com/filmora/article-images/dissolve-effect-in-fcp.jpg)
 
 Check this video tutorial to know more details:
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Picture in Picture Plug-ins for Final Cut Pro
 
@@ -106,10 +97,14 @@ Those who need to enjoy a higher level of customizations are advised to work ove
 
 ProPIP is the best choice for newscasting, commentaries, and many other applications. It helps in generating fine controls for initial as well as end position, rotation, and scaling effects along with easy-to-use media controls over the screen. ProPIP also provides personalized borders with endless opportunities to develop impressive projects on Final Cut Pro platform.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -117,11 +112,33 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-the-top-photo-protection-apps-reviewed/"><u>[New] The Top Photo Protection Apps Reviewed</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-explore-the-globe-top-10-travelers-youtube-guide/"><u>2024 Approved Explore the Globe Top 10 Traveler's YouTube Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-video-quality-on-tiktok-2-ways/"><u>2024 Approved Transform Video Quality on TikTok (2 Ways)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-truthful-insights-into-recordcast-functionality/"><u>2024 Approved Truthful Insights Into RecordCast Functionality</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discovering-the-subtle-changes-in-the-latest-addition-to-the-galaxy-s-series-the-s21/"><u>Discovering the Subtle Changes in the Latest Addition to the Galaxy S Series - The S21</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-utilization-of-unused-film-clips-tips-and-tricks/"><u>In 2024, Utilization of Unused Film Clips Tips and Tricks</u></a></li>
+<li><a href="https://change-location.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-glitches-troubleshooting-tips-for-a-smooth-fifa-19-gaming-experience/"><u>No More Glitches: Troubleshooting Tips for a Smooth FIFA 19 Gaming Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-wmps-server-failure-error/"><u>Resolving WMP's Server Failure Error</u></a></li>
+<li><a href="https://facebook.techidaily.com/silencing-sovereign-trumps-legal-action-against-g-f-t/"><u>Silencing Sovereign? Trump's Legal Action Against G-F-T</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/top-bokeh-blur-apps-for-mobile-photography-for-2024/"><u>Top Bokeh Blur Apps for Mobile Photography for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-elevate-your-video-editing-a-comprehensive-guide-to-using-the-ken-burns-effect-in-final-cut-pro/"><u>Updated 2024 Approved Elevate Your Video Editing A Comprehensive Guide to Using the Ken Burns Effect in Final Cut Pro</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-expert-recommended-free-video-splitters-top-5-list/"><u>Updated 2024 Approved Expert-Recommended Free Video Splitters Top 5 List</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-filmmaking-for-all-7-accessible-software-for-low-budget-productions/"><u>Updated 2024 Approved Filmmaking for All 7 Accessible Software for Low-Budget Productions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-avs-video-editor-2023-review-a-beginners-guide-to-video-editing-software/"><u>Updated In 2024, AVS Video Editor 2023 Review A Beginners Guide to Video Editing Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-from-capture-to-cinematic-canon-video-editing-software-and-best-practices/"><u>Updated In 2024, From Capture to Cinematic Canon Video Editing Software and Best Practices</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-reverse-your-footage-a-step-by-step-guide-for-final-cut-pro-users/"><u>Updated In 2024, Reverse Your Footage A Step-by-Step Guide for Final Cut Pro Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-unleash-your-creativity-top-5-iphone-video-editing-apps-you-need/"><u>Updated Unleash Your Creativity Top 5 iPhone Video Editing Apps You Need</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-video-metadata-management-best-mp4-tag-editors-for-pc-and-mac/"><u>Updated Video Metadata Management Best MP4 Tag Editors for PC and Mac</u></a></li>
+</ul></div>
+

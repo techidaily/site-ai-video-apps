@@ -1,7 +1,7 @@
 ---
 title: Updated Taking Lower Thirds to the Next Level in Final Cut Pro X for 2024
-date: 2024-10-17T20:14:43.678Z
-updated: 2024-10-24T06:56:13.643Z
+date: 2024-10-29T01:45:53.898Z
+updated: 2024-10-29T19:07:15.631Z
 tags: 
   - video editing software
   - video editing
@@ -47,6 +47,13 @@ On a short note, you can define the lower third module as a piece of a graphical
 
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Part2: What factors contribute to a good lower third?**
 
 While designing the lower third element for your video, you must keep an eye on few factors. Work on the below attributes to build a good lower third element. Always remember to keep it simple to obtain the desired outcomes.
@@ -60,10 +67,10 @@ Try different color schemes with Green, Magenta, Orange, and Blue to create a me
 ![color-factor](https://images.wondershare.com/filmora/images/final-cut-pro/color-factor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. **Motion effect**
@@ -93,10 +100,10 @@ Proper alignment and the best coordinates on the screen make the lower third mod
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Part3: How to make a lower third quickly in final cut pro X?**
@@ -123,18 +130,18 @@ You can download the app and install them in your system. Launch the tool by dou
 
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2Step 2: Add the Title**
 
 In the home screen, import the video that requires the edits and then tap the ‘Titles’ tab at the left top of the screen. Click the ‘Build-in/Build-out’ option to custom the Title element. According to your needs, you can repeat it to insert the desired titles on the video screen.
 
 ![built-in-title](https://images.wondershare.com/filmora/images/final-cut-pro/built-in-title.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3Step 3: Customize the Title**
 
@@ -147,19 +154,6 @@ Use the above instructions, insert the lower third element in your video effortl
 For those who still need more guides about making lower thirds, this Filmora tutorial may help a lot.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
@@ -202,22 +196,19 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-becoming-an-illustration-maestro-best-mac-free-tools/"><u>[Updated] 2024 Approved Becoming an Illustration Maestro - Best Mac Free Tools</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-navigate-away-from-bot-influenced-metrics/"><u>[Updated] In 2024, Navigate Away From Bot-Influenced Metrics</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-unraveling-cuts-in-imovie-size-modification-mystery/"><u>[Updated] In 2024, Unraveling Cuts in iMovie Size Modification Mystery</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-navigating-the-world-of-digital-gifs/"><u>[Updated] Navigating the World of Digital GIFs</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-infinix-hot-30-5g-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Infinix Hot 30 5G?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-do-i-sim-unlock-my-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How Do I SIM Unlock My iPhone 14 Pro Max?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-top-7-icloud-activation-bypass-tools-for-your-iphone-8-plus-by-drfone-ios/"><u>In 2024, Top 7 iCloud Activation Bypass Tools For your iPhone 8 Plus</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigate-browser-black-screens-with-ease/"><u>Navigate Browser Black Screens with Ease</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-face-blurring-made-easy-a-step-by-step-guide-with-the-top-10-free-apps/"><u>New 2024 Approved Face Blurring Made Easy A Step-by-Step Guide with the Top 10 Free Apps</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-mac-video-creation-made-easy-best-tools-and-apps/"><u>New 2024 Approved Mac Video Creation Made Easy Best Tools and Apps</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-s-hottest-face-changer-apps-for-ios-and-android-devices/"><u>New 2024 Approved S Hottest Face Changer Apps for iOS and Android Devices</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-combine-multiple-avi-files-into-one-10-best-free-freeware-for-2024/"><u>New Combine Multiple AVI Files Into One 10 Best Free Freeware for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-from-snapshots-to-masterpieces-best-online-photo-and-video-collage-creators-for-2024/"><u>New From Snapshots to Masterpieces Best Online Photo and Video Collage Creators for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-get-started-with-green-screen-top-10-free-mobile-apps-for-beginners-for-2024/"><u>New Get Started with Green Screen Top 10 Free Mobile Apps for Beginners for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-how-to-download-4k-videos-in-mp4-format-a-beginners-guide-for-2024/"><u>New How to Download 4K Videos in MP4 Format A Beginners Guide for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-discover-the-best-10-animated-text-software-for-stunning-visuals/"><u>New In 2024, Discover the Best 10 Animated Text Software for Stunning Visuals</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/unraveling-asmr-for-mental-and-physical-health/"><u>Unraveling ASMR for Mental and Physical Health</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-streamline-your-tiktok-creation-process-with-zoom/"><u>[Updated] 2024 Approved Streamline Your TikTok Creation Process with Zoom</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-humor-image-processor/"><u>[Updated] Best Humor Image Processor</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-accurate-mac-photography-mastery-of-five-proven-snapshot-ways/"><u>[Updated] In 2024, Accurate Mac Photography Mastery of Five Proven Snapshot Ways</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/asf-mpeg/"><u>ASF 프리미퓰어를 MPEG로 바꾸는 방법 - 오토바이오</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bug-free-gaming-solving-the-crashing-problems-of-madden-nfl-20-for-pc-users/"><u>Bug-Free Gaming: Solving the Crashing Problems of Madden NFL 20 for PC Users</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-transforming-raw-footage-into-youtube-gold-via-sony-vegas/"><u>In 2024, Transforming Raw Footage Into YouTube Gold via Sony Vegas</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-unveils-the-first-photo-restoration-and-fix-tool/"><u>Stellar Unveils: The First Photo Restoration & Fix Tool</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-list-of-avi-video-cutters-16-best-options-for-windows-mac-and-android-users/"><u>Updated 2024 Approved The Ultimate List of AVI Video Cutters 16 Best Options for Windows, MAC, and Android Users</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-video-editing-freedom-how-to-use-any-app-on-your-chromebook-updated-2023/"><u>Updated 2024 Approved Video Editing Freedom How to Use Any App on Your Chromebook (Updated 2023)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-elevate-your-storytelling-wevideos-online-video-editing-solution/"><u>Updated In 2024, Elevate Your Storytelling WeVideos Online Video Editing Solution</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-no-watermark-no-cost-top-10-online-video-editing-tools/"><u>Updated In 2024, No Watermark, No Cost Top 10 Online Video Editing Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-s-most-popular-mkv-clip-editors-for-mac/"><u>Updated In 2024, S Most Popular MKV Clip Editors for Mac</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-make-animated-magic-happen-top-5-online-stop-motion-makers/"><u>Updated Make Animated Magic Happen Top 5 Online Stop Motion Makers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-take-your-editing-to-the-next-level-10-fcpx-plugins-you-need/"><u>Updated Take Your Editing to the Next Level 10 FCPX Plugins You Need</u></a></li>
 </ul></div>
 
