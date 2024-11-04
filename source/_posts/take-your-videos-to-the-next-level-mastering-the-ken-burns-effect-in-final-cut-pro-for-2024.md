@@ -1,7 +1,7 @@
 ---
 title: Take Your Videos to the Next Level Mastering the Ken Burns Effect in Final Cut Pro for 2024
-date: 2024-10-27T18:40:50.182Z
-updated: 2024-10-29T22:19:46.940Z
+date: 2024-11-02T16:22:53.606Z
+updated: 2024-11-04T20:23:10.910Z
 tags: 
   - video editing software
   - video editing
@@ -36,10 +36,10 @@ To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut,
 First, let’s talk about what Ken Burns is and why he has an effect named after him in Final Cut programs!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What is the Ken Burns Effect
@@ -49,19 +49,6 @@ First, let’s talk about what Ken Burns is and why he has an effect named after
 The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, slow pan, and scroll across archive photography and still film. This will enable you to substitute whole parts of the program you are making with photographs if you haven’t taken enough footage. It is commonly used in editing, particularly when making things like [wedding videos](https://tools.techidaily.com/wondershare/filmora/download/), which often feature lots of photos of the happy couple.
 
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Steps to Making the Ken Burns Effect Final Cut Pro
 
@@ -92,16 +79,10 @@ You can also customize the ken burns effects in Final Cut.
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
@@ -118,6 +99,13 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
@@ -125,10 +113,16 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Ken Burns Conclusion
@@ -154,17 +148,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-stand-out-your-top-10-guide-to-youtubes-best-music-videos/"><u>[New] 2024 Approved How to Stand Out Your Top 10 Guide to YouTube's Best Music Videos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-scripted-synergy-systems/"><u>[New] In 2024, Scripted Synergy Systems</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-streamlining-fb-live-recording-for-maximum-clarity/"><u>[New] Streamlining FB Live Recording for Maximum Clarity</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-the-actual-fix-for-exporting-srt-from-premiere-not-working-for-2024/"><u>[Updated] The Actual Fix for Exporting SRT From Premiere Not Working for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ai-revolutionized-communication-how-siri-is-now-apples-primary-search-engine-inspired-by-bing-insights-for-tomorrow/"><u>AI Revolutionized Communication: How Siri Is Now Apple's Primary Search Engine, Inspired by Bing | Insights for Tomorrow</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-do-i-canin-and-more-than/"><u>How Do I Can'in (and More Than</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-vivo-y27-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Vivo Y27 5G Phone Hassle-Free</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-is-vn-video-editor-apk-worth-your-time-a-detailed-review/"><u>New 2024 Approved Is VN Video Editor APK Worth Your Time? A Detailed Review</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-slow-and-steady-wins-the-game-mastering-slow-motion-in-windows-live-movie-maker/"><u>New 2024 Approved Slow and Steady Wins the Game Mastering Slow Motion in Windows Live Movie Maker</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-art-of-freeze-frame-converting-videos-to-images-with-10-expert-tools/"><u>New 2024 Approved The Art of Freeze-Frame Converting Videos to Images with 10 Expert Tools</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-expert-review-videopad-video-editors-pros-cons-and-buying-advice/"><u>New In 2024, Expert Review Videopad Video Editors Pros, Cons, and Buying Advice</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-versions-10-to-7-microsofts-driver-fix/"><u>Windows Versions 10 to 7: Microsoft's Driver Fix</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-a-vloggers-guide-to-camera-lenses-wondershare-filmora/"><u>[New] 2024 Approved A Vlogger's Guide To Camera Lenses | Wondershare Filmora</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-dissecting-ustream-with-comparative-views-for-2024/"><u>[Updated] Dissecting Ustream with Comparative Views for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/benchmark-dev-highlights-snapdragon-x-processor-success-holds-65-of-geekbench-6-outcomes-this-month/"><u>Benchmark Dev Highlights Snapdragon X Processor Success: Holds 6.5% of Geekbench 6 Outcomes This Month</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-update-for-canoscan-lide-220-scanner-drivers-now/"><u>Get the Newest Update for CanoScan LiDE 220 Scanner Drivers Now!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-8-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 8 Plus without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-intuitive-mac-videographer-plus-voice-support/"><u>In 2024, Intuitive Mac Videographer + Voice Support</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/reverse-charge-system-for-winx-dvd-tools-by-digitarty/"><u>Reverse Charge System for WinX DVD Tools by DigitArty</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-elevate-your-videos-best-3d-animation-and-video-software/"><u>Updated 2024 Approved Elevate Your Videos Best 3D Animation and Video Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-revolutionize-your-reaction-videos-expert-tips-for-using-filmora/"><u>Updated 2024 Approved Revolutionize Your Reaction Videos Expert Tips for Using Filmora</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-rotate-your-avi-videos-with-ease-top-5-free-tools/"><u>Updated 2024 Approved Rotate Your AVI Videos with Ease Top 5 Free Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-are-you-on-the-lookout-for-the-best-iphone-video-editor-app-we-have-five-phenomenal-app-suggestions-that-will-help-you-make-professional-videos-on-t/"><u>Updated Are You on the Lookout for the Best iPhone Video Editor App? We Have Five Phenomenal App Suggestions that Will Help You Make Professional Videos on the Go for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-best-video-editing-apps-for-vloggers-top-picks-for-ios-and-android/"><u>Updated The Best Video Editing Apps for Vloggers Top Picks for iOS & Android</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-guide-to-deleting-tiktok-watermarks-online/"><u>Updated The Ultimate Guide to Deleting TikTok Watermarks Online</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-transform-your-images-into-videos-with-these-10-online-tools-for-2024/"><u>Updated Transform Your Images Into Videos with These 10 Online Tools for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/virtual-conversations-unleashed-with-pc-based-whatsapp-web-chat/"><u>Virtual Conversations Unleashed with PC-Based WhatsApp Web Chat</u></a></li>
 </ul></div>
 

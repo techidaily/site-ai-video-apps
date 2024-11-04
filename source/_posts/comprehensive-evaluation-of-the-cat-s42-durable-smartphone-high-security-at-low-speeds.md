@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Evaluation of the CAT S42 Durable Smartphone: High Security at Low Speeds"
-date: 2024-10-27T23:32:45.543Z
-updated: 2024-10-29T17:45:39.330Z
+date: 2024-11-03T17:07:20.739Z
+updated: 2024-11-04T17:15:45.052Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Evaluation of the CAT S42 Durable Smartphone: High Security at Low Speeds"
@@ -39,10 +39,10 @@ Lifewire / Yoona Wagener
 4.5
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## TCL 50S425 50-inch 4K Smart LED Roku TV
@@ -91,14 +91,14 @@ Lifewire / Yoona Wagener
 
 ![TCL 50S425 50-inch Roku TV (2019)](https://www.lifewire.com/thmb/cT13RJhaMjC05v7eMym3vtM8M0s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4061017_05-70fc23cf6c2b4a13ac9d46f9372010ef.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Yoona Wagener
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Setup Process** :**Up and running in minutes**
 
@@ -111,10 +111,10 @@ Lifewire / Yoona Wagener
  Additionally, if you plan to use a set-top cable box or antenna, the user manual offers straightforward instructions for doing so. You also have the option of enabling the Smart TV experience when you use antenna TV mode. This setting uses automatic content recognition (ACR) to make viewing recommendations based on what you view through your antenna or connected HDMI devices.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Image Quality: Clear and vivid without any tweaking**
@@ -135,13 +135,6 @@ Lifewire / Yoona Wagener
 
 ![TCL 50S425 50-inch Roku TV (2019)](https://www.lifewire.com/thmb/Lv4B9e6LaJSHW7NSl-Braa2vnmc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4061017_03-b8155781e440420aa0c6c2bf19f9fe6a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Yoona Wagener
 
 ## **Audio Quality: Solid but not spellbinding**
@@ -154,14 +147,14 @@ Lifewire / Yoona Wagener
 
 ![TCL 50S425 50-inch Roku TV (2019)](https://www.lifewire.com/thmb/oA3AbTZysdVWZbOWuuVGOa56_8c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4061017_02-04183ae8dcd44b778b4da0e7706d5df2.jpg)
 
- Lifewire / Yoona Wagener
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Lifewire / Yoona Wagener
 
 ## **Software: Intuitive and streamlined**
 
@@ -190,6 +183,19 @@ Lifewire / Yoona Wagener
  **A budget-friendly 4K TV that offers impressive picture and overall value.**
 
  The TCL 50S425 50-inch Roku TV is a smart 4K TV that possesses many merits: an appealing price point, excellent 4K HDR picture quality, a size profile that won’t overwhelm small rooms or apartments, and an easy-to-use interface that requires little fuss. You may find better 4K picture and audio quality in a higher-end model, but this TV offers a welcome smart TV upgrade at a price that won’t empty your pockets.
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -229,18 +235,21 @@ Lifewire / Yoona Wagener
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-adding-allure-selecting-the-best-borders-and-frames-for-ig-shots/"><u>[New] In 2024, Adding Allure Selecting the Best Borders & Frames for IG Shots</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-tailored-transitions-5-innovative-techniques-for-video-length-optimization-on-vimeo/"><u>[Updated] 2024 Approved Tailored Transitions 5 Innovative Techniques for Video Length Optimization on Vimeo</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-from-good-to-great-elevating-your-ads-facebook-impact/"><u>[Updated] In 2024, From Good to Great Elevating Your Ads' Facebook Impact</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-secure-and-convenient-a-windowsmac-downloading-guide-for-igtv-videos-for-2024/"><u>[Updated] Secure and Convenient A Windows/Mac Downloading Guide for IGTV Videos for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-mastering-personal-content-management-building-a-structured-watch-later-list/"><u>2024 Approved Mastering Personal Content Management Building a Structured 'Watch Later' List</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/boost-your-workflow-swap-out-tedious-excel-equations-for-the-power-of-chatgpt-automation/"><u>Boost Your Workflow - Swap Out Tedious Excel Equations for the Power of ChatGPT Automation</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/our-5-favorite-free-international-calling-apps/"><u>Our 5 Favorite Free International Calling Apps</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-audio-problems-get-back-control-of-windows-10-speaker-volume-now/"><u>Resolving Audio Problems: Get Back Control of Windows 10 Speaker Volume Now!</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-s-leading-text-motion-capture-tools/"><u>Updated 2024 Approved S Leading Text Motion Capture Tools</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-edit-like-a-pro-free-and-easy-gopro-video-editing-solutions-for-2024/"><u>Updated Edit Like a Pro Free and Easy GoPro Video Editing Solutions for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-get-creative-top-video-dubbing-tools-for-funny-videos-for-2024/"><u>Updated Get Creative Top Video Dubbing Tools for Funny Videos for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-edit-like-a-pro-the-5-best-iphone-video-editing-apps/"><u>Updated In 2024, Edit Like a Pro The 5 Best iPhone Video Editing Apps</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-essential-fcpx-hotkeys-boost-your-editing-speed/"><u>Updated In 2024, Essential FCPX Hotkeys Boost Your Editing Speed</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-boosting-earnings-with-effective-social-media-video-marketing-techniques-for-2024/"><u>[New] Boosting Earnings with Effective Social Media Video Marketing Techniques for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-mysterious-video-issue-with-sony-a6400/"><u>[New] In 2024, Mysterious Video Issue with Sony A6400</u></a></li>
+<li><a href="https://driver-download.techidaily.com/direct-links-and-instructions-for-downloading-newest-amd-vega/"><u>Direct Links and Instructions for Downloading Newest AMD Vega</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/free-screen-capture-solutions-top-5-recommendations-for-windows/"><u>Free Screen Capture Solutions – Top 5 Recommendations for Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-vivo-s17-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Vivo S17 Pro to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/maximizing-impact-uploading-srt-subtitles-to-popular-networks-seamlessly-for-2024/"><u>Maximizing Impact Uploading SRT Subtitles to Popular Networks Seamlessly for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premier-vr-movies-for-immersive-viewing/"><u>Premier VR Movies for Immersive Viewing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-post-upgrade-media-problems-with-new-windows-10/"><u>Solved Post-Upgrade Media Problems with New Windows 10</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-samsung-galaxy-a05-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Samsung Galaxy A05 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-image-cropping-in-fcpx-essential-techniques-for-editors/"><u>Updated 2024 Approved Image Cropping in FCPX Essential Techniques for Editors</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-reverse-video-online-the-ultimate-2023-guide/"><u>Updated 2024 Approved Reverse Video Online The Ultimate 2023 Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-say-goodbye-to-format-issues-stream-any-video-to-chromecast-seamlessly/"><u>Updated 2024 Approved Say Goodbye to Format Issues Stream Any Video to Chromecast Seamlessly</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-best-top-android-video-editing-apps-for-free-and-paid-users-for-2024/"><u>Updated Best Top Android Video Editing Apps for Free and Paid Users for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-make-your-own-cartoons-top-10-online-and-pc-tools-for-beginners/"><u>Updated In 2024, Make Your Own Cartoons Top 10 Online and PC Tools for Beginners</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-watch-dvds-on-windows-10-top-10-free-player-software/"><u>Updated In 2024, Watch DVDs on Windows 10 Top 10 Free Player Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-windows-live-movie-maker-tutorial-creating-stunning-slow-motion-videos/"><u>Updated In 2024, Windows Live Movie Maker Tutorial Creating Stunning Slow Motion Videos</u></a></li>
 </ul></div>
 
