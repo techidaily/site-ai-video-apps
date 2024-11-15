@@ -1,7 +1,7 @@
 ---
 title: Updated Elevate Your Audio 2 Fade-In/Fade-Out Methods in FCP for 2024
-date: 2024-11-08T16:16:35.452Z
-updated: 2024-11-13T16:03:34.014Z
+date: 2024-11-07T22:47:59.323Z
+updated: 2024-11-14T20:06:53.929Z
 tags: 
   - video editing software
   - video editing
@@ -65,10 +65,10 @@ You should remember that the fades appear at the beginning and the end of each c
 See more details on how to fade audio in Final Cut Pro from the following video.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Fade Music by using Fade Handles
@@ -88,10 +88,10 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -101,10 +101,10 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
@@ -121,10 +121,10 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -142,15 +142,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-streamline-your-screens-the-benefits-of-using-showmore/"><u>[Updated] 2024 Approved Streamline Your Screens The Benefits of Using ShowMore</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-navigating-the-backup-of-phones-camera-roll-for-snapchat-users/"><u>[Updated] In 2024, Navigating the Backup of Phone's Camera Roll for Snapchat Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/complete-package-buy-your-macxdvd-pro-tools-with-full-rights-at-no-extra-cost/"><u>Complete Package: Buy Your MacXDVD Pro Tools with Full Rights at No Extra Cost</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-copy-and-paste-issues-in-windows-11-solutions-inside/"><u>Fixing 'Copy & Paste' Issues in Windows 11 - Solutions Inside!</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-streamlining-media-files-from-xmltxt-to-srt-mastery/"><u>In 2024, Streamlining Media Files From XML/TXT to SRT Mastery</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/roman-rendezvous-timeless-tactics-to-seduce/"><u>Roman Rendezvous: Timeless Tactics to Seduce</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-adobe-premiere-pro-power-ups-the-best-plugins-free-and-affordable/"><u>Updated 2024 Approved Adobe Premiere Pro Power-Ups The Best Plugins (Free & Affordable)</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-from-script-to-screen-on-a-budget-7-essential-filmmaking-software/"><u>Updated 2024 Approved From Script to Screen on a Budget 7 Essential Filmmaking Software</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-cross-platform-video-editing-mastery-a-step-by-step-chromebook-guide/"><u>Updated In 2024, Cross-Platform Video Editing Mastery A Step-by-Step Chromebook Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-trim-cut-and-edit-avi-videos-top-software-for-windows-mac-and-mobile/"><u>Updated Trim, Cut, and Edit AVI Videos Top Software for Windows, MAC, and Mobile</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-detailed-guide-to-minecraft-capturing-techniques-on-mac/"><u>[New] 2024 Approved Detailed Guide to Minecraft Capturing Techniques on Mac</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-visual-vault-saving-windows-imagery/"><u>[New] 2024 Approved Visual Vault Saving Windows Imagery</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/fb-video-ads-create-and-design-with-free-creative-kit-for-2024/"><u>FB Video Ads Create & Design with Free Creative Kit for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-6-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/indispensable-top-vr-movie-adventures-for-2024/"><u>Indispensable Top VR Movie Adventures for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-make-a-blockbuster-trailer-best-software-for-mac-and-windows-for-2024/"><u>New Make a Blockbuster Trailer Best Software for Mac and Windows for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-minitool-movie-maker-a-detailed-review-user-manual-and-alternative-solutions/"><u>New Minitool Movie Maker A Detailed Review, User Manual, and Alternative Solutions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-revamp-your-footage-top-rated-free-online-video-enhancers/"><u>New Revamp Your Footage Top-Rated Free Online Video Enhancers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-guide-to-3d-animation-software-free-and-paid-solutions-for-2024/"><u>New The Ultimate Guide to 3D Animation Software Free and Paid Solutions for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-top-rated-free-video-cutting-software-for-divx-files-for-2024/"><u>New Top-Rated Free Video Cutting Software for Divx Files for 2024</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-11-pro-max-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 11 Pro Max Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-validity-of-vibration-reduction-in-adobes-world-for-2024/"><u>The Validity of Vibration Reduction in Adobe's World for 2024</u></a></li>
+<li><a href="https://techidaily.com/y100i-power-5g-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Y100i Power 5G Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
 </ul></div>
 

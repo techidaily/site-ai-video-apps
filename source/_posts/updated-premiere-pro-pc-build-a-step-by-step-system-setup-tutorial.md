@@ -1,7 +1,7 @@
 ---
 title: Updated Premiere Pro PC Build A Step-by-Step System Setup Tutorial
-date: 2024-11-08T23:29:39.487Z
-updated: 2024-11-13T20:40:40.620Z
+date: 2024-11-13T01:33:20.674Z
+updated: 2024-11-14T23:50:12.614Z
 tags: 
   - video editing software
   - video editing
@@ -46,13 +46,6 @@ However, it is important to remember this is the minimum specification, and will
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to check Computer Specifications
 
 Since Premiere Pro CC only works on Windows 10 system after 2018 13.0 release, we will show you how to check if your PC meets the requirements to run Premiere Pro on Windows 10
@@ -61,6 +54,19 @@ Since Premiere Pro CC only works on Windows 10 system after 2018 13.0 release, w
 * Right click the **This PC** option in the sidebar and then select **Properties** from the context menu.
 
 ![check PC system](https://images.wondershare.com/filmora/filmorapro/check-system-requirements.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * The system specification window will show up which you see the **Processor**, RAM, system type and other system information.
 
@@ -101,15 +107,22 @@ That is the theory, but how do you achieve this? This is done within Premiere it
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-1.png "adobe premiere requirements")
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Changing where the project files, previews and exports are stored is just as easy, and is accessed via the project menu by taking the path project > project settings > scratchdisks.
 
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-2.png "adobe premiere requirements")
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 7\. Sequence Setting
 
@@ -124,10 +137,10 @@ The Preset Tab makes setting up a new sequence much simpler. Choosing a preset e
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-3.png "adobe premiere requirements")
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Once the preset is chosen you can move to the settings tab to adjust the preset manually. Some settings will not be adjustable in this tab due to the specific optimization required for the input media.
@@ -137,13 +150,6 @@ Because the presets do such a good job it is not really necessary to adjust anyt
 While the standard presets are usually suitable, on occasion you may desire a custom setting. To do this, choose a sequence preset that is close to your media, and then make custom selections in the Settings tab. By selecting the Save Preset option on the Settings tab you can then create a custom setting with those parameters. Give the preset a suitable name in the Save Settings dialog and add any notes that are needed. The preset can be found in the Custom folder under Available Presets.
 
 Those with the Apple Prores Codec on their computers can use this as the preview codec if required. By choosing Quicktime as the preview format in a custom editing mode, and lastly Apple Prores as the required codec.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -166,17 +172,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-convert-srt-free-top-10-web-subtitle-services/"><u>[New] 2024 Approved Convert SRT Free Top 10 Web Subtitle Services</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-build-a-custom-vr-device-diy-google-cardboard-guide/"><u>[New] Build a Custom VR Device DIY Google Cardboard Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-camera-to-feed-ig-photo-tutorial/"><u>[New] From Camera to Feed IG Photo Tutorial</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-your-easy-routine-for-viewing-well-regarded-and-favorited-comments/"><u>In 2024, Your Easy Routine for Viewing Well-Regarded and Favorited Comments</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/making-a-lasting-impact-with-office-meetings-via-snap-camera/"><u>Making a Lasting Impact with Office Meetings via Snap Camera</u></a></li>
-<li><a href="https://games-able.techidaily.com/pokemon-flashback-android-game-re-imagining/"><u>Pokémon Flashback: Android Game Re-Imagining</u></a></li>
-<li><a href="https://change-location.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Vivo Y02T? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-to-downloading-and-installing-targus-docking-station-drivers-easy-as-1-2-3/"><u>Step-by-Step Guide to Downloading & Installing Targus Docking Station Drivers | Easy as 1, 2, 3</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/the-ultimate-guide-to-animation-makers-top-recommendations-for-2024/"><u>The Ultimate Guide to Animation Makers Top Recommendations for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-most-downloaded-android-apps-of-the-month/"><u>Updated In 2024, Most-Downloaded Android Apps of the Month</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-top-online-video-teaser-creators/"><u>Updated In 2024, Top Online Video Teaser Creators</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-this-article-youll-get-to-know-the-best-free-online-video-editors-without-a-watermark-to-create-and-edit-videos-that-attract-thousands-of-views-f/"><u>Updated In This Article, Youll Get to Know the Best Free Online Video Editors without a Watermark to Create and Edit Videos that Attract Thousands of Views for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-inclusive-insight-easeus-professional-analysis/"><u>[New] 2024 Approved Inclusive Insight EaseUS Professional Analysis</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-analytics-mastery-measuring-success-on-your-instagram-videos/"><u>[New] Analytics Mastery Measuring Success on Your Instagram Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-live-gaming-zenith-revealed-9-edition/"><u>2024 Approved Live Gaming Zenith Revealed, #9 Edition</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-benefits-of-using-mozilla-firefox-on-your-android-device/"><u>Discover the Benefits of Using Mozilla Firefox on Your Android Device</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-unlock-efficient-video-editing-6-essential-adobe-premiere-pro-tips/"><u>In 2024, Unlock Efficient Video Editing 6 Essential Adobe Premiere Pro Tips</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Realme Note 50? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-from-console-to-cloud-how-to-share-ps4-screenshots-online/"><u>New 2024 Approved From Console to Cloud How to Share PS4 Screenshots Online</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-microsoft-video-editor-the-ultimate-guide-to-editing-videos-on-windows/"><u>New 2024 Approved Microsoft Video Editor The Ultimate Guide to Editing Videos on Windows</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-ultimate-deal-final-cut-pro-at-a-fraction-of-the-cost-for-students/"><u>New 2024 Approved The Ultimate Deal Final Cut Pro at a Fraction of the Cost for Students</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-digital-collage-creators-for-photos-and-videos/"><u>New 2024 Approved Top Digital Collage Creators for Photos and Videos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-video-editing-mastery-online-tutorials-for-beginners-and-pros/"><u>New 2024 Approved Video Editing Mastery Online Tutorials for Beginners and Pros</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-fast-forward-your-memories-best-time-lapse-video-apps-for-2024/"><u>New Fast Forward Your Memories Best Time-Lapse Video Apps for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-from-novice-to-pro-20-adobe-premiere-shortcuts-to-take-your-skills-to-the-next-level/"><u>New In 2024, From Novice to Pro 20 Adobe Premiere Shortcuts to Take Your Skills to the Next Level</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/podcast-vs-youtube-determining-your-digital-destination-for-2024/"><u>Podcast Vs. YouTube Determining Your Digital Destination for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-no-matches-found-issues-a-guide-to-succeeding-on-bumble/"><u>Resolving 'No Matches Found' Issues: A Guide to Succeeding on Bumble</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ubuntu-installation-guide-ensure-system-compatibility-and-avoid-crashes/"><u>Ubuntu Installation Guide: Ensure System Compatibility & Avoid Crashes</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1728492643297-windows-7-windows-11/"><u>Windows 7データ移行と復元 - Windows 11へのアップグレードガイド</u></a></li>
 </ul></div>
 

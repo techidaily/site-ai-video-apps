@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Evaluation of the CAT S42 Durable Smartphone: High Security at Low Speeds"
-date: 2024-11-07T16:01:55.384Z
-updated: 2024-11-13T22:40:02.398Z
+date: 2024-11-10T00:14:12.898Z
+updated: 2024-11-14T20:42:37.666Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Evaluation of the CAT S42 Durable Smartphone: High Security at Low Speeds"
@@ -43,10 +43,10 @@ Lifewire / Yoona Wagener
 ![TCL 50S425 50-inch Roku TV (2019)](https://www.lifewire.com/thmb/3k1MkB4svn07bDvaUq6CGgLhZl8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4061017_HeroSquare-beccb9820dfd4a878196fac8bdf1d541.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
@@ -103,6 +103,13 @@ Lifewire / Yoona Wagener
 
  Additionally, if you plan to use a set-top cable box or antenna, the user manual offers straightforward instructions for doing so. You also have the option of enabling the Smart TV experience when you use antenna TV mode. This setting uses automatic content recognition (ACR) to make viewing recommendations based on what you view through your antenna or connected HDMI devices.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Image Quality: Clear and vivid without any tweaking**
 
  One of the biggest draws of a 4K TV is the[4K resolution](https://www.lifewire.com/4k-resolution-overview-and-perspective-1846842) , which offers four times the resolution quality of a standard high definition TV. This pixel resolution is also commonly referred to as Ultra HD (UHD). This Roku TV also comes with HDR, or High Dynamic Range, which is commonly bundled with 4K resolution in the newest smart TVs.[HDR improves image quality](https://www.lifewire.com/dolby-vision-and-hdr10-4060427) by intensifying the contrast between white and black areas on the screen while achieving a solid balance, so nothing looks too dark or too bright. It also broadens the palette of available colors, especially in combination with Wide Color Gamut (WCG).
@@ -123,13 +130,6 @@ Lifewire / Yoona Wagener
 
  Lifewire / Yoona Wagener
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Audio Quality: Solid but not spellbinding**
 
  While the TCL Roku TV offers impressive picture quality, the sound is less noteworthy. The two built-in 8-watt speakers offer decent volume levels, but there’s no advanced audio settings menu in this model. You do have control over aspects like sound mode and volume mode. The default sound mode is “normal,” which is appropriate for everyday viewing. But you can also select options for higher treble, more bass, movie, or music mode. As for volume modes, you can either turn on leveling, to balance the contrast between lows and highs in audio, or enable night mode, which sets a threshold for how high the volume can go.
@@ -141,20 +141,13 @@ Lifewire / Yoona Wagener
 ![TCL 50S425 50-inch Roku TV (2019)](https://www.lifewire.com/thmb/oA3AbTZysdVWZbOWuuVGOa56_8c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4061017_02-04183ae8dcd44b778b4da0e7706d5df2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Yoona Wagener
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Software: Intuitive and streamlined**
 
@@ -164,16 +157,16 @@ Lifewire / Yoona Wagener
 
  While the remote doesn’t come with a built-in speaker, the free Roku app does offer a voice-assistant feature. It’s best when completing a general search for a show or actor or for launching a particular app. If you have a Google Assistant or Amazon Alexa enabled device, this Roku TV will support them, and they offer a generally better experience than using the Roku app voice remote function.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: A great bargain on a budget**
 
  If you don’t want to spend a fortune on a 4K TV, but you want to get as much value as possible, the TCL 50S425 50-inch Roku TV is a compelling option. It retails for $350, which situates it in the growing and competitive class of 4K TVs under $500\. In the TCL 4-Series alone you have several other models to consider that all share the same specifications except for size. The larger 55-inch TCL Roku TV retails for just $30 more than the 50-inch version and features a larger screen size of 54.6 inches. It may not seem considerable, but if you’re limited with space, the extra width and height (five and two inches, respectively) can actually feel like a pretty massive difference. And if you opt for a smaller display and a lower price tag, the 43-inch TCL Roku TV retails for about $280, but you’re sacrificing 7 inches of display.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **TCL 50S425 50-inch Roku TV (2019) vs. Toshiba 55LF711U20 55-inch Fire TV Edition**
 
@@ -196,6 +189,13 @@ Lifewire / Yoona Wagener
 * [Sony XBR49X900F 49-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/sony-xbr49x900f-49-inch-4k-ultra-hd-smart-led-tv-review-4796665)
 * [Insignia NS-43DF710NA19 Fire TV Edition](https://www.lifewire.com/insignia-ns-43df710na19-fire-tv-edition-review-4770716)
 * [LG 27UD58-B 27-Inch 4K UHD IPS Monitor](https://www.lifewire.com/lg-27ud58-b27-inch-4k-uhd-ips-monitor-review-4778916)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -229,19 +229,21 @@ Lifewire / Yoona Wagener
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-content-makers-compensation-breakdown-for-youtube-shorts/"><u>[Updated] In 2024, Content Makers' Compensation Breakdown for YouTube Shorts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-photoshop-guide-realistic-3d-text-creation-steps/"><u>[Updated] Photoshop Guide Realistic 3D Text Creation Steps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-skys-dynamic-range-wonders-top-10-sites-guide/"><u>[Updated] Sky's Dynamic Range Wonders - Top 10 Sites Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essential-programs-for-photo-based-videography/"><u>Essential Programs for Photo-Based Videography</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-on-iphone-6s-plus-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even On iPhone 6s Plus If Youve Tried Everything</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-agriculture-amalgamations-best-friendly-farmers-game-roster/"><u>In 2024, Agriculture Amalgamations Best Friendly Farmer's Game Roster</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/navigate-through-gamers-choice-a-comprehensive-review-of-nintendo-switch/"><u>Navigate Through Gamers' Choice - A Comprehensive Review of Nintendo Switch</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/seamless-share-youtube-videos-set-up-autoplay-on-fb-for-2024/"><u>Seamless Share YouTube Videos Set Up Autoplay on FB for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/unveiling-the-secrets-of-combining-obs-with-zoom-for-2024/"><u>Unveiling the Secrets of Combining OBS with Zoom for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-adobe-premiere-vs-after-effects-which-one-should-you-use/"><u>Updated 2024 Approved Adobe Premiere vs After Effects Which One Should You Use?</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-fcpx-lower-thirds-mastery-best-practices-and-techniques/"><u>Updated 2024 Approved FCPX Lower Thirds Mastery Best Practices and Techniques</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-transform-your-photos-into-animations-with-these-7-essential-tools/"><u>Updated In 2024, Transform Your Photos Into Animations with These 7 Essential Tools</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-record-your-screen-with-ease-a-comprehensive-guide-to-filmora-scrn/"><u>Updated Record Your Screen with Ease A Comprehensive Guide to Filmora Scrn</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-whiteboard-animation-made-easy-top-5-hand-drawn-video-creators-for-2024/"><u>Updated Whiteboard Animation Made Easy Top 5 Hand-Drawn Video Creators for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-crafting-successful-videos-on-youtube-for-beginners-for-2024/"><u>[Updated] Crafting Successful Videos on YouTube for Beginners for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/breaking-through-boundaries-with-hdr-in-editing-for-2024/"><u>Breaking Through Boundaries with HDR in Editing for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experts-guide-to-leading-home-energy-reserves-ratings-and-reviews-by-tech-experts-zdnet/"><u>Experts' Guide to Leading Home Energy Reserves - Ratings & Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-innovate-your-iphones-selfie-quality-the-10-best-free-apps/"><u>In 2024, Innovate Your iPhone's Selfie Quality The 10 Best Free Apps</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-unveiling-the-secrets-of-successful-youtube-videos/"><u>In 2024, Unveiling the Secrets of Successful YouTube Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/investigating-issues-key-factors-leading-to-broken-car-speaker-systems/"><u>Investigating Issues: Key Factors Leading to Broken Car Speaker Systems</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-achieve-film-quality-video-a-step-by-step-guide-to-final-cut-pro-x/"><u>New 2024 Approved Achieve Film-Quality Video A Step-by-Step Guide to Final Cut Pro X</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-edit-videos-for-free-top-software-for-32-bit-windows-systems/"><u>New 2024 Approved Edit Videos for Free Top Software for 32-Bit Windows Systems</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-is-vn-video-editor-apk-worth-your-time-a-detailed-review/"><u>New 2024 Approved Is VN Video Editor APK Worth Your Time? A Detailed Review</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-slow-and-steady-wins-the-game-mastering-slow-motion-in-windows-live-movie-maker/"><u>New 2024 Approved Slow and Steady Wins the Game Mastering Slow Motion in Windows Live Movie Maker</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-art-of-freeze-frame-converting-videos-to-images-with-10-expert-tools/"><u>New 2024 Approved The Art of Freeze-Frame Converting Videos to Images with 10 Expert Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-expert-review-videopad-video-editors-pros-cons-and-buying-advice/"><u>New In 2024, Expert Review Videopad Video Editors Pros, Cons, and Buying Advice</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-final-cut-pro-hacks-create-a-vintage-vhs-look/"><u>New In 2024, Final Cut Pro Hacks Create a Vintage VHS Look</u></a></li>
+<li><a href="https://fox-that.techidaily.com/streamlined-strategies-to-get-your-ios-widgets-working-again-in-record-time/"><u>Streamlined Strategies to Get Your iOS Widgets Working Again in Record Time!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-weather-alert-apps-a-comprehensive-guide/"><u>Top-Rated Weather Alert Apps : A Comprehensive Guide</u></a></li>
 </ul></div>
 

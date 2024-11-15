@@ -1,7 +1,7 @@
 ---
 title: New FCP X Effects Made Simple A Step-by-Step Tutorial for 2024
-date: 2024-08-09T07:03:19.964Z
-updated: 2024-08-10T07:03:19.964Z
+date: 2024-11-08T02:45:17.132Z
+updated: 2024-11-15T00:46:50.303Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d7505
 
 # Simple Guide to FCP X: How To Add Effects in 3 Steps
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -50,9 +47,6 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 Here is our clip - a fearsome polar bear.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx001.jpg "add effects in fcp")
 
 To apply an effect, first select the clip in the Timeline.
@@ -61,18 +55,6 @@ To apply an effect, first select the clip in the Timeline.
 
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
 
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
@@ -90,16 +72,10 @@ To apply an effect, do one of two things:
 
 To modify an effect, click this icon in the Toolbar to open the Inspector (or type Cmd + 4).
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx005.jpg "add effects in fcp")
 
 Click the Video tab in the Inspector. Effects from the Effects Browser are always listed at the top of the Inspector.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx006.jpg "add effects in fcp")
 
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
@@ -128,9 +104,6 @@ You can apply, modify, even delete the same effect to multiple clips by first se
 
 The process of applying effects is the same for all effects you apply from the Effects Browser. In future articles I'll show you how to use this technique to create a wide variety of different effects in Final Cut Pro X.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -139,12 +112,37 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-high-level-behavior-tips-for-youtube-users/"><u>[New] 2024 Approved High-Level Behavior Tips for YouTube Users</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-first-steps-in-uav-world-the-syma-x5c-review-sets-you-up-right/"><u>[New] In 2024, First Steps in UAV World? The Syma X5C Review Sets You Up Right</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-insider-tips-for-facebook-cover-video-mastery/"><u>[Updated] 2024 Approved Insider Tips for Facebook Cover Video Mastery</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-expert-tips-efficiently-download-igtv-on-windows-and-macos/"><u>[Updated] Expert Tips Efficiently Download IGTV on Windows & MacOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-for-effective-periscope-use/"><u>[Updated] The Ultimate Guide for Effective Periscope Use</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-tecno-camon-20-pro-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Tecno Camon 20 Pro 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/kickstarting-with-a-gopro-unbox-the-perfect-add-ons-for-2024/"><u>Kickstarting with a GoPro Unbox the Perfect Add-Ons for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-from-square-to-wide-how-to-adjust-video-shape/"><u>New 2024 Approved From Square to Wide How to Adjust Video Shape</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-install-kinemaster-on-mac-a-comprehensive-guide/"><u>New 2024 Approved Install KineMaster on Mac A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-create-stunning-videos-with-these-free-online-movie-makers-for-2024/"><u>New Create Stunning Videos with These Free Online Movie Makers for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-gopro-quik-for-macbook-how-to-edit-your-gopro-videos-easily-for-2024/"><u>New GoPro Quik for MacBook How to Edit Your GoPro Videos Easily for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-fixed-final-cut-pro-x-crash-issues/"><u>New In 2024, Fixed Final Cut Pro X Crash Issues</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-and-paid-imovie-alternatives-for-windows-10-a-comprehensive-list/"><u>New In 2024, Free and Paid iMovie Alternatives for Windows 10 A Comprehensive List</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-speed-up-your-video-editing-how-to-cut-large-files-fast-on-mac/"><u>New In 2024, Speed Up Your Video Editing How to Cut Large Files Fast on Mac</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oneplus-nord-ce-3-lite-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Nord CE 3 Lite 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-efficiency-a-guide-to-quick-rdc-in-win-11/"><u>Unlocking Efficiency: A Guide to Quick RDC in Win 11</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

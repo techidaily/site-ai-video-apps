@@ -1,7 +1,7 @@
 ---
 title: New Elevate Your Audio 2 Fade-In/Fade-Out Methods in FCP for 2024
-date: 2024-08-09T07:03:15.520Z
-updated: 2024-08-10T07:03:15.520Z
+date: 2024-11-10T22:30:10.962Z
+updated: 2024-11-15T03:07:51.124Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 
 # Two Ways to Fade In/Out Audio in Final Cut Pro
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -47,18 +44,12 @@ Before we get started, you can firstly detach the audio from video to better edi
 
 Check more articles here, if you are also interested in other [audio editing tips](https://tools.techidaily.com/wondershare/filmora/download/) in Final Cut Pro or want to know how to [record a voice over](https://tools.techidaily.com/wondershare/filmora/download/) with FCP.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Fade Audio by using the Modify Menu
 
 You can go to the **Modify** menu and easily apply fade-in or fade-outs to the audio clip you are editing. The Final Cut Pro preferences also allow you to adjust the fade duration.
 
 **Step 1** **:** First, you have to select the audio or the video clips with audio in the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
@@ -74,17 +65,12 @@ You should remember that the fades appear at the beginning and the end of each c
 See more details on how to fade audio in Final Cut Pro from the following video.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Fade Music by using Fade Handles
 
 You have already learned how to find the fade handles on the screen. Now, you just have to manually drag the handle to the exact point from which you want the fade to begin or end. Just keep in mid this simple rule: fade handles at the beginning of a clip produce fade-in effects, whereas fade handles at the end give fade-out effects.
@@ -99,18 +85,32 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 **Step 3** **:** Now, you'll have to drag the fade handles of each clip to the exact points where you want the fade to start and finish.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Using the fade handles to create crossfades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Fade preferences](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 * Linear: The rate of change is constant over the length of the fade.
@@ -126,13 +126,18 @@ You can easily change the sound of your fades by modifying the default fade shap
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -140,4 +145,27 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-inside-the-action-camera-revolution-a-yi-4k-journey/"><u>[Updated] Inside the Action Camera Revolution A Yi 4K Journey</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/bypassing-pitfalls-of-computer-construction-insights-from-our-experience/"><u>Bypassing Pitfalls of Computer Construction - Insights From Our Experience</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/discovering-income-monetization-through-youtube-sponsored-videos/"><u>Discovering Income Monetization Through YouTube Sponsored Videos?</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/ensuring-uniformity-in-volume-levels-using-davinci-resolves-tools/"><u>Ensuring Uniformity in Volume Levels Using DaVinci Resolves Tools</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-fresh-vlog-discussion-ideas-each-day/"><u>In 2024, Fresh Vlog Discussion Ideas Each Day</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-photography-fundamentals-tips-and-apps-for-android/"><u>In 2024, Photography Fundamentals Tips & Apps for Android</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-conversion-manual-from-srt-to-various-formats/"><u>In 2024, Ultimate Conversion Manual From SRT to Various Formats</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-videopad-video-editor-a-comprehensive-review-and-purchase-guide/"><u>In 2024, Videopad Video Editor A Comprehensive Review and Purchase Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-expert-recommendations-best-ipad-video-editors/"><u>New 2024 Approved Expert Recommendations Best iPad Video Editors</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-complete-guide-to-avi-file-splitting-and-trimming-for-beginners/"><u>New 2024 Approved The Complete Guide to AVI File Splitting and Trimming for Beginners</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-tivo-or-comcast-which-dvr-service-comes-out-on-top/"><u>New 2024 Approved TiVo or Comcast Which DVR Service Comes Out on Top?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-transforming-videos-into-immersive-experiences-top-vr-converters/"><u>New 2024 Approved Transforming Videos Into Immersive Experiences Top VR Converters</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-free-and-fabulous-top-10-online-video-enhancers-for-better-quality-for-2024/"><u>New Free & Fabulous Top 10 Online Video Enhancers for Better Quality for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-from-steps-to-strides-the-best-motion-tracking-apps-for-2024/"><u>New From Steps to Strides The Best Motion Tracking Apps for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-animate-on-the-move-best-3d-animation-apps-for-android-iphone-and-ipad/"><u>New In 2024, Animate on the Move Best 3D Animation Apps for Android, iPhone, and iPad</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-streamline-your-workflow-gopro-quik-video-editing-made-easy-on-macbook/"><u>New In 2024, Streamline Your Workflow GoPro Quik Video Editing Made Easy on MacBook</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-25-backdrop-ideas-for-livestreaming/"><u>Top 25 Backdrop Ideas for Livestreaming</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-4-advantages-of-using-microsoft-copilot-in-place-of-chatgpt-for-ai-assistance/"><u>Top 4 Advantages of Using Microsoft Copilot in Place of ChatGPT for AI Assistance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/opus-ogg/"><u>모바일 가능, 무료: 웹 시청자를 위해 Opus Ogg 파일을 원근 보충하는 방법</u></a></li>
+</ul></div>
 

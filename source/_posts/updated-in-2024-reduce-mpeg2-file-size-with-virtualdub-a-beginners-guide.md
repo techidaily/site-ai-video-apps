@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Reduce MPEG2 File Size with VirtualDub A Beginners Guide
-date: 2024-11-09T17:04:22.515Z
-updated: 2024-11-13T23:39:51.929Z
+date: 2024-11-09T03:41:16.733Z
+updated: 2024-11-15T01:58:49.922Z
 tags: 
   - video editing software
   - video editing
@@ -30,21 +30,22 @@ VirtualDub is a free video capture/processing tool for Windows platforms (2000/X
 
 You could [download VirtualDub MPEG-2](http://www.videohelp.com/download/VirtualDub-MPEG224586%20.zip?r=LcPXQgGCmNps) here and extract files to a folder. Now you get a video processing software with MPEG-2 video import supported. To run VirtualDub MPEG-2, double click the VirtualDub.exe.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use VirtualDub MPEG-2 to Compress Large MPEG-2 Videos
 
 VirtualDub-MPEG2 is designed to work with mpeg2 video, such as Digital TV shows, un-encrypted DVD files (\*.vob) and these video files are usually in big size. Now you can compress them using VirtualDub MPEG-2.
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 1: Set Up Video Compression
@@ -54,10 +55,10 @@ Open your MPEG-2 video file through File/Open video file..., then go to Video/Co
 ![virtualdub mpeg2](https://images.wondershare.com/topic/video-editing/virtualdub-video-compression.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 As shown above, select the XVID MPEG-4 codec and click Configure button to make Xvid settings.
@@ -65,13 +66,6 @@ As shown above, select the XVID MPEG-4 codec and click Configure button to make 
 ![virtualdub mepg2 tutorial](https://images.wondershare.com/topic/video-editing/virtualdub-mpeg2-compress.jpg)
 
 **Note**: If Compression is disable, switch to Full processing mode first in the Video menu.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 2: Set Up Audio Compression
 
@@ -86,13 +80,6 @@ Now it's the time to start processing your video, here is how:
 3. Select where you want to save the AVI and name it.
 4. Click Save.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 The VirtualDub MPEG-2 needs some time to compress your video. The larger the video file is, the longer. But VirtualDub MPEG2 is a fast video processing software. Take a cup of coffee and relax. Once finished, use your favorite video player to see the compressing result.
@@ -102,6 +89,13 @@ If you don't like VirtualDub MPEG-2 and would like to find some more powerful ed
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -118,14 +112,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-riding-through-the-year-motorcycles-no-1-helmet-cameras-guide/"><u>2024 Approved Riding Through the Year - Motorcycle's No. 1 Helmet Cameras Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/audience-wow-factor-how-to-create-spectacular-live-streams/"><u>Audience Wow Factor How to Create Spectacular Live Streams</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypassing-the-problem-effective-fixes-for-a-laptop-that-wont-charge/"><u>Bypassing the Problem: Effective Fixes for a Laptop That Won't Charge</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Xiaomi 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-savings-in-tech-gadgets-snag-discounted-qled-tv-sets-high-quality-beats-headphones-affordable-mac-minis-and-more-deals-today/"><u>Top Savings in Tech Gadgets - Snag Discounted QLED TV Sets, High-Quality Beats Headphones, Affordable Mac Minis, and More Deals Today!</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-unleash-your-creativity-top-5-hand-drawing-whiteboard-animation-software/"><u>Updated 2024 Approved Unleash Your Creativity Top 5 Hand Drawing Whiteboard Animation Software</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-sony-vegas-too-expensive-affordable-alternatives-for-windows-for-2024/"><u>Updated Sony Vegas Too Expensive? Affordable Alternatives for Windows for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-the-fcpx-shortcut-bible-40-essential-commands-to-know-for-2024/"><u>Updated The FCPX Shortcut Bible 40 Essential Commands to Know for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-fcp-x-green-screen-tutorial-from-basics-to-advanced/"><u>Updated The Ultimate FCP X Green Screen Tutorial From Basics to Advanced</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-streamline-creative-processes-with-youtube-studio-editing-insights/"><u>[Updated] In 2024, Streamline Creative Processes with YouTube Studio Editing Insights</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-yuneecs-typhoon-h-unmasked-detailed-uav-analysis/"><u>[Updated] Yuneec's Typhoon H Unmasked Detailed UAV Analysis</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-analysis-of-marvels-spider-man-miles-morales-a-compact-game-with-a-grand-impact/"><u>Comprehensive Analysis of Marvel's Spider-Man: Miles Morales - A Compact Game with a Grand Impact</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-apple-iphone-15-pro-how-to-unlock-a-disabled-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>Disabled Apple iPhone 15 Pro How to Unlock a Disabled Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/effortless-video-magic-the-no-cost-guide/"><u>Effortless Video Magic The No-Cost Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-latest-episode-in-depth-analysis-and-insight-on-watch-dogs-legions-revamped-setting/"><u>Exploring the Latest Episode: In-Depth Analysis and Insight on Watch Dogs: Legion's Revamped Setting</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-poco-c50-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-exploring-the-skies-with-top-10-beginner-drones/"><u>In 2024, Exploring the Skies with Top 10 Beginner Drones</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-best-vlog-editor-apps-ios-and-android/"><u>New 2024 Approved Best Vlog Editor Apps iOS & Android</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-best-zero-cost-video-editors-for-split-screen-effects-online-and-offline-for-2024/"><u>New Best Zero-Cost Video Editors for Split-Screen Effects Online & Offline for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-elevate-your-instagram-game-with-stop-motion-pro-tips-and-techniques-for-2024/"><u>New Elevate Your Instagram Game with Stop Motion Pro Tips and Techniques for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-from-selfie-to-toon-top-rated-apps-for-cartoon-style-photos-for-2024/"><u>New From Selfie to Toon Top-Rated Apps for Cartoon-Style Photos for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-list-10-best-animated-text-generators-for-any-project/"><u>New In 2024, The Ultimate List 10 Best Animated Text Generators for Any Project</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/perfecting-instagram-stories-adding-and-sharing-custom-emojis/"><u>Perfecting Instagram Stories Adding & Sharing Custom Emojis</u></a></li>
 </ul></div>
 
