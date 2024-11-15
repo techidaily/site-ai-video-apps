@@ -1,7 +1,7 @@
 ---
 title: Transform Your Footage A Step-by-Step Guide to Ken Burns Effect in Final Cut Pro for 2024
-date: 2024-10-31T21:51:58.858Z
-updated: 2024-11-04T20:58:53.247Z
+date: 2024-11-11T23:40:46.373Z
+updated: 2024-11-13T16:11:19.798Z
 tags: 
   - video editing software
   - video editing
@@ -51,13 +51,6 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
 
 **Step 3** – Hold down both the shift key and the letter C. This is the fast way to cut out what you need. You can always stick to the right-click to cut a clip if you are more comfortable with this.
@@ -75,10 +68,10 @@ You can also customize the ken burns effects in Final Cut.
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
@@ -86,10 +79,10 @@ You can also customize the ken burns effects in Final Cut.
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
@@ -113,10 +106,10 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Ken Burns Conclusion
@@ -126,6 +119,13 @@ The Ken Burns Effect is famous for a reason. It allows you to fill up space if y
 The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places that they wouldn’t otherwise get to. It is excellent for both glimpsing into the past, and for flashing forward into imagined futures. Best of all, it lets you go there when you aren’t a big-budget Hollywood film producer. We love anything that saves a buck or two while we edit.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -142,19 +142,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-why-no-video-suggestions-pop-up-in-your-social-media-world/"><u>[New] 2024 Approved Why No Video Suggestions Pop Up in Your Social Media World?</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/est-youtube-video-to-text-converters-on-line/"><u>[New] Best YouTube Video to Text Converters On-Line</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-enhancing-meeting-productivity-zooms-audio-and-video-recording-tips/"><u>[New] Enhancing Meeting Productivity Zoom's Audio & Video Recording Tips</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-maximize-fun-the-finest-ios-apps-for-loading-fb-videos/"><u>[New] Maximize Fun The Finest iOS Apps for Loading FB Videos</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-unison-choirs-the-duet-experience-on-tiktok/"><u>[New] Unison Choirs The Duet Experience on TikTok</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-balancing-content-creation-and-employment/"><u>[Updated] In 2024, Balancing Content Creation and Employment</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-crafting-a-top-notch-linkedin-image/"><u>2024 Approved Crafting a Top-Notch LinkedIn Image</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-creator-studio-secrets-a-step-by-step-tutorial/"><u>In 2024, Unlock Creator Studio Secrets A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-expert-approved-4k-video-editing-software-the-top-choices/"><u>Updated 2024 Approved Expert-Approved 4K Video Editing Software The Top Choices</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-expert-recommended-free-video-splitters-top-5-list/"><u>Updated 2024 Approved Expert-Recommended Free Video Splitters Top 5 List</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-6-video-mergers-without-watermark-for-2024/"><u>Updated 6 Video Mergers Without Watermark for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-free-video-watermarking-made-easy-top-5-programs/"><u>Updated In 2024, Free Video Watermarking Made Easy Top 5 Programs</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-reverse-your-footage-a-step-by-step-guide-for-final-cut-pro-users/"><u>Updated In 2024, Reverse Your Footage A Step-by-Step Guide for Final Cut Pro Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-switch-to-picture-in-picture-for-youtube-videos-on-iphones/"><u>[New] Switch to Picture-in-Picture for YouTube Videos on iPhones</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-unwrap-these-8-trending-gems-from-youtubes-big-brother/"><u>[Updated] 2024 Approved Unwrap These 8 Trending Gems From YouTube's Big Brother</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-essential-tips-downloading-and-installing-obs-for-mac-users/"><u>[Updated] In 2024, Essential Tips Downloading & Installing OBS for Mac Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-cinemas-finest-techniques-top-5-tips-for-visual-impact/"><u>In 2024, Cinema's Finest Techniques Top 5 Tips for Visual Impact</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-elevate-your-video-editing-game-top-premiere-pro-transition-plugins-for-2024/"><u>New Elevate Your Video Editing Game Top Premiere Pro Transition Plugins for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/resolving-final-cut-pro-x-stability-issues-updated-2023-for-2024/"><u>Resolving Final Cut Pro X Stability Issues (Updated 2023) for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-essential-guide-to-choosing-a-garmin-venu-for-holistic-health-tracking/"><u>The Essential Guide to Choosing a Garmin Venu for Holistic Health Tracking</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-adobe-premiere-shortcut-guide-20-essentials/"><u>Updated 2024 Approved The Ultimate Adobe Premiere Shortcut Guide 20 Essentials</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-unleash-your-creativity-90-days-of-free-final-cut-pro-usage-waiting-for-you/"><u>Updated In 2024, Unleash Your Creativity 90 Days of Free Final Cut Pro Usage Waiting for You</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-mastering-video-editing-on-mac-fast-and-easy-techniques-for-cutting-large-files/"><u>Updated Mastering Video Editing on Mac Fast and Easy Techniques for Cutting Large Files</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-guide-to-the-most-downloaded-iphone-apps-for-2024/"><u>Updated The Ultimate Guide to the Most Downloaded iPhone Apps for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, The Ultimate List of Free Stock Image Websites
-date: 2024-08-02T06:24:30.652Z
-updated: 2024-08-03T06:24:30.652Z
+date: 2024-11-12T19:40:29.338Z
+updated: 2024-11-14T00:43:55.176Z
 tags: 
   - video editing software
   - video editing
@@ -41,17 +41,18 @@ thumbnail: https://thmb.techidaily.com/058506d9dfd3499ce050a0189a74f361c7f5cd9f1
  A simple google search will reveal hundreds of websites that let you download public domain and royalty-free images. Which source you’re going to use depends on the type of image you’re looking for, since some websites are dedicated only to photography, while others feature impressive collections of public domain images of artworks. In addition, you’ll only want to download public domain images from the websites that offer information about the author because using a public domain image without crediting its author is strictly prohibited.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Best Websites for Downloading Public Domain Images
 
  We’ve searched the Internet and we utilized our results to compile a collection of the most reliable websites that grant its users access to vast numbers of public domain images. Let’s take a look at some of the best websites that let you download public domain images.
 
 #### 1. [Pexels](https://www.pexels.com/public-domain-images/)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Public Domain Images from Pexels ](https://images.wondershare.com/filmora/article-images/pexels-public-domain-images.jpg)
 
  Graphic designers and all other creatives in constant need of a fresh supply of public domain images don’t need a special introduction to Pexels. The stock image platform is dedicated to photography and video, so you can’t use it to search for vectors or clip art. Even so, you can use Pexles to search for public domain images based on a particular keyword or browse through its collection of free images and discover photos spontaneously. Clicking on the Popular Searches tab will enable you to see the images from Light, Nature or Animals and it will shorten the amount of time you have to spend looking for a photo you want to download.
@@ -85,10 +86,14 @@ thumbnail: https://thmb.techidaily.com/058506d9dfd3499ce050a0189a74f361c7f5cd9f1
 
 #### 3. [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main%5FPage)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![wikimedia commons ](https://images.wondershare.com/filmora/article-images/wikimedia-commons.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This is probably the largest website on the Internet where you can download public domain images. There are more than 49 million images, illustrations, vector graphics and videos available that can be downloaded for free. Some media files on Wikimedia Commons have certain restrictions, but these restrictions are mostly related to image citations, which means that you can use them only if you credit the author. Such a huge selection of media files can be overwhelming for the newcomers to the Wikimedia Commons platform, but once you grow accustomed to the website’s interface discovering images becomes a straightforward process.
 
@@ -104,9 +109,6 @@ thumbnail: https://thmb.techidaily.com/058506d9dfd3499ce050a0189a74f361c7f5cd9f1
 
 #### 4. [Flickr Commons](https://www.flickr.com/commons)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![Flickr commons ](https://images.wondershare.com/filmora/article-images/flickr-commons.jpg)
 
  For more than a decade Flickr has been a popular online destination for photographers in need of a platform that enables them to present their work. The Flickr Commons is a project that unites more than a hundred institutions in an effort to create a library of public domain images. The project makes available a stunning amount of historical photographs and it grants you access to highly esteemed collections of photographs. Flick Commons is perfectly suited for researchers and scholars in need of public domain photos, they can use in their essays or research papers.
@@ -181,10 +183,14 @@ thumbnail: https://thmb.techidaily.com/058506d9dfd3499ce050a0189a74f361c7f5cd9f1
 
 #### 9. [NYPL Digital Gallery](https://digitalcollections.nypl.org/)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![NYPL Digital Gallery  ](https://images.wondershare.com/filmora/article-images/digitalcollections.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  NYPL Digital Gallery is an excellent resource for anyone who is not interested in stock photography. The New Your Public Library has made hundreds of thousands of historical images available to the public and you can use it to browse through items, collections or divisions. Before you enter a keyword you should click on the search only public domain materials tick box to ensure that the search results are going to display only images that can be used without restrictions. Additionally, the NYPL Digital Gallery lets you browse through its collection of digital books while its collections of photographs include the work of some of the highly esteemed American photographers.
 
@@ -214,9 +220,6 @@ thumbnail: https://thmb.techidaily.com/058506d9dfd3499ce050a0189a74f361c7f5cd9f1
 
 **You may also like:** [Best Image Hosting Sites >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## How to Cite Public Domain Images Properly?
 
  If you’re planning on using a public domain image in a blog or on your website, you must cite the source from which you acquired a particular image. The image citations should include the following information:
@@ -236,13 +239,18 @@ thumbnail: https://thmb.techidaily.com/058506d9dfd3499ce050a0189a74f361c7f5cd9f1
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -250,3 +258,21 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-boost-your-igtv-views-top-5-tactics-for-increased-engagement/"><u>[New] 2024 Approved Boost Your IGTV Views Top 5 Tactics for Increased Engagement</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-mastering-the-art-of-camera-recording-top-picks/"><u>[New] 2024 Approved Mastering the Art of Camera Recording – Top Picks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-understanding-the-impact-of-circular-videography/"><u>[New] 2024 Approved Understanding the Impact of Circular Videography</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-reclaim-the-loss-10-essential-iphone-x-techniques/"><u>[New] Reclaim The Loss 10 Essential iPhone X Techniques</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-step-by-step-precise-screen-recording-on-dell-laptops/"><u>[New] Step-by-Step Precise Screen Recording on Dell Laptops</u></a></li>
+<li><a href="https://win11.techidaily.com/configuring-and-personalizing-win11s-default-screen-saver/"><u>Configuring and Personalizing Win11's Default Screen Saver</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-huawei-nova-y71-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Huawei Nova Y71</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-amusing-registration-journey/"><u>In 2024, Amusing Registration Journey</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-best-in-class-text-animation-solutions/"><u>New 2024 Approved Best-in-Class Text Animation Solutions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-elevate-your-gaming-content-best-free-video-editing-software/"><u>New 2024 Approved Elevate Your Gaming Content Best Free Video Editing Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-maintain-anonymity-face-blurring-features-in-leading-video-editors/"><u>New 2024 Approved Maintain Anonymity Face Blurring Features in Leading Video Editors</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-os-x-mavericks-mp4-editing-software-top-picks/"><u>New 2024 Approved OS X Mavericks MP4 Editing Software Top Picks</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-guide-to-mp4-video-tag-editors/"><u>New In 2024, The Ultimate Guide to MP4 Video Tag Editors</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Updated Elevate Your Audio 2 Fade-In/Fade-Out Methods in FCP for 2024
-date: 2024-10-28T19:01:14.680Z
-updated: 2024-11-04T16:07:01.023Z
+date: 2024-11-08T16:16:35.452Z
+updated: 2024-11-13T16:03:34.014Z
 tags: 
   - video editing software
   - video editing
@@ -65,10 +65,10 @@ You should remember that the fades appear at the beginning and the end of each c
 See more details on how to fade audio in Final Cut Pro from the following video.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Fade Music by using Fade Handles
@@ -88,17 +88,10 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -106,6 +99,13 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -121,10 +121,10 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -142,18 +142,15 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-boosting-audio-quality-in-social-media-recordings/"><u>[New] 2024 Approved Boosting Audio Quality in Social Media Recordings</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-expert-tips-for-crafting-immersive-soundscapes-in-youtube/"><u>[New] 2024 Approved Expert Tips for Crafting Immersive Soundscapes in YouTube</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-top-picks-for-shining-3d-type-designs-with-a-golden-touch/"><u>2024 Approved Top Picks for Shining 3D Type Designs with a Golden Touch</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>All You Need To Know About Mega Greninja For Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-8-plus-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-8-free-online-havens-for-3d-text-psdfiles/"><u>In 2024, Top 8 FREE Online Havens for 3D Text PSDFiles</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/masterclass-on-monetizing-moments-gaining-income-via-insta-sponsors/"><u>Masterclass on Monetizing Moments Gaining Income via Insta-Sponsors</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-tag-organize-and-enjoy-best-video-tag-editors-for-windows-and-macos/"><u>Updated 2024 Approved Tag, Organize, and Enjoy Best Video Tag Editors for Windows and macOS</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-unleash-your-creativity-the-best-online-stop-motion-animation-studios/"><u>Updated 2024 Approved Unleash Your Creativity The Best Online Stop Motion Animation Studios</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-video-editing-vs-visual-effects-premiere-vs-after-effects-explained/"><u>Updated 2024 Approved Video Editing vs Visual Effects Premiere vs After Effects Explained</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-best-14-vlog-video-editing-software-for-hot-platformsfree-and-paid-for-2024/"><u>Updated Best 14 Vlog Video Editing Software for Hot PlatformsFree & Paid for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-powerdirector-color-grading-tips-for-seamless-clip-integration/"><u>Updated In 2024, PowerDirector Color Grading Tips for Seamless Clip Integration</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-vertical-video-editing-made-easy-top-ios-and-android-apps/"><u>Updated In 2024, Vertical Video Editing Made Easy Top iOS and Android Apps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-streamline-your-screens-the-benefits-of-using-showmore/"><u>[Updated] 2024 Approved Streamline Your Screens The Benefits of Using ShowMore</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-navigating-the-backup-of-phones-camera-roll-for-snapchat-users/"><u>[Updated] In 2024, Navigating the Backup of Phone's Camera Roll for Snapchat Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-package-buy-your-macxdvd-pro-tools-with-full-rights-at-no-extra-cost/"><u>Complete Package: Buy Your MacXDVD Pro Tools with Full Rights at No Extra Cost</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-copy-and-paste-issues-in-windows-11-solutions-inside/"><u>Fixing 'Copy & Paste' Issues in Windows 11 - Solutions Inside!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-streamlining-media-files-from-xmltxt-to-srt-mastery/"><u>In 2024, Streamlining Media Files From XML/TXT to SRT Mastery</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/roman-rendezvous-timeless-tactics-to-seduce/"><u>Roman Rendezvous: Timeless Tactics to Seduce</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-adobe-premiere-pro-power-ups-the-best-plugins-free-and-affordable/"><u>Updated 2024 Approved Adobe Premiere Pro Power-Ups The Best Plugins (Free & Affordable)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-from-script-to-screen-on-a-budget-7-essential-filmmaking-software/"><u>Updated 2024 Approved From Script to Screen on a Budget 7 Essential Filmmaking Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-cross-platform-video-editing-mastery-a-step-by-step-chromebook-guide/"><u>Updated In 2024, Cross-Platform Video Editing Mastery A Step-by-Step Chromebook Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-trim-cut-and-edit-avi-videos-top-software-for-windows-mac-and-mobile/"><u>Updated Trim, Cut, and Edit AVI Videos Top Software for Windows, MAC, and Mobile</u></a></li>
 </ul></div>
 

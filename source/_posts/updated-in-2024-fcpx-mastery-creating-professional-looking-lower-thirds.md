@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, FCPX Mastery Creating Professional-Looking Lower Thirds
-date: 2024-10-30T20:58:36.885Z
-updated: 2024-11-04T21:33:07.601Z
+date: 2024-11-08T20:56:16.583Z
+updated: 2024-11-13T16:31:10.573Z
 tags: 
   - video editing software
   - video editing
@@ -48,10 +48,10 @@ On a short note, you can define the lower third module as a piece of a graphical
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Part2: What factors contribute to a good lower third?**
@@ -65,13 +65,6 @@ The color combinations of your lower third element play a vital factor. Choose t
 Try different color schemes with Green, Magenta, Orange, and Blue to create a mesmerizing display of the lower third element. You can also use a color picker tool to choose the right combination of colors that match perfectly with the background and typography.
 
 ![color-factor](https://images.wondershare.com/filmora/images/final-cut-pro/color-factor.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. **Motion effect**
 
@@ -124,10 +117,10 @@ You can download the app and install them in your system. Launch the tool by dou
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2Step 2: Add the Title**
@@ -142,11 +135,31 @@ Now, you can edit the texts in the inserted titles and add animation to the elem
 
 ![customize-lower-third](https://images.wondershare.com/filmora/images/final-cut-pro/customize-lower-third.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Use the above instructions, insert the lower third element in your video effortlessly. Simple click and drag actions are sufficient to carry out the desired effects on the element.
 
 For those who still need more guides about making lower thirds, this Filmora tutorial may help a lot.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
@@ -174,13 +187,6 @@ Display the texts promptly to enlighten the audience. Connect the texts to the t
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -196,18 +202,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-a-quick-tutorial-on-how-to-convert-image-to-youtube-thumbnail/"><u>[New] In 2024, A Quick Tutorial On How To Convert Image To YouTube Thumbnail</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-10-best-vr-videos-on-youtube-to-have-immersive-experience-for-2024/"><u>[Updated] 10 Best VR Videos on YouTube to Have Immersive Experience for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-incorporating-b-footage-a-filmmakers-guide/"><u>[Updated] Incorporating B-Footage A Filmmaker's Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gentle-guidance-to-good-slumber-top-asmr-pros/"><u>2024 Approved Gentle Guidance to Good Slumber Top ASMR Pros</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723004818679-experience-the-thrills-of-god-of-wars-first-person-shooter-version-launched-on-pc/"><u>Experience the Thrills of God of War's First-Person Shooter Version – Launched on PC!</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-apple-iphone-14-pro-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or Apple iPhone 14 Pro?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-quick-guide-capturing-moments-with-snap-in-real-time-conferencing/"><u>In 2024, Quick Guide Capturing Moments with Snap in Real-Time Conferencing</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-video-editing-made-easy-a-comprehensive-guide-to-windows-movie-maker-for-2024/"><u>New Video Editing Made Easy A Comprehensive Guide to Windows Movie Maker for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-vn-video-editor-apk-download-is-it-the-best-video-editor/"><u>Updated 2024 Approved VN Video Editor APK Download Is It the Best Video Editor?</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-discover-the-truth-is-vn-video-editor-pro-a-top-notch-video-editor-in-2024/"><u>Updated Discover the Truth Is VN Video Editor Pro a Top-Notch Video Editor, In 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-mac-video-editing-made-easy-slideshows-home-videos-and-more-with-ezvid/"><u>Updated In 2024, Mac Video Editing Made Easy Slideshows, Home Videos, and More with Ezvid</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-top-rated-free-wmv-video-cutters-2023-review/"><u>Updated In 2024, Top-Rated Free WMV Video Cutters 2023 Review</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-ultimate-ad-free-high-quality-video-experience-awaits-you/"><u>[New] In 2024, The Ultimate Ad-Free, High Quality Video Experience Awaits You</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-step-by-step-guide-inserting-captions-in-instagram-clips/"><u>[New] Step-by-Step Guide Inserting Captions in Instagram Clips</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-most-liked-prime-videos-amongst-twittersphere-for-2024/"><u>[Updated] Most Liked Prime Videos Amongst Twittersphere for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-mastering-cartoon-expressions-with-snapchats-fun-filter/"><u>2024 Approved Mastering Cartoon Expressions with Snapchat's Fun Filter</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-dragons-and-glitches-how-to-stop-dragon-age-origins-from-crashing-in-windows-10/"><u>Fixing Dragons and Glitches: How to Stop 'Dragon Age: Origins' From Crashing in Windows 10</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-honor-x8b-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Honor X8b Face Lock?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-mac-video-maker-effortless-slideshow-creation-in-macos/"><u>New Mac Video Maker Effortless Slideshow Creation in macOS</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-pc-video-editors-like-gopro-quik-top-picks-and-reviews/"><u>New PC Video Editors Like GoPro Quik Top Picks and Reviews</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-preserve-your-memories-how-to-burn-videos-to-dvds-on-windows-and-mac/"><u>New Preserve Your Memories How to Burn Videos to DVDs on Windows and Mac</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-resetting-final-cut-pro-x-the-ultimate-troubleshooting-solution-for-2024/"><u>New Resetting Final Cut Pro X The Ultimate Troubleshooting Solution for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-best-free-online-tool-to-convert-dailymotion-videos/"><u>New The Best Free Online Tool to Convert Dailymotion Videos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-complete-guide-to-video-editing-with-windows-movie-maker-for-2024/"><u>New The Complete Guide to Video Editing with Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/private-chronicles-in-snapchat-an-essential-guide/"><u>Private Chronicles in Snapchat An Essential Guide</u></a></li>
 </ul></div>
 

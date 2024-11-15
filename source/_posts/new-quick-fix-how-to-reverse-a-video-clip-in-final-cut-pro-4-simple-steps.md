@@ -1,7 +1,7 @@
 ---
 title: New Quick Fix How to Reverse a Video Clip in Final Cut Pro (4 Simple Steps)
-date: 2024-08-02T06:22:55.540Z
-updated: 2024-08-03T06:22:55.540Z
+date: 2024-11-07T16:31:11.974Z
+updated: 2024-11-14T00:43:55.603Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006
 
 # 4 Detailed Steps to Flip a Clip in Final Cut Pro
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -49,9 +46,6 @@ The timeline is at the bottom portion of the Final Cut Pro. After adding clips t
 
 There is a popup menu for you to get the **Transform** tool. It is in the lower-left corner of the viewer so it should be easy to see. You can use the shortcut as well which can be done by pressing (shift-T). Or Control-click in the viewer and choose Transform.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Access the Transform option ](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
 
 #### Step 3:  Rotate and Re-size Video Clips
@@ -60,9 +54,6 @@ You can now do the following steps to rotate the video clip and change the size 
 
 There are **blue handles at each corner** which enable the user to adjust image size while **maintaining the aspect ratio of the photo.**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
 
 Blue handles in the middle of each side are used to adjust horizontal and vertical image sizes **changing the aspect ratio of the clips.**
@@ -71,18 +62,12 @@ Blue handles in the middle of each side are used to adjust horizontal and vertic
 
 The **center circle** indicates the rotation anchor points that enable the changing of the image position. Drag the blue handle protruding from the circle to **rotate the image.**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![ Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
 
 #### Step 4:  Flipping video clips
 
 Click the video clips that you want to flip in the timeline and make sure it is highlighted and then click the Inspector icon on the right side to enter the Inspector panel in which you will then see the Transform option.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
 
 * The positions X and Y enable you to move the image left and right as well as moving it from top to bottom depending on how you want it to be.
@@ -93,8 +78,12 @@ Click the video clips that you want to flip in the timeline and make sure it is 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## An Easier Way to Flip a Clip in Final Cut Pro Alternative
 
 If you'd like an easier way to filp a clip, Wondershare Filmora will be the best choice. As an easy to use video editor, [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) has also amazed the users by its feature of flipping the clip. You can easily flip the clip in clockwise, anti-clockwise, horizontal or vertical directions. There are many effects and features available in Wondershare Filmora that you can apply in your video.
@@ -120,9 +109,6 @@ After the launch of Wondershare Filmora, click on the new project to start and c
 
 When you double-click on the video, the editing panel appears on the screen, and you go to the Video tab to use the **transform** options. There are different options in the transform menu, including flip, rotate position and scale.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora filp video](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-8.jpeg)
 
 * _Flipping only a single part of the video:_
@@ -141,6 +127,13 @@ Do you like the basic tutorial about Apple Final Cut Pro? Professional video edi
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After you have finished doing all the editing and transformation, you can then click done so that you get your final product. In case the results are not satisfactory you can click the arrow on the right side of each control to get back to the start and begin afresh.
 
 ![ Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
@@ -148,9 +141,20 @@ After you have finished doing all the editing and transformation, you can then c
 In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora![](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -158,11 +162,29 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/cutting-edge-fb-video-ads-mastery-with-free-toolset-for-2024/"><u>Cutting-Edge FB Video Ads Mastery with FREE Toolset for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/cybersecurity-alert-discovering-9-social-indicators-of-a-break-in/"><u>Cybersecurity Alert! Discovering 9 Social Indicators of a Break-In</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/elevate-your-ig-videos-tips-and-templates-for-2024/"><u>Elevate Your IG Videos Tips & Templates for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-unbiased-avs-video-editor-review-2023-features-pricing-and-more/"><u>New In 2024, Unbiased AVS Video Editor Review 2023 Features, Pricing, and More</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-video-editing-face-off-sony-vegas-vs-adobe-premiere-pro-pros-cons-and-verdict/"><u>New In 2024, Video Editing Face-Off Sony Vegas vs Adobe Premiere Pro - Pros, Cons, and Verdict</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-lip-sync-mastery-unlock-the-power-of-these-5-amazing-apps-for-2024/"><u>New Lip Sync Mastery Unlock the Power of These 5 Amazing Apps for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-mastering-mp4-video-editing-a-step-by-step-guide-for-mac-and-windows/"><u>New Mastering MP4 Video Editing A Step-by-Step Guide for Mac and Windows</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-no-budget-no-problem-top-free-wmv-video-editors/"><u>New No Budget? No Problem! Top Free WMV Video Editors</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-best-of-the-big-screen-top-movie-trailer-apps-for-iphone-and-ipad/"><u>New The Best of the Big Screen Top Movie Trailer Apps for iPhone and iPad</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-easiest-way-to-edit-avi-files-split-trim-and-cut-with-ease-for-2024/"><u>New The Easiest Way to Edit AVI Files Split, Trim, and Cut with Ease for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/real-time-learning-via-chatgpt-worldwide/"><u>Real-Time Learning via ChatGPT Worldwide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-protection-stick-to-single-antivirus-software-in-windows/"><u>Simplify Protection: Stick to Single Antivirus Software in Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-driver-update-for-enhanced-performance-on-your-hp-z440-workstation/"><u>Step-by-Step Driver Update for Enhanced Performance on Your HP Z440 Workstation</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-motorola-g24-power-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Motorola G24 Power FRP</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Lava Yuva 2 Pro | Dr.fone</u></a></li>
+</ul></div>
+

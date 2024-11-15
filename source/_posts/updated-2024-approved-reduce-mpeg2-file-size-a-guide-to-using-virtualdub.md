@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Reduce MPEG2 File Size A Guide to Using VirtualDub
-date: 2024-10-28T17:43:17.118Z
-updated: 2024-11-04T19:11:37.787Z
+date: 2024-11-11T22:48:45.838Z
+updated: 2024-11-13T18:02:38.599Z
 tags: 
   - video editing software
   - video editing
@@ -34,28 +34,28 @@ You could [download VirtualDub MPEG-2](http://www.videohelp.com/download/Virtual
 
 VirtualDub-MPEG2 is designed to work with mpeg2 video, such as Digital TV shows, un-encrypted DVD files (\*.vob) and these video files are usually in big size. Now you can compress them using VirtualDub MPEG-2.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1: Set Up Video Compression
 
 Open your MPEG-2 video file through File/Open video file..., then go to Video/Compression to bring up the following dialog.
 
 ![virtualdub mpeg2](https://images.wondershare.com/topic/video-editing/virtualdub-video-compression.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 As shown above, select the XVID MPEG-4 codec and click Configure button to make Xvid settings.
 
 ![virtualdub mepg2 tutorial](https://images.wondershare.com/topic/video-editing/virtualdub-mpeg2-compress.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note**: If Compression is disable, switch to Full processing mode first in the Video menu.
@@ -65,10 +65,10 @@ As shown above, select the XVID MPEG-4 codec and click Configure button to make 
 Audio compression setup is similar to video compression, go to Audio/Full processing mode, and again Audio/Compression to open the dialog, where MPEG Layer-3 is recommended.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 3: Start Compressing
@@ -81,10 +81,10 @@ Now it's the time to start processing your video, here is how:
 4. Click Save.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -112,15 +112,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-discovering-free-srt-excellence-our-top-8-picks/"><u>[New] 2024 Approved Discovering Free SRT Excellence Our Top 8 Picks</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-elite-web-based-voice-recorders-the-best-of-2023/"><u>[New] Elite Web-Based Voice Recorders - The Best of 2023</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-expert-techniques-to-efficiently-manipulate-whiteboards-in-web-conferencing-tools/"><u>[Updated] Expert Techniques to Efficiently Manipulate Whiteboards in Web Conferencing Tools</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-uncovering-forgotten-facebook-episodes-cross-device-instructions/"><u>[Updated] Uncovering Forgotten Facebook Episodes Cross-Device Instructions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-woes-during-the-last-level-heres-how-you-can-repair-it/"><u>PC Woes During The Last Level? Here's How You Can Repair It!</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/strategies-to-maximize-viewership-on-igtv-from-h-videos/"><u>Strategies to Maximize Viewership on IGTV From H-Videos</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/top-bokeh-blur-apps-for-mobile-photography-for-2024/"><u>Top Bokeh Blur Apps for Mobile Photography for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-avs-video-editor-2023-review-a-beginners-guide-to-video-editing-software/"><u>Updated In 2024, AVS Video Editor 2023 Review A Beginners Guide to Video Editing Software</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-from-capture-to-cinematic-canon-video-editing-software-and-best-practices/"><u>Updated In 2024, From Capture to Cinematic Canon Video Editing Software and Best Practices</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-video-metadata-management-best-mp4-tag-editors-for-pc-and-mac/"><u>Updated Video Metadata Management Best MP4 Tag Editors for PC and Mac</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-a-comprehensive-review-camera-lenses-for-youtube/"><u>[New] 2024 Approved A Comprehensive Review Camera Lenses for YouTube</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-enhancing-visual-quality-in-ar-the-role-of-luts/"><u>[Updated] 2024 Approved Enhancing Visual Quality in AR The Role of LUTs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/anticipating-hacker-tactics-the-top-7-forecasts-in-cybersecurity/"><u>Anticipating Hacker Tactics: The Top 7 Forecasts in Cybersecurity</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-zero-5g-2023-turbo-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Zero 5G 2023 Turbo to New Android? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagram-de-following-immediate-awareness/"><u>Instagram De-Following Immediate Awareness</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/r-your-youtube-content-with-superior-webm-converters-for-2024/"><u>Master Your YouTube Content with Superior WebM Converters for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-updating-your-razer-blade-17-graphics-and-system-drivers-on-windows-11/"><u>Step-by-Step Guide: Updating Your Razer Blade 17 Graphics and System Drivers on Windows 11</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/the-ultimate-guide-to-3d-video-makers-free-paid-and-everything-in-between-for-2024/"><u>The Ultimate Guide to 3D Video Makers Free, Paid, and Everything in Between for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-best-free-wmv-video-combining-software-for-this-year/"><u>Updated In 2024, Best Free WMV Video Combining Software for This Year</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-free-adobe-premiere-pro-cs6-for-mac-no-subscription-required/"><u>Updated In 2024, Free Adobe Premiere Pro CS6 for Mac - No Subscription Required</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-gopro-quik-limitations-discover-top-pc-video-editing-software-alternatives/"><u>Updated In 2024, GoPro Quik Limitations? Discover Top PC Video Editing Software Alternatives</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-guide-to-compressing-videos-in-final-cut-pro-x-for-2024/"><u>Updated The Ultimate Guide to Compressing Videos in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-unleash-your-creativity-best-free-and-paid-glitch-video-editing-tools-for-2024/"><u>Updated Unleash Your Creativity Best Free and Paid Glitch Video Editing Tools for 2024</u></a></li>
 </ul></div>
 

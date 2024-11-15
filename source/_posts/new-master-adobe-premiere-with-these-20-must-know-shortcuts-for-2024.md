@@ -1,7 +1,7 @@
 ---
 title: New Master Adobe Premiere with These 20 Must-Know Shortcuts for 2024
-date: 2024-08-02T06:25:56.988Z
-updated: 2024-08-03T06:25:56.988Z
+date: 2024-11-08T23:16:26.753Z
+updated: 2024-11-13T23:11:01.615Z
 tags: 
   - video editing software
   - video editing
@@ -18,14 +18,6 @@ thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce09
 
 # Top 20 Adobe Premiere Shortcuts You Will Use When Editing Video Files
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -38,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce09
 
  This is a basic tutorial about Adobe Premiere, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/), which is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -69,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce09
 
  Whilst the shortcuts for editing and manipulating clips are extremely important for efficient workflow, it should be remembered that those relating to the basic operation of the program are just as useful, as we see here. Using Control and I (Command and I on Mac) brings up the import media dialogue box instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-3.png)
 
 #### 3Capture Panel
@@ -89,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce09
 * Step Back - Left Arrow
 * Step Forward - Right Arrow
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-2.jpg)
 
 #### 4 Timeline Panel
@@ -184,9 +167,6 @@ thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce09
 
  You can view all added edits within a sequence by selecting show through edits within the sequence menu.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-6.jpg)
 
 #### 15Add the default Transition
@@ -219,9 +199,6 @@ thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce09
 
  This enables you to trim the head or tail of the clip very quickly, making an extremely efficient workflow. To trim the next edit from the Playhead use W, for the previous edit from the playhead use Q.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -230,11 +207,40 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-facebook-fans-access-more-from-your-twitch-channel/"><u>[New] Facebook Fans Access More From Your Twitch Channel</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-astute-selection-of-12-motion-cameras-with-onboard-positioning/"><u>2024 Approved Astute Selection of 12 Motion Cameras With Onboard Positioning</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-discovering-the-stars-of-youtubes-best-music-videos-2023/"><u>2024 Approved Discovering the Stars of YouTube's Best Music Videos, 2023</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-cutting-edge-devices-with-toms-hardware-experts/"><u>Exploring Cutting-Edge Devices with Tom's Hardware Experts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722999673539-fireteam-elite-pc-game-continually-fails-to-launch-solved/"><u>Fireteam Elite PC Game Continually Fails to Launch – Solved</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-transform-your-footage-the-ultimate-1080p-video-editor/"><u>In 2024, Transform Your Footage The Ultimate 1080P Video Editor</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/laugh-out-tears-in-unravel-the-top-10-humorous-instagram-feeds/"><u>Laugh Out, Tears In Unravel The Top 10 Humorous Instagram Feeds</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/mastering-board-interaction-during-remote-work-sessions-across-multiple-devices-for-2024/"><u>Mastering Board Interaction During Remote Work Sessions Across Multiple Devices for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-through-samsungs-comprehensive-picture-editing-2023-for-2024/"><u>Navigating Through Samsung's Comprehensive Picture Editing, 2023 for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-8-best-educational-animation-software-for-school/"><u>New 2024 Approved 8 Best Educational Animation Software for School</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-beyond-virtualdub-exploring-the-top-video-editing-software-options/"><u>New 2024 Approved Beyond Virtualdub Exploring the Top Video Editing Software Options</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-fcpx-glitch-busters-quick-fixes-for-common-problems/"><u>New 2024 Approved FCPX Glitch Busters Quick Fixes for Common Problems</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-from-footage-to-film-mastering-the-art-of-cinematic-editing-in-final-cut-pro-x/"><u>New 2024 Approved From Footage to Film Mastering the Art of Cinematic Editing in Final Cut Pro X</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-animate-like-a-pro-top-8-software-options-for-mac-and-windows/"><u>New In 2024, Animate Like a Pro Top 8 Software Options for Mac and Windows</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-avi-file-cutting-made-easy-the-ultimate-tutorial/"><u>New In 2024, AVI File Cutting Made Easy The Ultimate Tutorial</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-get-your-game-face-on-best-websites-to-download-games/"><u>New In 2024, Get Your Game Face On Best Websites to Download Games</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-in-this-article-i-will-share-top-40-keyboard-shortcuts-for-final-cut-pro-and-ive-categorized-them-to-make-these-easier-to-find/"><u>New In 2024, In This Article, I Will Share Top 40 Keyboard Shortcuts for Final Cut Pro and Ive Categorized Them to Make These Easier to Find</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transforming-interactions-chatgpt-for-emotional-growth/"><u>Transforming Interactions: ChatGPT for Emotional Growth</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-and-testing-the-versatile-omnicharge-omni-20-with-qi-technology-for-ultimate-portability/"><u>Unboxing and Testing: The Versatile Omnicharge Omni 20 with Qi Technology for Ultimate Portability</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
