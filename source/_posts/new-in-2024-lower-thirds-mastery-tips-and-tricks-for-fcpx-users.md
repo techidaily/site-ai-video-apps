@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Lower Thirds Mastery Tips and Tricks for FCPX Users
-date: 2024-08-15T04:16:09.209Z
-updated: 2024-08-16T04:16:09.209Z
+date: 2024-11-21T03:42:44.166Z
+updated: 2024-11-23T17:25:38.526Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 
 # What Makes the Best Lower Thirds in Final Cut Pro X?
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -31,15 +28,16 @@ The videos drop facts to audiences and educate the viewers. The video makers str
 
 Here comes an enlightening discussion about the lower third modules in your videos. The tips and tricks associated with the making of this lower third element are available in the below content. Surf them carefully and learn the fabulous lower third templates to customize your videos to the next level.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![lower third intro](https://images.wondershare.com/filmora/images/final-cut-pro/lower-%20third-intro.jpg)
 
 > * [Part 1: What is the lower third?](#part1)
 > * [Part 2: What factors contribute to a good lower third?](#part2)
 > * [Part 3: How to make a lower third quickly in final cut pro X?\[3-step-guide\]](#part3)
 > * [Part 4: Where to find great lower thirds templates for final cut pro X?](#part3)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part1: What is the lower third?**
 
@@ -53,6 +51,10 @@ On a short note, you can define the lower third module as a piece of a graphical
 
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part2: What factors contribute to a good lower third?**
 
 While designing the lower third element for your video, you must keep an eye on few factors. Work on the below attributes to build a good lower third element. Always remember to keep it simple to obtain the desired outcomes.
@@ -64,6 +66,10 @@ The color combinations of your lower third element play a vital factor. Choose t
 Try different color schemes with Green, Magenta, Orange, and Blue to create a mesmerizing display of the lower third element. You can also use a color picker tool to choose the right combination of colors that match perfectly with the background and typography.
 
 ![color-factor](https://images.wondershare.com/filmora/images/final-cut-pro/color-factor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. **Motion effect**
 
@@ -119,9 +125,6 @@ You can download the app and install them in your system. Launch the tool by dou
 
 In the home screen, import the video that requires the edits and then tap the ‘Titles’ tab at the left top of the screen. Click the ‘Build-in/Build-out’ option to custom the Title element. According to your needs, you can repeat it to insert the desired titles on the video screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![built-in-title](https://images.wondershare.com/filmora/images/final-cut-pro/built-in-title.jpg)
 
 **3Step 3: Customize the Title**
@@ -130,18 +133,20 @@ Now, you can edit the texts in the inserted titles and add animation to the elem
 
 ![customize-lower-third](https://images.wondershare.com/filmora/images/final-cut-pro/customize-lower-third.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Use the above instructions, insert the lower third element in your video effortlessly. Simple click and drag actions are sufficient to carry out the desired effects on the element.
 
 For those who still need more guides about making lower thirds, this Filmora tutorial may help a lot.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
  You can find the best collections of lower third templates in the online space. Evanto Elements offers an incredible design structure for the lower third module to add value to your videos. They are unique and jaw-dropping. You can opt for this template, instead of creating from the scratch.
@@ -160,9 +165,6 @@ Colorful and yet attractive design from the Evanto elements. This design has a f
 
 In this template group, you can find the design seems to be simple and minimal. It offers a lighter touch to your videos. The text overlays do not distract the viewers. Everything looks the same but still, you can feel the difference in it when you customize it according to your needs.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Conclusion**
 
 Thus, this article had given you enlightening discussion about the lower third elements. Insert this module optimally in your videos and obtain the desired outcomes. Enhance the design of the lower third element using the Final Cut Pro X app and feel the difference in your video.
@@ -177,12 +179,29 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-debut-visual-capturing-analysis/"><u>[New] In 2024, Debut Visual Capturing Analysis</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-keeping-consistent-pacing-in-obs-broadcasts-for-2024/"><u>[New] Keeping Consistent Pacing in OBS Broadcasts for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/uick-and-simple-adding-youtube-songs-to-imovie-edit/"><u>[New] Quick and Simple Adding Youtube Songs to iMovie Edit</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-error-1015-while-restoring-iphone-15-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to fix error 1015 while restoring iPhone 15 Pro Max | Stellar</u></a></li>
+<li><a href="https://windows11.techidaily.com/immediate-actions-for-non-displayed-windows-sign-ins/"><u>Immediate Actions for Non-Displayed Windows Sign-Ins</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-transform-your-footage-the-ultimate-1080p-video-editor/"><u>In 2024, Transform Your Footage The Ultimate 1080P Video Editor</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-unleash-your-creativity-top-3d-video-makers-for-all-budgets/"><u>In 2024, Unleash Your Creativity Top 3D Video Makers for All Budgets</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/insiders-look-at-advanced-streamlabs-obs-techniques-for-2024/"><u>Insider's Look at Advanced Streamlabs OBS Techniques for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/maximizing-video-quality-with-gopro-max-or-hero-11-for-2024/"><u>Maximizing Video Quality with GoPro Max or Hero 11 for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-8-best-educational-animation-software-for-school/"><u>New 2024 Approved 8 Best Educational Animation Software for School</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-beyond-virtualdub-exploring-the-top-video-editing-software-options/"><u>New 2024 Approved Beyond Virtualdub Exploring the Top Video Editing Software Options</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-from-footage-to-film-mastering-the-art-of-cinematic-editing-in-final-cut-pro-x/"><u>New 2024 Approved From Footage to Film Mastering the Art of Cinematic Editing in Final Cut Pro X</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-avi-file-cutting-made-easy-the-ultimate-tutorial/"><u>New In 2024, AVI File Cutting Made Easy The Ultimate Tutorial</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-hack-for-blocking-youtube-ads-on-all-browsers-for-2024/"><u>The Ultimate Hack for Blocking YouTube Ads on All Browsers for 2024</u></a></li>
+</ul></div>
 

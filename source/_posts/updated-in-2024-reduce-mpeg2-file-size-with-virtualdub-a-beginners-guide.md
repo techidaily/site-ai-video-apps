@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Reduce MPEG2 File Size with VirtualDub A Beginners Guide
-date: 2024-11-09T03:41:16.733Z
-updated: 2024-11-15T01:58:49.922Z
+date: 2024-11-17T22:00:14.436Z
+updated: 2024-11-23T17:52:39.471Z
 tags: 
   - video editing software
   - video editing
@@ -31,10 +31,7 @@ VirtualDub is a free video capture/processing tool for Windows platforms (2000/X
 You could [download VirtualDub MPEG-2](http://www.videohelp.com/download/VirtualDub-MPEG224586%20.zip?r=LcPXQgGCmNps) here and extract files to a folder. Now you get a video processing software with MPEG-2 video import supported. To run VirtualDub MPEG-2, double click the VirtualDub.exe.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use VirtualDub MPEG-2 to Compress Large MPEG-2 Videos
@@ -42,10 +39,7 @@ You could [download VirtualDub MPEG-2](http://www.videohelp.com/download/Virtual
 VirtualDub-MPEG2 is designed to work with mpeg2 video, such as Digital TV shows, un-encrypted DVD files (\*.vob) and these video files are usually in big size. Now you can compress them using VirtualDub MPEG-2.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 1: Set Up Video Compression
@@ -54,16 +48,13 @@ Open your MPEG-2 video file through File/Open video file..., then go to Video/Co
 
 ![virtualdub mpeg2](https://images.wondershare.com/topic/video-editing/virtualdub-video-compression.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 As shown above, select the XVID MPEG-4 codec and click Configure button to make Xvid settings.
 
 ![virtualdub mepg2 tutorial](https://images.wondershare.com/topic/video-editing/virtualdub-mpeg2-compress.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note**: If Compression is disable, switch to Full processing mode first in the Video menu.
 
@@ -88,13 +79,14 @@ If you don't like VirtualDub MPEG-2 and would like to find some more powerful ed
 
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -112,19 +104,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-streamline-creative-processes-with-youtube-studio-editing-insights/"><u>[Updated] In 2024, Streamline Creative Processes with YouTube Studio Editing Insights</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-yuneecs-typhoon-h-unmasked-detailed-uav-analysis/"><u>[Updated] Yuneec's Typhoon H Unmasked Detailed UAV Analysis</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-analysis-of-marvels-spider-man-miles-morales-a-compact-game-with-a-grand-impact/"><u>Comprehensive Analysis of Marvel's Spider-Man: Miles Morales - A Compact Game with a Grand Impact</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/disabled-apple-iphone-15-pro-how-to-unlock-a-disabled-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>Disabled Apple iPhone 15 Pro How to Unlock a Disabled Apple iPhone 15 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/effortless-video-magic-the-no-cost-guide/"><u>Effortless Video Magic The No-Cost Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-latest-episode-in-depth-analysis-and-insight-on-watch-dogs-legions-revamped-setting/"><u>Exploring the Latest Episode: In-Depth Analysis and Insight on Watch Dogs: Legion's Revamped Setting</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-poco-c50-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-exploring-the-skies-with-top-10-beginner-drones/"><u>In 2024, Exploring the Skies with Top 10 Beginner Drones</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-best-vlog-editor-apps-ios-and-android/"><u>New 2024 Approved Best Vlog Editor Apps iOS & Android</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-best-zero-cost-video-editors-for-split-screen-effects-online-and-offline-for-2024/"><u>New Best Zero-Cost Video Editors for Split-Screen Effects Online & Offline for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-elevate-your-instagram-game-with-stop-motion-pro-tips-and-techniques-for-2024/"><u>New Elevate Your Instagram Game with Stop Motion Pro Tips and Techniques for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-from-selfie-to-toon-top-rated-apps-for-cartoon-style-photos-for-2024/"><u>New From Selfie to Toon Top-Rated Apps for Cartoon-Style Photos for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-list-10-best-animated-text-generators-for-any-project/"><u>New In 2024, The Ultimate List 10 Best Animated Text Generators for Any Project</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/perfecting-instagram-stories-adding-and-sharing-custom-emojis/"><u>Perfecting Instagram Stories Adding & Sharing Custom Emojis</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-iphone-hacks-listen-deep-to-your-podcasts/"><u>[New] IPhone Hacks Listen Deep to Your Podcasts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-creating-music-from-videos-instagrams-secret-sauce/"><u>2024 Approved Creating Music From Videos Instagram's Secret Sauce</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Lava Blaze 2? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-oppo-a2-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Oppo A2</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-latest-linux-65-kernel-a-wealth-of-cutting-edge-enhancements-tech-insights/"><u>Exploring the Latest Linux 6.5 Kernel: A Wealth of Cutting-Edge Enhancements - Tech Insights</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-endless-reboot-cycle-tips-for-pcs-stuck-at-startup/"><u>Fixing the Endless Reboot Cycle: Tips for PCs Stuck at Startup</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/framedivider-evaluation-report-for-2024/"><u>FrameDivider Evaluation Report for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/front-row-diversions-beyond-sports-galore-for-2024/"><u>Front Row Diversions Beyond Sports Galore for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-upgrade-your-videos-best-free-online-quality-improvers/"><u>New In 2024, Upgrade Your Videos Best Free Online Quality Improvers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-this-article-you-will-find-8-best-animation-maker-they-are-suitable-for-various-users-check-it-out-for-2024/"><u>New In This Article, You Will Find 8 Best Animation Maker. They Are Suitable for Various Users. Check It Out for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-mac-video-editing-made-easy-install-lumafusion-or-choose-an-alternative/"><u>New Mac Video Editing Made Easy Install Lumafusion or Choose an Alternative</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-macbook-users-learn-how-to-download-and-install-videoleap/"><u>New MacBook Users Learn How to Download and Install Videoleap</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-no-watermark-video-merger-software-top-7-picks-for-2024/"><u>New No-Watermark Video Merger Software Top 7 Picks for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-reaction-video-mastery-top-ios-and-android-apps-for-2024/"><u>New Reaction Video Mastery Top iOS and Android Apps for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-say-goodbye-to-watermarks-the-best-free-video-editing-software-for-2024/"><u>New Say Goodbye to Watermarks The Best Free Video Editing Software for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-battle-for-video-supremacy-adobe-premiere-vs-after-effects-for-2024/"><u>New The Battle for Video Supremacy Adobe Premiere vs After Effects for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-list-of-music-video-makers-for-unforgettable-videos/"><u>New The Ultimate List of Music Video Makers for Unforgettable Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/powershot-sx720hs-portability-meets-superzoom-capabilities/"><u>PowerShot SX720HS: Portability Meets Superzoom Capabilities</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/understanding-ars-capabilities-and-limits/"><u>Understanding AR's Capabilities and Limits</u></a></li>
 </ul></div>
 

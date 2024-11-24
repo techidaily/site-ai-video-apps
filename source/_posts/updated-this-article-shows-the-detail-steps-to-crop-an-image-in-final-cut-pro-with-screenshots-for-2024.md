@@ -1,7 +1,7 @@
 ---
 title: Updated This Article Shows the Detail Steps to Crop an Image in Final Cut Pro with Screenshots for 2024
-date: 2024-11-08T18:13:38.360Z
-updated: 2024-11-14T19:13:39.447Z
+date: 2024-11-16T20:50:08.955Z
+updated: 2024-11-23T20:15:34.691Z
 tags: 
   - video editing software
   - video editing
@@ -65,6 +65,10 @@ This displays the cropping tools in the Viewer.
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop004.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Click the Trim button to turn on Trim mode. (This article discusses Trim and Crop. I'll cover the Ken Burns effect in a future article.)
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop005.jpg)
@@ -83,9 +87,17 @@ When you have trimmed the image the way you want, click the "Done" button in the
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop008.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If no other clip is below the trimmed clip, the background will be black.
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop009.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 But, it actually isn't black, it's transparent. If you put another clip below it, you'll see the lower clip underneath the trimmed image.
 
@@ -116,19 +128,35 @@ If you selected any option except the Inspector, click the Crop button in the Vi
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop014.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now, drag a blue button in one of the corners. Because cropping, unlike trimming, fills the frame with the portion of the image we select, we can only move corners and the image is always sized to match the aspect ratio of our sequence.
 
 Final Cut displays numbers at the top of the Viewer indicating how much the image has been cropped.
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop015.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Reposition the frame by grabbing inside the rectangle and dragging.
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop016.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When you are happy with the results, click the Done button in the top right corner.
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop017.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Notice that the selected portion of the image now fills the frame. Even though there is a clip below our cropped clip, we don't see it.
 
@@ -165,23 +193,14 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-augmenting-film-vistas-with-apple-playlist/"><u>[New] In 2024, Augmenting Film Vistas with Apple Playlist</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-savvy-screenshot-tactics-for-netflix-on-mac-a-complete-guide-of-six-ways-for-2024/"><u>[New] Savvy Screenshot Tactics for Netflix on Mac - A Complete Guide of Six Ways for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/luxury-makeup-techniques-unveiled-for-2024/"><u>Luxury Makeup Techniques Unveiled for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-elevate-your-storytelling-how-to-create-stunning-hollywood-style-videos/"><u>New 2024 Approved Elevate Your Storytelling How to Create Stunning, Hollywood-Style Videos</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-expert-picks-top-hand-drawing-whiteboard-animation-makers-this-year/"><u>New 2024 Approved Expert Picks Top Hand Drawing Whiteboard Animation Makers This Year</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-game-on-best-free-video-editing-software/"><u>New 2024 Approved Game On! Best Free Video Editing Software</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-motion-tracking-tools-for-text-animation/"><u>New 2024 Approved Top Motion Tracking Tools for Text Animation</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-free-and-fantastic-top-mpeg-video-splitter-tools-for-2024/"><u>New Free and Fantastic Top MPEG Video Splitter Tools for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/persistent-bugs-call-of-duty-vanguard-still-causing-crashes-for-windows-users/"><u>Persistent Bugs: Call of Duty Vanguard Still Causing Crashes for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-exploration-windows-display-breaks/"><u>The Ultimate Exploration: Windows Display Breaks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-10-music-discoveries-on-spotify/"><u>[New] In 2024, Top 10 Music Discoveries on Spotify</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-honor-x7b-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor X7b</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Infinix Smart 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-ig-management-made-simple-the-best-tools-reviewed/"><u>In 2024, IG Management Made Simple The Best Tools Reviewed</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-best-free-video-editing-programs-for-old-windows-pcs/"><u>Updated 2024 Approved The Best Free Video Editing Programs for Old Windows PCs</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-want-to-join-video-content-creators-who-already-produce-stop-motion-videos-on-instagram-in-this-article-we-are-going-to-show-you-how-t/"><u>Updated 2024 Approved Want to Join Video Content Creators Who Already Produce Stop Motion Videos on Instagram? In This Article We Are Going to Show You How to Make a Stop Motion Video on Instagram with and without the Bui</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-free-split-screen-video-creators-web-based-and-desktop-options-for-2024/"><u>Updated Free Split Screen Video Creators Web-Based and Desktop Options for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-flip-and-rotate-iphone-videos-with-ease-top-free-apps/"><u>Updated In 2024, Flip and Rotate iPhone Videos with Ease Top Free Apps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016774190-winning-strategies-for-repairing-audio-on-a-windows-10-pc-all-issues-addressed/"><u>Winning Strategies for Repairing Audio on a Windows 10 PC - All Issues Addressed!</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

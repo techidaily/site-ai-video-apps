@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Dual Approaches to Audio Fades in Final Cut Pro A Step-by-Step Guide
-date: 2024-08-15T04:14:19.238Z
-updated: 2024-08-16T04:14:19.238Z
+date: 2024-11-18T11:16:27.178Z
+updated: 2024-11-23T20:01:16.479Z
 tags: 
   - video editing software
   - video editing
@@ -45,40 +45,33 @@ Before we get started, you can firstly detach the audio from video to better edi
 Check more articles here, if you are also interested in other [audio editing tips](https://tools.techidaily.com/wondershare/filmora/download/) in Final Cut Pro or want to know how to [record a voice over](https://tools.techidaily.com/wondershare/filmora/download/) with FCP.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: How to Fade Audio by using the Modify Menu
 
 You can go to the **Modify** menu and easily apply fade-in or fade-outs to the audio clip you are editing. The Final Cut Pro preferences also allow you to adjust the fade duration.
 
 **Step 1** **:** First, you have to select the audio or the video clips with audio in the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Apply fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You should remember that the fades appear at the beginning and the end of each clip. The default duration of the fade is one half-second. If you want to modify that duration, you just have to drag the fade handle up to the point where your fade is supposed to begin or end.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Modify duration of fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-3.png)
 
 **Step 3**: If you want to remove the fades, choose Modify > Adjust Volume > Remove Fades.
 
 See more details on how to fade audio in Final Cut Pro from the following video.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Fade Music by using Fade Handles
 
 You have already learned how to find the fade handles on the screen. Now, you just have to manually drag the handle to the exact point from which you want the fade to begin or end. Just keep in mid this simple rule: fade handles at the beginning of a clip produce fade-in effects, whereas fade handles at the end give fade-out effects.
@@ -95,13 +88,18 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 ![Using the fade handles to create crossfades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Fade preferences](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 * Linear: The rate of change is constant over the length of the fade.
@@ -117,13 +115,15 @@ You can easily change the sound of your fades by modifying the default fade shap
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -131,4 +131,23 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-subconversions-at-peak-discover-the-top-8-tools-for-converting-sbt-to-srt/"><u>[New] 2024 Approved Subconversions at Peak - Discover the Top 8 Tools for Converting SBT to SRT</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-adding-time-stamps-to-pictures-step-by-step-tutorial/"><u>[New] Adding Time Stamps to Pictures Step-by-Step Tutorial</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-maximize-your-consoles-potential-top-monitors-explored/"><u>[New] In 2024, Maximize Your Console's Potential - Top Monitors Explored</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-elite-select-best-apps-for-watching-live-boxing-and-international-football/"><u>[Updated] In 2024, Elite Select Best Apps for Watching Live Boxing & International Football</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-psd-saturation-tweaks/"><u>[Updated] Master PSD Saturation Tweaks</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoiding-noise-the-case-against-ps5s-microphone/"><u>Avoiding Noise: The Case Against PS5's Microphone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/best-practices-for-imovie-videos-entering-the-vimeo-realm/"><u>Best Practices for iMovie Videos Entering the Vimeo Realm</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/reme-de-la-creativite-youtube-subscriber-list-for-2024/"><u>The Crème De La Créativité YouTube Subscriber List for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-fast-forward-best-gif-speed-adjustment-tools-online-ios-android/"><u>Updated 2024 Approved Fast Forward Best GIF Speed Adjustment Tools Online, iOS, Android</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-mp4-video-editing-on-a-budget-top-10-free-editors/"><u>Updated 2024 Approved MP4 Video Editing on a Budget Top 10 Free Editors</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-premiere-rush-not-your-cup-of-tea-try-these-4-alternatives/"><u>Updated 2024 Approved Premiere Rush Not Your Cup of Tea? Try These 4 Alternatives</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-free-and-fabulous-best-video-special-effects-apps-for-iphone-and-android-for-2024/"><u>Updated Free and Fabulous Best Video Special Effects Apps for iPhone and Android for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-from-screen-to-video-how-to-record-your-desktop-with-filmora-scrn-for-2024/"><u>Updated From Screen to Video How to Record Your Desktop with Filmora Scrn for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-free-green-screen-apps-you-need-to-try-on-your-android-or-ios-device/"><u>Updated In 2024, Free Green Screen Apps You Need to Try on Your Android or iOS Device</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/windows-8-avi-file-editor-simple-and-efficient-video-editing-solution-for-2024/"><u>Windows 8 AVI File Editor Simple and Efficient Video Editing Solution for 2024</u></a></li>
+</ul></div>
 

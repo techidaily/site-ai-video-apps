@@ -1,7 +1,7 @@
 ---
 title: Updated Video Editing Essentials Import, Edit, and Export in Adobe Premiere 2023 for 2024
-date: 2024-11-09T22:17:29.848Z
-updated: 2024-11-14T22:14:45.780Z
+date: 2024-11-20T01:47:26.386Z
+updated: 2024-11-24T01:06:29.215Z
 tags: 
   - video editing software
   - video editing
@@ -34,6 +34,10 @@ This is a basic tutorial about Adobe Premiere, professional video editing softwa
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Importing
 
 There are two main ways to import media into Premiere, the import command and the media browser. They do things slightly differently and have uses they are both best suited to, here we will look at the process itself and which method to use in a given situation.
@@ -45,6 +49,10 @@ This is a straightforward command that works like most other programs, and is ac
 Whichever way you access it, you get the standard for the platform import dialogue box we see here.
 
 ![Import videos to Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This method of importing is best suited to self-contained media such as audio or graphics, or video files such as MP4 that are single files themselves, whose location on your computer you know so you can navigate to them easily. This is not the way to import videos from cameras, as they invariably create complex file and folder arrangements that make choosing the correct files difficult. This is where you would opt for the media browser method instead.
 
@@ -66,13 +74,6 @@ There are some exceptions to this, however, despite having a huge number of file
 
 [Wondershare Video Converter Ultimate](https://tools.techidaily.com/wondershare/videoconverter/download/) offers an easy way to convert any file you may have into media that Premiere can use quickly and efficiently, and is a great tool to have alongside premiere if you commonly work with multiple file types.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Exporting
 
 The ultimate aim of any project is obviously to finish it and let others see the result of your creativity, and that means exporting your work into a format that is suitable for the medium you wish the project to be viewed on. Premiere offers a number of options regarding export, you can select an entire sequence to export as a single file for the web or disc, choose a single frame to post to a website, blog or to distribute through email, you can export just the audio, or just the video from a sequence, and if you have the right hardware, can export directly to tape or disk.
@@ -82,15 +83,16 @@ To export a project that closely matches the original media in quality and frame
 ![Export videos in Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Which opens the media export dialogue.
 
 ![Export videos in Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Selecting 'Match Sequence Settings' here creates a finished file that matches the quality of the original source media. Then you simply choose a suitable name for the file in the Output Name field, and click export. This creates in essence a digital clone of the sequence, and best practice is to always do this for any project, however, for many projects, this is not necessarily the format you would want the final product to be in, those concentrating on YouTube output, or someone wanting to author a DVD for instance will need other options.
 
@@ -98,23 +100,9 @@ Thankfully Premiere caters here as well. Instead of selecting the 'Match Sequenc
 
 ![Export videos in Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Depending on which format you choose. The preset below will allow you to choose a wide range of output settings to suit the intended platform. For instance, selecting  format brings up a huge number of presets for various Tablets and Phones, but also for Vimeo and YouTube, which is why it is one of the most common output formats. Here's a look at some of the presets available from the menu.
 
 ![Export videos in Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Once you choose a preset, you can further modify the parameters to suit the project you are working on and even save those as an additional custom preset for later projects should you wish. Again, choosing a suitable file name and clicking Export ends the process.
 
@@ -123,6 +111,10 @@ The other common requirement is for DVD or Blu-Ray files. Whilst you need access
 With the addition of [Wondershare Video Converter Ultimate](https://tools.techidaily.com/wondershare/videoconverter/download/) you have a workflow that can ingest and export any type of media file you will ever come across with the minimum of fuss.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -139,15 +131,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://ai-video-apps.techidaily.com/expert-advice-for-buying-quality-hardware-from-toms-technology-analysis/"><u>Expert Advice for Buying Quality Hardware From Tom's Technology Analysis</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-oppo-a78-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo A78 5G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Vivo Y100 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/inside-generative-ai-key-concepts-distilled/"><u>Inside Generative AI: Key Concepts Distilled</u></a></li>
-<li><a href="https://win-web3.techidaily.com/step-by-step-guide-incornating-text-overlays-into-your-tiktok-creations/"><u>Step-by-Step Guide: Incornating Text Overlays Into Your TikTok Creations</u></a></li>
-<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://win-best.techidaily.com/top-gratuite-kopie-alternativen-entdecken-sie-die-macht-von-aomei-backupper/"><u>Top Gratuite Kopie-Alternativen: Entdecken Sie Die Macht Von AOMEI Backupper!</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-unlock-pro-level-video-effects-a-step-by-step-guide/"><u>Updated In 2024, Unlock Pro-Level Video Effects A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-revolutionize-your-edits-the-best-10-final-cut-pro-x-plugins-free-and-paid/"><u>Updated Revolutionize Your Edits The Best 10 Final Cut Pro X Plugins Free and Paid</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-the-best-ways-to-convert-mp4-to-mp3-on-your-iphone-or-android-device-for-2024/"><u>Updated The Best Ways to Convert MP4 to MP3 on Your iPhone or Android Device for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-embrace-serenity-the-10-best-online-yoga-masters-today-for-2024/"><u>[New] Embrace Serenity The 10 Best Online Yoga Masters Today for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-beginners-blueprint-for-viral-video-seo/"><u>[Updated] 2024 Approved Beginner's Blueprint for Viral Video SEO</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-inability-to-find-powershell-scripts/"><u>Addressing Windows Inability to Find PowerShell Scripts</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-se-2020-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone SE (2020) When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-error-code-0x800a03ec-by-stellar-guide/"><u>How to Fix Microsoft Excel Error Code 0x800A03EC?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-oppo-reno-11f-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Oppo Reno 11F 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209671892-9781760871253-make-it-happen/"><u>Make It Happen | Free Book</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-your-iphone-step-by-step-guide-to-podcast-acquisition/"><u>Mastering Your iPhone Step-by-Step Guide to Podcast Acquisition</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/navigating-the-world-of-pc-hardware-with-tom-expert-tips-and-reviews/"><u>Navigating the World of PC Hardware with Tom - Expert Tips and Reviews</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-fcp-like-a-pro-top-5-editing-techniques-to-take-your-videos-to-the-next-level/"><u>Updated 2024 Approved FCP Like a Pro Top 5 Editing Techniques to Take Your Videos to the Next Level</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-snap-share-repeat-the-ultimate-ps4-screenshot-sharing-guide/"><u>Updated 2024 Approved Snap, Share, Repeat The Ultimate PS4 Screenshot Sharing Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-make-videos-on-apple-mac-computer-with-the-best-video-maker-for-mac-for-2024/"><u>Updated Make Videos on Apple Mac Computer with the Best Video Maker for Mac for 2024</u></a></li>
 </ul></div>
 

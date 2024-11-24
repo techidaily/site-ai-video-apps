@@ -1,7 +1,7 @@
 ---
 title: New In 2024, From Minutes to Seconds Mastering Time Lapse Video Creation 2 Techniques
-date: 2024-08-15T04:14:54.463Z
-updated: 2024-08-16T04:14:54.463Z
+date: 2024-11-19T16:13:11.296Z
+updated: 2024-11-24T07:00:13.727Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1e
 
 # Time Lapse Software: Create Time Lapse Video
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -42,9 +39,6 @@ In this article, we will introduce two methods of creating time lapse video in F
 
 With built-in slow/fast motion effects, you can use Filmora to make time lapse effects in drag-and-drop. If you want to add filters to your video, Filmora offers more than 150 free filters to use. Check the new features of Filmora to empower your imagination. Download it to have a try!
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Before we get started, we have summarized some tips for shooting time-lapse videos, hope that will help to shoot a good video footage. If you have some other tips and tricks about shooting time lapse videos, please share it on the comment below.
@@ -59,9 +53,6 @@ If you wanna make a time lapse video with photos, you need set up your camera to
 
 [Tips for Recording Time Lapse Video on iPhone](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 1: Creating time lapse video from photos
 
 #### 1  Import the original photos to Filmora
@@ -69,6 +60,10 @@ If you wanna make a time lapse video with photos, you need set up your camera to
 After installing and launch Filmora video editor, import the shot time lapse photos to it. Click **New Project** and then click the **Import** button to add your photos to the media library. You can also directly drag and drop your video to the program. Then all the imported files will appear as thumbnails in the left of the window.
 
 ![text overlay](https://images.wondershare.com/filmora/article-images/import-video-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can also import the photos from the video shooting device. Just plug in the video camera, click **Import from Phone or Camera** option in Import menu, and then transfer the target media files to Filmora.
 
@@ -84,6 +79,10 @@ Select one of the photos in the timeline and right click on it to select **Speed
 
 ![Photo Timelapse video](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can also add a background music to make time lapse more professional. You can choose a music sound from the built-in music library or import your own audio file.
 
 #### 4 Export your new video
@@ -93,6 +92,10 @@ Place the timeline playhead at the beginner, and play it in Preview window to ch
 If you want to save and play your video on iPhone, iPod, iPad and other devices, just switch to the **Device** tab and choose from the device list. What’s more, you can upload the newly made video file to all popular video sites such as YouTube and Vimeo directly from the interface of Filmora. Or turn to **DVD** tab to burn your video to DVD for playing on TV.
 
 ![text overlay software](https://images.wondershare.com/filmora/article-images/export-video-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Speed Up to Make a Time lapse Video
 
@@ -106,18 +109,16 @@ Just like importing photos to Filmora, follow the steps to import the video clip
 
 Next, drag your video onto the video column in the timeline. Select the loaded video and click the "Play" button. While playing the video, drag the slider bar at the start time and hit the "Split" icon to cut out the part you want to do time lapse editing.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add text overlay](https://images.wondershare.com/filmora/article-images/cut-part-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 3 Speed up to create time lapse video
 
 Right click on the video clip in the timeline to select **Speed and Duration**. Then a window will pop up for you to adjust the settings of video. Find the **Speed** option and drag the slider bar to the right to increase the speed. If you set the playback speed to play at 200% the original speed, then the 30-second clip be only 15 seconds (twice the speed). After that click **OK**. Click the **Play** button to preview the result. Filmora now support up to 100x fast mo and 0.01x slow mo.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add text overlay](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
 
 #### 4 Export your new time lapse video
@@ -130,10 +131,11 @@ That’s how to make a cool time lapse video with the time lapse video software 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -141,12 +143,31 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-breakdown-of-essential-features-in-movie-maker-for-windows-8/"><u>[New] Breakdown of Essential Features in Movie Maker for Windows 8</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-uncovered-the-hidden-youtube-shorts-fix/"><u>[New] Uncovered The Hidden YouTube Shorts Fix</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-secrets-of-success-converting-ipv-video-files-with-flair/"><u>[Updated] Secrets of Success Converting IPV Video Files with Flair</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/auditory-anchors-exploring-the-art-of-sound-blending/"><u>Auditory Anchors Exploring the Art of Sound Blending</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-honor-magic5-ultimate-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Honor Magic5 Ultimate? Fixed | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/revolutionize-your-edits-10-best-fcpx-plugins-for-2024/"><u>Revolutionize Your Edits 10 Best FCPX Plugins for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/rise-above-the-crowd-in-instagram-world-with-these-9-must-try-strategies/"><u>Rise Above the Crowd in Instagram World with These 9 Must-Try Strategies</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-honor-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Honor</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-ps4-screenshot-sharing-101-tips-and-tricks/"><u>Updated 2024 Approved PS4 Screenshot Sharing 101 Tips and Tricks</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-expert-recommendations-best-ipad-video-editors-for-2024/"><u>Updated Expert Recommendations Best iPad Video Editors for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-fre-for-2024/"><u>Updated Fre for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-combine-videos-without-branding-7-top-choices/"><u>Updated In 2024, Combine Videos Without Branding 7 Top Choices</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-take-your-videos-to-the-next-level-editing-tips-and-tricks-for-2024/"><u>Updated Take Your Videos to the Next Level Editing Tips and Tricks for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-best-mac-video-editing-programs-for-beginners-and-pros/"><u>Updated The Best Mac Video Editing Programs for Beginners and Pros</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-vn-video-editor-pro-does-it-deliver-on-its-promises-for-2024/"><u>Updated VN Video Editor Pro Does It Deliver on Its Promises for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://solve-help.techidaily.com/windows-10-users-how-to-fix-handbrake-app-freezing-issues/"><u>Windows 10 Users: How To Fix Handbrake App Freezing Issues?</u></a></li>
+</ul></div>
 

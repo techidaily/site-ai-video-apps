@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Evaluation of the CAT S42 Durable Smartphone: High Security at Low Speeds"
-date: 2024-11-10T00:14:12.898Z
-updated: 2024-11-14T20:42:37.666Z
+date: 2024-11-21T10:47:43.331Z
+updated: 2024-11-23T19:14:56.414Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Evaluation of the CAT S42 Durable Smartphone: High Security at Low Speeds"
@@ -43,10 +43,7 @@ Lifewire / Yoona Wagener
 ![TCL 50S425 50-inch Roku TV (2019)](https://www.lifewire.com/thmb/3k1MkB4svn07bDvaUq6CGgLhZl8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4061017_HeroSquare-beccb9820dfd4a878196fac8bdf1d541.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
@@ -93,6 +90,10 @@ Lifewire / Yoona Wagener
 
  Lifewire / Yoona Wagener
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup Process** :**Up and running in minutes**
 
  Setting up the 50-inch TCL Roku TV is a breeze. We opted to forego mounting the television, but the user manual indicates that this model is compatible with a VESA 200 x 200 wall mount with M6 x 12mm screws.
@@ -102,13 +103,6 @@ Lifewire / Yoona Wagener
  Since we already had a Roku account, all of our previously selected channels and apps downloaded to the TV, which just took a few minutes, and then we were free to begin exploring. The amount of additional setup is pretty minimal. By default, you’ll see an HDR notification when you’re viewing HDR-enabled content, but you can turn this off from the settings panel if you like.
 
  Additionally, if you plan to use a set-top cable box or antenna, the user manual offers straightforward instructions for doing so. You also have the option of enabling the Smart TV experience when you use antenna TV mode. This setting uses automatic content recognition (ACR) to make viewing recommendations based on what you view through your antenna or connected HDMI devices.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Image Quality: Clear and vivid without any tweaking**
 
@@ -128,6 +122,10 @@ Lifewire / Yoona Wagener
 
 ![TCL 50S425 50-inch Roku TV (2019)](https://www.lifewire.com/thmb/Lv4B9e6LaJSHW7NSl-Braa2vnmc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4061017_03-b8155781e440420aa0c6c2bf19f9fe6a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Yoona Wagener
 
 ## **Audio Quality: Solid but not spellbinding**
@@ -141,13 +139,14 @@ Lifewire / Yoona Wagener
 ![TCL 50S425 50-inch Roku TV (2019)](https://www.lifewire.com/thmb/oA3AbTZysdVWZbOWuuVGOa56_8c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4061017_02-04183ae8dcd44b778b4da0e7706d5df2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Yoona Wagener
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Software: Intuitive and streamlined**
 
@@ -156,13 +155,6 @@ Lifewire / Yoona Wagener
  The Home screen features all of your apps, which you can arrange and delete with the click of the asterisk button. All the other menus are easy to identify as well. There’s a search page, a streaming channels section, and the settings menu. This clean and straightforward layout may not be the most sophisticated, but it’s easy to use and simplicity is the beauty of this system.
 
  While the remote doesn’t come with a built-in speaker, the free Roku app does offer a voice-assistant feature. It’s best when completing a general search for a show or actor or for launching a particular app. If you have a Google Assistant or Amazon Alexa enabled device, this Roku TV will support them, and they offer a generally better experience than using the Roku app voice remote function.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Price: A great bargain on a budget**
 
@@ -184,18 +176,15 @@ Lifewire / Yoona Wagener
 
  The TCL 50S425 50-inch Roku TV is a smart 4K TV that possesses many merits: an appealing price point, excellent 4K HDR picture quality, a size profile that won’t overwhelm small rooms or apartments, and an easy-to-use interface that requires little fuss. You may find better 4K picture and audio quality in a higher-end model, but this TV offers a welcome smart TV upgrade at a price that won’t empty your pockets.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Sony XBR49X900F 49-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/sony-xbr49x900f-49-inch-4k-ultra-hd-smart-led-tv-review-4796665)
 * [Insignia NS-43DF710NA19 Fire TV Edition](https://www.lifewire.com/insignia-ns-43df710na19-fire-tv-edition-review-4770716)
 * [LG 27UD58-B 27-Inch 4K UHD IPS Monitor](https://www.lifewire.com/lg-27ud58-b27-inch-4k-uhd-ips-monitor-review-4778916)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -229,21 +218,24 @@ Lifewire / Yoona Wagener
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-crafting-successful-videos-on-youtube-for-beginners-for-2024/"><u>[Updated] Crafting Successful Videos on YouTube for Beginners for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/breaking-through-boundaries-with-hdr-in-editing-for-2024/"><u>Breaking Through Boundaries with HDR in Editing for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/experts-guide-to-leading-home-energy-reserves-ratings-and-reviews-by-tech-experts-zdnet/"><u>Experts' Guide to Leading Home Energy Reserves - Ratings & Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-innovate-your-iphones-selfie-quality-the-10-best-free-apps/"><u>In 2024, Innovate Your iPhone's Selfie Quality The 10 Best Free Apps</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-unveiling-the-secrets-of-successful-youtube-videos/"><u>In 2024, Unveiling the Secrets of Successful YouTube Videos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/investigating-issues-key-factors-leading-to-broken-car-speaker-systems/"><u>Investigating Issues: Key Factors Leading to Broken Car Speaker Systems</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-achieve-film-quality-video-a-step-by-step-guide-to-final-cut-pro-x/"><u>New 2024 Approved Achieve Film-Quality Video A Step-by-Step Guide to Final Cut Pro X</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-edit-videos-for-free-top-software-for-32-bit-windows-systems/"><u>New 2024 Approved Edit Videos for Free Top Software for 32-Bit Windows Systems</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-is-vn-video-editor-apk-worth-your-time-a-detailed-review/"><u>New 2024 Approved Is VN Video Editor APK Worth Your Time? A Detailed Review</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-slow-and-steady-wins-the-game-mastering-slow-motion-in-windows-live-movie-maker/"><u>New 2024 Approved Slow and Steady Wins the Game Mastering Slow Motion in Windows Live Movie Maker</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-art-of-freeze-frame-converting-videos-to-images-with-10-expert-tools/"><u>New 2024 Approved The Art of Freeze-Frame Converting Videos to Images with 10 Expert Tools</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-expert-review-videopad-video-editors-pros-cons-and-buying-advice/"><u>New In 2024, Expert Review Videopad Video Editors Pros, Cons, and Buying Advice</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-final-cut-pro-hacks-create-a-vintage-vhs-look/"><u>New In 2024, Final Cut Pro Hacks Create a Vintage VHS Look</u></a></li>
-<li><a href="https://fox-that.techidaily.com/streamlined-strategies-to-get-your-ios-widgets-working-again-in-record-time/"><u>Streamlined Strategies to Get Your iOS Widgets Working Again in Record Time!</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-rated-weather-alert-apps-a-comprehensive-guide/"><u>Top-Rated Weather Alert Apps : A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-figures-unveiled-exploring-youtubes-curious-numbers-2017/"><u>[New] 2024 Approved Figures Unveiled! Exploring YouTube's Curious Numbers (2017)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-how-to-convert-youtube-videos-to-gifs-no-download/"><u>[New] 2024 Approved How to Convert YouTube Videos to GIFs [No Download]</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-tailoring-your-videography-with-personalized-instagram-captions/"><u>[New] In 2024, Tailoring Your Videography with Personalized Instagram Captions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-comprerancial-insight-into-instagram-a-step-by-step-data-interpretation-toolkit/"><u>[New] The Comprerancial Insight Into Instagram A Step-by-Step Data Interpretation Toolkit</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-guidelines-for-legally-reposting-on-insta/"><u>[Updated] 2024 Approved Guidelines for Legally Reposting on Insta</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/highest-achievers-in-the-realm-of-reddit-posts/"><u>Highest Achievers in the Realm of Reddit Posts</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nubia-z50s-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nubia Z50S Pro to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-xml-file-bible-for-fcpx-creators/"><u>New In 2024, The XML File Bible for FCPX Creators</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-trim-videos-online-for-free-10-best-websites-and-tools/"><u>New In 2024, Trim Videos Online for Free 10 Best Websites and Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-mts-video-editing-software-roundup-the-best-for-2024/"><u>New MTS Video Editing Software Roundup The Best for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-save-big-on-filmora-4-legit-ways-to-get-discounted-rates-for-2024/"><u>New Save Big on Filmora 4 Legit Ways to Get Discounted Rates for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-list-10-video-editing-apps-for-kids-both-free-and-paid-for-2024/"><u>New The Ultimate List 10 Video Editing Apps for Kids, Both Free and Paid for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-top-rated-avi-video-rotators-free-solutions-for-all-platforms/"><u>New Top-Rated AVI Video Rotators Free Solutions for All Platforms</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unleash-your-creativity-best-time-lapse-video-apps-for-iphone-and-android/"><u>New Unleash Your Creativity Best Time-Lapse Video Apps for iPhone and Android</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unleash-your-creativity-how-to-edit-videos-with-quicktime-on-mac-for-2024/"><u>New Unleash Your Creativity How to Edit Videos with QuickTime on Mac for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unleash-your-creativity-top-rated-3d-animation-software-for-all-levels/"><u>New Unleash Your Creativity Top-Rated 3D Animation Software for All Levels</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-ps4-joystick-jams-effective-remedies-at-hand/"><u>Overcoming PS4 Joystick Jams: Effective Remedies at Hand</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-the-ultimate-guide-to-learning-all-the-details-about-voice-cloning/"><u>Updated In 2024, The Ultimate Guide to Learning All the Details About Voice Cloning</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/upgrade-your-channel-description-with-ease-and-flair/"><u>Upgrade Your Channel Description with Ease and Flair</u></a></li>
 </ul></div>
 

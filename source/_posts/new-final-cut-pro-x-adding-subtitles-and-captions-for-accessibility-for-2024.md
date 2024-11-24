@@ -1,7 +1,7 @@
 ---
 title: New Final Cut Pro X Adding Subtitles and Captions for Accessibility for 2024
-date: 2024-08-15T04:16:19.678Z
-updated: 2024-08-16T04:16:19.678Z
+date: 2024-11-17T22:07:26.664Z
+updated: 2024-11-23T21:33:33.686Z
 tags: 
   - video editing software
   - video editing
@@ -34,9 +34,6 @@ On the other hand, the captions display every kind of audio information, includi
 
 You may also want to see this: [What Makes the Best Lower Thirds in Final Cut Pro X?](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Add Subtitles/Captions in Final Cut Pro X?
 
 Before you study the steps required to add subtitles to Final Cut Pro, here are some quick facts about the format of captions supported by FCPX.
@@ -53,9 +50,6 @@ It is a standard caption format for web videos and broadcasts.
 
 It is a simple and popular format used in online videos.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Steps to Add Subtitles or Captions in FCPX
 
 **Step 1: Create Caption Roles**
@@ -82,23 +76,16 @@ Thus, similar steps are required even if you want to add subtitles.
 
 Too many steps? Then try a **beginner-friendly editing tool**, Filmora!
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Free Subtitles Plugins for Final Cut Pro X
 
 Let's list some incredibly efficient and free subtitles tools that you can use for Final Cut Pro X.
@@ -116,8 +103,9 @@ The Quick Caption is another free tool available in Mac App Store to automatical
 It is the go-to free plugin by Stupid Raisins to display the text in animated templates. It generally depicts different kinds of paragraph titles, which you can edit as per the subtitles. It is one of the ideal plugins to impart professionalism into your videos with catchy descriptions. There are lots of templates available to select among them. Also, the simple drag and drop feature won't let you down in any scenario of adding subtitles or captions effectively.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: Tips for adding Subtitles/Captions in Final Cut Pro X
 
 Given below are some quick tips to add Final Cut Pro captions or subtitles.
@@ -130,10 +118,11 @@ You can use the transcriptions feature of YouTube to import captions file into y
 
 Every Caption set must export individually in Final Cut Pro X. However; there is a shortcut to it using the Compressor feature. Send your captions to Compressor by clicking the **File**\> **Send to Compressor**.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![send-to-compressor](https://images.wondershare.com/filmora/images/final-cut-pro/send-to-compressor.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Some may wonder, what is Compressor exactly？ [Click here to learn how to use the Compressor in FCPX.](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -142,6 +131,10 @@ Some may wonder, what is Compressor exactly？ [Click here to learn how to use t
 You can use various keyboard shortcut keys to add the subtitles and captions into the video quickly. There are shortcut keys available at each step of adding these captions or subtitles in Final Cut Pro X.
 
 [Click here for some best shortcuts we summarised for you!](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -155,12 +148,28 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-direct-mp4-uploader-for-facebook-services/"><u>[New] Direct MP4 Uploader for Facebook Services</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/arning-in-a-world-dominated-by-youtubers/"><u>[New] Earning in a World Dominated by YouTubers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-optimizing-vr-video-quality-during-live-gaming/"><u>[Updated] 2024 Approved Optimizing VR Video Quality During Live Gaming</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-snap-vs-tiktok-an-in-depth-showdown/"><u>[Updated] 2024 Approved Snap vs TikTok An In-Depth Showdown</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-navigating-sales-for-inexpensive-gopros/"><u>2024 Approved Navigating Sales for Inexpensive GoPros</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevate-your-film-scenes-with-precision-zooming-on-kinemaster/"><u>Elevate Your Film Scenes with Precision Zooming on Kinemaster</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-truthgpt-the-real-deal-or-just-hot-air/"><u>Is TruthGPT The Real Deal or Just Hot Air?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-10-glitch-art-video-editing-apps-for-ios-and-android/"><u>New 2024 Approved Top 10 Glitch Art Video Editing Apps for iOS and Android</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-free-wmv-video-stitching-software-our-top-5-recommendations-for-2024/"><u>New Free WMV Video Stitching Software Our Top 5 Recommendations for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-boost-engagement-with-a-countdown-a-step-by-step-fcpx-guide/"><u>New In 2024, Boost Engagement with a Countdown A Step-by-Step FCPX Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-create-stunning-animations-the-ultimate-online-maker-list/"><u>New In 2024, Create Stunning Animations The Ultimate Online Maker List</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-fcp-audio-editing-made-easy-a-tutorial-for-creators/"><u>New In 2024, FCP Audio Editing Made Easy A Tutorial for Creators</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-pros-handbook-to-perfecting-your-gopro-studio-project/"><u>The Pro's Handbook to Perfecting Your GoPro Studio Project</u></a></li>
+</ul></div>
 

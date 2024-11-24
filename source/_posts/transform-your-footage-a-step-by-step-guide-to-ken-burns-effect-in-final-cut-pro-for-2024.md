@@ -1,7 +1,7 @@
 ---
 title: Transform Your Footage A Step-by-Step Guide to Ken Burns Effect in Final Cut Pro for 2024
-date: 2024-11-11T22:13:40.963Z
-updated: 2024-11-14T18:49:52.998Z
+date: 2024-11-18T16:57:38.703Z
+updated: 2024-11-24T09:40:18.854Z
 tags: 
   - video editing software
   - video editing
@@ -29,24 +29,15 @@ Those new to the Final Cut Pro or Pro X programs will be finding it a little cha
 * [**Part 1: How to Make Ken Burns Effect Final Cut Pro**](#Make-Ken-Burns-Effect)
 * [**Part 2: How to Zoom in Final Cut Pro Using Keyframing**](#Zoom-in-Final-Cut-Pro-Keyframing)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Make Ken Burns Effect Final Cut Pro
 
 To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut, since they are both extensions of one another) simply follow our guide.
 
 First, let’s talk about what Ken Burns is and why he has an effect named after him in Final Cut programs!
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What is the Ken Burns Effect
 
@@ -70,6 +61,10 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Ken Burns Customization
 
 You can also customize the ken burns effects in Final Cut.
@@ -79,19 +74,6 @@ You can also customize the ken burns effects in Final Cut.
 **Step 2** – Adjust the green box’s size, shape, and height until you are happy with where it is placed.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
-
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
@@ -112,10 +94,7 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
@@ -125,10 +104,7 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Ken Burns Conclusion
@@ -138,6 +114,10 @@ The Ken Burns Effect is famous for a reason. It allows you to fill up space if y
 The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places that they wouldn’t otherwise get to. It is excellent for both glimpsing into the past, and for flashing forward into imagined futures. Best of all, it lets you go there when you aren’t a big-budget Hollywood film producer. We love anything that saves a buck or two while we edit.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -154,22 +134,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-the-lg-bp350-review-audiovisual-performance-analysis-for-2024/"><u>[New] The LG BP350 Review Audiovisual Performance Analysis for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/discovering-the-wonders-of-a-vr-device/"><u>Discovering the Wonders of a VR Device</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/enhanced-user-experience-with-the-integration-of-cookiebot-technology/"><u>Enhanced User Experience with the Integration of Cookiebot Technology</u></a></li>
-<li><a href="https://win11.techidaily.com/from-ordinary-to-extraordinary-crafting-winning-slideshows-and-perfecting-images-in-win11-photos-app/"><u>From Ordinary to Extraordinary: Crafting Winning Slideshows & Perfecting Images in Win11 Photos App</u></a></li>
-<li><a href="https://win-web.techidaily.com/guia-paso-a-paso-para-crear-un-medidor-de-arranque-en-vhs-en-windows-7-o-10/"><u>Guía Paso a Paso Para Crear Un Medidor De Arranque en VHS en Windows 7 O 10</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fostering-fun-with-metaverse-satirical-artifacts/"><u>In 2024, Fostering Fun with Metaverse Satirical Artifacts</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-freeze-your-favorite-moves-explore-these-top-9-windows-gif-recipes/"><u>In 2024, Freeze Your Favorite Moves! Explore These Top 9 Windows GIF Recipes</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-filmora-without-the-risk-safe-and-legal-alternatives/"><u>New 2024 Approved Free Filmora Without the Risk Safe and Legal Alternatives</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-romantic-gestures-how-to-make-a-stunning-valentines-day-video-for-your-partner/"><u>New 2024 Approved Romantic Gestures How to Make a Stunning Valentines Day Video for Your Partner</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unleash-your-creativity-top-rated-3d-animation-software-for-all-levels/"><u>New 2024 Approved Unleash Your Creativity Top-Rated 3D Animation Software for All Levels</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-adding-subtitles-in-fcpx-a-beginners-tutorial-for-2024/"><u>New Adding Subtitles in FCPX A Beginners Tutorial for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-best-free-video-splitters-for-mkv-files-updated-2023/"><u>New In 2024, Best Free Video Splitters for MKV Files (Updated 2023)</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-create-a-film-on-mac-a-step-by-step-guide/"><u>New In 2024, Create a Film on Mac A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-match-made-in-heaven-syncing-colors-across-video-clips-in-powerdirector/"><u>New In 2024, Match Made in Heaven Syncing Colors Across Video Clips in PowerDirector</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-s-top-rated-free-video-editors-for-32-bit-windows-users/"><u>New In 2024, S Top-Rated Free Video Editors for 32-Bit Windows Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/quietude-quests-minimalist-mmos/"><u>Quietude Quests: Minimalist MMOs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-enhancing-speeds-a-safe-guide-for-rapid-music-streaming/"><u>[New] 2024 Approved Enhancing Speeds A Safe Guide for Rapid Music Streaming</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-top-10-trending-backgound-music-for-youtube-shorts/"><u>[New] 2024 Approved Top 10 Trending Backgound Music for YouTube Shorts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensively-addressing-file-creation-fails-in-windows-error-30005/"><u>Comprehensively Addressing File Creation Fails in Windows Error 30005</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gopros-maximized-vision-analyzing-max-360-and-hero-11-video-capabilities/"><u>In 2024, GoPro's Maximized Vision Analyzing Max 360 & Hero 11 Video Capabilities</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/social-media-marketing-elevating-public-health-dialogue-for-2024/"><u>Social Media Marketing Elevating Public Health Dialogue for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-meizu-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Meizu FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/the-ultimate-list-10-free-video-editors-for-mp4-videos-for-2024/"><u>The Ultimate List 10 Free Video Editors for MP4 Videos for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/the-ultimate-videopad-video-editor-review-should-you-buy-it-in-2024/"><u>The Ultimate Videopad Video Editor Review Should You Buy It, In 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-lenovo-mouse-pad-issue-on-various-windows-systems-windows-10-8-7/"><u>Troubleshooting Your Lenovo Mouse Pad Issue on Various Windows Systems (Windows 10, 8, 7)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-apple-watch-8-surprising-success-with-less-sophisticated-sensors-than-samsung-exclusive-review-on-zdnet/"><u>Unveiling The Apple Watch 8: Surprising Success with Less Sophisticated Sensors Than Samsung | Exclusive Review on ZDNET</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-avi-video-editing-made-easy-top-trimming-tools-for-every-platform/"><u>Updated 2024 Approved AVI Video Editing Made Easy Top Trimming Tools for Every Platform</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-lip-sync-your-way-to-fame-top-rated-apps-for-creators/"><u>Updated 2024 Approved Lip Sync Your Way to Fame Top-Rated Apps for Creators</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-unleash-your-creativity-top-highlight-video-editors-for-desktop-and-mobile-devices/"><u>Updated 2024 Approved Unleash Your Creativity Top Highlight Video Editors for Desktop and Mobile Devices</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-best-20-free-adobe-premiere-intro-templates-for-2024/"><u>Updated Best 20 Free Adobe Premiere Intro Templates for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-bring-your-vision-to-life-best-1080p-video-editing-software-reviewed/"><u>Updated In 2024, Bring Your Vision to Life Best 1080P Video Editing Software Reviewed</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-mastering-color-consistency-a-step-by-step-guide-to-final-cut-pro/"><u>Updated Mastering Color Consistency A Step-by-Step Guide to Final Cut Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/xiaomi-g34wqi-34-inch-180hz-monitor-unveiled-fantastic-graphics-contrast-and-budget-friendly-for-gaming-enthusiasts/"><u>Xiaomi G34WQi 34-Inch 180Hz Monitor Unveiled! Fantastic Graphics, Contrast & Budget-Friendly for Gaming Enthusiasts.</u></a></li>
 </ul></div>
 

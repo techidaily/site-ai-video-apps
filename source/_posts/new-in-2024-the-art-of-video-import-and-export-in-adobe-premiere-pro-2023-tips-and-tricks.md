@@ -1,7 +1,7 @@
 ---
 title: New In 2024, The Art of Video Import and Export in Adobe Premiere Pro 2023 Tips and Tricks
-date: 2024-08-15T04:13:46.804Z
-updated: 2024-08-16T04:13:46.804Z
+date: 2024-11-19T17:44:38.596Z
+updated: 2024-11-24T00:19:46.563Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/6d644818f4603c573461e1572ce0a1a0270aa91bb
 
 # How to Import and Export Videos in Adobe Premiere
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -38,8 +35,9 @@ This is a basic tutorial about Adobe Premiere, professional video editing softwa
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Importing
 
 There are two main ways to import media into Premiere, the import command and the media browser. They do things slightly differently and have uses they are both best suited to, here we will look at the process itself and which method to use in a given situation.
@@ -52,16 +50,21 @@ Whichever way you access it, you get the standard for the platform import dialog
 
 ![Import videos to Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This method of importing is best suited to self-contained media such as audio or graphics, or video files such as MP4 that are single files themselves, whose location on your computer you know so you can navigate to them easily. This is not the way to import videos from cameras, as they invariably create complex file and folder arrangements that make choosing the correct files difficult. This is where you would opt for the media browser method instead.
 
 #### 2\.  Media Browser
 
 Whilst on the surface media browser appears to do the same job as the import command the way they carry out the task is somewhat different, media browser is designed to let you see the media created by cameras, and show you easy to understand icons and metadata rather than the intricate pattern of files and folders they use. This makes picking the correct clip from a selection much easier, with metadata showing you date and duration as well as file type.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Import videos to Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The media browser panel is found in the project panel, which on the standard layout is the bottom left corner, and can also be accessed by the Shift+8 shortcut. As you can see from the screenshot it works like an operating system file browser and allows you to navigate through the file directories of hard drives and removable media connected to the system.
 
@@ -75,9 +78,6 @@ There are some exceptions to this, however, despite having a huge number of file
 
 [Wondershare Video Converter Ultimate](https://tools.techidaily.com/wondershare/videoconverter/download/) offers an easy way to convert any file you may have into media that Premiere can use quickly and efficiently, and is a great tool to have alongside premiere if you commonly work with multiple file types.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Exporting
 
 The ultimate aim of any project is obviously to finish it and let others see the result of your creativity, and that means exporting your work into a format that is suitable for the medium you wish the project to be viewed on. Premiere offers a number of options regarding export, you can select an entire sequence to export as a single file for the web or disc, choose a single frame to post to a website, blog or to distribute through email, you can export just the audio, or just the video from a sequence, and if you have the right hardware, can export directly to tape or disk.
@@ -86,11 +86,12 @@ To export a project that closely matches the original media in quality and frame
 
 ![Export videos in Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Which opens the media export dialogue.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Export videos in Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-4.jpg)
 
 Selecting 'Match Sequence Settings' here creates a finished file that matches the quality of the original source media. Then you simply choose a suitable name for the file in the Output Name field, and click export. This creates in essence a digital clone of the sequence, and best practice is to always do this for any project, however, for many projects, this is not necessarily the format you would want the final product to be in, those concentrating on YouTube output, or someone wanting to author a DVD for instance will need other options.
@@ -103,15 +104,16 @@ Depending on which format you choose. The preset below will allow you to choose 
 
 ![Export videos in Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once you choose a preset, you can further modify the parameters to suit the project you are working on and even save those as an additional custom preset for later projects should you wish. Again, choosing a suitable file name and clicking Export ends the process.
 
 The other common requirement is for DVD or Blu-Ray files. Whilst you need access to the appropriate hardware to burn the disk, Premiere creates the file structure for that natively and you have two options here. Mpeg2 in either DVD or Blu-Ray form, or  Blu-Ray. With high quality source material, the two formats are virtually indistinguishable in their final format, however, MPEG2 will be much quicker to render and is a good choice for most applications. Although  does allow more content to fit into a given space, so it does have uses. Importing and exporting are the foundation of Premiere use, and as we have shown Premiere makes it very easy to do and produces the right file types for whatever your project is to be used for.
 
 With the addition of [Wondershare Video Converter Ultimate](https://tools.techidaily.com/wondershare/videoconverter/download/) you have a workflow that can ingest and export any type of media file you will ever come across with the minimum of fuss.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -120,12 +122,30 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-copyright-guide-for-instagram-music/"><u>[New] In 2024, Copyright Guide for Instagram Music</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-top-ranked-apps-for-video-conferencing-and-collaboration/"><u>[Updated] In 2024, Top-Ranked Apps for Video Conferencing and Collaboration</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-innovative-attention-grabber-designer/"><u>2024 Approved Innovative Attention Grabber Designer</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/vering-best-phone-based-asmr-experiences-for-2024/"><u>Discovering Best Phone-Based ASMR Experiences for 2024</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/estableciendo-cron-jobs-de-respaldo-automatico-para-windows-server-2016/"><u>Estableciendo Cron Jobs De Respaldo Automático Para Windows Server 2016</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/mastering-your-devices-invaluable-advice-by-toms-hardware-team/"><u>Mastering Your Devices: Invaluable Advice by Tom's Hardware Team</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/sea-to-sea-recording-best-action-cameras-for-anglers-for-2024/"><u>Sea-to-Sea Recording Best Action Cameras for Anglers for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/the-best-of-both-worlds-top-10-free-and-paid-fcpx-plugins-for-every-editor-for-2024/"><u>The Best of Both Worlds Top 10 Free and Paid FCPX Plugins for Every Editor for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/tp-link-archer-c50-review/"><u>TP-Link Archer C50 Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-system-free-hdmi-and-usb-connection-drivers-available-now/"><u>Update Your System: Free HDMI and USB Connection Drivers Available Now!</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-from-selfie-to-toon-top-rated-apps-for-cartoon-style-photos-for-2024/"><u>Updated From Selfie to Toon Top-Rated Apps for Cartoon-Style Photos for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-google-plays-top-picks-the-best-android-apps-around/"><u>Updated In 2024, Google Plays Top Picks The Best Android Apps Around</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-revolutionize-your-classroom-10-best-animation-software/"><u>Updated In 2024, Revolutionize Your Classroom 10 Best Animation Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-s-best-free-mkv-editors-for-cutting-and-trimming/"><u>Updated In 2024, S Best Free MKV Editors for Cutting and Trimming</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-powerdirector-color-grading-unifying-your-video-clips-look/"><u>Updated PowerDirector Color Grading Unifying Your Video Clips Look</u></a></li>
+<li><a href="https://techtrends.techidaily.com/why-are-we-shifting-towards-electric-automobiles-an-in-depth-guide/"><u>Why Are We Shifting Towards Electric Automobiles? An In-Depth Guide</u></a></li>
+</ul></div>
 

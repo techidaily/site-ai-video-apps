@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Free Video FX Apps The Ultimate List for iOS and Android
-date: 2024-08-15T04:15:23.339Z
-updated: 2024-08-16T04:15:23.339Z
+date: 2024-11-20T19:06:01.476Z
+updated: 2024-11-24T08:29:02.831Z
 tags: 
   - video editing software
   - video editing
@@ -53,20 +53,22 @@ With that said, here you will get to know about some of the best iOS and Android
 * [Part 4: Add Video Effects on Desktop \[Bonus\]](#add%5Feffects%5Ffilmora9)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: Best Video Special Effects Apps for Both iPhone and Android: FxGuru
 
 We’ve find FxGuru: Movie FX Director is a special effect app which is available on both iPhone, iPad and Android devices, this **video special effects app for Android** **and iOS** has almost everything you may need in order to give your recorded videos a professional touch. From ghosts to werewolves, UFOs to dragons, and even tornadoes, earthquakes, and meteors, FxGuru has every special effect under one umbrella.
 
 Simply put, with this app on your phone, you only have to use the device’s camera to capture video footage, and then sail away with your imagination to produce industry-standard clips for commercial promotions and/or for fun.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![best vfx apps for both iOS and Android -  FxGuru: Movie FX Director](https://images.wondershare.com/filmora/article-images/fxguru-movie-fx-director.jpg)
 
 Click to get the [Android](https://play.google.com/store/apps/details?id=com.picadelic.fxguru&hl=en%5FUS) version of this special effect app from the App Store or Google Play.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Best VFX Video Effects Editor Apps for iPhone & iPad
 
@@ -78,16 +80,14 @@ With built-in video editor and easy-to-use interface, this **iPhone special effe
 
 With all these features and options, and several more to explore, Enlight Vdeoleap Video Editor leaves no stone unturned to help you produce industry-standard outputs right on your iDevice.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![best vfx apps for  iOS -Enlight Videoleap Video Editor](https://images.wondershare.com/filmora/article-images/enlight-videoleap-video-editor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Click to get this app on App Store >>](https://apps.apple.com/us/app/enlight-videoleap-video-editor/id1255135442)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Action Movie FX
 
 With around 4.5-star rating on Apple App Store, this **movie effects app** called Action Movie FX has several Hollywood-style effects templates that let you give more dramatic look to the videos you record from your iDevice. Since the program is a mobile app, you can apply all the VFX right on your iPhone or iPad without transferring the footages to a computer for post-production treatments.
@@ -96,25 +96,27 @@ All the built-in effects that Action Movie FX is enriched with such as ALIEN BUR
 
 [Click to get this app on App Store >>](https://apps.apple.com/au/app/action-movie-fx/id489321253)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Movie FX Maker
 
 This **video special effects app** is helpful to apply FX on the images to use them as stickers. Although the program is free to use, the in-app purchases give you access to more advanced movie stickers that would allow you to bring life to the still images without having you to transfer them to your PC and/or using an expensive and complex apps like Photoshop.
 
 All you need to do in order to apply special FX to the images is, capture photos on your iDevice, and add the effects Movie FX Maker has. Post modifications, the images can be shared on your favorite social networking site instantaneously.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![best vfx apps for  iOS - Movie FX Maker](https://images.wondershare.com/filmora/article-images/movie-fx-maker-hollywood-style-special-effect-change.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 4\. Effects Cam – Visual Effects
 
 Yet another **video special effects app**, Effects Cam allows you to add special effects like fire, blasts, explosions, etc. to your images in order to make them look live. The images can be captured right from your device’s camera, or imported from other sources like your PC, phone’s memory, etc. Once imported, you can pick any of the available special FX from the app’s library, and apply it to the photo(s).
 
 ![best vfx apps for  iOS - Effects Cam - Visual Effects](https://images.wondershare.com/filmora/article-images/effects-cam-visual-effects.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Click to get this app on App Store >>](https://apps.apple.com/au/app/effects-cam-visual-effects/id1123449586)
 
@@ -124,12 +126,13 @@ Videorama Text & Video Editor is an **iPhone video special effects** app that le
 
 Apart from the above, adding special video and sound effects is another lucrative feature that Videorama has because of which the app is most admired and used by majority of people across the globe.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![video special effects apps for  iOS - Videorama Text & Video Editor](https://images.wondershare.com/filmora/article-images/videorama-text-video-editor.jpg)
 
 [Click to get this app on App Store >>](https://apps.apple.com/us/app/videorama-text-video-editor/id1049690233)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. LumaFX
 
@@ -140,8 +143,9 @@ In addition to all the above, LumaFX also allows you to add audio effects, thus 
 ![best video effects apps for  iOS - LumaFX](https://images.wondershare.com/filmora/article-images/best-vfx-apps-lumafx.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Watch Video! Best Free Video Special Effects Apps on Apple Store
 
 ## Part 2: Best VFX Video Effects Editor Apps for Android
@@ -166,16 +170,18 @@ Although the program is free to install, various other options and features can 
 
 ### 3\. Movie Effects Maker
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![action movie  video effects apps for  Andorid - Movie Effects Maker](https://images.wondershare.com/filmora/article-images/best-vfx-apps-movie-effects-maker.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Movie Effects Maker, as the name suggests, allows you to add special effects to the images you click with your smartphone. With all the VFX options this **movie effects app** has, you can be virtually anyone you want. For instance, with the sci-fi and horror elements, you can create stickers out of your photos portraying yourself as a hero, add animated effects to your images to make them look live, and much more.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Extreme VFX
 
 ![effects apps for Andorid - Extreme VFX](https://images.wondershare.com/filmora/article-images/best-vfx-apps-extreme-fx.jpg)
@@ -184,10 +190,11 @@ With this **video special effects app**, all you need to do is, record a footage
 
 [Get this special video effect app from Google Play>>](https://play.google.com/store/apps/details?id=com.kaushal.extremevfx&hl=en%5FUS)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Watch Video! Best VFX Video Effects Editor Apps for Android
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How to Add Special Effects to Videos in Filmora?
 
@@ -214,16 +221,10 @@ or Try Filmora App for mobile >>>
 
 The steps given below explain **how to add special effects to your recorded footages with Wondershare Filmora:**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Import Video and Add to Timeline
 
 Launch Wondershare Filmora, click anywhere inside the **Media Bin** at the upper-left section, use the **Open** box to import the video you want to add VFX to, hover mouse to the thumbnail of the clip, click the **+** icon from the middle, and click **MATCH TO MEDIA** from the **Project Setting** box when/if it appears.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Import media in Filmora9](https://images.wondershare.com/filmora/article-images/filmora9-import-media.jpg)
 
 ### 2\. Add Effects and Elements
@@ -238,16 +239,10 @@ Besides the included effects and elements in Filmora, you can find our more vide
 
 ![Filmora free video effects in Filmstock](https://images.wondershare.com/filmora/article-images/Filmstock-free-video-effects-for-filmora9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Export the Output
 
 Click **EXPORT** from the top-center section, go to the **Local** tab from the top of the **Export** box that opens up next, choose your preferred extension from the **Format** list in the left pane, select a destination location in the **Save to** field in the right window, click **SETTINGS** and make necessary adjustments (optional), and click **EXPORT** from the bottom-right corner of the box to begin rendering and to produce the video with the special effects applied to it.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora9 Output Options](https://images.wondershare.com/filmora/article-images/filmora9-export-options.jpg)
 
 **Conclusion**
@@ -279,12 +274,27 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-unraveling-the-mystery-what-does-pfp-mean-in-tiktok/"><u>[Updated] 2024 Approved Unraveling the Mystery What Does PFP Mean in TikTok?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-essential-gamer-perks-lowest-priced-monitors-and-keyboards/"><u>[Updated] In 2024, Essential Gamer Perks Lowest Priced Monitors & Keyboards</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-premium-7-vlog-cameras-boosting-audience-engagement-and-retention/"><u>[Updated] In 2024, Premium 7 Vlog Cameras Boosting Audience Engagement & Retention</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-12-camera-guide-for-effortless-screen-swivel-use-for-2024/"><u>[Updated] The Ultimate 12 Camera Guide for Effortless Screen Swivel Use for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/charting-a-course-a-review-of-sea-techs-external-usb-blu-ray-writers-consistency-challenges/"><u>Charting a Course: A Review of Sea Tech's External USB Blu-Ray Writer's Consistency Challenges</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-3d-text-a-step-by-step-guide-to-adobe-illustrator-for-2024/"><u>Crafting 3D Text A Step-by-Step Guide to Adobe Illustrator for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-samsung-galaxy-s21-fe-5g-2023-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Samsung Galaxy S21 FE 5G (2023)? Fixed | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tech-insights-and-reviews-exploring-the-world-of-toms-hardware/"><u>Tech Insights and Reviews: Exploring the World of Tom's Hardware</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/unlock-seamless-edits-3-effective-transition-strategies-in-final-cut-pro-for-2024/"><u>Unlock Seamless Edits 3 Effective Transition Strategies in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-art-of-dvd-creation-tips-and-tricks-for-amateur-filmmakers/"><u>Updated 2024 Approved The Art of DVD Creation Tips and Tricks for Amateur Filmmakers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-flip-your-footage-easy-final-cut-pro-tutorial-for-2024/"><u>Updated Flip Your Footage Easy Final Cut Pro Tutorial for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-slow-mo-showdown-top-10-video-players-compared/"><u>Updated The Slow-Mo Showdown Top 10 Video Players Compared</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-trim-and-cut-mov-files-without-spending-a-dime/"><u>Updated Trim and Cut MOV Files without Spending a Dime</u></a></li>
+</ul></div>
 

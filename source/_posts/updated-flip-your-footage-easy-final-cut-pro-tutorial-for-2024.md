@@ -1,7 +1,7 @@
 ---
 title: Updated Flip Your Footage Easy Final Cut Pro Tutorial for 2024
-date: 2024-11-07T20:37:21.945Z
-updated: 2024-11-14T19:14:46.969Z
+date: 2024-11-22T23:24:48.046Z
+updated: 2024-11-24T00:27:47.194Z
 tags: 
   - video editing software
   - video editing
@@ -33,6 +33,10 @@ The video below shows how simple it is to flip video in Final Cut Pro.
 If you want to rotate and flip video clips on your Mac for free, you can also try iMovie. Check our guide about [How to rotate and flip videos in iMovie.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Flip a Clip in Final Cut Pro
 
@@ -70,19 +74,16 @@ Click the video clips that you want to flip in the timeline and make sure it is 
 
 ![ Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * The positions X and Y enable you to move the image left and right as well as moving it from top to bottom depending on how you want it to be.
 * The Rotation point allows you to rotate the image around its anchor points.
 * The Scale option is for resizing the image. Click the small arrow alongside it and then you will see X and Y options. To flip the video clip, just enter-1oo in the X sidebar and press the **Enter** key. You will see then the selected clip in the timeline will be flipped horizontally to another direction. Enter -100 in the Y sidebar and then the clip will be flipped vertically, namely, upside-down direction.
 * The Anchor X and Y allows you to Move the image’s center point.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## An Easier Way to Flip a Clip in Final Cut Pro Alternative
 
@@ -96,13 +97,6 @@ If you'd like an easier way to filp a clip, Wondershare Filmora will be the best
 * Adjusting the white balance in the clips
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Flipping the clips more easily in Wondershare Filmora:
 
@@ -119,10 +113,7 @@ When you double-click on the video, the editing panel appears on the screen, and
 ![filmora filp video](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-8.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * _Flipping only a single part of the video:_
@@ -130,6 +121,10 @@ When you double-click on the video, the editing panel appears on the screen, and
 Wondershare Filmora also allows you to flip a few parts of the video instead of whole. Just move the play head towards the position where you want the split. Click on the icon of **Scissors** in the menu.
 
 ![filmora filp video](https://images.wondershare.com/filmora/guide/pictures-3-filp-video.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * _Exporting the flip video:_
 
@@ -141,20 +136,21 @@ Do you like the basic tutorial about Apple Final Cut Pro? Professional video edi
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 After you have finished doing all the editing and transformation, you can then click done so that you get your final product. In case the results are not satisfactory you can click the arrow on the right side of each control to get back to the start and begin afresh.
 
 ![ Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora![](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -171,15 +167,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-master-seminar-script-synthesizer/"><u>[New] Master Seminar Script Synthesizer</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/autobackupmicrosoft-onedrivebusiness/"><u>一鍵做到：無限AutoBackup綁定Microsoft OneDrive(Business)</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-ways-to-refresh-your-pcs-audio-driver-on-windows-versions-11-10-and-7/"><u>Easy Ways to Refresh Your PC's Audio Driver on Windows Versions 11, 10 & 7</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhance-your-modern-warfare-2-experience-overcoming-windowed-woes-steady-fps-and-smooth-action-guaranteed/"><u>Enhance Your Modern Warfare 2 Experience: Overcoming Windowed Woes – Steady FPS and Smooth Action Guaranteed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-hints-and-tips-from-toms-computer-world/"><u>Expert Hints & Tips From Tom’s Computer World</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/ignite-inspiration-with-over-20-italian-idioms-and-phrases/"><u>Ignite Inspiration with Over 20 Italian Idioms & Phrases</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-from-fast-to-slow-mastering-the-art-of-slow-motion-in-windows-live-movie-maker/"><u>New 2024 Approved From Fast to Slow Mastering the Art of Slow Motion in Windows Live Movie Maker</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-mov-video-rotation-made-easy-top-free-options/"><u>New 2024 Approved MOV Video Rotation Made Easy Top Free Options</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-mac-green-screen-whats-the-best-software-for-you/"><u>New In 2024, Mac Green Screen Whats the Best Software for You?</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-best-of-both-worlds-free-and-paid-time-lapse-video-editing-software/"><u>New In 2024, The Best of Both Worlds Free and Paid Time-Lapse Video Editing Software</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-behind-the-scenes-mastering-4-techniques-of-xbox-capture/"><u>[New] 2024 Approved Behind the Scenes Mastering 4 Techniques of Xbox Capture</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-navigating-the-path-to-prominence-9-proven-strategies-for-instagram-stars-for-2024/"><u>[New] Navigating the Path to Prominence 9 Proven Strategies for Instagram Stars for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-streamline-twitters-from-video-to-audible-format/"><u>2024 Approved Streamline Twitters From Video to Audible Format</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/chat-to-tune-downloader-for-fb-for-2024/"><u>Chat to Tune Downloader for FB for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-word-2007-document-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign a Word 2007 document online</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-oppo-a1-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Oppo A1 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-constructing-the-ideal-home-computer-for-advanced-video-editing/"><u>In 2024, Constructing the Ideal Home Computer for Advanced Video Editing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-xiaomi-redmi-note-12r-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Xiaomi Redmi Note 12R Phone Network-Ready</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/llama-3-vs-gpt-4-which-is-better/"><u>Llama 3 Vs. GPT-4: Which Is Better?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-times-running-out-learn-to-add-a-countdown-timer-in-fcpx-fast/"><u>New In 2024, Times Running Out! Learn to Add a Countdown Timer in FCPX Fast</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-transform-your-videos-with-a-robust-64-bit-editor-for-windows/"><u>New In 2024, Transform Your Videos with a Robust 64-Bit Editor for Windows</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-avi-editor-for-windows-8-effortless-video-editing-experience-2023/"><u>New The Ultimate AVI Editor for Windows 8 Effortless Video Editing Experience - 2023</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-top-meme-maker-apps-for-android-and-ios-devices-2023-update/"><u>New Top Meme Maker Apps for Android & iOS Devices (2023 Update)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Unlock Time Lapse Magic A Beginners Guide to Final Cut Pro for 2024
-date: 2024-11-10T01:33:10.167Z
-updated: 2024-11-14T22:12:27.720Z
+date: 2024-11-17T06:12:19.697Z
+updated: 2024-11-23T17:54:26.215Z
 tags: 
   - video editing software
   - video editing
@@ -38,6 +38,10 @@ This is a basic tutorial about Apple Final Cut Pro X, a professional video editi
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Make a Time-Lapse Video in Final Cut Pro
 
 #### Step 1 Import Clips
@@ -50,9 +54,17 @@ Click the **Retime** pop-up menu below the viewer and choose **Fast** (or you ca
 
 ![ Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can set any speed by adjusting the **Rate**. Reset the speed by clicking on the little arrow on the right side of the window.
 
 ![ Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can also drag the retiming handle to adjust the speed: dragging to the left increases the speed, and dragging to the right decreases it.
 
@@ -60,11 +72,19 @@ You can also drag the retiming handle to adjust the speed: dragging to the left 
 
 ![ Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 That's it. You may also want to learn this: [how to add a countdown-timer in fcpx](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you have any questions about making time-lapse videos, feel free to drop a line below.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -81,24 +101,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instagram-photo-perfection-applying-stylish-borders/"><u>[New] In 2024, Instagram Photo Perfection Applying Stylish Borders</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-zoom-into-action-capturing-your-desktop-ezvide-style/"><u>[New] Zoom Into Action Capturing Your Desktop, EZvide Style</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/how-to-securely-backup-photographs-to-google-drive-four-key-strategies/"><u>How to Securely Backup Photographs to Google Drive: Four Key Strategies</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/iphone-images-jpg-png-straightforward-conversion-guide/"><u>IPhone Images (JPG, PNG) - Straightforward Conversion Guide</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-looking-beyond-final-cut-pro-x-10-top-video-editing-software-options/"><u>New 2024 Approved Looking Beyond Final Cut Pro X 10 Top Video Editing Software Options</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-showdown-adobe-premiere-vs-after-effects-for-video-creators/"><u>New In 2024, The Ultimate Showdown Adobe Premiere vs After Effects for Video Creators</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-resolving-final-cut-pro-x-freezing-and-crashing-issues-2023-update-for-2024/"><u>New Resolving Final Cut Pro X Freezing and Crashing Issues (2023 Update) for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-smooth-sailing-the-ultimate-guide-to-free-online-video-stabilizers-for-2024/"><u>New Smooth Sailing The Ultimate Guide to Free Online Video Stabilizers for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-video-effects-handbook-tips-and-tricks-for-2024/"><u>New The Ultimate Video Effects Handbook Tips and Tricks for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-transform-your-videos-the-9-best-free-online-video-enhancement-software/"><u>New Transform Your Videos The 9 Best Free Online Video Enhancement Software</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/optimize-your-gaming-by-learning-ps3-video-capture-techniques/"><u>Optimize Your Gaming by Learning PS3 Video Capture Techniques</u></a></li>
-<li><a href="https://article-posts.techidaily.com/top-live-streaming-hardware-encoder-and-equipment-you-should-know-for-2024/"><u>Top Live Streaming Hardware Encoder and Equipment You Should Know for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-three-fee-free-methods-for-mixing-audio-in-imovie-projects/"><u>[New] In 2024, Three Fee-Free Methods for Mixing Audio in iMovie Projects</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-art-of-advertising-making-money-on-the-worlds-social-network/"><u>[Updated] 2024 Approved The Art of Advertising Making Money on the World's Social Network</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-enhancing-stardew-experience-discovering-the-top-7-modifications/"><u>[Updated] In 2024, Enhancing Stardew Experience Discovering the Top 7 Modifications</u></a></li>
+<li><a href="https://fox-http.techidaily.com/captivating-your-curbsides-glow-inside-your-house-for-2024/"><u>Captivating Your Curbside's Glow Inside Your House for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-tecno-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Tecno .</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-30-metaverse-gems-diy-meme-ideas-unleashed/"><u>In 2024, Top 30 Metaverse Gems DIY Meme Ideas Unleashed</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-your-kyocera-printer-driver-on-windows-operating-systems/"><u>Installing Your KYOCERA Printer Driver on Windows Operating Systems</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/s-top-free-quicktime-video-editors-for-beginners-and-pros-for-2024/"><u>S Top Free QuickTime Video Editors for Beginners and Pros for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-verdict-on-apple-iphone-12-pro-max-does-bigger-equal-better-performance/"><u>The Ultimate Verdict on Apple iPhone 12 Pro Max: Does Bigger Equal Better Performance?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/unveiling-the-excellent-tech-for-high-definition-recording/"><u>Unveiling the Excellent Tech for High-Definition Recording</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-image-cropping-in-fcpx-essential-techniques-for-editors/"><u>Updated 2024 Approved Image Cropping in FCPX Essential Techniques for Editors</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-say-goodbye-to-format-issues-stream-any-video-to-chromecast-seamlessly/"><u>Updated 2024 Approved Say Goodbye to Format Issues Stream Any Video to Chromecast Seamlessly</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-best-top-android-video-editing-apps-for-free-and-paid-users-for-2024/"><u>Updated Best Top Android Video Editing Apps for Free and Paid Users for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-best-vlog-editor-apps-ios-and-android/"><u>Updated Best Vlog Editor Apps iOS & Android</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-filmora-for-beginners-a-comprehensive-guide-to-creating-stunning-reaction-videos-for-2024/"><u>Updated Filmora for Beginners A Comprehensive Guide to Creating Stunning Reaction Videos for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-best-free-avi-merger-tools-combine-avi-videos-with-ease/"><u>Updated In 2024, Best Free AVI Merger Tools Combine AVI Videos with Ease</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-free-video-editing-made-easy-a-jaycut-user-guide/"><u>Updated In 2024, Free Video Editing Made Easy A Jaycut User Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-windows-10s-finest-best-webcam-recording-software-revealed/"><u>Updated In 2024, Windows 10S Finest Best Webcam Recording Software Revealed</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-valentines-day-on-a-personal-level-create-a-customized-video-message-for-2024/"><u>Updated Valentines Day on a Personal Level Create a Customized Video Message for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Slow Down and Freeze Advanced FCPX Editing Techniques
-date: 2024-11-14T03:37:12.684Z
-updated: 2024-11-14T16:55:05.677Z
+date: 2024-11-17T16:42:37.489Z
+updated: 2024-11-24T00:07:17.487Z
 tags: 
   - video editing software
   - video editing
@@ -30,6 +30,10 @@ This article shows you how to do this using Final Cut Pro X.
 
 For more tutorials on slow-motion please refer to this article: [Top 10 Slow Motion Video Editing Software.](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Freeze-Frames and Slow Motion in Final Cut Pro X
 
 #### 1\.  STILL FRAMES
@@ -49,6 +53,10 @@ This creates a two-second freeze-frame at the position of the playhead.
 Adjust the duration of the frame by trimming the edge; just like any other clip. Here, for example, I'm making the duration of the freeze-frame 11 frames shorter.
 
 ![freeze frames in FCP X](https://images.wondershare.com/multimedia/speed004.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In case you were wondering, this is what the freeze looks like. It freezes the flight of the hummingbird in the middle of playback, allowing us to add graphics or other text then resume the action as though nothing had happened.
 
@@ -82,6 +90,10 @@ Put the playhead (or skimmer) on the frame you want to hold. Then, Then, using e
 
 ![hold frames in fcp x](https://images.wondershare.com/multimedia/speed014.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This displays the orange Retime editor bar above the clip, with a small red portion indicating the Hold frame.
 
 ![create hold frames](https://images.wondershare.com/multimedia/speed015.jpg)
@@ -89,6 +101,10 @@ This displays the orange Retime editor bar above the clip, with a small red port
 Change the duration of the Hold frame by dragging the small thumb at the right end of the red bar.
 
 ![speed016](https://images.wondershare.com/multimedia/speed016.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Add a speed ramp transition at the end of the Hold frame by clicking the downward-pointing arrow next to the word "Hold" in the Retime Editor.
 
@@ -134,6 +150,10 @@ Or, for more precision, click the downward-pointing arrow in the Retiming bar an
 
 ![speed011](https://images.wondershare.com/multimedia/speed011.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This opens a new dialog allowing a number of changes:
 
 * Reverse. Plays the clip in reverse.
@@ -165,6 +185,10 @@ This is a basic tutorial about Apple Final Cut Pro X, a professional video editi
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 #### SUMMARY
@@ -172,6 +196,10 @@ This is a basic tutorial about Apple Final Cut Pro X, a professional video editi
 Whether you want your clips to speed up, slow down or just plain stop, Final Cut Pro X makes the entire process easy.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -188,31 +216,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-elite-15-luts-transforming-gopro-action-footage/"><u>[Updated] Elite 15 LUTs Transforming GoPro Action Footage</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-mastering-the-art-of-obs-and-fb-live/"><u>[Updated] In 2024, Mastering the Art of OBS and FB Live</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hidden-gems-in-the-world-of-google-podcasts/"><u>2024 Approved Hidden Gems in the World of Google Podcasts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-panoramic-viewpoint-gear-for-vr/"><u>2024 Approved Panoramic Viewpoint Gear for VR</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-rhythmic-reinvention-the-art-of-voice-in-free-fire/"><u>2024 Approved Rhythmic Reinvention The Art of Voice in Free Fire</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/cross-platform-file-management-system-efficient-and-reliable/"><u>Cross-Platform File Management System - Efficient and Reliable</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-the-best-the-focusrite-scarlett-solo-driver-software-compatible-with-windows/"><u>Download the Best: The Focusrite Scarlett Solo Driver Software Compatible with Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/enhance-your-canon-mg3022-performance-with-the-latest-printing-software-update/"><u>Enhance Your Canon MG3022 Performance with the Latest Printing Software Update</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-how-to-fix-missing-airpods-on-apples-find-my-network/"><u>Troubleshooting Guide: How to Fix Missing AirPods on Apple's Find My Network</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-rotate-your-3gp-videos-for-free-top-5-tools-of-the-year/"><u>Updated 2024 Approved Rotate Your 3GP Videos for Free Top 5 Tools of the Year</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-beyond-quik-exploring-the-best-pc-video-editing-software-for-gopro-footage-for-2024/"><u>Updated Beyond Quik Exploring the Best PC Video Editing Software for GoPro Footage for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-cant-watch-mlb-matches-get-free-mlb-streaming-options-now/"><u>Updated Cant Watch MLB Matches? Get Free MLB Streaming Options Now</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-elevate-your-soundtrack-2-audio-fade-techniques-in-final-cut-pro-for-2024/"><u>Updated Elevate Your Soundtrack 2 Audio Fade Techniques in Final Cut Pro for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-final-cut-pro-color-workflow-efficient-and-effective/"><u>Updated In 2024, Final Cut Pro Color Workflow Efficient and Effective</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-free-green-screen-magic-top-10-apps-for-android-and-ios-users/"><u>Updated In 2024, Free Green Screen Magic Top 10 Apps for Android and iOS Users</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-mp4-video-tag-editors-are-used-to-alter-or-add-general-information-to-a-video-to-help-you-find-the-best-video-tag-editor-weve-compiled-a-lis/"><u>Updated In 2024, MP4 Video Tag Editors Are Used to Alter or Add General Information to a Video. To Help You Find the Best Video Tag Editor, Weve Compiled a List of the Top 10 Best MP4 Tag Editors for Windows and Mac</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-no1-free-dailymotion-to-mp4-converter-online/"><u>Updated In 2024, No.1 Free Dailymotion to MP4 Converter Online</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-top-rated-free-video-editing-apps-with-effects-for-mobile/"><u>Updated In 2024, Top-Rated Free Video Editing Apps with Effects for Mobile</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-join-the-ranks-top-5-free-online-video-joiners-you-need-to-try-for-2024/"><u>Updated Join the Ranks Top 5 Free Online Video Joiners You Need to Try for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-live-audience-score-keeper-apps/"><u>[New] 2024 Approved Live Audience Score Keeper Apps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-video-sequencing-synergy-mastering-blend-modes/"><u>[Updated] In 2024, Video Sequencing Synergy Mastering Blend Modes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-essence-of-earnings-a-3-step-expedient-to-measure-your-youtube-profitability/"><u>[Updated] The Essence of Earnings A 3-Step Expedient to Measure Your YouTube Profitability</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ereader-showdown-which-device-wins-the-ipad-kindle-or-nook/"><u>EReader Showdown: Which Device Wins - The iPad, Kindle or Nook?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-free-qualcomm-atheros-ar3011-bluetooth-driver-here/"><u>Get Your Free Qualcomm Atheros AR3011 Bluetooth Driver Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969413497-nvidias-most-recent-geforce-rtx-3080-driver-download-for-windows-users/"><u>NVIDIA's Most Recent GeForce RTX 3080 Driver - Download for Windows Users!</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/trim-videos-like-a-pro-10-free-online-editors-2023-guide-for-2024/"><u>Trim Videos Like a Pro 10 Free Online Editors 2023 Guide for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-top-mobile-video-editors-for-portrait-mode-videos/"><u>Updated 2024 Approved Top Mobile Video Editors for Portrait Mode Videos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-fcpx-tutorial-image-cropping-made-easy/"><u>Updated In 2024, FCPX Tutorial Image Cropping Made Easy</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-funniest-meme-creator-apps-for-android-and-ios-updated-2023/"><u>Updated In 2024, The Funniest Meme Creator Apps for Android and iOS (Updated 2023)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-mobile-video-editing-showdown-powerdirector-alternatives-for-2024/"><u>Updated Mobile Video Editing Showdown PowerDirector Alternatives for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

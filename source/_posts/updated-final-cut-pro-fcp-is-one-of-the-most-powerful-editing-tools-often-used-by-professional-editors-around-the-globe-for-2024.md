@@ -1,7 +1,7 @@
 ---
 title: Updated Final Cut Pro (FCP) Is One of the Most Powerful Editing Tools Often Used by Professional Editors Around the Globe for 2024
-date: 2024-11-08T02:02:24.673Z
-updated: 2024-11-15T03:18:12.583Z
+date: 2024-11-22T18:49:00.718Z
+updated: 2024-11-23T20:57:21.854Z
 tags: 
   - video editing software
   - video editing
@@ -50,6 +50,10 @@ The job of the tiny white points on the right and left side of the clip is to ap
 
 ![](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Related Article:** [How to fade in/out audio in Final Cut Pro >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 **Note:** In this level, any effects and adjustments in audio are applicable for the entire clip including the audio channels within it. All the adjustments in the individual audio channels made by you would be preserved by FCP. This implies that when one reduces the volume for just one channel but increases the volume of the entire clip, then the single channel’s volume is only raised in proportion to the volume of the other channels. Ideally, you should do your edits at the clip-level when you have only one or two audio channels on your video clip.
@@ -59,6 +63,10 @@ The job of the tiny white points on the right and left side of the clip is to ap
 The audio of the video can be detached for editing the audio file separately. The Audio Inspector of FCP provides you with all precise controls of audio edit like pan, effect, volume, equalization and audio configuration.
 
 ![ The Audio Inspector ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
 
@@ -73,6 +81,10 @@ The Audio Inspector would allow you to apply the following effects:
 
 ![ Audio Equalization ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
 
 ![Pan](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-6.png)
@@ -81,11 +93,19 @@ The Audio Inspector would allow you to apply the following effects:
 
 ![Effects](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Audio Configuration: The audio configuration tool would allow the user to modify the audio channel with mono, stereo, or reverse stereo.
 
 **Here's the video tutorial on how to edit audios in Final Cut Pro:**
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -102,29 +122,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-snort-spree-twitters-funniest-humor-chronicles/"><u>[Updated] Snort Spree Twitter’s Funniest Humor Chronicles</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-3dr-solo-unveiling-the-single-user-experience/"><u>2024 Approved '3DR Solo' Unveiling the Single User Experience</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-on-air-innovations-code-or-circuitry-prevails/"><u>2024 Approved On-Air Innovations Code or Circuitry Prevails?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-methods-to-recover-or-repair-d3dx-library-files-on-your-pc/"><u>Effective Methods to Recover or Repair D3DX Library Files on Your PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensure-permanent-file-elimination-with-customizable-trash-setup-in-windows-pcs-11/"><u>Ensure Permanent File Elimination with Customizable Trash Setup in Windows PCs (11)</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-samsung-galaxy-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-best-of-the-rest-cutting-edge-vr-games-for-google-cardboard/"><u>In 2024, Best of the Rest Cutting-Edge VR Games for Google Cardboard</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-enhance-your-shorts-fresh-and-original-thumbnails-with-minimal-effort/"><u>In 2024, Enhance Your Shorts Fresh and Original Thumbnails with Minimal Effort</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-itel-p40plus-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Itel P40+ to Gmail | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/planetary-archives-skys-data-retrieval-station/"><u>Planetary Archives - Sky's Data Retrieval Station</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-get-sound-back-in-avidemux-easy-fixes/"><u>Updated 2024 Approved Get Sound Back in Avidemux Easy Fixes</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-text-animation-made-easy-top-phone-apps-for-video-editing/"><u>Updated 2024 Approved Text Animation Made Easy Top Phone Apps for Video Editing</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-list-top-10-glitch-video-editing-apps-for-mobile-creatives/"><u>Updated 2024 Approved The Ultimate List Top 10 Glitch Video Editing Apps for Mobile Creatives</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-discover-the-best-video-editing-apps-for-kids-free-paid-and-everything-in-between/"><u>Updated In 2024, Discover the Best Video Editing Apps for Kids Free, Paid, and Everything in Between</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-fast-forward-your-memories-best-time-lapse-video-apps/"><u>Updated In 2024, Fast Forward Your Memories Best Time-Lapse Video Apps</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-transform-your-videos-with-a-robust-64-bit-editor-for-windows/"><u>Updated In 2024, Transform Your Videos with a Robust 64-Bit Editor for Windows</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-guide-to-free-sound-effects-for-final-cut-pro-editors/"><u>Updated The Ultimate Guide to Free Sound Effects for Final Cut Pro Editors</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-unveiling-15-superior-action-camera-replacements-to-gopro/"><u>[New] In 2024, Unveiling 15 Superior Action Camera Replacements to GoPro</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-tiny-tranquil-houses-japanese-style-for-2024/"><u>[New] Tiny Tranquil Houses Japanese Style for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-artisans-approach-expert-color-alteration-tactics/"><u>[Updated] The Artisan's Approach Expert Color Alteration Tactics</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/download-and-use-custom-fonts-on-your-iphone-a-comprehensive-tutorial/"><u>Download and Use Custom Fonts on Your iPhone - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/fujitsu-scansnap-ix1400-evaluation-the-key-to-streamlining-document-management-in-household-businesses-and-smes/"><u>Fujitsu ScanSnap iX1400 Evaluation: The Key to Streamlining Document Management in Household Businesses & SMEs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-lava-yuva-3-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Lava Yuva 3 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/masterful-moment-captures-with-expert-photo-frames-online-for-2024/"><u>Masterful Moment Captures with Expert Photo Frames Online for 2024</u></a></li>
+<li><a href="https://win-great.techidaily.com/selecting-the-right-tech-stack-a-comparison-between-docker-containers-and-virtual-machines/"><u>Selecting the Right Tech Stack: A Comparison Between Docker Containers and Virtual Machines</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/strategizing-efficient-workflows-with-the-power-of-chatgpt/"><u>Strategizing Efficient Workflows with the Power of ChatGPT</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/top-rated-video-players-for-slow-motion-playback-for-2024/"><u>Top-Rated Video Players for Slow Motion Playback for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-mirror-your-media-how-to-flip-a-clip-in-final-cut-pro-quickly/"><u>Updated 2024 Approved Mirror Your Media How to Flip a Clip in Final Cut Pro Quickly</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-guide-to-creating-personalized-dvds-with-movie-making-software/"><u>Updated 2024 Approved The Ultimate Guide to Creating Personalized DVDs with Movie Making Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-unlock-efficient-video-editing-6-adobe-premiere-hacks-you-need-to-know/"><u>Updated 2024 Approved Unlock Efficient Video Editing 6 Adobe Premiere Hacks You Need to Know</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-adobe-premiere-essentials-top-20-free-title-and-intro-templates-for-2024/"><u>Updated Adobe Premiere Essentials Top 20 Free Title and Intro Templates for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-cutting-edge-avi-video-cutters-top-16-picks-for-professionals-and-beginners/"><u>Updated In 2024, Cutting-Edge AVI Video Cutters Top 16 Picks for Professionals and Beginners</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-decoding-the-differences-premiere-pro-vs-after-effects-for-video-editors/"><u>Updated In 2024, Decoding the Differences Premiere Pro vs After Effects for Video Editors</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-top-rated-free-online-video-editing-platforms/"><u>Updated In 2024, Top-Rated Free Online Video Editing Platforms</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

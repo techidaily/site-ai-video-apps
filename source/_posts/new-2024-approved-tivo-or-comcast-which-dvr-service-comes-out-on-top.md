@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved TiVo or Comcast Which DVR Service Comes Out on Top?
-date: 2024-08-22T12:39:32.594Z
-updated: 2024-08-23T12:39:32.594Z
+date: 2024-11-17T19:30:00.603Z
+updated: 2024-11-24T02:23:42.311Z
 tags: 
   - video editing software
   - video editing
@@ -32,18 +32,12 @@ thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb
 
  Let’s look at a few of the main features of both so you can do a comparison. We’ll look at five factors.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. TiVo vs Comcast: Cost and rent versus own
 
  With a Comcast DVR, you are renting it from the cable company at a cost of $10 to $16 a month, depending on your market. There are no upfront costs, and should the device fail, you can swap it at no cost at your local Comcast service center. Some folks have found that the new X1 boxes are prone to crashes, so that free swap is handy.
 
  A TiVo is yours to keep as long as it lasts or as long as you want it, whichever comes first. It has an initial cost of between $200 and $600, depending on the model. Plus, you have the subscription cost on top of the unit price, which is $15 a month or $500 for a “lifetime” subscription, which TiVo may or may not give you partial credit for should your device fail and you need a new one. Like the Comcast DVRs, some TiVo boxes are less than stable. It’s the nature of electronics. TiVos also have advertising on them, which some Comcast channels do also, like MusicChoice, but not on all of them.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. TiVo vs Comcast: Services available
 
  With a DVR from Comcast, you can only record shows that are broadcast on one of Comcast’s channels or play shows that are loaded into its On Demand section. A TiVo can be connected to a number of sources, including cable via a cable card, and allow you to combine all of your viewing sources into the one box. It even connects to a high definition antenna.
@@ -65,8 +59,9 @@ thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb
  Down the road, Comcast is planning the X2 system which would have cloud recording capacity, thus ending the need for a box in your house at all. TiVo has not yet announced such a plan.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. TiVo vs Comcast: Connection to a network
 
  TiVos can be connected to your home computer network, and the newest one, the Roamio, comes with built-in wifi, for total freedom of use. Because it’s on the network, you can stream shows from your computer through the TiVo box for later playback. It supports channels like Netflix, Hulu Plus, and Amazon Instant. You can also stream shows to your Apple portable devices and then take the shows with you on the plane or to the gym, or use the device as a remote control. (Android devices will have the same capacity soon.) The network capacity also means you can use your computer to control the TiVo box and view content wherever you are.
@@ -77,9 +72,17 @@ thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb
 
 ![iphone app](https://images.wondershare.com/multimedia/iphone-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A TiVo does have limitations of who can access which channels. For instance, it does not stream HBOGo, nor does it interface with Apple’s TV programming. For that you still need an AppleTV device.
 
  Comcast boxes simply do not network well. They are designed to broadcast the cable signals through your TV, but not on a home network. They are often easier to connect, however, just requiring a cable from the box to be plugged into the TV.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. TiVo vs Comcast: Recording capacity
 
@@ -90,13 +93,18 @@ thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb
  The Comcast X1 DVR has four tuners and it can record them simultaneously. You can watch a prerecorded program while it’s recording, too. It can hold 120 hours of HD or 600 hours of SD programming.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. TiVo vs Comcast: User interface
 
  The Comcast X1 DVR system has a voice-activated interface and a completely different look and layout than their standard system has.
 
 ![x1 remoteerer](https://images.wondershare.com/multimedia/x1-remoteerer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The basic Comcast remote is a multi-function remote and capable of controlling all functions, but it does not have the ability to connect to a portable device like a tablet or a smartphone to have connectivity that way like a TiVo can through an app. The remote has to be line of sight in order to work.
 
@@ -118,14 +126,8 @@ thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb
 
  What it all comes down to is looking at how you use your TV, where you get your sources from, and what your budget is. Each device has its own set of things that are appealing, and its own drawbacks. For flexibility of being able to use multiple sources and devices, the TiVo is the clear winner. For cost in the long run, it’s almost a draw. For ease of connection to a TV, the Comcast box comes out on top. No matter which one you pick, you’ll never run out of great programs to watch.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -134,8 +136,6 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -143,5 +143,22 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-discovering-if-muted-on-snapstreak/"><u>[New] In 2024, Discovering If Muted on Snapstreak</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-pro-tools-review-rising-above-sharex/"><u>2024 Approved Pro Tools Review - Rising Above ShareX</u></a></li>
+<li><a href="https://games-able.techidaily.com/demystifying-the-economics-behind-ea-play/"><u>Demystifying the Economics Behind EA Play</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722998401221-destiny-2-pc-version-fixed-now-launching-successfully/"><u>Destiny 2 PC Version Fixed: Now Launching Successfully!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-steam-from-stalling-resolving-halted-gaming-sessions/"><u>How to Stop Steam From Stalling - Resolving Halted Gaming Sessions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/jumpstart-your-journey-with-chatgpt-extensions/"><u>Jumpstart Your Journey with ChatGPT Extensions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/make-me-laugh-top-10-meme-generation-apps-for-mobile-devices-for-2024/"><u>Make Me Laugh Top 10 Meme Generation Apps for Mobile Devices for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-from-beginner-to-pro-best-vlog-video-editing-software-for-every-level/"><u>New 2024 Approved From Beginner to Pro Best Vlog Video Editing Software for Every Level</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-indie-filmmakers-toolkit-top-7-low-cost-video-production-software/"><u>New 2024 Approved Indie Filmmakers Toolkit Top 7 Low-Cost Video Production Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-quickest-way-to-cut-videos-on-mac-top-methods/"><u>New 2024 Approved The Quickest Way to Cut Videos on Mac Top Methods</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-fast-forward-how-to-increase-video-playback-speed-in-quicktime-player/"><u>New In 2024, Fast Forward How to Increase Video Playback Speed in QuickTime Player</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-how-can-i-improve-the-video-resolution-and-enhance-video-quality-what-is-the-best-video-quality-enhancement-software-check-our-list-of-10-best-f/"><u>New In 2024, How Can I Improve the Video Resolution and Enhance Video Quality? What Is the Best Video Quality Enhancement Software? Check Our List of 10 Best Free and Paid Video Enhancers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-mac-vlc-trimmer-effortlessly-cut-videos-without-compromising-quality/"><u>New In 2024, Mac VLC Trimmer Effortlessly Cut Videos Without Compromising Quality</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-video-editing-essentials-freezing-frames-like-a-pro/"><u>New Video Editing Essentials Freezing Frames Like a Pro</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-12-interactive-pc-adventures-to-boost-your-clicking-for-2024/"><u>Top 12 Interactive PC Adventures to Boost Your Clicking for 2024</u></a></li>
+</ul></div>
 

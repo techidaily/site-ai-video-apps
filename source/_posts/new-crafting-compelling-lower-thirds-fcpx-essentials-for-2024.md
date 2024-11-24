@@ -1,7 +1,7 @@
 ---
 title: New Crafting Compelling Lower Thirds FCPX Essentials for 2024
-date: 2024-08-22T12:38:20.358Z
-updated: 2024-08-23T12:38:20.359Z
+date: 2024-11-22T09:08:21.714Z
+updated: 2024-11-24T07:02:52.776Z
 tags: 
   - video editing software
   - video editing
@@ -28,15 +28,16 @@ The videos drop facts to audiences and educate the viewers. The video makers str
 
 Here comes an enlightening discussion about the lower third modules in your videos. The tips and tricks associated with the making of this lower third element are available in the below content. Surf them carefully and learn the fabulous lower third templates to customize your videos to the next level.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![lower third intro](https://images.wondershare.com/filmora/images/final-cut-pro/lower-%20third-intro.jpg)
 
 > * [Part 1: What is the lower third?](#part1)
 > * [Part 2: What factors contribute to a good lower third?](#part2)
 > * [Part 3: How to make a lower third quickly in final cut pro X?\[3-step-guide\]](#part3)
 > * [Part 4: Where to find great lower thirds templates for final cut pro X?](#part3)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part1: What is the lower third?**
 
@@ -48,9 +49,6 @@ You can also observe this lower third module during an interview session on your
 
 On a short note, you can define the lower third module as a piece of a graphical element that hangs at the bottom of the screen displaying related data in pace with the existing video content. You can create the lower third module using an incredible tool for your videos in no time. Identify the factors to work on to refine the lower third module appearance and performances.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
 
 ## **Part2: What factors contribute to a good lower third?**
@@ -91,6 +89,10 @@ Proper alignment and the best coordinates on the screen make the lower third mod
 
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part3: How to make a lower third quickly in final cut pro X?**
 
 The Final Cut Pro X is a fabulous program to edit your videos professionally. Insert the desired elements and customize them quickly. To work on this platform, you do not require any special skills.
@@ -113,16 +115,21 @@ In this section, you will learn to make a lower third element using a Final Cut 
 
 You can download the app and install them in your system. Launch the tool by double-tapping the tool icon.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2Step 2: Add the Title**
 
 In the home screen, import the video that requires the edits and then tap the ‘Titles’ tab at the left top of the screen. Click the ‘Build-in/Build-out’ option to custom the Title element. According to your needs, you can repeat it to insert the desired titles on the video screen.
 
 ![built-in-title](https://images.wondershare.com/filmora/images/final-cut-pro/built-in-title.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3Step 3: Customize the Title**
 
@@ -134,14 +141,8 @@ Use the above instructions, insert the lower third element in your video effortl
 
 For those who still need more guides about making lower thirds, this Filmora tutorial may help a lot.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
  You can find the best collections of lower third templates in the online space. Evanto Elements offers an incredible design structure for the lower third module to add value to your videos. They are unique and jaw-dropping. You can opt for this template, instead of creating from the scratch.
@@ -166,18 +167,17 @@ Thus, this article had given you enlightening discussion about the lower third e
 
 Display the texts promptly to enlighten the audience. Connect the texts to the target audience without distracting them. Work on this challenging element using a professional app like the Final Cut Pro X program. Stay tuned with this article to discover the new horizons of video editing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -186,5 +186,20 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-cutting-edge-techniques-for-efficient-hp-notebook-screen-recording/"><u>[New] 2024 Approved Cutting-Edge Techniques for Efficient HP Notebook Screen Recording</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-high-definition-recording-reigns-supreme-top-picks-listed/"><u>[Updated] 2024 Approved High Definition Recording Reigns Supreme Top Picks Listed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-transcribe-a-youtube-video-for-free/"><u>[Updated] In 2024, How to Transcribe a YouTube Video for FREE</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-securing-a-spot-in-the-future-with-windows-11/"><u>2024 Approved Securing a Spot in the Future with Windows 11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/decision-time-how-to-pick-the-ideal-tablet-comparing-features-of-amazon-fire-and-samsung-models/"><u>Decision Time: How to Pick the Ideal Tablet – Comparing Features of Amazon Fire and Samsung Models</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-vivo-x90s-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Vivo X90S FRP</u></a></li>
+<li><a href="https://win-superb.techidaily.com/is-it-possible-to-boot-from-a-windows-restoration-drive-on-different-pcs/"><u>Is It Possible To Boot From A Windows Restoration Drive On Different PCs?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-gif-accelerator-fast-and-easy-speed-adjustment-tools/"><u>New 2024 Approved GIF Accelerator Fast and Easy Speed Adjustment Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-adobe-systems-adobe-premiere-pro-cs6-for-mac-free-download-for-2024/"><u>New Adobe Systems Adobe Premiere Pro CS6 for Mac (Free Download) for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-get-ready-to-pause-a-beginners-guide-to-freezing-frames-in-videos/"><u>New In 2024, Get Ready to Pause A Beginners Guide to Freezing Frames in Videos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-s-ultimate-avi-editor-for-windows-8-edit-videos-like-a-pro/"><u>New In 2024, S Ultimate AVI Editor for Windows 8 Edit Videos Like a Pro</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/riconversione-gratuita-di-file-wma-in-formato-aac-online-con-movavi/"><u>Riconversione Gratuita Di File WMA in Formato AAC Online Con Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-stabilizing-dwarf-fortress-on-win/"><u>Solutions for Stabilizing Dwarf Fortress on Win</u></a></li>
+</ul></div>
 

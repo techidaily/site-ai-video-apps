@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Avidemux Crop Video A Beginners Guide to Trimming and Resizing
-date: 2024-11-07T18:07:08.778Z
-updated: 2024-11-14T17:07:39.423Z
+date: 2024-11-17T13:22:30.502Z
+updated: 2024-11-23T18:27:41.943Z
 tags: 
   - video editing software
   - video editing
@@ -54,9 +54,17 @@ The next step is importing video. This can be done in two ways, by clicking the 
 
 ![Importing Video1](https://images.wondershare.com/multimedia/importing-video1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Whichever route you take, you will end up with your video file loaded in like this.
 
 ![Importing Video2](https://images.wondershare.com/multimedia/importing-video2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you can edit the video as you need, Avidemux contains a wealth of features to enable the full spectrum of editing tasks to be completed. However, here we are going to look at the cropping tool, so on to the next step.
 
@@ -78,15 +86,27 @@ Selecting ‘Crop’ from the menu and pressing the green plus symbol at the bot
 
 ![Cropping2](https://images.wondershare.com/multimedia/cropping2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 5\. Cropping controls
 
 There are two options for cropping, you can use the Auto crop feature, which will detect any black lines and crop the footage between them, or if you are using the crop tool for something else, or just want to do it manually, you can set the crop via the left right top and bottom boxes. Values input here are the number of pixels from that edge the crop extends, as you are setting it, this is displayed with a green block signifying the area of the image that will be removed.
 
 ![Cropping controls1](https://images.wondershare.com/multimedia/cropping-controls1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can adjust this independently for all 4 edges as you wish.
 
 ![Cropping controls2](https://images.wondershare.com/multimedia/cropping-controls2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once you are happy with the crop, you click Ok and it takes you back to the familiar filter menu where you can use other components to perform more editing if you need.
 
@@ -123,42 +143,22 @@ Avidemux is a great piece of software, it lacks the polish of some of its commer
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3**: To alter the size of the crop frame, drag the pointer from any corner of your video preview window.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4**: When you've changed it to your liking, click the green "OK" button. As a result, you may effortlessly add or remove any element of a video clip on Filmora.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -175,18 +175,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/iscover-youtubes-free-text-translations-and-downloads-for-2024/"><u>[New] Discover YouTube's Free Text Translations & Downloads for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-mastering-live-show-recordings-the-modern-way/"><u>[New] In 2024, Mastering Live Show Recordings The Modern Way</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/he-pivotal-point-in-view-count-for-online-earning/"><u>[New] The Pivotal Point in View Count for Online Earning</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-complete-slomo-recording-app-analysis-consumers/"><u>2024 Approved Complete SloMo Recording App Analysis Consumers</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-se-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone SE? Learn All 4 Methods | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-transform-your-footage-expert-video-editing-for-sony-camcorder-users/"><u>New In 2024, Transform Your Footage Expert Video Editing for Sony Camcorder Users</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-virtualdub-alternatives-which-one-is-right-for-you/"><u>New In 2024, Virtualdub Alternatives Which One Is Right for You ?</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-make-a-movie-online-for-free-top-9-options-for-2024/"><u>New Make a Movie Online for Free Top 9 Options for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-tag-organize-and-enjoy-best-video-tag-editors-for-windows-and-macos/"><u>New Tag, Organize, and Enjoy Best Video Tag Editors for Windows and macOS</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-list-10-final-cut-pro-x-competitors-you-need-to-know-for-2024/"><u>New The Ultimate List 10 Final Cut Pro X Competitors You Need to Know for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-troubleshoot-avidemux-audio-problems-step-by-step-guide-2023-for-2024/"><u>New Troubleshoot Avidemux Audio Problems Step-by-Step Guide 2023 for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-audio-hurdles-fixing-no-sound-from-conexant-smartaudio-hd-with-windows-nix/"><u>Overcoming Audio Hurdles: Fixing No Sound From Conexant SmartAudio HD with Windows Nix</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-the-mechanics-behind-anime-translations-insights-into-adaptation-and-localization/"><u>Updated 2024 Approved The Mechanics Behind Anime Translations Insights Into Adaptation and Localization</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-video-spin-perfecting-instagram-posts-for-2024/"><u>[New] Mastering Video Spin Perfecting Instagram Posts for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-xiaomi-redmi-note-12-pro-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Xiaomi Redmi Note 12 Pro 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/3-ways-to-unlock-your-iphone-x-for-free-by-drfone-ios/"><u>3 Ways to Unlock Your iPhone X for Free</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-the-power-of-macx-pro-your-go-to-free-application-for-hd-dvd-ripping-on-macos-devices/"><u>Discover the Power of MacX Pro: Your Go-To Free Application for HD DVD Ripping on macOS Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/retaining-chat-history-for-future-reference/"><u>Retaining Chat History for Future Reference</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/solve-common-fcpx-problems-with-a-simple-reset-for-2024/"><u>Solve Common FCPX Problems with a Simple Reset for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-pdhdll-errors-a-comprehensive-guide/"><u>Solving pdh.dll Errors: A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/the-ultimate-list-5-free-online-tone-generators-for-2024/"><u>The Ultimate List 5 Free Online Tone Generators for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-10-android-and-ios-timers-for-effortless-wedding-countdown-management/"><u>Top 10 Android and iOS Timers for Effortless Wedding Countdown Management</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-download-filmora-free-and-safe-avoiding-viruses-and-scams/"><u>Updated 2024 Approved Download Filmora Free and Safe Avoiding Viruses and Scams</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-luckily-there-are-several-alternative-apps-that-allow-you-to-edit-your-footage-from-a-mobile-device-see-our-reviews-below/"><u>Updated 2024 Approved Luckily There Are Several Alternative Apps that Allow You to Edit Your Footage From a Mobile Device; See Our Reviews Below</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-unleash-your-creativity-top-online-stop-motion-animation-software/"><u>Updated 2024 Approved Unleash Your Creativity Top Online Stop Motion Animation Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-pc-video-editing-made-easy-a-vn-editor-review-for-2024/"><u>Updated PC Video Editing Made Easy A VN Editor Review for 2024</u></a></li>
 </ul></div>
 

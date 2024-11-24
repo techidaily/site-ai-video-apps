@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Final Cut Pro Tutorial Adding Picture-in-Picture Effects to Your Videos
-date: 2024-11-14T01:23:36.183Z
-updated: 2024-11-14T16:25:54.970Z
+date: 2024-11-22T02:15:44.913Z
+updated: 2024-11-24T05:32:16.131Z
 tags: 
   - video editing software
   - video editing
@@ -40,6 +40,10 @@ The very first step that you need to follow for PIP effect generation using FCP 
 
 ![add pip video](https://images.wondershare.com/filmora/article-images/add-pip-videos-in-fcp.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 2: Add PIP videos
 
 It is time to choose the higher video clip so that the PIP effect can be applied. This task can be done either by using on-screen type controls available on the viewer or you can move ahead with transform controls available on the inspector.
@@ -48,11 +52,19 @@ Note that lower clips use to stay in the background in final results whereas upp
 
 ![transform button](https://images.wondershare.com/filmora/article-images/transform-button-in-fcp.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 3: Apply PIP effect
 
 As now you have added both videos on-screen now you have to select the higher video and then click over the rectangular transform button that is available on the lower-left corner of viewer screen. As soon as you make this selection, the icon will turn into blue color, and naturally 8 dots will appear around the selected image or video. Use any one of these dots for scaling your selection in asymmetrical order.
 
 ![adjust pip effect](https://images.wondershare.com/filmora/article-images/adjust-pip-effect-in-fcp.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 4: Adjust PIP Effect
 
@@ -67,6 +79,10 @@ Simply select the top clip and then hit Command + 4 to open the inspector. Now c
 
 ![precise adjustment](https://images.wondershare.com/filmora/article-images/precise-adjustment-in-fcp.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 6: Apply Cross- Dissolve
 
 * Now choose the leading edge of effect and use Command + T. It will immediately apply the default cross-dissolve option for starting clip.
@@ -77,10 +93,7 @@ Simply select the top clip and then hit Command + 4 to open the inspector. Now c
 Check this video tutorial to know more details:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Picture in Picture Plug-ins for Final Cut Pro
@@ -99,13 +112,6 @@ ProPIP is the best choice for newscasting, commentaries, and many other applicat
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -121,22 +127,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-unfolding-the-future-drones-in-modern-and-next-era/"><u>[New] In 2024, Unfolding the Future Drones in Modern and Next Era</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-color-command-center-expert-transformation-techniques-for-2024/"><u>[Updated] Color Command Center Expert Transformation Techniques for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-illustration-insights-elevating-text-in-three-dimensions/"><u>[Updated] In 2024, Illustration Insights Elevating Text in Three Dimensions</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/2-recover-lost-documents-effective-methods-for-windows-and-mac-systems/"><u>2. Recover Lost Documents: Effective Methods for Windows and Mac Systems</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/basics-of-weaving-a-narrative-thread-for-2024/"><u>Basics of Weaving a Narrative Thread for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/converti-file-mod-a-formato-movie-online-gratuito-movavi/"><u>Converti File MOD a Formato Movie Online Gratuito - Movavi</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/embrace-paper-styled-reading-comfort-a-deep-dive-into-the-new-kindle-oasis-2019/"><u>Embrace Paper-Styled Reading Comfort: A Deep Dive Into the New Kindle Oasis (2019)</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-top-rated-8-android-tools-for-team-video-calls/"><u>In 2024, The Top-Rated 8 Android Tools for Team Video Calls</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-best-free-video-cutters-and-joiners-for-beginners/"><u>New 2024 Approved Best Free Video Cutters and Joiners for Beginners</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-face-generation-software-top-online-options/"><u>New 2024 Approved Free Face Generation Software Top Online Options</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-protecting-identities-top-video-editing-tools-for-face-blurring/"><u>New 2024 Approved Protecting Identities Top Video Editing Tools for Face Blurring</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-best-animation-studios-for-pc-and-mac-top-picks-for-pros-for-2024/"><u>New Best Animation Studios for PC and Mac Top Picks for Pros for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-breaking-free-from-quik-exploring-the-best-pc-video-editors-for-gopro-users-for-2024/"><u>New Breaking Free From Quik Exploring the Best PC Video Editors for GoPro Users for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-fcpx-essentials-mastering-time-manipulation-for-2024/"><u>New FCPX Essentials Mastering Time Manipulation for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-edit-videos-online-for-free-the-best-tools-and-services/"><u>New In 2024, Edit Videos Online for Free The Best Tools and Services</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-frame-your-memories-the-best-free-and-paid-vignette-apps-for-mobile/"><u>New In 2024, Frame Your Memories The Best Free and Paid Vignette Apps for Mobile</u></a></li>
-<li><a href="https://win-blog.techidaily.com/unstick-your-stuck-genshin-game-5-easy-remedies-for-quick-playtime/"><u>Unstick Your Stuck Genshin Game: 5 Easy Remedies for Quick Playtime!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-legal-side-to-posting-videos-on-digital-platforms-like-fb/"><u>[New] The Legal Side to Posting Videos on Digital Platforms Like FB</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-avoiding-shaky-drone-imagery-with-top-tier-gimbals/"><u>2024 Approved Avoiding Shaky Drone Imagery with Top-Tier Gimbals</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-site-visibility-instantly-the-ultimate-7-app-selections-for-amplified-traffic/"><u>Boost Site Visibility Instantly: The Ultimate 7 App Selections for Amplified Traffic</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convertire-gratuita-si-directa-in-mp4-converting-videos-with-conversia-mov-to-mp4-online/"><u>Convertire Gratuita Și Directă in MP4: Converting Videos with Conversia - MOV to MP4 Online</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Nubia Red Magic 9 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-mastering-the-art-of-choosing-background-tunes-for-visual-media/"><u>In 2024, Mastering the Art of Choosing Background Tunes for Visual Media</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-top-rated-video-creation-tools-for-windows-10/"><u>New In 2024, Top-Rated Video Creation Tools for Windows 10</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-which-video-editor-should-you-choose-sony-vegas-vs-adobe-premiere-pro/"><u>New In 2024, Which Video Editor Should You Choose? Sony Vegas vs Adobe Premiere Pro</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-make-movies-like-a-pro-16-free-and-easy-to-use-tools/"><u>New Make Movies Like a Pro 16 Free and Easy-to-Use Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-mavericks-video-editors-handbook-a-step-by-step-guide/"><u>New Mavericks Video Editors Handbook A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-best-of-fcp-top-10-movies-mastered-with-final-cut-pro/"><u>New The Best of FCP Top 10 Movies Mastered with Final Cut Pro</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unbiased-review-is-videopad-video-editor-the-right-fit-for-you/"><u>New Unbiased Review Is Videopad Video Editor the Right Fit for You ?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-systems-need-amd-gpu-drivers-installed/"><u>Windows Systems Need AMD GPU Drivers Installed</u></a></li>
 </ul></div>
 

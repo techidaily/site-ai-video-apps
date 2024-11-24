@@ -1,7 +1,7 @@
 ---
 title: New Unlocking the Power of Chroma Keying in Final Cut Pro X
-date: 2024-11-07T17:24:30.674Z
-updated: 2024-11-14T23:24:17.694Z
+date: 2024-11-21T07:17:34.979Z
+updated: 2024-11-24T09:41:01.648Z
 tags: 
   - video editing software
   - video editing
@@ -34,6 +34,10 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Getting Started
 
 First, the best thing you can do to improve the quality of your keys is to improve how you shoot them. Here are seven basic production rules:
@@ -46,23 +50,9 @@ First, the best thing you can do to improve the quality of your keys is to impro
 * Light your background for smoothness. Light your actors for drama.
 * Don't worry about having the green background fill the frame. It only needs to completely surround the edges of your actors. Garbage mattes are used to get rid of junk around the edges.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Setting up the Key
 
 ![fx chroma 01](https://images.wondershare.com/multimedia/fx-chroma-01.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The green screen image is always placed above the background. You can place either the green screen or background image into the Primary Storyline. I find it easier to put the background in the Primary Storyline, because it makes editing the green screen image easier. But this is purely personal choice.
 
@@ -95,10 +85,7 @@ Click the **Matte** button to display your key as a white foreground on a black 
 ![fx chroma 07](https://images.wondershare.com/multimedia/fx-chroma-07.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Your goal is the make the foreground solid white, which means opaque, and the background solid black, which means transparent. Adjust the **Fill Holes** and **Edge Distance** sliders until your key looks solid. (For REALLY bad keys, you'll need to also adjust Color Selection, mentioned below.)
@@ -130,35 +117,23 @@ This is a subtle effect, but very cool.
 
 ![fx chroma 10](https://images.wondershare.com/multimedia/fx-chroma-10.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Twirl down Light Wrap and adjust the Amount slider and watch what happens. Drag the other sliders around and see what happens. The nice thing about this setting is that when it looks good to you, it is good. The amount of the effect is totally up to you. Remember, Light Wrap only affects the edges of the foreground and should be used subtly.
 
 ![fx chroma 11](https://images.wondershare.com/multimedia/fx-chroma-11.jpg)
 
-When you are done, you have a great looking key!
-
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+When you are done, you have a great looking key!
 
 ## Clean up the Image with a Garbage Mask
 
 ![fx chroma 12](https://images.wondershare.com/multimedia/fx-chroma-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sometimes, however, you don't have, ah, perhaps, the best green-screen image to work with. Here, for example, there are lighting instruments in the foreground, with a very inadequately lit green screen in the background. (Sigh… this is just pitiful.)
 
@@ -173,15 +148,16 @@ Once you get your key looking as good as you can – which in this case isn't al
 ![fx chroma 14](https://images.wondershare.com/multimedia/fx-chroma-14.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Then, drag each of the four circles to create a shape such that your foreground image is contained inside it, and everything you want to exclude is outside. Here, for instance, we removed the light stand, the edge of the green background and the tearing at the top of the image. I've found this Mask effect works best when applied to a connected clip.
 
 However, the big limitation of the Mask effect is that you only have four points to work with. That's where a free effect comes in, which allows you to create far more flexible shapes with it. It's written by Alex Gollner and is available on his website – alex4d.wordpress.com/fcpx/ – I recommend his effects highly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Create a Chroma-Key in easier ways?
 
@@ -199,14 +175,11 @@ The chroma-key filter in FCP X allows us to create some amazing effects. If you 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -223,22 +196,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-fundamentals-for-newcomers-on-screen-quality-measures/"><u>[New] In 2024, Fundamentals for Newcomers on Screen Quality Measures</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-revel-in-the-best-of-both-worlds-10-meme-feeds-for-chuckles-and-sobs-for-2024/"><u>[New] Revel in the Best of Both Worlds 10 Meme Feeds for Chuckles & Sobs for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-deciphering-the-mysteries-an-in-depth-look-at-stardew-valleys-unique-island-ginger-isle/"><u>[Updated] 2024 Approved Deciphering the Mysteries An In-Depth Look at Stardew Valley's Unique Island - Ginger Isle</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-saving-the-fun-downloading-tweets-gif-content-easily/"><u>[Updated] In 2024, Saving the Fun Downloading Tweets' GIF Content Easily</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-poco-x5-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-itel-p55-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Itel P55</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-guide-to-selective-zoom-in-virtual-classrooms-google-meet/"><u>In 2024, In-Depth Guide to Selective Zoom in Virtual Classrooms (Google Meet)</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/in-2024-unlock-the-power-of-screen-recording-a-filmora-scrn-tutorial/"><u>In 2024, Unlock the Power of Screen Recording A Filmora Scrn Tutorial</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unleashing-the-magic-top-lego-stop-motion-artists/"><u>New 2024 Approved Unleashing the Magic Top Lego Stop Motion Artists</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-4k-video-conversion-mastery-downloading-in-mp4-format-made-simple-for-2024/"><u>New 4K Video Conversion Mastery Downloading in MP4 Format Made Simple for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-8-best-professional-audio-editing-software-for-powerful-editing-for-2024/"><u>New 8 Best Professional Audio Editing Software for Powerful Editing for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-free-flv-video-editing-solutions-top-5-recommendations-for-2024/"><u>New Free FLV Video Editing Solutions Top 5 Recommendations for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-get-ready-to-play-top-10-best-free-game-download-sites-for-pc-and-android-devices-for-2024/"><u>New Get Ready to Play Top 10 Best Free Game Download Sites for PC and Android Devices for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-mobile-video-editing-best-apps-to-blur-unwanted-parts/"><u>New In 2024, Mobile Video Editing Best Apps to Blur Unwanted Parts</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-list-10-free-online-video-compression-tools/"><u>New In 2024, The Ultimate List 10 Free Online Video Compression Tools</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-guide-to-video-editing-with-quicktime-on-mac-for-2024/"><u>New The Ultimate Guide to Video Editing with QuickTime on Mac for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210280071-9781736802700-taking-a-bath-with-quartz-crystals/"><u>Taking a Bath with Quartz Crystals | Free Book</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-ranking-the-best-non-sportful-activities-at-first-row/"><u>[New] Ranking the Best Non-Sportful Activities at First Row</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-art-of-video-thumbnail-making-for-popular-content/"><u>[New] The Art of Video Thumbnail Making for Popular Content</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-a-comparative-journey-through-the-top-10-tv-streamers-for-2024/"><u>[Updated] A Comparative Journey Through the Top 10 TV Streamers for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-scaling-movies-on-a-mac-for-impeccable-instagram-shares/"><u>2024 Approved Scaling Movies on a Mac for Impeccable Instagram Shares</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/customization-free-youtube-visual-templates-for-2024/"><u>Easy Customization Free YouTube Visual Templates for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-install-newly-released-lenovo-monitor-drivers/"><u>How to Install Newly Released Lenovo Monitor Drivers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/mac-techniques-for-instagram-short-form-videos-for-2024/"><u>Mac Techniques for Instagram Short-Form Videos for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-we-tried-vn-video-editor-pro-heres-what-we-found-out-for-2024/"><u>New We Tried VN Video Editor Pro Heres What We Found Out for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-do-you-have-any-idea-to-save-projects-on-the-final-cut-pro-app-if-you-are-in-search-of-this-content-then-you-are-in-the-right-place-to-obtain-the-va/"><u>Updated Do You Have Any Idea to Save Projects on the Final Cut Pro App? If You Are in Search of This Content, Then You Are in the Right Place to Obtain the Valuable Facts About It in Detail for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-how-to-import-and-export-videos-in-adobe-premiere-for-2024/"><u>Updated How to Import and Export Videos in Adobe Premiere for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-gopro-footage-no-problem-top-alternative-video-editors-to-gopro-studio/"><u>Updated In 2024, GoPro Footage? No Problem! Top Alternative Video Editors to GoPro Studio</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-reshape-your-videos-a-step-by-step-guide/"><u>Updated In 2024, Reshape Your Videos A Step-by-Step Guide</u></a></li>
 </ul></div>
 

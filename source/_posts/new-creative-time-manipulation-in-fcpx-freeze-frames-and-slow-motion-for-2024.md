@@ -1,7 +1,7 @@
 ---
 title: New Creative Time Manipulation in FCPX Freeze Frames and Slow Motion for 2024
-date: 2024-08-22T12:39:41.802Z
-updated: 2024-08-23T12:39:41.802Z
+date: 2024-11-23T03:55:04.572Z
+updated: 2024-11-24T04:56:58.322Z
 tags: 
   - video editing software
   - video editing
@@ -44,10 +44,11 @@ In Final Cut Pro X, put the playhead (or skimmer) on the frame you want to freez
 
 This creates a two-second freeze-frame at the position of the playhead.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![create freeze frame](https://images.wondershare.com/multimedia/speed003.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Adjust the duration of the frame by trimming the edge; just like any other clip. Here, for example, I'm making the duration of the freeze-frame 11 frames shorter.
 
@@ -63,14 +64,19 @@ So, here's another way to do this.
 
 Put the playhead (or skimmer, but I prefer the playhead) on the frame you want to freeze, select the clip, then type Shift+F.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Playhead](https://images.wondershare.com/multimedia/speed005.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This locates the source clip in the Browser, selects both the Browser and the clip, and matches the position of the In, Out, and playhead.
 
 ![match clips](https://images.wondershare.com/multimedia/speed006.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now, with the Browser selected, type Option+F. This creates a freeze-frame of the Browser clip and places it at the location of the playhead as a connected clip in the Timeline.
 
@@ -86,14 +92,15 @@ A Hold Frame is similar to an in-line still frame, but with more flexibility.
 
 Put the playhead (or skimmer) on the frame you want to hold. Then, Then, using either Modify > Retime or the "Smurf-on-a-headset" Toolbar icon, choose Hold Frame (or type: Shift+H).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![hold frames in fcp x](https://images.wondershare.com/multimedia/speed014.jpg)
 
 This displays the orange Retime editor bar above the clip, with a small red portion indicating the Hold frame.
 
 ![create hold frames](https://images.wondershare.com/multimedia/speed015.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Change the duration of the Hold frame by dragging the small thumb at the right end of the red bar.
 
@@ -101,9 +108,6 @@ Change the duration of the Hold frame by dragging the small thumb at the right e
 
 Add a speed ramp transition at the end of the Hold frame by clicking the downward-pointing arrow next to the word "Hold" in the Retime Editor.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![speed018](https://images.wondershare.com/multimedia/speed018.jpg)
 
 To change the actual frame being held, double-click the bar icon to the LEFT of the red Hold section and choose Source Frame (Edit). This allows you to slide the Hold frame selection left or right.
@@ -112,18 +116,16 @@ NOTE: Changing the source frame is a feature that I like a LOT!
 
 #### 3\.  SLOW (or FAST) MOTION
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fast/slow motion](https://images.wondershare.com/multimedia/speed007.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 We use slow-motion to show events that are too fast for the unaided eye to see. And fast motion to speed up very slow events. Both of these effects use what's called a "constant speed change," where the entire clip changes by the same amount - either faster or slower.
 
 WE create either effect using the same tools, just different values. Here's how.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![slow motion](https://images.wondershare.com/multimedia/speed008.jpg)
 
 Select the clip who's speed you want to change. Then, using either Modify > Retime or the "Smurf" Toolbar icon, select Slow (or Fast).
@@ -138,19 +140,11 @@ Three things happen at once:
 * The orange Retiming bar appears over the top of the clip
 * The speed of the clip changes
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![speed010](https://images.wondershare.com/multimedia/speed010.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To reset the speed back to normal (100%), click the downward-pointing arrow in the Retiming bar and choose Normal (100%).
 
@@ -177,10 +171,11 @@ You will get the smoothest speed changes when the percentage you choose divides 
 
 There is one more setting to consider when slowing a clip. (This does not apply when creating fast motion.)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![speed012](https://images.wondershare.com/multimedia/speed012.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Using, again, either Modify > Retime or the "Smurf" menu, select Video Quality.
 
@@ -212,8 +207,6 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -221,5 +214,26 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harmonize-platforms-uploading-twitch-content-for-youtube-audience/"><u>[New] 2024 Approved Harmonize Platforms Uploading Twitch Content for YouTube Audience</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-bandicam-or-camtasia-best-recording-and-editing-software/"><u>[New] Bandicam or Camtasia Best Recording & Editing Software?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-action-videography-face-off-gopro-and-garmin/"><u>[New] In 2024, Action Videography Face-Off GoPro & Garmin</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-high-fidelity-world-of-samsungs-4k-s8/"><u>[Updated] Exploring the High-Fidelity World of Samsung's 4K S8</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-save-big-on-data-stash-with-these-30-no-cost-up-to-1tbplus-cloud-services/"><u>[Updated] In 2024, Save Big on Data Stash with These 30 No-Cost, Up to 1TB+ Cloud Services</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-filmora-compared-the-ultimate-list-of-free-high-quality-templates/"><u>2024 Approved Filmora Compared The Ultimate List of Free, High-Quality Templates</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722584130841-canons-sx530-your-first-step-into-the-world-of-photography/"><u>Canon’s SX530: Your First Step Into the World of Photography</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-convert-dailymotion-videos-online-for-free-no-cost/"><u>New Convert Dailymotion Videos Online for Free - No Cost</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-track-your-every-move-best-motion-tracking-apps-reviewed/"><u>New In 2024, Track Your Every Move Best Motion Tracking Apps Reviewed</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-video-freedom-on-chromecast-playing-any-file-type/"><u>New In 2024, Video Freedom on Chromecast Playing Any File Type</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-love-in-motion-how-to-craft-a-romantic-valentines-day-video-for-2024/"><u>New Love in Motion How to Craft a Romantic Valentines Day Video for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-picture-in-picture-made-easy-a-final-cut-pro-tutorial/"><u>New Picture-in-Picture Made Easy A Final Cut Pro Tutorial</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-quick-fix-how-to-reverse-a-video-clip-in-final-cut-pro-4-simple-steps/"><u>New Quick Fix How to Reverse a Video Clip in Final Cut Pro (4 Simple Steps)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-s-top-avchd-video-editing-tools-a-comprehensive-review-for-2024/"><u>New S Top AVCHD Video Editing Tools A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-best-of-the-best-top-10-pro-audio-editing-software-for-2024/"><u>New The Best of the Best Top 10 Pro Audio Editing Software for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-time-stopping-tips-mastering-freeze-frames-in-your-videos-for-2024/"><u>New Time-Stopping Tips Mastering Freeze Frames in Your Videos for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unleash-your-creativity-editing-nikon-videos-with-ease/"><u>New Unleash Your Creativity Editing Nikon Videos with Ease</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-5-methods-for-capturing-screenshots-with-sound-on-macos-using-movavi/"><u>Top 5 Methods for Capturing Screenshots with Sound on macOS - Using Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-enterprise-gains-from-adopting-chatgpt/"><u>What Enterprise Gains From Adopting ChatGPT?</u></a></li>
+</ul></div>
 

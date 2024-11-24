@@ -1,7 +1,7 @@
 ---
 title: Updated Say Goodbye to Blemishes FCPX Skin Smoothing Without Plugins for 2024
-date: 2024-11-14T03:51:35.700Z
-updated: 2024-11-14T19:16:25.635Z
+date: 2024-11-20T13:38:26.890Z
+updated: 2024-11-24T05:11:22.974Z
 tags: 
   - video editing software
   - video editing
@@ -50,11 +50,19 @@ step2Open the Inspector pan and select Compositing from its bottom. Switch the B
 
 ![Skin_Smoother_Effect_2](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 step3Now, go to the top of the Inspector and turn on the blue checkbox next to Gaussian. Adjust the blurring effect until you achieve your desired level of skin softening. It is highly recommended to blur using the horizontal setting to soften the skin while keeping the eyes sharp. Here, the glow is controlled by Opacity while skin softening is controlled by the Blue Amount.
 
 ![Skin_Smoother_Effect_3](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_3.jpg)
 
 For better results, add a Vignette by selecting and combining the two clips into a Compound Clip. From the Effects Browser, select Stylize > Vignette and adjust drag the vignette. Now, customize the compound clip settings in the Inspector pane until you achieve your desired look. Compare the results between two images before and after editing
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Where to Find Good Skin Smoother Plugins?
 
@@ -113,34 +121,14 @@ Follow these steps to use the Skin Smooth 2 Plugin for Final Cut Pro X:
 3. To apply the skin-smoothing effect, click on Add Color Mask, and select the areas of the face where the color mask has to be added.![Skin_Smoother_Effect_5](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Adjust the Skin Smoothing, Smoothing Mix, and the Softness of the color mask as per your requirements.![Skin_Smoother_Effect_6](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_6.png)
 5. Finally, click on Add Shape Mask, two circles will appear on the image. Adjust the covering area of both circles for Shape Mask 1 to add a smiling face.![Skin_Smoother_Effect_7](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: How to Smooth Skin in Filmora?
@@ -175,6 +163,10 @@ There are two methods to add a skin smooth effect with FCPX: By using in-built s
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -190,21 +182,20 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-insightful-selection-elite-free-srt-translation-services/"><u>[New] 2024 Approved Insightful Selection Elite Free SRT Translation Services</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-a-primer-on-aerial-robots-drone-dynamics-demystified/"><u>[New] In 2024, A Primer on Aerial Robots Drone Dynamics Demystified</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-boosting-windows-file-audit-with-precision/"><u>2024 Approved Boosting Windows File Audit with Precision</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-nubia-red-magic-9-pro-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Nubia Red Magic 9 Pro To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-enhancing-visuals-5-simple-steps-to-zoom-in-minecraft/"><u>In 2024, Enhancing Visuals 5 Simple Steps to Zoom in Minecraft</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-honor-90-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Honor 90</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-list-10-free-video-editors-for-mp4-videos/"><u>New In 2024, The Ultimate List 10 Free Video Editors for MP4 Videos</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-top-5-best-mp4-video-editors-totally-free/"><u>New In 2024, Top 5 Best MP4 Video Editors Totally Free</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-mkv-file-trimming-made-easy-free-tools/"><u>New MKV File Trimming Made Easy Free Tools</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-online-video-editing-for-free-the-top-options-compared-for-2024/"><u>New Online Video Editing for Free The Top Options Compared for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-send-unforgettable-invites-with-these-best-video-apps-for-ios-and-android/"><u>New Send Unforgettable Invites with These Best Video Apps for iOS & Android</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-shrink-mpeg2-files-get-virtualdub-for-video-compression-for-2024/"><u>New Shrink MPEG2 Files Get VirtualDub for Video Compression for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-top-rated-avi-file-combiners-join-videos-without-cost-for-2024/"><u>New Top-Rated AVI File Combiners Join Videos Without Cost for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/tackling-high-ping-and-lag-in-street-fighter-6-on-your-computer-steps-to-success/"><u>Tackling High Ping & Lag in Street Fighter 6 on Your Computer - Steps to Success</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-redmi-13c-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi 13C Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-drive-subscriptions-upward-through-effective-youtube-branding/"><u>[Updated] 2024 Approved Drive Subscriptions Upward Through Effective YouTube Branding</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-invisistorytelling-the-complete-guide-for-stealthy-sharing/"><u>[Updated] 2024 Approved InvisiStorytelling The Complete Guide for Stealthy Sharing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-happy-haven-20-top-prison-jail-gifs-and-photos-for-an-optimistic-social-media-experience/"><u>[Updated] In 2024, Happy Haven 20 Top Prison Jail GIFs & Photos for an Optimistic Social Media Experience</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-financial-lifeline-of-podcasting/"><u>[Updated] The Financial Lifeline of Podcasting</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-canon-inkjet-printer-mf743cdw-drivers-on-windows-compatible-versions/"><u>Download Canon Inkjet Printer MF743CDW Drivers on Windows - Compatible Versions</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-tecno-pop-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-vyncs-tracking-service-high-quality-monitoring-with-complex-membership-options/"><u>In-Depth Analysis of Vync's Tracking Service: High-Quality Monitoring with Complex Membership Options</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-the-spectacle-best-practices-for-cooking-channel-titling/"><u>Savor the Spectacle Best Practices for Cooking Channel Titling</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/streamline-meeting-recording-on-devices-with-gotomeeting/"><u>Streamline Meeting Recording on Devices with GoToMeeting</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-fcpx-plugin-problems-heres-how-to-get-them-working-again/"><u>Updated 2024 Approved FCPX Plugin Problems? Heres How to Get Them Working Again</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-mp4-file-editor-for-mavericks-cut-merge-and-customize/"><u>Updated 2024 Approved MP4 File Editor for Mavericks Cut, Merge, and Customize</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-you-dont-necessarily-have-to-know-a-lot-about-photo-or-video-editing-process-in-order-to-add-a-vignette-to-a-picture-or-adjust-its-col/"><u>Updated 2024 Approved You Dont Necessarily Have to Know a Lot About Photo or Video Editing Process in Order to Add a Vignette to a Picture or Adjust Its Color, Brightness or Highlights. In This Article We Are Going to Ta</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-cant-install-lumafusion-on-mac-try-these-best-alternative-apps-for-2024/"><u>Updated Cant Install Lumafusion on Mac? Try These Best Alternative Apps for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-edit-avi-files-with-ease-top-windows-8-video-editor-2023-for-2024/"><u>Updated Edit AVI Files with Ease Top Windows 8 Video Editor - 2023 for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-smooth-sailing-the-top-free-online-video-stabilization-software-for-2024/"><u>Updated Smooth Sailing The Top Free Online Video Stabilization Software for 2024</u></a></li>
 </ul></div>
 

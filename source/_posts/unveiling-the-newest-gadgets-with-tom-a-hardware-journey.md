@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Newest Gadgets with Tom - A Hardware Journey
-date: 2024-11-11T19:00:37.295Z
-updated: 2024-11-15T04:08:04.956Z
+date: 2024-11-23T00:46:19.252Z
+updated: 2024-11-24T00:14:28.226Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,10 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -48,6 +52,10 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  There's also MSI AI Engine, which adjusts performance based on AI. Then there's AI Frozr, which does the same thing for cooling.
 
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -70,23 +78,20 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-making-audio-files-out-of-instagram-videos-for-2024/"><u>[Updated] Making Audio Files Out of Instagram Videos for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-profit-potentials-in-producing-product-centric-youtube-clips/"><u>2024 Approved Profit Potentials in Producing Product-Centric YouTube Clips</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-no-more-searching-the-best-filmora-coupon-codes-revealed/"><u>New In 2024, No More Searching The Best Filmora Coupon Codes Revealed</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/optimize-visual-output-with-free-luts-in-your-obs-studio-setup-for-2024/"><u>Optimize Visual Output with Free LUTs in Your OBS Studio Setup for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210930166-9780717181230-the-source/"><u>The Source | Free Book</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-honor-x50i-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Honor X50i Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-elevate-your-storytelling-easy-online-video-creation-with-wevideo/"><u>Updated 2024 Approved Elevate Your Storytelling Easy Online Video Creation with WeVideo</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-how-to-fast-forward-or-reverse-video-in-camtasia/"><u>Updated 2024 Approved How to Fast Forward or Reverse Video in Camtasia</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-virtualdub-the-ultimate-tool-for-mpeg2-video-shrinking/"><u>Updated 2024 Approved VirtualDub The Ultimate Tool for MPEG2 Video Shrinking</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-best-of-the-best-top-10-pro-audio-editing-software/"><u>Updated In 2024, The Best of the Best Top 10 Pro Audio Editing Software</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-whats-new-in-avs-video-editor-2023-a-comprehensive-review-and-guide/"><u>Updated In 2024, Whats New in AVS Video Editor 2023? A Comprehensive Review and Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-10-essential-cam-shields-for-privacy/"><u>[New] 2024 Approved 10 Essential Cam Shields for Privacy</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-deep-dive-into-theta-s-a-full-camera-examination/"><u>[Updated] 2024 Approved Deep Dive Into Theta S A Full Camera Examination</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-cutting-edge-broadcasting-dslr-use-for-facebook-live-on-pcmac/"><u>[Updated] Cutting-Edge Broadcasting DSLR Use for Facebook Live on PC/Mac</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-mastering-transition-logic-pro-xs-audio-fade-technique/"><u>[Updated] In 2024, Mastering Transition Logic Pro X's Audio Fade Technique</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhancing-compatibility-new-dell-compatible-sm-bus-controller-firmware-revision/"><u>Enhancing Compatibility: New Dell-Compatible SM Bus Controller Firmware Revision</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-stay-connected-with-roku-hotels-and-dorms-top-tips-for-students-and-travelers/"><u>How to Stay Connected with Roku Hotels and Dorms: Top Tips for Students and Travelers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-iphone-xs-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password On iPhone XS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/inside-the-world-of-zdsoft-video-capturing/"><u>Inside the World of ZDSoft Video Capturing</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-elevate-your-audio-2-fade-infade-out-methods-in-fcp/"><u>Updated 2024 Approved Elevate Your Audio 2 Fade-In/Fade-Out Methods in FCP</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-from-novice-to-pro-20-adobe-premiere-shortcuts-to-elevate-your-skills/"><u>Updated 2024 Approved From Novice to Pro 20 Adobe Premiere Shortcuts to Elevate Your Skills</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-mastering-video-editing-on-mac-a-guide-to-os-x-mavericks/"><u>Updated 2024 Approved Mastering Video Editing on Mac A Guide to OS X Mavericks</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-ultimate-final-cut-pro-hack-flipping-clips-in-4-easy-steps/"><u>Updated In 2024, The Ultimate Final Cut Pro Hack Flipping Clips in 4 Easy Steps</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-s-best-free-green-screen-editors-for-mobile-phones-for-2024/"><u>Updated S Best Free Green Screen Editors for Mobile Phones for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-best-free-video-rotators-for-mov-files-for-2024/"><u>Updated The Best Free Video Rotators for MOV Files for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

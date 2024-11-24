@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Free and Fabulous 20 Adobe Premiere Intro Templates
-date: 2024-08-15T04:14:36.063Z
-updated: 2024-08-16T04:14:36.063Z
+date: 2024-11-17T10:53:18.096Z
+updated: 2024-11-24T11:55:43.252Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/e05f2d33f2fefb8dc7c06028c76750542668dde01
 
 # Top 20 Adobe Premiere Title/Intro Templates \[Free Download\]
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -71,16 +68,10 @@ Besides the built-in title presets, Wondershare Filmora (Latest Filmora version 
 
 Currently, there are Title Expansion Set, business title set, wedding title set, and lower third expansion set to download. Check the video below to watch the Title Expansion set templates.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Learn more details about [How to Add Text to Video with Filmora.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### 2 Richard Harrington
 
 This is another site that offers templates for download but is also a great place to visit for ideas and information. Richard approaches Premiere from a photographer's viewpoint, and so has a slightly different view on many topics that are well worth reading.
@@ -95,9 +86,6 @@ He has links to a sizable number of templates on Richard Harrington covering a r
 
 ![Premiere Pro Title Templates](https://images.wondershare.com/filmora/article-images/RichardHarrington.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3 ProVideoCoalition
 
 Another all-encompassing site has a huge amount of information and knowledge to be gained. The templates are just part of the story. They are available on Pro Video Coalition and include numerous files and even some free video content showing their implementation.
@@ -112,6 +100,10 @@ Of particular interest on this site is the regularly updated news which focuses 
 * You can customize the Premiere Pro intro template free download
 * You can create graphic elements
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4 Coremelt
 
 This is a commercial site that offers a wide variety of high-quality plugins and templates for several video editing platforms. However, we are on the lookout for that fabulous price of free here, so a little digging finds [this page](http://www.coremelt.com/products/activetext.html), here you will find ten templates from one of their best selling products offered entirely free.
@@ -123,9 +115,6 @@ All templates are quality professionally produced products and worth the visit a
 * It includes 3D text and motion graphics templates
 * Free and safe download the Premiere template
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![free premiere pro templates](https://images.wondershare.com/filmora/article-images/Coremelt.jpg)
 
 ### 5 Bestproaction
@@ -140,10 +129,11 @@ Even for those of us with a limited budget, there may be something that catches 
 * Includes professional Premiere Pro template for videographers
 * You can create graphic elements
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![Premiere Pro Title Templates](https://images.wondershare.com/filmora/article-images/Bestproaction.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6 FXFactory
 
@@ -160,6 +150,10 @@ FX Factory has also created some great video tutorials on a variety of aspects o
 
 ![free premiere pro templates](https://images.wondershare.com/filmora/article-images/FXFactory.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7 Creative Impatience
 
 A fantastic site full of information, tips, and opinion on all aspects of video production, it's a great place to spend some time, with the bonus of a bunch of free downloads for Premiere.
@@ -172,9 +166,6 @@ Of particular note are the tutorials, an excellent source of information and tri
 * Easy steps to make Premiere Pro templates
 * Safe and clean to use. All real
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![free premiere pro templates](https://images.wondershare.com/filmora/article-images/Creative-Impatience.jpg)
 
 ### 8 Filmimpact
@@ -200,6 +191,10 @@ There are already a lot of free templates on offer covering a wide variety of st
 
 ![Premiere Pro Title Templates](https://images.wondershare.com/filmora/article-images/Style4Type.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 10 Premiere Beat
 
 Lots of information on this site as its been running for a decade, it is a website that imparts a wealth of knowledge along the way on not just video editing but music.
@@ -220,9 +215,6 @@ It is a clean title template without unnecessary parts. If you like simple title
 * Simple and clean Premiere title templates
 * Customizable in Premiere
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![premiere pro intro template free download](https://images.wondershare.com/filmora/filmorapro/premiere-clean-elegant-rotation.jpg)
 
 ### 12 Unfolding Titles
@@ -236,18 +228,6 @@ It is a clean title template with an unfolding effect. Each text has two unfoldi
 
 ![free premiere pro templates](https://images.wondershare.com/filmora/filmorapro/premiere-title-unfolding.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 13 Orange83
 
 These are five modern title packs for Premiere. With it, you don't need to use After Effects as you can import them to edit. The best part is you can include your logo and other stuff you like.
@@ -270,9 +250,6 @@ This intro template can be adjusted after you import it to Premiere Pro. This Pr
 
 ![premiere pro intro template free download](https://images.wondershare.com/filmora/filmorapro/premiere-pro-intro-template.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 15 Elegant Promo
 
 It is intro template for Premiere Pro is modern and free to use. The whole style is young and energetic, which will give viewers a fresh new feeling. It includes 12 images and 26 text layers, and all of them are free to download.
@@ -286,16 +263,21 @@ You can use it for your presentation, promotional video, and product video. Besi
 
 ![premiere pro intro template free download Elegant Promo](https://images.wondershare.com/filmora/filmorapro/premiere-pro-intro-template-free-download.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 These are free templates, and they are enough to get anyone up and running with a new project. As said before, with the commercial enterprises that offer freebies, it's always worth checking out their paid for output as well, you may not be in the market for it right now, but something may stick for a later time.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: Bonus: Best 5 Premiere Pro Intro Templates Free Download
 
 Even though all websites we featured in this article offer some free intro templates for Adobe Premiere Pro. However, it is still a much better solution to buy a subscription plan on a platform if you are working on a large number of projects each month.
 
 Let's see which websites you can use to download the intro and title templates for Premiere Pro.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 16. Motion Array
 
@@ -309,10 +291,11 @@ Using the free subscription plan can limit your options since you'll only be abl
 
 The Pro subscription plan that can be purchased for $54 per month will grant you access to an almost endless selection of title templates as well as a huge selection of plugins for Adobe Premiere Pro.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![free premiere pro templates](https://images.wondershare.com/filmora/article-images/Motion-Array.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 17. Cinecom – Simple Intro for Premiere Pro
 
@@ -324,9 +307,6 @@ However, before you can download these title templates, you have to subscribe to
 
 Even though this can be a bit inconvenient, it is very well worth the trouble since you'll be able to transform or build upon the intro templates and use them freely in all videos you edit in Adobe Premiere Pro.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![title template for Premiere Pro](https://images.wondershare.com/filmora/article-images/simple-titles-for-premiere-pro.jpg)
 
 ### 18. EnvatoElements
@@ -342,8 +322,9 @@ Prices start from $16.50 per month, and packages include virtually unlimited acc
 ![free premiere pro templates](https://images.wondershare.com/filmora/article-images/EnvatoElements.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 19. Videohive
 
 Videohive is a part of the Envato Market platform that also features Web Themes and Templates, Code, Audio, or Graphic sections. It is free to use, but only a limited amount of assets can be downloaded for free.
@@ -357,8 +338,9 @@ Furthermore, you can download presets for both Premiere Pro and After Effects th
 ![free premiere pro templates](https://images.wondershare.com/filmora/article-images/Videohive.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 20. RocketStock
 
 This option is best suited for video editors who want to create their intros because RocketStok's Cinematic Style Library extends the scope of options provided by Premiere Pro.
@@ -372,6 +354,10 @@ If you don't feel comfortable creating your titles or if you simply don't have t
 On the other hand, Premiere Pro's users who don't often use title templates can benefit from downloading RocketStock's intro library.
 
 ![free premiere pro templates](https://images.wondershare.com/filmora/article-images/RocketStock.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Import and Customize Title Templates in Premiere
 
@@ -399,9 +385,6 @@ If you want to make professional video editing and tired of Premiere, try [Filmo
 
 You can sync audio automatically, use detailed color correction to make your title and video like a movie. Download it now (FREE)!
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -410,12 +393,27 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-television-archive-advanced-techniques-for-online-streams-for-2024/"><u>[New] Television Archive Advanced Techniques for Online Streams for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-navigating-digital-discussions-with-ease-essential-advice-for-successful-zoom-meetings/"><u>[Updated] 2024 Approved Navigating Digital Discussions with Ease Essential Advice for Successful Zoom Meetings</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-recognizing-disconnected-social-network-for-2024/"><u>[Updated] Recognizing Disconnected Social Network for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Tecno Spark 20C? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-facebook-video-freeze-up-solutions-for-secure-browser-users/"><u>In 2024, Facebook Video Freeze-Up Solutions for Secure Browser Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-vhs-inspired-video-editing-simplified-techniques-for-fcp/"><u>New VHS-Inspired Video Editing Simplified Techniques for FCP</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-your-stories-with-lush-soundtracks/"><u>Share Your Stories with Lush Soundtracks</u></a></li>
+<li><a href="https://review-topics.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-itel-p40-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/unlock-premiere-pros-full-potential-system-requirements-and-setup-tips-for-2024/"><u>Unlock Premiere Pros Full Potential System Requirements and Setup Tips for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-transform-your-videos-10-best-webm-to-mp4-converters-online/"><u>Updated 2024 Approved Transform Your Videos 10 Best WebM to MP4 Converters Online</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-free-online-video-smoothers-our-top-picks-for-2024/"><u>Updated Free Online Video Smoothers Our Top Picks for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-discover-the-power-of-final-cut-pro-90-days-free-no-strings-attached/"><u>Updated In 2024, Discover the Power of Final Cut Pro 90 Days Free, No Strings Attached</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-everything-about-final-cut-pro-90-days-free-trial-here/"><u>Updated In 2024, Everything About Final Cut Pro 90 Days FREE Trial Here</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Effortless Video Editing How to Add Effects in FCP X (3 Simple Steps)
-date: 2024-11-10T00:24:04.156Z
-updated: 2024-11-15T01:24:25.080Z
+date: 2024-11-19T00:10:06.787Z
+updated: 2024-11-23T17:36:48.896Z
 tags: 
   - video editing software
   - video editing
@@ -53,13 +53,25 @@ To apply an effect, first select the clip in the Timeline.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx002.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx004.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here, for example, I've selected the Blur category, with my cursor near the Gaussian blur effect. (Gaussian blur is the best effect to use when you want a clip to look blurry.)
 
@@ -78,6 +90,10 @@ Click the Video tab in the Inspector. Effects from the Effects Browser are alway
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx006.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx007.jpg "add effects in fcp")
@@ -87,6 +103,10 @@ Grab a slider and drag it to see what happens. For example, to make an image blu
 To temporarily disable an effect, without deleting it, click the blue box so that it turns gray.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx008.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To enable an effect, click the gray box so it turns blue again.
 
@@ -121,29 +141,21 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-primeplay-videoapp-inspection/"><u>[New] PrimePlay VideoApp Inspection</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-your-first-step-on-twitter-creating-an-account/"><u>[Updated] 2024 Approved Your First Step on Twitter Creating an Account</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-top-non-tiktok-apps-keep-up-with-trending-social-media-for-2024/"><u>[Updated] Top Non-TikTok Apps Keep Up with Trending Social Media for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y77t-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-best-video-player-apps-for-windows-phone/"><u>In 2024, Best Video Player Apps for Windows Phone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-the-challenge-of-win11s-read-only-folds/"><u>Tackling the Challenge of Win11's Read-Only Folds</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-transform-your-footage-pro-quality-movies-made-easy/"><u>Updated 2024 Approved Transform Your Footage Pro-Quality Movies Made Easy</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-dont-miss-out-4-best-ways-to-get-filmora-discount-codes-and-offers-for-2024/"><u>Updated Dont Miss Out! 4 Best Ways to Get Filmora Discount Codes and Offers for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-breaking-free-from-quik-exploring-the-best-pc-video-editors-for-gopro-users/"><u>Updated In 2024, Breaking Free From Quik Exploring the Best PC Video Editors for GoPro Users</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-fcpx-essentials-how-to-achieve-silky-smooth-video-playback/"><u>Updated In 2024, FCPX Essentials How to Achieve Silky Smooth Video Playback</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-mac-video-editor-showdown-the-best-options-for/"><u>Updated In 2024, Mac Video Editor Showdown The Best Options For</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-resource-for-free-sound-effects-a-guide-for-final-cut-pro-editors-for-2024/"><u>Updated The Ultimate Resource for Free Sound Effects A Guide for Final Cut Pro Editors for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-unleash-your-creativity-the-best-animation-makers-for-beginners-and-pros-for-2024/"><u>Updated Unleash Your Creativity The Best Animation Makers for Beginners and Pros for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-watermark-your-videos-for-free-top-5-software-options-for-2024/"><u>Updated Watermark Your Videos for Free Top 5 Software Options for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-google-cardboard-vs-samsung-gear-vr-for-2024/"><u>[Updated] Google Cardboard Vs. Samsung Gear VR for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-hosts-maximizing-youtube-video-exposure/"><u>2024 Approved Ideal Hosts Maximizing YouTube Video Exposure</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cant-start-days-gone-on-your-computer-here-are-proven-solutions/"><u>Can't Start 'Days Gone' On Your Computer? Here Are Proven Solutions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discovering-the-uncharted-window-11-functions-for-efficiency/"><u>Discovering the Uncharted WINDOW 11 Functions for Efficiency</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-samsung-galaxy-a23-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Samsung Galaxy A23 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-infinix-note-30-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Infinix Note 30 Pro Safely | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/immediate-action-required-top-benefits-of-instantly-updating-to-ios-153/"><u>Immediate Action Required: Top Benefits of Instantly Updating to iOS 15.3</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-best-video-editing-software-for-chrome-os-users/"><u>Updated 2024 Approved Best Video Editing Software for Chrome OS Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-mp4-trimming-tools-top-picks/"><u>Updated 2024 Approved Free MP4 Trimming Tools Top Picks</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-maximize-your-reach-learn-how-to-make-viral-reaction-videos-with-filmora/"><u>Updated 2024 Approved Maximize Your Reach Learn How to Make Viral Reaction Videos with Filmora</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-minitool-movie-maker-a-detailed-review-and-comparison-to-alternatives/"><u>Updated 2024 Approved Minitool Movie Maker A Detailed Review and Comparison to Alternatives</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-transform-your-footage-expert-video-editing-for-sony-camcorder-users/"><u>Updated In 2024, Transform Your Footage Expert Video Editing for Sony Camcorder Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-mastering-home-video-production-top-dvd-creation-tools-for-2024/"><u>Updated Mastering Home Video Production Top DVD Creation Tools for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-tone-generation-made-simple-5-online-tools/"><u>Updated Tone Generation Made Simple 5 Online Tools</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/ways-to-stop-parent-tracking-your-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>Ways to stop parent tracking your Apple iPhone SE (2020) | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

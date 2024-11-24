@@ -1,7 +1,7 @@
 ---
 title: New Final Cut Pro X Essentials Adding and Customizing Titles for 2024
-date: 2024-08-22T12:37:36.878Z
-updated: 2024-08-23T12:37:36.878Z
+date: 2024-11-20T04:25:34.005Z
+updated: 2024-11-24T04:29:17.248Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 
 # How to Add Titles in Final Cut Pro X
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -51,18 +48,12 @@ Just to keep us all on the same page, here are my definitions of key terms relat
 
 #### JUST THE BASICS
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles001.jpg)
 
 I'd like to introduce "Yertle," he's a sea turtle and the star of this article. (Footage courtesy of Jim Walker and Lobsters Gone Wild Productions.)
 
 At its simplest, we use titles to display his (its?) name.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles002.jpg)
 
 In the Timeline, put the playhead where you want a title to appear and type Shift+Control+T. This inserts the default lower-third title at the position of the playhead. The title, like almost all titles, has a default duration of 10:00 seconds.
@@ -113,9 +104,6 @@ So, we:
 
 #### CHANGING TEXT
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles009.jpg)
 
 Add a new full-screen title (type Control+T) to the Timeline. To change the text in a title, double-click it in the Viewer. Here, I've changed my title to "An Undersea Adventure."
@@ -134,18 +122,12 @@ Here, I selected my entire title and opened the Inspector (shortcut Cmd+4). Clic
 
 NOTE: The text box near the top of the panel is the second place you can select text for formatting.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles011.jpg)
 
 If you want a fast way to format text, click the word "Normal" at the top. This displays a menu filled with different text formats. Some of these formats look pretty dreadful; the rest look worse.
 
 NOTE: You can create your own text styles. Refer to the Help for information on how.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles012.jpg)
 
 The Basic section of the Inspector allows you to change fonts, size, alignment... all the standard font settings we see in other programs. Here, I've changed the font to Hobo Std, at 167 points.
@@ -156,16 +138,10 @@ While many of these settings you already know there are a few you may not:
 * Tracking. Adjusts the horizontal spacing between letters.
 * Baseline. Adjusts the vertical spacing of text compared to the horizontal line running thru the center of the white circle in the Viewer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles013.jpg)
 
 The Face section allows us to change font color, opacity and blue. Outline and Glow allows us to add, not surprisingly, outlines and glows. You can adjust these as you see fit - I tend not to add outlines or glows.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles017.jpg)
 
 However, I STRONGLY recommend adding drop shadows to all text that you want viewers to read. Video, even HD video, is low resolution compared to print. Drop shadows make your text much easier to read. These are the settings I recommend for drop shadows.
@@ -206,12 +182,35 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-discovering-the-immersive-world-of-lg-27ud68/"><u>2024 Approved Discovering the Immersive World of LG 27UD68</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-vivo-x90s-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Vivo X90S</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-y02t-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo Y02T Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Oppo Find X6? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-realme-12-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Realme 12 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-unleashing-imagination-the-top-lego-stop-motion-makers/"><u>In 2024, Unleashing Imagination The Top Lego Stop Motion Makers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/merge-mov-files-for-free-top-5-video-joiner-tools-for-2024/"><u>Merge MOV Files for Free Top 5 Video Joiner Tools for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-jaw-dropping-4k-videos-that-will-leave-you-speechless/"><u>New 2024 Approved Jaw-Dropping 4K Videos That Will Leave You Speechless</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-10-mac-video-tag-editors-for-seamless-organization/"><u>New 2024 Approved Top 10 Mac Video Tag Editors for Seamless Organization</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unhappy-with-fcpx-find-your-new-favorite-video-editor-among-these-10-options/"><u>New 2024 Approved Unhappy with FCPX? Find Your New Favorite Video Editor Among These 10 Options</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-discover-the-best-free-online-video-editor-jaycut-tutorial-and-review/"><u>New In 2024, Discover the Best Free Online Video Editor Jaycut Tutorial and Review</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-pro-grade-videos-in-minutes-no-experience-required/"><u>New In 2024, Pro-Grade Videos in Minutes No Experience Required</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-final-cut-pro-saving-cheat-sheet/"><u>New In 2024, The Ultimate Final Cut Pro Saving Cheat Sheet</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-insert-isp-info-on-taskbar/"><u>Step-by-Step Guide: Insert ISP Info on Taskbar</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/topas-tacticas-para-optimizar-embalaje-de-contenido-visual-en-correo-electronico/"><u>Topas Tácticas Para Optimizar Embalaje De Contenido Visual en Correo Electrónico</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, From Slow to Fast Mastering Time Lapse Video Editing in Final Cut Pro
-date: 2024-08-15T04:14:08.999Z
-updated: 2024-08-16T04:14:08.999Z
+date: 2024-11-19T05:02:14.291Z
+updated: 2024-11-24T04:11:34.139Z
 tags: 
   - video editing software
   - video editing
@@ -18,18 +18,6 @@ thumbnail: https://thmb.techidaily.com/468b7a50fb837089e10cec38dd44fa01aaab4078b
 
 # How to Make a Time Lapse Video in Final Cut Pro
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -46,16 +34,14 @@ In this article, we are going to show you how you can easily increase the speed 
 
 This is a basic tutorial about Apple Final Cut Pro X, a professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) (Originally Wondershare Video Editor for Mac). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below to try it right now. And here's a video tutorial on how to make a time-lapse video with Filmora for your reference:
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Make a Time-Lapse Video in Final Cut Pro
 
 #### Step 1 Import Clips
@@ -66,35 +52,29 @@ Choose **File** \> **New** \> **Event**. Name it and click **OK**. Label the pro
 
 Click the **Retime** pop-up menu below the viewer and choose **Fast** (or you can access **Modify** \> **Retime** \> **Fast**). There are 4 preset options you can choose: 2x, 4x, 8x, 20x. Or you can customize the speed by selecting **Custom**.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can set any speed by adjusting the **Rate**. Reset the speed by clicking on the little arrow on the right side of the window.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can also drag the retiming handle to adjust the speed: dragging to the left increases the speed, and dragging to the right decreases it.
 
 **Note:** To set speed separately for different parts of one clip, you can choose **Blade Speed** first, and then blade the clip where you want to set different speeds.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 That's it. You may also want to learn this: [how to add a countdown-timer in fcpx](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -102,13 +82,15 @@ If you have any questions about making time-lapse videos, feel free to drop a li
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -116,4 +98,21 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-key-to-thriving-in-online-communities-like-reddit/"><u>[New] Unveiling the Key to Thriving in Online Communities Like Reddit</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-best-practices-for-documenting-ps4-gameplay/"><u>[Updated] 2024 Approved Best Practices for Documenting PS4 Gameplay</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-scriptwriting-secrets-penning-podcast-episodes-that-resonate/"><u>2024 Approved Scriptwriting Secrets Penning Podcast Episodes That Resonate</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-the-ultimate-blend-top-5-monitors-for-seamless-color-grading/"><u>2024 Approved The Ultimate Blend Top 5 Monitors for Seamless Color Grading</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Tecno Spark Go (2023)? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-ultimate-guide-to-the-behringer-usb-midi-driver/"><u>Free Download: Ultimate Guide to the Behringer USB MIDI Driver</u></a></li>
+<li><a href="https://facebook.techidaily.com/streamlined-video-calls-tips-for-using-facebook-portal-tv/"><u>Streamlined Video Calls: Tips for Using Facebook Portal TV</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-video-blurring-a-step-by-step-guide/"><u>Updated 2024 Approved Free Video Blurring A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-glitch-reboot-repeat-the-best-mobile-video-editing-apps/"><u>Updated 2024 Approved Glitch, Reboot, Repeat The Best Mobile Video Editing Apps</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-rotate-avi-videos-for-free-top-16-software-for-multiple-platforms/"><u>Updated 2024 Approved Rotate AVI Videos for Free Top 16 Software for Multiple Platforms</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-streamline-your-video-editing-best-flv-editor-for-windows-8-users/"><u>Updated 2024 Approved Streamline Your Video Editing Best FLV Editor for Windows 8 Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-top-cartoon-animation-creators-for-mobile-devices/"><u>Updated 2024 Approved Top Cartoon Animation Creators for Mobile Devices</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-easter-eggstravaganza-get-your-wondershare-filmora-promo-code-now/"><u>Updated In 2024, Easter Eggstravaganza Get Your Wondershare Filmora Promo Code Now</u></a></li>
+</ul></div>
 

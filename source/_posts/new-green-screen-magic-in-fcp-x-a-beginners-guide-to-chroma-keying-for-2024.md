@@ -1,7 +1,7 @@
 ---
 title: New Green Screen Magic in FCP X A Beginners Guide to Chroma Keying for 2024
-date: 2024-08-22T12:36:52.893Z
-updated: 2024-08-23T12:36:52.893Z
+date: 2024-11-23T00:10:15.931Z
+updated: 2024-11-23T18:15:02.152Z
 tags: 
   - video editing software
   - video editing
@@ -30,16 +30,10 @@ Chroma-key (also called "green screen") effects are a staple in video production
 
 This is a basic tutorial about Apple Final Cut Pro X, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Getting Started
 
 First, the best thing you can do to improve the quality of your keys is to improve how you shoot them. Here are seven basic production rules:
@@ -54,10 +48,11 @@ First, the best thing you can do to improve the quality of your keys is to impro
 
 ## Setting up the Key
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fx chroma 01](https://images.wondershare.com/multimedia/fx-chroma-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The green screen image is always placed above the background. You can place either the green screen or background image into the Primary Storyline. I find it easier to put the background in the Primary Storyline, because it makes editing the green screen image easier. But this is purely personal choice.
 
@@ -65,10 +60,11 @@ The green screen image is always placed above the background. You can place eith
 
 From the **Effects Browser > Keying** category, double-click the **Keyer** effect, which applies it to the selected clip. (You can also drag the effect on top of the clip, if you forgot to select the green-screen clip first.)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fx chroma 02](https://images.wondershare.com/multimedia/fx-chroma-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Don't panic if your image looks weird – we will fix it.
 
@@ -90,10 +86,11 @@ Your key should look better immediately. Most of the time, you can probably stop
 
 Click the **Matte** button to display your key as a white foreground on a black background.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![fx chroma 07](https://images.wondershare.com/multimedia/fx-chroma-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Your goal is the make the foreground solid white, which means opaque, and the background solid black, which means transparent. Adjust the **Fill Holes** and **Edge Distance** sliders until your key looks solid. (For REALLY bad keys, you'll need to also adjust Color Selection, mentioned below.)
 
@@ -101,16 +98,21 @@ Your goal is the make the foreground solid white, which means opaque, and the ba
 
 If an edge is too pronounced, or needs help, click the **Edges** icon.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fx chroma 09](https://images.wondershare.com/multimedia/fx-chroma-09.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Tweaks Video**
 
 Then, click and drag a line from the foreground to the background in the Canvas. Drag the midpoint slider (where my cursor is) until the edge looks the best it can. Different video formats make this easy (ProRes), while others (HDV, avchd) make this much harder. Perfection is impossible – do the best you can.
 
 ![fx chroma 09a](https://images.wondershare.com/multimedia/fx-chroma-09a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Final Cut provides four additional tweaks at the bottom of the keyer filter:
 
@@ -125,16 +127,10 @@ Light wrap, though, is aesthetic. What it does is blend colors from the backgrou
 
 This is a subtle effect, but very cool.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fx chroma 10](https://images.wondershare.com/multimedia/fx-chroma-10.jpg)
 
 Twirl down Light Wrap and adjust the Amount slider and watch what happens. Drag the other sliders around and see what happens. The nice thing about this setting is that when it looks good to you, it is good. The amount of the effect is totally up to you. Remember, Light Wrap only affects the edges of the foreground and should be used subtly.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fx chroma 11](https://images.wondershare.com/multimedia/fx-chroma-11.jpg)
 
 When you are done, you have a great looking key!
@@ -143,11 +139,19 @@ When you are done, you have a great looking key!
 
 ![fx chroma 12](https://images.wondershare.com/multimedia/fx-chroma-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sometimes, however, you don't have, ah, perhaps, the best green-screen image to work with. Here, for example, there are lighting instruments in the foreground, with a very inadequately lit green screen in the background. (Sigh… this is just pitiful.)
 
 Once you pull the key – which is film-speak for creating a green-screen shot, as I described above – and get it looking as good as possible, there's one more step: adding a garbage matte to get rid of all the garbage surrounding your actors.
 
 ![fx chroma 13](https://images.wondershare.com/multimedia/fx-chroma-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once you get your key looking as good as you can – which in this case isn't all that good – drag the Mask effect (**Effects > Keying > Mask**) on top of the green-screen clip.
 
@@ -173,9 +177,6 @@ Or: [How to Add a Shake Effect to your Videos?](https://tools.techidaily.com/won
 
 The chroma-key filter in FCP X allows us to create some amazing effects. If you want to use green screen effects more easily, here is [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) for you. You can appaly Chroma-Key effects with just a few click. Have fun playing with it.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
@@ -186,12 +187,30 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/1716069084867-updated-2024-approved-pinnacle-playtime-the-greatest-action-adventure-game-lineup-ever/"><u>[Updated] 2024 Approved Pinnacle Playtime The Greatest Action-Adventure Game Lineup Ever!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-amplify-content-reach-essential-strategies-to-skyrocket-views-for-2024/"><u>[Updated] Amplify Content Reach Essential Strategies to Skyrocket Views for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-direct-recording-tool-for-chrome-os/"><u>[Updated] Direct Recording Tool for Chrome OS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-iphones-best-5-podcast-audio-platforms/"><u>[Updated] IPhone's Best 5 Podcast Audio Platforms</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-blizzards-wow-lags-tips-for-a-smooth-gaming-experience/"><u>Beat Blizzard's WoW Lags: Tips for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-docs.techidaily.com/explore-top-web-analytics-platforms-beyond-similarweb-find-your-perfect-match-with-our-seo-toolset-comparison/"><u>Explore Top Web Analytics Platforms Beyond SimilarWeb - Find Your Perfect Match with Our SEO Toolset Comparison</u></a></li>
+<li><a href="https://win-premium.techidaily.com/guia-paso-a-paso-para-visualizar-archivos-con-aomei-backupper/"><u>Guía Paso a Paso Para Visualizar Archivos Con AOMEI Backupper</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-iphone-15-pro-max-5-ways-to-get-into-a-locked-iphone-15-pro-max-drfone-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 15 Pro Max? 5 Ways to get into a Locked iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-unbiased-review-is-videopad-video-editor-the-right-fit-for-you/"><u>In 2024, Unbiased Review Is Videopad Video Editor the Right Fit for You ?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-accurate-timing-made-simple-8-best-timecode-conversion-apps-and-websites/"><u>New 2024 Approved Accurate Timing Made Simple 8 Best Timecode Conversion Apps and Websites</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-blur-faces-like-a-pro-top-free-apps-and-tutorials-for-photos-and-videos/"><u>New 2024 Approved Blur Faces Like a Pro Top Free Apps and Tutorials for Photos and Videos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-best-of-the-best-4k-video-editing-software/"><u>New 2024 Approved The Best of the Best 4K Video Editing Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-crafting-compelling-lower-thirds-fcpx-essentials-for-2024/"><u>New Crafting Compelling Lower Thirds FCPX Essentials for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-free-mp4-video-trimming-software-top-picks-for-2024/"><u>New Free MP4 Video Trimming Software Top Picks for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-burn-video-to-dvds-on-windowsmac-3-ways/"><u>New In 2024, Burn Video to DVDs on Windows/Mac 3 Ways</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723202972280-youtube-audio-malfunctioning-in-windows-10-heres-how-to-get-it-right/"><u>YouTube Audio Malfunctioning in Windows 10? Here's How to Get It Right</u></a></li>
+</ul></div>
 

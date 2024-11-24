@@ -1,7 +1,7 @@
 ---
 title: Updated FCPX Pro Tips Creating Dramatic Pauses and Slow-Mo Effects for 2024
-date: 2024-11-14T01:11:06.854Z
-updated: 2024-11-15T00:42:44.392Z
+date: 2024-11-22T04:17:36.910Z
+updated: 2024-11-24T06:15:03.096Z
 tags: 
   - video editing software
   - video editing
@@ -36,6 +36,10 @@ For more tutorials on slow-motion please refer to this article: [Top 10 Slow Mot
 
 ![still frames](https://images.wondershare.com/multimedia/speed001.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 A still-frame freezes action. For instance, here is a clip of a hummingbird getting ready to land on a bird feeder. I want to create a freeze-frame of the bird in flight. (Um, yeah, I use "freeze-frame" and "still-frame" interchangeably.)
 
 In Final Cut Pro X, put the playhead (or skimmer) on the frame you want to freeze and type Option+F.
@@ -66,6 +70,10 @@ This locates the source clip in the Browser, selects both the Browser and the cl
 
 ![match clips](https://images.wondershare.com/multimedia/speed006.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now, with the Browser selected, type Option+F. This creates a freeze-frame of the Browser clip and places it at the location of the playhead as a connected clip in the Timeline.
 
 As a connected clip, we can move this new freeze-frame wherever we want. However, be careful in moving the clip, because, unless you mark the original frame with a marker (type "M"), there's no easy way to match the still frame with the source frame, once the still frame is moved somewhere else.
@@ -82,6 +90,10 @@ Put the playhead (or skimmer) on the frame you want to hold. Then, Then, using e
 
 ![hold frames in fcp x](https://images.wondershare.com/multimedia/speed014.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This displays the orange Retime editor bar above the clip, with a small red portion indicating the Hold frame.
 
 ![create hold frames](https://images.wondershare.com/multimedia/speed015.jpg)
@@ -89,6 +101,10 @@ This displays the orange Retime editor bar above the clip, with a small red port
 Change the duration of the Hold frame by dragging the small thumb at the right end of the red bar.
 
 ![speed016](https://images.wondershare.com/multimedia/speed016.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Add a speed ramp transition at the end of the Hold frame by clicking the downward-pointing arrow next to the word "Hold" in the Retime Editor.
 
@@ -122,17 +138,29 @@ Three things happen at once:
 
 ![speed010](https://images.wondershare.com/multimedia/speed010.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To reset the speed back to normal (100%), click the downward-pointing arrow in the Retiming bar and choose Normal (100%).
 
 There are two ways to change the speed of a clip.
 
 ![speed017](https://images.wondershare.com/multimedia/speed017.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The easy way is to grab the small handle at the end of the clip and drag left or right. The speed will change as you drag it.
 
 Or, for more precision, click the downward-pointing arrow in the Retiming bar and choose Custom.
 
 ![speed011](https://images.wondershare.com/multimedia/speed011.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This opens a new dialog allowing a number of changes:
 
@@ -188,35 +216,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-design-tips-for-captivating-facebook-slideshows-for-2024/"><u>[New] Design Tips for Captivating Facebook Slideshows for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-elevate-your-metaverse-experience-expert-tips-on-avatar-creation/"><u>[New] In 2024, Elevate Your Metaverse Experience Expert Tips on Avatar Creation</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-honor-90-lite-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://win-online.techidaily.com/effortless-mp2-wmv-transformation-download-and-convert-free-using-movavis-web-service/"><u>Effortless MP2-WMV Transformation - Download and Convert FREE Using Movavi's Web Service</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-realme-gt-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-plus-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 Plus to Android? | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/ignite-your-youtube-streams-no-subscriber-count-needed/"><u>Ignite Your Youtube Streams – No Subscriber Count Needed</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-beginners-walkthrough-for-screencastify-recorder/"><u>In 2024, Beginner's Walkthrough for Screencastify Recorder</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-top-explainer-video-tools-to-boost-your-brand/"><u>New In 2024, Top Explainer Video Tools to Boost Your Brand</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-which-dvr-is-king-tivo-and-comcast-go-head-to-head-in-our-expert-review/"><u>New In 2024, Which DVR Is King? TiVo and Comcast Go Head-to-Head in Our Expert Review</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-looking-beyond-premiere-elements-top-10-video-editing-software-for-2024/"><u>New Looking Beyond Premiere Elements Top 10 Video Editing Software for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-mac-tutorial-downloading-and-setting-up-kinemaster-made-easy-for-2024/"><u>New Mac Tutorial Downloading and Setting Up KineMaster Made Easy for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-master-movie-making-a-step-by-step-guide-to-pro-level-videos/"><u>New Master Movie Making A Step-by-Step Guide to Pro-Level Videos</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-quik-on-pc-how-to-use-it-and-alternative-options-for-2024/"><u>New Quik on PC How to Use It and Alternative Options for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-list-of-sony-vegas-alternatives-for-windows-users-for-2024/"><u>New The Ultimate List of Sony Vegas Alternatives for Windows Users for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-this-article-introduces-one-of-the-best-movie-maker-for-mac-user-and-how-to-use-this-movie-maker-to-edit-video-footage-with-3-steps/"><u>New This Article Introduces One of the Best Movie Maker for Mac User and How to Use This Movie Maker to Edit Video Footage with 3 Steps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1726221767337-aacmp3movavi/"><u>オンラインでのAACファイルを無料でMP3に変換：Movaviアプリを使って</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-mastering-the-craft-of-igtv-video-production-with-phones-and-dslrs/"><u>[New] 2024 Approved Mastering the Craft of IGTV Video Production with Phones and DSLRs</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-sierras-seamless-document-and-desktop-storage-solutions/"><u>[New] 2024 Approved Sierra’s Seamless Document & Desktop Storage Solutions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleash-the-full-potential-top-6-music-video-watching-apps-on-android/"><u>[New] Unleash the Full Potential - Top 6 Music Video Watching Apps on Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-fraudgpts-maneuvers-your-defense-guide/"><u>Decoding FraudGPT's Maneuvers - Your Defense Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-oppo-reno-11-pro-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Oppo Reno 11 Pro 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-10-speed-up-apps-for-mobile-music-and-podcasts/"><u>In 2024, 10 Speed-Up Apps for Mobile Music and Podcasts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-how-to-blur-background-of-your-youtube-video/"><u>In 2024, How to Blur Background of Your YouTube Video</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210131394-9781761035593-third-eye-awakening/"><u>Third Eye Awakening | Free Book</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-enhance-video-quality-for-free-top-10-online-tools/"><u>Updated 2024 Approved Enhance Video Quality for Free Top 10 Online Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-get-the-perfect-angle-10-best-video-rotators-for-online-use-for-2024/"><u>Updated Get the Perfect Angle 10 Best Video Rotators for Online Use for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-3gp-video-editing-cutting-and-trimming-made-easy/"><u>Updated In 2024, 3GP Video Editing Cutting and Trimming Made Easy</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-free-video-editing-gems-top-picks-for-online-creators/"><u>Updated In 2024, Free Video Editing Gems Top Picks for Online Creators</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-top-10-vlogging-apps-for-editing-on-the-go/"><u>Updated In 2024, Top 10 Vlogging Apps for Editing on the Go</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-reaction-video-mastery-top-ios-and-android-apps/"><u>Updated Reaction Video Mastery Top iOS and Android Apps</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, From Camera to Computer Editing Nikon Videos with Confidence
-date: 2024-11-11T16:57:11.874Z
-updated: 2024-11-14T22:24:37.279Z
+date: 2024-11-18T04:17:26.774Z
+updated: 2024-11-24T05:57:29.543Z
 tags: 
   - video editing software
   - video editing
@@ -36,6 +36,10 @@ First, transfer the Nikon video files to your computer. Then drag and drop them 
 
 ![nikon video editor](https://images.wondershare.com/filmora/guide/full-feature-interface.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The latest version 9 of Filmora Video Editor also allows you to import video footage from your Nikon camera directly. You can click the **Import** menu first and then select **Import from a Camera or Phone** option which will enter the **Import from Device** window. You can import only videos or only images or all media files to Filmora. All the imported media will be saved under C:\\Users\\admin\\Documents\\Wondershare Filmora\\User Media\\Device Import by default. But you can always change the default path.
 
 ![ Filmora 9 Import for Device ](https://images.wondershare.com/filmora/article-images/filmora9-import-from-device.jpg)
@@ -52,9 +56,17 @@ Besides the basic video editing function, this Nikon video editing software also
 
 ![nikon video editing software video effects](https://images.wondershare.com/filmora/article-images/filmora9-audio-titles-transition-effects-elements.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To help make your video more professional-looking, this Nikon video editor even includes some Power Tools for you to build a small miniature (tilt-shift), replace face in your video (face-off), blur part of a picture (Mosaic), and more.
 
 ![ Filmora 9 Utility features](https://images.wondershare.com/filmora/article-images/filmora9-effects-utility.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can find all these features and more by switching to Effects tab and go to Utility option under Filters menu.
 
@@ -70,7 +82,15 @@ Editing videos shot with Nikon camera in Filmora is easy since it supports a lar
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -87,21 +107,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-selecting-fps-for-videos-why-not-both-30-or-60/"><u>[Updated] 2024 Approved Selecting FPS for Videos Why Not Both, 30 or 60?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-redmi-k70-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Xiaomi Redmi K70 Pro Lock Screen Password?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-infinix-note-30-vip-racing-edition-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Infinix Note 30 VIP Racing Edition Through Google Earth?</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-10-best-meme-generator-apps-for-android-and-ios-for-2024/"><u>New 10 Best Meme Generator Apps for Android and iOS for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-create-like-a-pro-16-free-video-editors-for-amateur-filmmakers-for-2024/"><u>New Create Like a Pro 16 Free Video Editors for Amateur Filmmakers for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-best-free-ip-camera-software-2023s-top-picks-for-secure-monitoring/"><u>New In 2024, Best Free IP Camera Software 2023S Top Picks for Secure Monitoring</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-join-multiple-mov-files-into-one-top-5-free-video-joiners/"><u>New In 2024, Join Multiple MOV Files Into One Top 5 Free Video Joiners</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-freeware-convert-dvd-to-mp4-on-windows-10-and-ios-devices/"><u>Ultimate Freeware Convert DVD to MP4 on Windows 10 & iOS Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-innovative-ways-to-log-ps3-competitive-sessions/"><u>[New] Innovative Ways to Log PS3 Competitive Sessions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/onetize-youtube-videos-the-ultimate-guide-to-ad-revenue/"><u>[New] Monetize YouTube Videos | The Ultimate Guide to Ad Revenue</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-splitscreen-viewer-insights-for-2024/"><u>[Updated] SplitScreen Viewer Insights for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fix-coredll-missing-error-quickly-and-easily/"><u>Fix 'Core.dll' Missing Error Quickly and Easily</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-xiaomi-civi-3-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Xiaomi Civi 3 Quickly | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-multi-speaker-setup-link-several-bluetooth-audio-devices-together/"><u>Mastering Multi-Speaker Setup: Link Several Bluetooth Audio Devices Together</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-vsdc-video-editor-not-on-mac-no-problem-here-are-the-alternatives/"><u>New In 2024, VSDC Video Editor Not on Mac? No Problem! Here Are the Alternatives</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-macos-video-editing-studio-create-stunning-videos/"><u>New MacOS Video Editing Studio Create Stunning Videos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-make-stunning-videos-in-minutes-wevideo-online-editor-for-2024/"><u>New Make Stunning Videos in Minutes WeVideo Online Editor for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-take-your-video-creations-to-the-next-level-with-64-bit-editing-for-2024/"><u>New Take Your Video Creations to the Next Level with 64-Bit Editing for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-easiest-way-to-edit-flv-files-on-windows-8-expert-tips-and-tools-for-2024/"><u>New The Easiest Way to Edit FLV Files on Windows 8 Expert Tips and Tools for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-top-10-animation-tools-for-engaging-classroom-learning-for-2024/"><u>New Top 10 Animation Tools for Engaging Classroom Learning for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-top-video-trailer-creation-software-for-mac-and-pc/"><u>New Top Video Trailer Creation Software for Mac and PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-essential-guide-to-major-social-media-giants-fbtwitterigyt/"><u>The Essential Guide to Major Social Media Giants: Fb/Twitter/IG/Yt</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
