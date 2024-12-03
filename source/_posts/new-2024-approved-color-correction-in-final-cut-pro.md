@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Color Correction in Final Cut Pro
-date: 2024-08-02T06:22:18.315Z
-updated: 2024-08-03T06:22:18.315Z
+date: 2024-12-01T21:14:48.521Z
+updated: 2024-12-03T05:15:31.818Z
 tags: 
   - video editing software
   - video editing
@@ -46,8 +46,9 @@ The steps below can help all beginners to develop easy video edited projects usi
 * [Color Correction and Color Grading >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Methods to Correct Color in Final Cut Pro
 
 Those who wish to use FCP for color signal editing need to follow these steps:
@@ -62,21 +63,23 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Effect Browser](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-2.png)
 
 * Choose **Window** and then click on **Go To**, you will find **Color Board** on the appeared drop-down menu.
 
 ![Go to Color Board](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 2
 
@@ -88,6 +91,10 @@ As soon as you make this selection, the video scopes window will automatically a
 
 ![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 3
 
 Now it is time to work on color correction directly. There are three types of color corrections that users need to work upon: Hue, Saturation, and Exposure. Here is some brief information about all of these:
@@ -98,16 +105,14 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
@@ -118,9 +123,6 @@ It is possible to preview all the corrections on the original image before makin
 
 **Here's the video tutorial on how to correct color in Final Cut Pro:**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -129,8 +131,6 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -138,5 +138,21 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-beyond-reality-the-future-of-virtual-experiences/"><u>[New] 2024 Approved Beyond Reality The Future of Virtual Experiences</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-navigating-the-auditory-waves-of-iphones-podcast-streaming/"><u>[New] Navigating the Auditory Waves of iPhone's Podcast Streaming</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-ultimate-windows-11-guide-to-recording-games/"><u>[New] The Ultimate Windows 11 Guide to Recording Games</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-frameworks-for-dynamic-fb-video-marketing/"><u>[Updated] In 2024, Frameworks for Dynamic FB Video Marketing</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/androidios-users-guide-to-facebook-live-broadcasting-for-2024/"><u>Android/iOS Users' Guide to Facebook Live Broadcasting for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-strategies-for-implementing-round-functionality-in-your-excel-spreadsheets/"><u>Expert Strategies for Implementing ROUND Functionality in Your Excel Spreadsheets</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-compatible-logitech-g-pro-wireless-controller-drivers-for-windows-11-10-8-and-7/"><u>Free Download: Compatible Logitech G Pro Wireless Controller Drivers for Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-oppo-reno-11-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Oppo Reno 11 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-premiere-pro-or-vegas-pro-which-video-editor-reigns-supreme/"><u>New Premiere Pro or Vegas Pro Which Video Editor Reigns Supreme ?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-record-your-desktop-like-a-pro-a-filmora-scrn-guide-for-2024/"><u>New Record Your Desktop Like a Pro A Filmora Scrn Guide for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-s-most-popular-royalty-free-image-websites-for-2024/"><u>New S Most Popular Royalty-Free Image Websites for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-fastest-way-to-convert-4k-videos-to-mp4-no-technical-expertise-needed/"><u>New The Fastest Way to Convert 4K Videos to MP4 No Technical Expertise Needed</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-tivo-or-comcast-which-dvr-service-comes-out-on-top/"><u>New TiVo or Comcast Which DVR Service Comes Out on Top?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unleash-your-creativity-best-free-and-paid-3d-video-makers-for-2024/"><u>New Unleash Your Creativity Best Free and Paid 3D Video Makers for 2024</u></a></li>
+</ul></div>
 

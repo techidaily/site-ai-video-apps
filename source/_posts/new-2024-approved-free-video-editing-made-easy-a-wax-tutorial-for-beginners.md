@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Free Video Editing Made Easy A Wax Tutorial for Beginners
-date: 2024-08-27T04:26:55.614Z
-updated: 2024-08-28T04:26:55.614Z
+date: 2024-12-01T22:04:32.288Z
+updated: 2024-12-02T18:24:40.427Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d1
 
 # Wax - How to Use Free Video Editor Wax to Edit Videos
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -35,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d1
 
  Note: If you think Wax is something complicated, you can turn to [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which enables you to edit videos with separate tracks and add transitions to your videos, finally, convert your video to any video format you like.Download the free trial version of Wondershare Filmora (originally Wondershare Video Editor) (Windows/Mac) below.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -46,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d1
 
  Download Wax and install it first. Run the software and Load Media Files by right-clicking on MediaPool panel. But this doesn't finish. To edit video, you need to drag-n-drop desired media files to the timeline. Then switch to Video Plugins to drag-n-drop Quick 3d plugin to the just added track.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wax free video editor](https://images.wondershare.com/topic/video-editing/wax.jpg)
 
  As shown above, click the triangle next to Quick 3d, you would see many options such as Posx, Posz, Cropleft, Cropbottom, etc. Please see detailed instructions to make editing in Wax:
@@ -65,25 +56,16 @@ thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d1
 
  Press F3 or click the Project Settings button in the tool bar to bring up the dialog. There, specify the file name, save path and video options, including video dimensions, frame rate, and click OK.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![how to use wax](https://images.wondershare.com/topic/video-editing/wax-settings.jpg)
 
 #### 3. Render AVI video
 
  Click the green arrow button on the tool bar to start saving video to specified path in the project settings. A few minutes later, you will get the edited video.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wax video editing](https://images.wondershare.com/topic/video-editing/wax-render.jpg)
 
  To be concluded, this is just the beginning Wax tutorial. You will find more features while using it. Just download Wax and have a try.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -92,8 +74,6 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -101,5 +81,25 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-mastering-video-allure-securing-top-spots-with-the-vimeo-experts/"><u>[New] 2024 Approved Mastering Video Allure Securing Top Spots with the Vimeo Experts</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-video-sizing-anomalies-what-causes-imovie-to-crop/"><u>[New] Video Sizing Anomalies What Causes iMovie to Crop?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-creating-cohesive-content-with-soundtracks-on-instagram/"><u>[Updated] 2024 Approved Creating Cohesive Content with Soundtracks on Instagram</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-channel-your-inner-videographer-to-produce-top-tier-edu-videos/"><u>[Updated] Channel Your Inner Videographer to Produce Top-Tier Edu-Videos</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-realme-narzo-60-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Realme Narzo 60 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-nokia-130-music-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Nokia 130 Music Pattern Lock Screen</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-cut-editing-time-in-half-with-these-adobe-premiere-shortcuts/"><u>New 2024 Approved Cut Editing Time in Half with These Adobe Premiere Shortcuts</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-yourself-from-tiktok-watermarks-best-removal-tools/"><u>New 2024 Approved Free Yourself From TikTok Watermarks Best Removal Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-make-your-videos-pop-with-music-top-mobile-editing-apps/"><u>New 2024 Approved Make Your Videos Pop with Music Top Mobile Editing Apps</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-free-video-looping-websites-top-10-picks-for-seamless-repeats-for-2024/"><u>New Free Video Looping Websites Top 10 Picks for Seamless Repeats for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-cross-platform-video-editing-mastery-a-step-by-step-chromebook-guide/"><u>New In 2024, Cross-Platform Video Editing Mastery A Step-by-Step Chromebook Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-stop-motion-made-easy-best-apps-for-mobile-animation/"><u>New In 2024, Stop Motion Made Easy Best Apps for Mobile Animation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-full-search-potential-go-for-perplexity-ai/"><u>Unleash Full Search Potential - Go for Perplexity AI</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Infinix Note 30 VIP | Dr.fone</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

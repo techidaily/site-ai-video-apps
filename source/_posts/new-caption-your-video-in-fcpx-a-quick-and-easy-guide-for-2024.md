@@ -1,7 +1,7 @@
 ---
 title: New Caption Your Video in FCPX A Quick and Easy Guide for 2024
-date: 2024-08-27T04:22:45.557Z
-updated: 2024-08-28T04:22:45.557Z
+date: 2024-11-28T20:24:54.790Z
+updated: 2024-12-03T03:12:15.286Z
 tags: 
   - video editing software
   - video editing
@@ -35,8 +35,9 @@ On the other hand, the captions display every kind of audio information, includi
 You may also want to see this: [What Makes the Best Lower Thirds in Final Cut Pro X?](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: How to Add Subtitles/Captions in Final Cut Pro X?
 
 Before you study the steps required to add subtitles to Final Cut Pro, here are some quick facts about the format of captions supported by FCPX.
@@ -53,9 +54,6 @@ It is a standard caption format for web videos and broadcasts.
 
 It is a simple and popular format used in online videos.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Steps to Add Subtitles or Captions in FCPX
 
 **Step 1: Create Caption Roles**
@@ -82,10 +80,15 @@ Thus, similar steps are required even if you want to add subtitles.
 
 Too many steps? Then try a **beginner-friendly editing tool**, Filmora!
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Free Subtitles Plugins for Final Cut Pro X
 
@@ -103,9 +106,6 @@ The Quick Caption is another free tool available in Mac App Store to automatical
 
 It is the go-to free plugin by Stupid Raisins to display the text in animated templates. It generally depicts different kinds of paragraph titles, which you can edit as per the subtitles. It is one of the ideal plugins to impart professionalism into your videos with catchy descriptions. There are lots of templates available to select among them. Also, the simple drag and drop feature won't let you down in any scenario of adding subtitles or captions effectively.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Tips for adding Subtitles/Captions in Final Cut Pro X
 
 Given below are some quick tips to add Final Cut Pro captions or subtitles.
@@ -118,10 +118,11 @@ You can use the transcriptions feature of YouTube to import captions file into y
 
 Every Caption set must export individually in Final Cut Pro X. However; there is a shortcut to it using the Compressor feature. Send your captions to Compressor by clicking the **File**\> **Send to Compressor**.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![send-to-compressor](https://images.wondershare.com/filmora/images/final-cut-pro/send-to-compressor.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Some may wonder, what is Compressor exactly？ [Click here to learn how to use the Compressor in FCPX.](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -131,13 +132,14 @@ You can use various keyboard shortcut keys to add the subtitles and captions int
 
 [Click here for some best shortcuts we summarised for you!](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 So, this is all about adding Final Cut Pro subtitles and captions via the step-by-step guide. Captions and Subtitles are an excellent way to expand your audience base across all regions globally since it removes the limitations or boundaries set by one language.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -146,8 +148,6 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -155,5 +155,18 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-complete-azure-guide-to-speech-to-text-integration/"><u>[Updated] 2024 Approved The Complete Azure Guide to Speech-to-Text Integration</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-quick-witness-youtube-techniques-for-rapid-rendering/"><u>[Updated] In 2024, Quick-Witness YouTube Techniques for Rapid Rendering</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-potential-with-free-premiere-pro-plans/"><u>[Updated] Unlock Potential with Free Premiere Pro Plans</u></a></li>
+<li><a href="https://games-able.techidaily.com/diverse-methods-reactivate-your-steam/"><u>Diverse Methods: Reactivate Your Steam</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/squared-success-creating-compelling-video-posts-on-facebook-for-2024/"><u>Squared Success Creating Compelling Video Posts on Facebook for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steelseries-arctis-5-mic-not-working-solved/"><u>SteelSeries Arctis 5 Mic Not Working [SOLVED]</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/the-best-of-the-best-free-vob-video-editors-reviewed-for-2024/"><u>The Best of the Best Free VOB Video Editors , Reviewed for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-color-perfect-advanced-color-correction-in-final-cut-pro/"><u>Updated 2024 Approved Color Perfect Advanced Color Correction in Final Cut Pro</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-5-best-free-apps-to-compress-videos-on-iphone-and-ipad-for-2024/"><u>Updated 5 Best Free Apps to Compress Videos on iPhone & iPad for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-free-dailymotion-converter-download-and-convert-videos-in-seconds/"><u>Updated In 2024, Free Dailymotion Converter Download and Convert Videos in Seconds</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-troubleshooting-final-cut-pro-x-crashes-a-step-by-step-guide-for-2024/"><u>Updated Troubleshooting Final Cut Pro X Crashes A Step-by-Step Guide for 2024</u></a></li>
+</ul></div>
 

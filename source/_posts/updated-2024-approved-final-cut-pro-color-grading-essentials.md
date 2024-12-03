@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Final Cut Pro Color Grading Essentials
-date: 2024-11-22T01:09:14.618Z
-updated: 2024-11-24T11:33:54.083Z
+date: 2024-11-29T18:29:58.741Z
+updated: 2024-12-03T02:54:33.897Z
 tags: 
   - video editing software
   - video editing
@@ -46,7 +46,7 @@ The steps below can help all beginners to develop easy video edited projects usi
 * [Color Correction and Color Grading >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Methods to Correct Color in Final Cut Pro
@@ -61,21 +61,21 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 ![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
 ![Effect Browser](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Choose **Window** and then click on **Go To**, you will find **Color Board** on the appeared drop-down menu.
 
 ![Go to Color Board](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
@@ -88,7 +88,7 @@ As soon as you start working on **Color Board**, it is good to open Video Scopes
 ![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
@@ -122,7 +122,7 @@ It is possible to preview all the corrections on the original image before makin
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -140,19 +140,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-fast-tip-mastering-green-screen-techniques/"><u>[New] Fast Tip Mastering Green Screen Techniques</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-nailing-the-art-of-ppt-video-reproduction/"><u>[New] Nailing the Art of PPT Video Reproduction</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-viral-video-alert-the-days-10-heat-generating-tweets-for-2024/"><u>[Updated] Viral Video Alert The Day's 10 Heat-Generating Tweets for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-xiaomi-redmi-13c-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Xiaomi Redmi 13C 5G FRP</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-xiaomi-13t-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-poco-x5-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Poco X5 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-the-key-to-successful-multi-view-facebook-streaming/"><u>In 2024, The Key to Successful Multi-View Facebook Streaming</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-iphone-gif-management/"><u>In 2024, The Ultimate Guide to iPhone GIF Management</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/screenrec-101-essential-techniques-for-laptops-for-2024/"><u>ScreenRec 101 Essential Techniques for Laptops for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/top-rated-mp4-video-tagging-applications-for-2024/"><u>Top-Rated MP4 Video Tagging Applications for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-remove-tiktok-watermarks-with-ease-best-online-solutions/"><u>Updated 2024 Approved Remove TikTok Watermarks with Ease Best Online Solutions</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-list-10-free-online-video-compressors-with-no-downloads/"><u>Updated 2024 Approved The Ultimate List 10 Free Online Video Compressors with No Downloads</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-from-ingest-to-delivery-mastering-video-import-and-export-in-adobe-premiere/"><u>Updated In 2024, From Ingest to Delivery Mastering Video Import and Export in Adobe Premiere</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-unlocking-stills-from-videos-top-10-conversion-tools-for-2024/"><u>Updated Unlocking Stills From Videos Top 10 Conversion Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-boosting-video-quality-the-best-cameras-for-vloggers-dreams/"><u>[New] 2024 Approved Boosting Video Quality The Best Cameras for Vloggers' Dreams</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-broadcasting-brevity-news-outro-tips-for-2024/"><u>[New] Broadcasting Brevity News Outro Tips for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unravel-the-mysteries-of-youtube-metrics-for-growth/"><u>[New] Unravel the Mysteries of YouTube Metrics for Growth</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-pure-to-perfected-enhancing-photo-dynamics-with-illustrator-techniques/"><u>[Updated] From Pure to Perfected Enhancing Photo Dynamics with Illustrator Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ces-2024-unveiled-zdnets-picks-for-premier-audio-technology-and-devices/"><u>CES 202^4 Unveiled: ZDNet's Picks for Premier Audio Technology and Devices</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-honor-magic-5-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Honor Magic 5 FRP Locks</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-on-iphone-14-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 On iPhone 14</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-apple-iphone-xs-max-look-no-further-drfone-by-drfone-virtual-ios/"><u>Looking For A Location Changer On Apple iPhone XS Max? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-watermark-free-video-editing-7-top-merging-software-for-2024/"><u>New Watermark-Free Video Editing 7 Top Merging Software for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/uncovering-the-truth-about-vn-video-editor-pro-a-worthy-alternative-in-2024/"><u>Uncovering the Truth About VN Video Editor Pro A Worthy Alternative, In 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-10-best-online-face-creation-tools-for-fictional-characters/"><u>Updated 2024 Approved 10 Best Online Face Creation Tools for Fictional Characters</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-editing-gopro-videos-on-mac-best-practices-and-software/"><u>Updated 2024 Approved Editing GoPro Videos on Mac Best Practices and Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-flawless-skin-in-fcpx-a-beginners-guide-to-plugin-free-retouching/"><u>Updated 2024 Approved Flawless Skin in FCPX A Beginners Guide to Plugin-Free Retouching</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-hands-on-with-avs-video-editor-a-2023-review/"><u>Updated 2024 Approved Hands-On with AVS Video Editor A 2023 Review</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-webm-video-optimization-best-online-compression-software/"><u>Updated 2024 Approved WebM Video Optimization Best Online Compression Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-edit-avi-videos-on-windows-8-with-precision-the-best-editor-for-2024/"><u>Updated Edit AVI Videos on Windows 8 with Precision The Best Editor for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/winning-against-windows-how-to-restore-functionality-of-your-wireless-keyboard/"><u>Winning Against Windows: How to Restore Functionality of Your Wireless Keyboard</u></a></li>
 </ul></div>
 

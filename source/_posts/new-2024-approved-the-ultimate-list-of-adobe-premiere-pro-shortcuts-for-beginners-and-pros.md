@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved The Ultimate List of Adobe Premiere Pro Shortcuts for Beginners and Pros
-date: 2024-08-27T04:24:01.774Z
-updated: 2024-08-28T04:24:01.774Z
+date: 2024-11-27T18:00:18.450Z
+updated: 2024-12-03T03:56:59.030Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 
 # Top 20 Adobe Premiere Shortcuts You Will Use When Editing Video Files
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -33,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 
  This is a basic tutorial about Adobe Premiere, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/), which is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -64,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 
  Whilst the shortcuts for editing and manipulating clips are extremely important for efficient workflow, it should be remembered that those relating to the basic operation of the program are just as useful, as we see here. Using Control and I (Command and I on Mac) brings up the import media dialogue box instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-3.png)
 
 #### 3Capture Panel
@@ -106,9 +97,6 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 * Arc Tool - A
 * Ellipse Tool – E
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-4.jpg)
 
 #### 5 Navigation within a clip
@@ -139,9 +127,6 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 
  To get the best from this it is necessary to set some options beforehand, as Play Around plays the portion of the timeline around the Playhead, and where it plays is dependent on the options set. This is done through the menu via edit > preferences > playback, here I have preroll and postroll set to 4 seconds, meaning that it plays 4 seconds prior and following the point where the playhead is placed.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-5.jpg)
 
  In addition, turning on looping for this can help to fine tune edits.
@@ -182,9 +167,6 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 
  You can view all added edits within a sequence by selecting show through edits within the sequence menu.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-6.jpg)
 
 #### 15Add the default Transition
@@ -225,8 +207,6 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -234,5 +214,23 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instagram-video-collage-app-how-to-make-split-screen-videos/"><u>[New] 2024 Approved Instagram Video Collage App How to Make Split Screen Videos</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-oppo-reno-11f-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Oppo Reno 11F 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722156607926-experience-the-ultimate-free-guide-to-mastering-gpt-4-with-copilot-assistance/"><u>Experience the Ultimate Free Guide to Mastering GPT-4 with Copilot Assistance.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-your-academic-deadlock-heres-how-to-correctly-address-the-finals-tfla00e02-hurdle/"><u>Fixing Your Academic Deadlock? Here’s How to Correctly Address the 'Finals TFLA00e02' Hurdle</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harness-lightrooms-power-to-create-dynamic-hdr-photos/"><u>In 2024, Harness Lightroom's Power to Create Dynamic HDR Photos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-cut-trim-and-split-the-best-free-mpeg-video-editors/"><u>New 2024 Approved Cut, Trim, and Split The Best Free MPEG Video Editors</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-imovie-not-available-on-windows-10-try-these-excellent-alternatives-instead/"><u>New 2024 Approved IMovie Not Available on Windows 10? Try These Excellent Alternatives Instead</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-10-essential-animated-text-makers-for-unbeatable-engagement/"><u>New In 2024, 10 Essential Animated Text Makers for Unbeatable Engagement</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-final-cut-pro-the-industry-standard-for-a-reason/"><u>New In 2024, Final Cut Pro The Industry Standard for a Reason</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-looking-beyond-premiere-elements-top-10-video-editing-software/"><u>New In 2024, Looking Beyond Premiere Elements Top 10 Video Editing Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-10-series-driver-installation-guide-for-new-windows-11-users-effortless-downloads/"><u>NVIDIA 10 Series Driver Installation Guide for New Windows 11 Users: Effortless Downloads</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-review-arctic-freezer-36-upgrades-entry-level-air-conditioner-standards/"><u>The Ultimate Review: Arctic Freezer 36 Upgrades Entry-Level Air Conditioner Standards</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

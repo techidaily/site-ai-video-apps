@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Slow Down and Freeze Advanced FCPX Editing Techniques
-date: 2024-11-17T16:42:37.489Z
-updated: 2024-11-24T00:07:17.487Z
+date: 2024-11-27T00:05:26.784Z
+updated: 2024-12-03T00:58:28.433Z
 tags: 
   - video editing software
   - video editing
@@ -31,7 +31,7 @@ This article shows you how to do this using Final Cut Pro X.
 For more tutorials on slow-motion please refer to this article: [Top 10 Slow Motion Video Editing Software.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Freeze-Frames and Slow Motion in Final Cut Pro X
@@ -54,10 +54,6 @@ Adjust the duration of the frame by trimming the edge; just like any other clip.
 
 ![freeze frames in FCP X](https://images.wondershare.com/multimedia/speed004.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 In case you were wondering, this is what the freeze looks like. It freezes the flight of the hummingbird in the middle of playback, allowing us to add graphics or other text then resume the action as though nothing had happened.
 
 Very cool, except....
@@ -69,6 +65,10 @@ So, here's another way to do this.
 Put the playhead (or skimmer, but I prefer the playhead) on the frame you want to freeze, select the clip, then type Shift+F.
 
 ![Playhead](https://images.wondershare.com/multimedia/speed005.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This locates the source clip in the Browser, selects both the Browser and the clip, and matches the position of the In, Out, and playhead.
 
@@ -91,7 +91,7 @@ Put the playhead (or skimmer) on the frame you want to hold. Then, Then, using e
 ![hold frames in fcp x](https://images.wondershare.com/multimedia/speed014.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This displays the orange Retime editor bar above the clip, with a small red portion indicating the Hold frame.
@@ -102,13 +102,13 @@ Change the duration of the Hold frame by dragging the small thumb at the right e
 
 ![speed016](https://images.wondershare.com/multimedia/speed016.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Add a speed ramp transition at the end of the Hold frame by clicking the downward-pointing arrow next to the word "Hold" in the Retime Editor.
 
 ![speed018](https://images.wondershare.com/multimedia/speed018.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To change the actual frame being held, double-click the bar icon to the LEFT of the red Hold section and choose Source Frame (Edit). This allows you to slide the Hold frame selection left or right.
 
@@ -138,6 +138,10 @@ Three things happen at once:
 
 ![speed010](https://images.wondershare.com/multimedia/speed010.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To reset the speed back to normal (100%), click the downward-pointing arrow in the Retiming bar and choose Normal (100%).
 
 There are two ways to change the speed of a clip.
@@ -151,7 +155,7 @@ Or, for more precision, click the downward-pointing arrow in the Retiming bar an
 ![speed011](https://images.wondershare.com/multimedia/speed011.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This opens a new dialog allowing a number of changes:
@@ -185,10 +189,6 @@ This is a basic tutorial about Apple Final Cut Pro X, a professional video editi
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
 #### SUMMARY
@@ -198,7 +198,7 @@ Whether you want your clips to speed up, slow down or just plain stop, Final Cut
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -216,16 +216,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-live-audience-score-keeper-apps/"><u>[New] 2024 Approved Live Audience Score Keeper Apps</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-video-sequencing-synergy-mastering-blend-modes/"><u>[Updated] In 2024, Video Sequencing Synergy Mastering Blend Modes</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-essence-of-earnings-a-3-step-expedient-to-measure-your-youtube-profitability/"><u>[Updated] The Essence of Earnings A 3-Step Expedient to Measure Your YouTube Profitability</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ereader-showdown-which-device-wins-the-ipad-kindle-or-nook/"><u>EReader Showdown: Which Device Wins - The iPad, Kindle or Nook?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-free-qualcomm-atheros-ar3011-bluetooth-driver-here/"><u>Get Your Free Qualcomm Atheros AR3011 Bluetooth Driver Here</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722969413497-nvidias-most-recent-geforce-rtx-3080-driver-download-for-windows-users/"><u>NVIDIA's Most Recent GeForce RTX 3080 Driver - Download for Windows Users!</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/trim-videos-like-a-pro-10-free-online-editors-2023-guide-for-2024/"><u>Trim Videos Like a Pro 10 Free Online Editors 2023 Guide for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-top-mobile-video-editors-for-portrait-mode-videos/"><u>Updated 2024 Approved Top Mobile Video Editors for Portrait Mode Videos</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-fcpx-tutorial-image-cropping-made-easy/"><u>Updated In 2024, FCPX Tutorial Image Cropping Made Easy</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-funniest-meme-creator-apps-for-android-and-ios-updated-2023/"><u>Updated In 2024, The Funniest Meme Creator Apps for Android and iOS (Updated 2023)</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-mobile-video-editing-showdown-powerdirector-alternatives-for-2024/"><u>Updated Mobile Video Editing Showdown PowerDirector Alternatives for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-knowledge-keepers-guide-10-top-choices-for-lecture-capturers-for-2024/"><u>[New] Knowledge Keeper's Guide 10 Top Choices for Lecture Capturers for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-ultimate-guide-to-digital-mastery-of-vhs-visuals/"><u>[Updated] 2024 Approved The Ultimate Guide to Digital Mastery of VHS Visuals</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unmasking-imagerys-origins-a-complete-guide-to-reverse-picture-searching-in-instagram/"><u>[Updated] 2024 Approved Unmasking Imagery's Origins A Complete Guide to Reverse Picture Searching in Instagram</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-decoding-youtubes-economics-how-to-quantify-watches-and-earnings-for-2024/"><u>[Updated] Decoding YouTube's Economics How to Quantify Watches and Earnings for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-fashion-your-snaps-top-trendy-augmentations-revealed/"><u>2024 Approved Fashion Your Snaps Top Trendy Augmentations Revealed</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-s17-pro-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-casino-confidential-communiques/"><u>In 2024, CASINO CONFIDENTIAL COMMUNIQUES</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-tecno-camon-20-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Tecno Camon 20 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-watermark-free-video-editing-the-top-10-free-online-options/"><u>New Watermark-Free Video Editing The Top 10 Free Online Options</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solve-the-mystery-of-vanishing-youtube-comments-effective-strategies-inside/"><u>Solve the Mystery of Vanishing YouTube Comments – Effective Strategies Inside!</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-get-recording-the-10-best-webcam-software-for-windows-10-users/"><u>Updated 2024 Approved Get Recording The 10 Best Webcam Software for Windows 10 Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-unleash-your-creativity-with-final-cut-pros-90-day-free-trial/"><u>Updated In 2024, Unleash Your Creativity with Final Cut Pros 90-Day Free Trial</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-mac-vlc-trimmer-the-best-way-to-shorten-videos-without-sacrificing-quality-for-2024/"><u>Updated Mac VLC Trimmer The Best Way to Shorten Videos Without Sacrificing Quality for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-virtualdub-alternative-guide-for-2024/"><u>Updated The Ultimate Virtualdub Alternative Guide for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-vn-video-editor-pc-review-is-it-the-right-choice-for-you-in-2024/"><u>Updated VN Video Editor PC Review Is It the Right Choice for You, In 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New Adding Subtitles in FCPX A Beginners Tutorial for 2024
-date: 2024-08-27T04:23:42.977Z
-updated: 2024-08-28T04:23:42.977Z
+date: 2024-11-26T18:58:31.056Z
+updated: 2024-12-03T01:25:32.833Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/74113c2d83645a48c9d2ad195371cc6a07bee43db
 
 # How to Add Subtitles/Captions in Final Cut Pro X?
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -38,8 +35,9 @@ On the other hand, the captions display every kind of audio information, includi
 You may also want to see this: [What Makes the Best Lower Thirds in Final Cut Pro X?](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: How to Add Subtitles/Captions in Final Cut Pro X?
 
 Before you study the steps required to add subtitles to Final Cut Pro, here are some quick facts about the format of captions supported by FCPX.
@@ -56,9 +54,6 @@ It is a standard caption format for web videos and broadcasts.
 
 It is a simple and popular format used in online videos.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Steps to Add Subtitles or Captions in FCPX
 
 **Step 1: Create Caption Roles**
@@ -85,14 +80,12 @@ Thus, similar steps are required even if you want to add subtitles.
 
 Too many steps? Then try a **beginner-friendly editing tool**, Filmora!
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: Free Subtitles Plugins for Final Cut Pro X
 
 Let's list some incredibly efficient and free subtitles tools that you can use for Final Cut Pro X.
@@ -121,10 +114,11 @@ You can use the transcriptions feature of YouTube to import captions file into y
 
 Every Caption set must export individually in Final Cut Pro X. However; there is a shortcut to it using the Compressor feature. Send your captions to Compressor by clicking the **File**\> **Send to Compressor**.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![send-to-compressor](https://images.wondershare.com/filmora/images/final-cut-pro/send-to-compressor.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Some may wonder, what is Compressor exactly？ [Click here to learn how to use the Compressor in FCPX.](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -134,19 +128,25 @@ You can use various keyboard shortcut keys to add the subtitles and captions int
 
 [Click here for some best shortcuts we summarised for you!](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 So, this is all about adding Final Cut Pro subtitles and captions via the step-by-step guide. Captions and Subtitles are an excellent way to expand your audience base across all regions globally since it removes the limitations or boundaries set by one language.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -155,5 +155,21 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-pro-graphic-rigs-mastering-4k-titles-for-2024/"><u>[New] Pro Graphic Rigs Mastering 4K Titles for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-strategies-for-personalizing-your-youtube-shorts-templates/"><u>[Updated] 2024 Approved Strategies for Personalizing Your YouTube Shorts Templates</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-aiming-for-the-stars-select-7-top-shooter-experiences/"><u>[Updated] In 2024, Aiming for the Stars Select 7 Top Shooter Experiences</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-elevate-your-youtube-shorts-top-10-strategies-for-uniqueness/"><u>[Updated] In 2024, Elevate Your YouTube Shorts Top 10 Strategies for Uniqueness</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-evaluating-video-performance-vlc-versus-mx/"><u>[Updated] In 2024, Evaluating Video Performance VLC Versus MX</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortlessly-connect-your-printer-to-laptop-both-wireless-and-cable-methods-covered/"><u>Effortlessly Connect Your Printer to Laptop - Both Wireless and Cable Methods Covered</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/make-quick-work-of-long-videos-speed-up-playback-in-quicktime-for-2024/"><u>Make Quick Work of Long Videos Speed Up Playback in QuickTime for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/maximizing-gopro-footage-for-2024/"><u>Maximizing GoPro Footage for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-best-free-green-screen-apps-for-android-and-ios-devices-2023-edition/"><u>New 2024 Approved Best Free Green Screen Apps for Android and iOS Devices 2023 Edition</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-best-of-the-bunch-top-rated-meme-generator-apps-for-2024/"><u>New Best of the Bunch Top-Rated Meme Generator Apps for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-get-the-perfect-blur-top-rated-bokeh-effects-apps-for-mobile-devices-for-2024/"><u>New Get the Perfect Blur Top-Rated Bokeh Effects Apps for Mobile Devices for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-looking-beyond-pinnacle-studio-best-mac-video-editors/"><u>New In 2024, Looking Beyond Pinnacle Studio Best Mac Video Editors</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/precision-recorder-ads-free-edition-for-2024/"><u>Precision Recorder - Ads-Free Edition for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Video Editing Essentials Import, Edit, and Export in Adobe Premiere 2023 for 2024
-date: 2024-11-20T01:47:26.386Z
-updated: 2024-11-24T01:06:29.215Z
+date: 2024-12-02T00:21:24.237Z
+updated: 2024-12-02T18:59:10.826Z
 tags: 
   - video editing software
   - video editing
@@ -35,7 +35,7 @@ This is a basic tutorial about Adobe Premiere, professional video editing softwa
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Importing
@@ -50,10 +50,6 @@ Whichever way you access it, you get the standard for the platform import dialog
 
 ![Import videos to Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 This method of importing is best suited to self-contained media such as audio or graphics, or video files such as MP4 that are single files themselves, whose location on your computer you know so you can navigate to them easily. This is not the way to import videos from cameras, as they invariably create complex file and folder arrangements that make choosing the correct files difficult. This is where you would opt for the media browser method instead.
 
 #### 2\.  Media Browser
@@ -61,6 +57,10 @@ This method of importing is best suited to self-contained media such as audio or
 Whilst on the surface media browser appears to do the same job as the import command the way they carry out the task is somewhat different, media browser is designed to let you see the media created by cameras, and show you easy to understand icons and metadata rather than the intricate pattern of files and folders they use. This makes picking the correct clip from a selection much easier, with metadata showing you date and duration as well as file type.
 
 ![Import videos to Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The media browser panel is found in the project panel, which on the standard layout is the bottom left corner, and can also be accessed by the Shift+8 shortcut. As you can see from the screenshot it works like an operating system file browser and allows you to navigate through the file directories of hard drives and removable media connected to the system.
 
@@ -83,7 +83,7 @@ To export a project that closely matches the original media in quality and frame
 ![Export videos in Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Which opens the media export dialogue.
@@ -91,7 +91,7 @@ Which opens the media export dialogue.
 ![Export videos in Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Selecting 'Match Sequence Settings' here creates a finished file that matches the quality of the original source media. Then you simply choose a suitable name for the file in the Output Name field, and click export. This creates in essence a digital clone of the sequence, and best practice is to always do this for any project, however, for many projects, this is not necessarily the format you would want the final product to be in, those concentrating on YouTube output, or someone wanting to author a DVD for instance will need other options.
@@ -113,7 +113,7 @@ With the addition of [Wondershare Video Converter Ultimate](https://tools.techid
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -131,17 +131,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-embrace-serenity-the-10-best-online-yoga-masters-today-for-2024/"><u>[New] Embrace Serenity The 10 Best Online Yoga Masters Today for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-beginners-blueprint-for-viral-video-seo/"><u>[Updated] 2024 Approved Beginner's Blueprint for Viral Video SEO</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-windows-inability-to-find-powershell-scripts/"><u>Addressing Windows Inability to Find PowerShell Scripts</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-se-2020-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone SE (2020) When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-error-code-0x800a03ec-by-stellar-guide/"><u>How to Fix Microsoft Excel Error Code 0x800A03EC?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-oppo-reno-11f-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Oppo Reno 11F 5G? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209671892-9781760871253-make-it-happen/"><u>Make It Happen | Free Book</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-your-iphone-step-by-step-guide-to-podcast-acquisition/"><u>Mastering Your iPhone Step-by-Step Guide to Podcast Acquisition</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/navigating-the-world-of-pc-hardware-with-tom-expert-tips-and-reviews/"><u>Navigating the World of PC Hardware with Tom - Expert Tips and Reviews</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-fcp-like-a-pro-top-5-editing-techniques-to-take-your-videos-to-the-next-level/"><u>Updated 2024 Approved FCP Like a Pro Top 5 Editing Techniques to Take Your Videos to the Next Level</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-snap-share-repeat-the-ultimate-ps4-screenshot-sharing-guide/"><u>Updated 2024 Approved Snap, Share, Repeat The Ultimate PS4 Screenshot Sharing Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-make-videos-on-apple-mac-computer-with-the-best-video-maker-for-mac-for-2024/"><u>Updated Make Videos on Apple Mac Computer with the Best Video Maker for Mac for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-enhancing-iphone-photos-with-hdr/"><u>[New] 2024 Approved Enhancing iPhone Photos with HDR</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-mastering-tunes-with-mac-studios/"><u>[New] Mastering Tunes with Mac Studios</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-monetizing-on-youtube-can-you-earn-monthly-in-2024/"><u>[Updated] Monetizing on YouTube Can You Earn Monthly, In 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-dive-into-vlogging-easy-content-projects/"><u>2024 Approved Dive Into Vlogging Easy Content Projects</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-mobile-tools-optimize-and-enhance-audio-faster/"><u>In 2024, Mobile Tools Optimize and Enhance Audio Faster</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-tecno-spark-10-pro-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Tecno Spark 10 Pro Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-audio-effective-fixes-for-black-ops-cold-war-pc-playback-problems/"><u>Restore Audio: Effective Fixes for Black Ops: Cold War PC Playback Problems</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/streamline-your-workflow-the-best-video-editing-apps-for-4k-proxy-files-for-2024/"><u>Streamline Your Workflow The Best Video Editing Apps for 4K Proxy Files for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-cartoonify-your-footage-the-ultimate-video-to-cartoon-tutorial-for-2024/"><u>Updated Cartoonify Your Footage The Ultimate Video-to-Cartoon Tutorial for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-lower-thirds-that-pop-creative-strategies-for-final-cut-pro-x/"><u>Updated In 2024, Lower Thirds That Pop Creative Strategies for Final Cut Pro X</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-unbiased-comparison-final-cut-pro-and-lumafusion-which-one-is-right-for-you-for-2024/"><u>Updated Unbiased Comparison Final Cut Pro and LumaFusion - Which One Is Right for You for 2024</u></a></li>
 </ul></div>
 

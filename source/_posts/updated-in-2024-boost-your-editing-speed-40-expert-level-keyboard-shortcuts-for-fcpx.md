@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Boost Your Editing Speed 40 Expert-Level Keyboard Shortcuts for FCPX
-date: 2024-11-17T07:00:51.304Z
-updated: 2024-11-24T03:23:11.738Z
+date: 2024-11-26T23:23:53.503Z
+updated: 2024-12-02T17:24:21.065Z
 tags: 
   - video editing software
   - video editing
@@ -102,7 +102,7 @@ In this article, I share my Top 40 keyboard shortcuts. I use these beauties ever
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -122,7 +122,7 @@ Above are the top useful shortcuts that I used most when editing videos in Final
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -140,17 +140,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-mastering-adventure-the-best-6-gopro-mounts-revealed-for-2024/"><u>[New] Mastering Adventure The Best 6 GoPro Mounts Revealed for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-audioanalyzer-reaction-to-recordings/"><u>[Updated] In 2024, AudioAnalyzer Reaction to Recordings</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-live-tv-mastery-capturing-content-on-your-windows-pc/"><u>[Updated] In 2024, Live TV Mastery Capturing Content on Your Windows PC</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-powered-spreadsheet-solutions-via-chatgpt-and-excel/"><u>AI-Powered Spreadsheet Solutions via ChatGPT & Excel</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chagpts-capacity-unhindered-openai-declares/"><u>ChaGPT's Capacity Unhindered: OpenAI Declares</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/comprehensive-guide-on-revamping-your-intel-centrino-advanced-n-wifi-card-ahp-with-latest-drivers/"><u>Comprehensive Guide on Revamping Your Intel Centrino Advanced-N WiFi Card (AHP) with Latest Drivers</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-poco-c51-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Poco C51 Phone Now with These Tips</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcome-halo-infinites-pc-lag-top-7-tricks-and-tweaks-for-smooth-play/"><u>Overcome Halo Infinite's PC Lag: Top 7 Tricks and Tweaks for Smooth Play</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/the-ultimate-guide-to-video-resumes-4-best-makers-and-free-resources-for-2024/"><u>The Ultimate Guide to Video Resumes 4 Best Makers and Free Resources for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-best-of-the-best-top-rated-free-mpeg-video-splitting-tools/"><u>Updated In 2024, Best of the Best Top-Rated Free MPEG Video Splitting Tools</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-unlocking-os-x-mavericks-video-editing-potential/"><u>Updated Unlocking OS X Mavericks Video Editing Potential</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/vllo-for-mac-download-and-discover-similar-options-for-2024/"><u>VLLO for Mac Download and Discover Similar Options for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-iobit-screen-recorder-review-and-alternative/"><u>[New] 2024 Approved IObit Screen Recorder Review and Alternative</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-ultimate-blueprint-for-memetic-virality-for-2024/"><u>[New] The Ultimate Blueprint for Memetic Virality for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-ultimate-device-companion-for-metaventureers/"><u>[New] The Ultimate Device Companion for Metaventureers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-oppo-reno-8t-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Oppo Reno 8T</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Honor X50 GT? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-vn-video-editor-pc-edition-a-brief-inspection-for-2024/"><u>New VN Video Editor PC Edition A Brief Inspection for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/top-ranking-windows-11-media-converter-effortlessly-transform-dvds-into-mp4-mkv-and-more/"><u>Top-Ranking Windows 11 Media Converter: Effortlessly Transform DVDs Into MP4, MKV, and More</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-best-online-photo-and-video-collage-makers/"><u>Updated 2024 Approved Best Online Photo and Video Collage Makers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-and-easy-mov-video-rotation-solutions/"><u>Updated 2024 Approved Free and Easy MOV Video Rotation Solutions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-from-zero-to-hero-mastering-reaction-videos-with-filmoras-latest-features/"><u>Updated 2024 Approved From Zero to Hero Mastering Reaction Videos with Filmoras Latest Features</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-sync-up-5-essential-apps-for-making-lip-sync-videos/"><u>Updated 2024 Approved Sync Up! 5 Essential Apps for Making Lip Sync Videos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-one-look-one-feel-the-ultimate-guide-to-color-matching-in-final-cut-pro-for-2024/"><u>Updated One Look, One Feel The Ultimate Guide to Color Matching in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-best-of-the-best-12-top-online-animation-makers-for-professionals-for-2024/"><u>Updated The Best of the Best 12 Top Online Animation Makers for Professionals for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/virtual-voyage-charting-facebooks-course-to-meta/"><u>Virtual Voyage: Charting Facebook's Course to Meta</u></a></li>
 </ul></div>
 

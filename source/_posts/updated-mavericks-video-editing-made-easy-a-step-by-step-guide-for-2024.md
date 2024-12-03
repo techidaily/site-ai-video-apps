@@ -1,7 +1,7 @@
 ---
 title: Updated Mavericks Video Editing Made Easy A Step-by-Step Guide for 2024
-date: 2024-11-23T12:05:37.129Z
-updated: 2024-11-24T13:21:50.950Z
+date: 2024-11-29T02:38:24.095Z
+updated: 2024-12-03T03:55:51.447Z
 tags: 
   - video editing software
   - video editing
@@ -29,7 +29,7 @@ As Mac OS X 10.14.3 Mavericks will become a popular and household operating syst
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Edit Videos in OS X Mavericks
@@ -40,6 +40,10 @@ Free download and run Filmora on Mac OS X Mavericks, go to File > Add Files or d
 
 ![how to edit videos on mavericks](https://images.wondershare.com/filmora/article-images/import-video-9-mac.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 2 Edit videos in OS X Mavericks
 
  **Trim, crop, rotate video, and add titles, filters, video effect etc.**
@@ -48,10 +52,6 @@ Filmora gives you much simpler videos editing experience on Mac OS X Mavericks. 
 
 ![edit videos mavericks](https://images.wondershare.com/filmora/article-images/edit-video-filmora-9-mac.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **Add transitions or credit/intro**
 
 To add transitions, you can click **Transitions** at the top, and then drag your favorite transition effect to the track over the video to apply. Then double click it to set the transition duration freely. As you can see, you can also apply one favorite transition effect to all the clips or let the software randomly add transitions for you. To make your videos more stunning, you can also switch to the “Intro/Credit” tab to add different intro/ credit effect to timeline. To change the effect and text, choose the “Title” function and customize it as you like.
@@ -59,7 +59,7 @@ To add transitions, you can click **Transitions** at the top, and then drag your
 ![edit video mac](https://images.wondershare.com/filmora/guide/add-transition-mac.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 3 Save the edited videos
@@ -73,13 +73,13 @@ Now download this video resizer for Mavericks and explore more video editing fun
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -97,20 +97,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-vimeo-captions-101-the-essential-guide/"><u>[New] 2024 Approved Vimeo Captions 101 The Essential Guide</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-captivate-your-audience-professional-end-screen-creations/"><u>[Updated] In 2024, Captivate Your Audience Professional End Screen Creations</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-premium-list-high-end-ios-tune-creators/"><u>[Updated] Premium List High-End iOS Tune Creators</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-step-by-step-tutorial-for-successful-youtube-video-submissions/"><u>[Updated] Step-By-Step Tutorial for Successful YouTube Video Submissions</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-substitute-cinema-classics-ranked-7-1-for-2024/"><u>[Updated] Substitute Cinema Classics, Ranked #7-1 for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/duration-estimate-for-an-hd-20mb-movie-file/"><u>Duration Estimate for an HD 20Mb Movie File</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-newest-driver-update-for-your-hp-officejet-pro-6970-download-guide-for-windows-users/"><u>Get the Newest Driver Update for Your HP Officejet Pro 6970 - Download Guide for Windows Users</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/go-professional-stay-budgeted-top-4-tutorials-on-creating-green-screen-magic-for-cost-free-learning/"><u>Go Professional, Stay Budgeted Top 4 Tutorials on Creating Green Screen Magic for Cost-Free Learning</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-xs-max-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone XS Max to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-which-dvr-is-king-tivo-and-comcast-go-head-to-head-in-our-expert-review/"><u>New In 2024, Which DVR Is King? TiVo and Comcast Go Head-to-Head in Our Expert Review</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-looking-beyond-premiere-elements-top-10-video-editing-software-for-2024/"><u>New Looking Beyond Premiere Elements Top 10 Video Editing Software for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-mac-tutorial-downloading-and-setting-up-kinemaster-made-easy-for-2024/"><u>New Mac Tutorial Downloading and Setting Up KineMaster Made Easy for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-quik-on-pc-how-to-use-it-and-alternative-options-for-2024/"><u>New Quik on PC How to Use It and Alternative Options for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-list-of-sony-vegas-alternatives-for-windows-users-for-2024/"><u>New The Ultimate List of Sony Vegas Alternatives for Windows Users for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-this-article-introduces-one-of-the-best-movie-maker-for-mac-user-and-how-to-use-this-movie-maker-to-edit-video-footage-with-3-steps/"><u>New This Article Introduces One of the Best Movie Maker for Mac User and How to Use This Movie Maker to Edit Video Footage with 3 Steps</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-ultimate-blueprint-for-effective-use-of-audio-emojis/"><u>[Updated] In 2024, The Ultimate Blueprint for Effective Use of Audio Emojis</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-selecting-cinematic-slices-top-10-for-editing-mastery/"><u>2024 Approved Selecting Cinematic Slices Top 10 for Editing Mastery</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/creative-labs-flagship-audio-device-the-2013-sound-blaster-zxr-an-in-depth-review/"><u>Creative Lab's Flagship Audio Device, the 2013 Sound Blaster ZXR: An In-Depth Review</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-corsair-h80i-v2-controller-programs/"><u>Download and Update Corsair H80i v2 Controller Programs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-idea-to-image-da-vincis-top-30-creative-stimuli-for-ai-artists/"><u>From Idea to Image: Da Vinci's Top 30 Creative Stimuli for AI Artists</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-how-to-detach-a-gadget-from-google-home-settings/"><u>Guide: How To Detach A Gadget From Google Home Settings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-seventh-wave-ais-role-in-workforce-change/"><u>The Seventh Wave: AI's Role in Workforce Change</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/unveiling-the-excellence-detailed-look-at-the-microsoft-surface-laptop-4/"><u>Unveiling the Excellence: Detailed Look at the Microsoft Surface Laptop 4</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-best-free-video-editing-software-for-splitting-wmv-files-for-2024/"><u>Updated Best Free Video Editing Software for Splitting WMV Files for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-convert-webm-to-mp3-top-rated-conversion-tools/"><u>Updated In 2024, Convert WebM to MP3 Top-Rated Conversion Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-experience-the-future-of-video-top-4k-samples/"><u>Updated In 2024, Experience the Future of Video Top 4K Samples</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-leading-text-tracking-solutions-for-animators-for-2024/"><u>Updated Leading Text Tracking Solutions for Animators for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-unlock-chromebooks-full-potential-install-linux-for-2024/"><u>Updated Unlock Chromebooks Full Potential Install Linux for 2024</u></a></li>
 </ul></div>
 

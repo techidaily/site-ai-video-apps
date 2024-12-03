@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved From Basic to Brilliant Adding Effects in FCP X with 3 Simple Steps
-date: 2024-08-27T04:27:08.616Z
-updated: 2024-08-28T04:27:08.616Z
+date: 2024-11-29T23:55:53.939Z
+updated: 2024-12-03T03:23:45.335Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/06c74021872dcc3b0ce900f997f142db31fade534
 
 # Simple Guide to FCP X: How To Add Effects in 3 Steps
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -35,12 +32,13 @@ I've written previously about how to use Inspector effects to create a [picture-
 
 This is a basic tutorial about Apple Final Cut Pro X, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Apply Effects to Video in Final Cut Pro X
 
@@ -57,17 +55,19 @@ Here is our clip - a fearsome polar bear.
 
 To apply an effect, first select the clip in the Timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx002.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
@@ -84,9 +84,6 @@ To apply an effect, do one of two things:
 
 To modify an effect, click this icon in the Toolbar to open the Inspector (or type Cmd + 4).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx005.jpg "add effects in fcp")
 
 Click the Video tab in the Inspector. Effects from the Effects Browser are always listed at the top of the Inspector.
@@ -95,16 +92,21 @@ Click the Video tab in the Inspector. Effects from the Effects Browser are alway
 
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx007.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Disable and delete an effect
 
 To temporarily disable an effect, without deleting it, click the blue box so that it turns gray.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx008.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To enable an effect, click the gray box so it turns blue again.
 
@@ -130,8 +132,6 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -139,5 +139,20 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-how-to-use-snapchat-to-send-a-snap-with-cartoon-face-lens/"><u>[Updated] 2024 Approved How to Use Snapchat to Send a Snap with Cartoon Face Lens</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-saving-the-essence-a-guide-for-virtual-meeting-records/"><u>[Updated] Saving the Essence A Guide for Virtual Meeting Records</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/best-mobile-roboknox-substitutes-top-rated-replacement-applications/"><u>Best Mobile RoboKnox Substitutes: Top-Rated Replacement Applications</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/channel-control-center-creator-studio-essentials-for-2024/"><u>Channel Control Center Creator Studio Essentials for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722872426403-navigating-the-digital-age-laptops-smartphones-and-literary-treasures-galore/"><u>Navigating the Digital Age: Laptops, Smartphones & Literary Treasures Galore</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-mastering-adobe-premiere-top-6-tricks-for-professional-video-editing/"><u>New 2024 Approved Mastering Adobe Premiere Top 6 Tricks for Professional Video Editing</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-ultimate-list-of-image-to-video-makers-free-paid-and-everything-in-between/"><u>New 2024 Approved The Ultimate List of Image to Video Makers Free, Paid, and Everything in Between</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-video-tagging-tools-for-mp4-files/"><u>New 2024 Approved Video Tagging Tools for MP4 Files</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-vlc-video-trimmer-for-mac-trim-and-edit-videos-with-ease-no-quality-loss/"><u>New 2024 Approved VLC Video Trimmer for Mac Trim and Edit Videos with Ease, No Quality Loss</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-10-best-free-whiteboard-animation-software-on-windows-and-mac/"><u>New In 2024, 10 Best Free Whiteboard Animation Software on Windows and Mac</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-8-best-free-online-video-stabilizers-guide-provided/"><u>New In 2024, 8 Best Free Online Video Stabilizers Guide Provided</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-samsung-galaxy-a25-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Samsung Galaxy A25 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/upgrade-your-wireless-connectivity-with-the-newest-80211n-driver-for-multiple-windows-os/"><u>Upgrade Your Wireless Connectivity with the Newest 802.11N Driver for Multiple Windows OS</u></a></li>
+</ul></div>
 

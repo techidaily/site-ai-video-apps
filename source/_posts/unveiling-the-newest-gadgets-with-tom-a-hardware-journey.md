@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Newest Gadgets with Tom - A Hardware Journey
-date: 2024-11-23T00:46:19.252Z
-updated: 2024-11-24T00:14:28.226Z
+date: 2024-11-29T00:00:18.204Z
+updated: 2024-12-03T00:30:02.280Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,20 +78,22 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-10-essential-cam-shields-for-privacy/"><u>[New] 2024 Approved 10 Essential Cam Shields for Privacy</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-deep-dive-into-theta-s-a-full-camera-examination/"><u>[Updated] 2024 Approved Deep Dive Into Theta S A Full Camera Examination</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-cutting-edge-broadcasting-dslr-use-for-facebook-live-on-pcmac/"><u>[Updated] Cutting-Edge Broadcasting DSLR Use for Facebook Live on PC/Mac</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-mastering-transition-logic-pro-xs-audio-fade-technique/"><u>[Updated] In 2024, Mastering Transition Logic Pro X's Audio Fade Technique</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo V27 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhancing-compatibility-new-dell-compatible-sm-bus-controller-firmware-revision/"><u>Enhancing Compatibility: New Dell-Compatible SM Bus Controller Firmware Revision</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-stay-connected-with-roku-hotels-and-dorms-top-tips-for-students-and-travelers/"><u>How to Stay Connected with Roku Hotels and Dorms: Top Tips for Students and Travelers</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-iphone-xs-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password On iPhone XS</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/inside-the-world-of-zdsoft-video-capturing/"><u>Inside the World of ZDSoft Video Capturing</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-elevate-your-audio-2-fade-infade-out-methods-in-fcp/"><u>Updated 2024 Approved Elevate Your Audio 2 Fade-In/Fade-Out Methods in FCP</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-from-novice-to-pro-20-adobe-premiere-shortcuts-to-elevate-your-skills/"><u>Updated 2024 Approved From Novice to Pro 20 Adobe Premiere Shortcuts to Elevate Your Skills</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-mastering-video-editing-on-mac-a-guide-to-os-x-mavericks/"><u>Updated 2024 Approved Mastering Video Editing on Mac A Guide to OS X Mavericks</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-ultimate-final-cut-pro-hack-flipping-clips-in-4-easy-steps/"><u>Updated In 2024, The Ultimate Final Cut Pro Hack Flipping Clips in 4 Easy Steps</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-s-best-free-green-screen-editors-for-mobile-phones-for-2024/"><u>Updated S Best Free Green Screen Editors for Mobile Phones for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-the-best-free-video-rotators-for-mov-files-for-2024/"><u>Updated The Best Free Video Rotators for MOV Files for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-decoding-the-complexities-of-drone-photography-and-gimbals-for-2024/"><u>[New] Decoding the Complexities of Drone Photography and Gimbals for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-elite-hd-visual-snapshot-solutions/"><u>[New] Elite HD Visual Snapshot Solutions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-mastering-online-channel-name-creation-tips-and-tricks/"><u>[New] In 2024, Mastering Online Channel Name Creation Tips & Tricks</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-engaging-audien-writes-and-converting-followers-through-instigra/"><u>[Updated] Engaging Audien Writes and Converting Followers Through Instigra</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-screen-commanders-clash-for-2024/"><u>[Updated] Screen Commanders Clash for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-honor-magic-v2-device-sim-by-drfone-android/"><u>Easily Unlock Your Honor Magic V2 Device SIM</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-key-scenes-a-filmmakers-guidebook/"><u>In 2024, Mastering Key Scenes A Filmmaker's Guidebook</u></a></li>
+<li><a href="https://fox-info.techidaily.com/real-world-examples-for-2024/"><u>Real-World Examples for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/unlocking-cinematic-potential-advanced-fcpx-techniques-for-2024/"><u>Unlocking Cinematic Potential Advanced FCPX Techniques for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-video-cutting-tools-for-mp4-expert-approved-options/"><u>Updated 2024 Approved Free Video Cutting Tools for MP4 Expert-Approved Options</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-rotate-your-videos-with-ease-a-comprehensive-tutorial/"><u>Updated 2024 Approved Rotate Your Videos with Ease A Comprehensive Tutorial</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-from-bland-visuals-to-dynamic-displays-adding-audio-elements-to-your-digital-videos-for-2024/"><u>Updated From Bland Visuals to Dynamic Displays Adding Audio Elements to Your Digital Videos for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-discover-the-top-vignette-creator-apps-for-iphone-and-android/"><u>Updated In 2024, Discover the Top Vignette Creator Apps for iPhone and Android</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-from-camera-to-computer-a-beginners-guide-to-editing-canon-videos/"><u>Updated In 2024, From Camera to Computer A Beginners Guide to Editing Canon Videos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-get-your-swap-on-the-best-face-swap-apps-for-mobile-devices/"><u>Updated In 2024, Get Your Swap On The Best Face Swap Apps for Mobile Devices</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-two-screens-one-goal-the-best-split-screen-video-apps-for-ios-and-android-users/"><u>Updated Two Screens, One Goal The Best Split-Screen Video Apps for iOS and Android Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-video-flip-in-no-time-expert-techniques-made-simple/"><u>Updated Video Flip in No Time Expert Techniques Made Simple</u></a></li>
 </ul></div>
 

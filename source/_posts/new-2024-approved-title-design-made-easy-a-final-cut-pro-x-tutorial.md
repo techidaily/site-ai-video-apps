@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Title Design Made Easy A Final Cut Pro X Tutorial
-date: 2024-08-22T12:40:05.606Z
-updated: 2024-08-23T12:40:05.606Z
+date: 2024-12-01T03:44:51.019Z
+updated: 2024-12-02T21:00:13.463Z
 tags: 
   - video editing software
   - video editing
@@ -30,9 +30,6 @@ We add text titles to our projects to tell the audience something they can't fig
 
 This is a basic tutorial about Apple Final Cut Pro X, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -51,9 +48,6 @@ Just to keep us all on the same page, here are my definitions of key terms relat
 
 #### JUST THE BASICS
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles001.jpg)
 
 I'd like to introduce "Yertle," he's a sea turtle and the star of this article. (Footage courtesy of Jim Walker and Lobsters Gone Wild Productions.)
@@ -96,9 +90,6 @@ Let's add a totally ridiculous title to our turtle - drag Clouds from the Title 
 
 NOTE: I'm using a marker in the Timeline to help me find the same place in a clip so my screen shots are consistent. Markers are not needed in any way for titles.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles008.jpg)
 
 Um, yeah. So, some titles look more professional than others... You can delete this title now.
@@ -123,9 +114,6 @@ All text, in any title, can be changed by double-clicking it in the Viewer to se
 
 #### FORMATTING TEXT
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles011.jpg)
 
 You can format any text that you can select. This means that you can format entire phrases, words, or individual letters differently. For this article, I will format everything the same, because once you know how this works, you can experiment on your own.
@@ -154,16 +142,10 @@ While many of these settings you already know there are a few you may not:
 
 The Face section allows us to change font color, opacity and blue. Outline and Glow allows us to add, not surprisingly, outlines and glows. You can adjust these as you see fit - I tend not to add outlines or glows.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles017.jpg)
 
 However, I STRONGLY recommend adding drop shadows to all text that you want viewers to read. Video, even HD video, is low resolution compared to print. Drop shadows make your text much easier to read. These are the settings I recommend for drop shadows.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles014.jpg)
 
 After making a few changes in the Inspector, here's the final result. Very cool - and very different from where we started!
@@ -176,9 +158,6 @@ While much of today's video is designed for the web, your titles will look the b
 
 Titles015
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles015.jpg)
 
 Go to the Switch in the Viewer and select "Show Action Safe/Title Safe Zones."
@@ -195,9 +174,6 @@ Here, for example, notice that my title is fully contained within Action Safe.
 
 Titles give our programs character and personality, plus they explain what's going on to the audience. Final Cut Pro X provides a wealth of formatting options to make our text look great.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -206,8 +182,6 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -215,5 +189,28 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-drone-applications-at-present-and-in-the-future/"><u>[New] In 2024, Drone Applications at Present and in the Future</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-who-wins-in-video-quality-comparing-av1-to-vp9/"><u>[New] In 2024, Who Wins in Video Quality? Comparing AV1 to VP9</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-premier-ios-gaming-experience-leading-emulators-for-psp-enthusiasts-for-2024/"><u>[New] Premier iOS Gaming Experience Leading Emulators for PSP Enthusiasts for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nleash-creativity-exclusive-free-youtube-banner-templates/"><u>[New] Unleash Creativity - Exclusive Free YouTube Banner Templates</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-behind-the-screen-look-examining-instagram-post-views/"><u>[Updated] In 2024, Behind The Screen Look Examining Instagram Post Views</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-questions-about-intermittent-video-playback-at-photobooth/"><u>2024 Approved Questions About Intermittent Video Playback at Photobooth</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/er-nu-den-ideale-tid-til-en-nyt-affaldssorteringsprogram-discover-movavis-multimedia-software/"><u>Er Nu Den Ideale Tid Til en Nyt Affaldssorteringsprogram? Discover Movavi's Multimedia Software</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-xiaomi-redmi-k70-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mastering-energy-saving-a-guide-to-enable-and-utilize-low-power-mode-on-macos-monterey/"><u>Mastering Energy Saving: A Guide to Enable and Utilize Low Power Mode on macOS Monterey</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-make-a-cartoon-from-your-favorite-photo/"><u>Updated 2024 Approved Make a Cartoon From Your Favorite Photo</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-edit-avi-files-with-ease-best-windows-8-video-editor-2023-for-2024/"><u>Updated Edit AVI Files with Ease Best Windows 8 Video Editor - 2023 for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-final-cut-pro-for-free-explore-its-features-for-90-days-for-2024/"><u>Updated Final Cut Pro for Free Explore Its Features for 90 Days for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-discover-the-best-imovie-alternative-for-windows-10-free-paid-and-everything-in-between/"><u>Updated In 2024, Discover the Best iMovie Alternative for Windows 10 Free, Paid, and Everything in Between</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-final-cut-pro-voice-over-mastery-essential-techniques-for-success/"><u>Updated In 2024, Final Cut Pro Voice Over Mastery Essential Techniques for Success</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-free-and-easy-video-stabilization-top-picks/"><u>Updated In 2024, Free and Easy Video Stabilization Top Picks</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-mac-users-rejoice-download-vllo-and-find-similar-apps/"><u>Updated Mac Users Rejoice Download VLLO and Find Similar Apps</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-time-warp-transform-your-videos-with-vhs-effects-in-fcp-for-2024/"><u>Updated Time Warp Transform Your Videos with VHS Effects in FCP for 2024</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

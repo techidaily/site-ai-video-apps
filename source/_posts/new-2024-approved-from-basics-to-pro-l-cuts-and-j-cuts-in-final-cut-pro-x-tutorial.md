@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved From Basics to Pro L-Cuts and J-Cuts in Final Cut Pro X Tutorial
-date: 2024-08-27T04:25:44.995Z
-updated: 2024-08-28T04:25:44.995Z
+date: 2024-11-27T05:51:10.326Z
+updated: 2024-12-03T01:41:55.021Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/738343d11636524e97e883ecdfb55ee8c179338e8
 
 # Final Cut Pro X Tutorial: L-Cuts and J-Cuts
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -32,8 +29,9 @@ If you wish to edit or create videos like a pro, you do not need to be a profess
 It could be surprising, but yes, your well-known Final Cut Pro X has this powerful feature still overlooked by many people. So, today, we take it on hand and shall share what L-Cuts and J-Cuts mean. You will be able to create it on your own by the end of this article.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: The Use of L-Cuts and J-Cuts in Video Editing
 
 Ordinary images, text, subtitles, and GIF doesn’t work anymore to get followers or likes on a video on YouTube channel or Instagram. Thus, video creators are tired of trying the same filters, transitions on the video editor tool. To create amazing videos like the ones played on your television and favorite movies, all you need is the split edit type techniques, a powerful editing tool used by professional editors. Although called professional, it isn’t difficult for a beginner if you know J-Cuts and L-Cuts.
@@ -45,13 +43,9 @@ When you look at the above interface, you will see the basic phenomenon behind t
 Then, **what is a J cut in Final Cut Pro**? It is ultimately reverse or opposite of L-Cuts. Yes, the second clip's audio starts a while before the scene of the first video ends.
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: Step-by-step Guide on Using L-Cuts and J-Cuts in Final Cut Pro X
 
 As Final Cut Pro X comes overloaded with advanced, powerful tools, you can find it a little tricky. Hence, we are here to help you perform **the Final Cut Pro L-Cuts** in this session. And, yes, the **Final Cut Pro J-Cuts** as well.
@@ -83,8 +77,9 @@ In the case of Final Cut Pro **J-Cuts**, the process is reverse, where you need 
 When you look at the transition closely, you can see that it resembles the letter J.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: Final Cut Pro X Keyboard Shortcuts for L-Cuts and J-Cuts
 
 Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts and Final Cut Pro J-Cuts.
@@ -108,24 +103,24 @@ Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts a
 * Using timecode to add or subtract the present edit: press the “**Plus (+)**” or “**Minus (-)**” key with the timecode duration.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Are you wondering and puzzled that you are a popular Final Cut Pro X user but weren't aware of this powerful split edit tool till now? It isn't too late for you to start yet. Finally, as assured at the beginning of the article, we gave you detailed information on what are J-Cuts in Final Cut Pro along with L-Cuts. With practical implementation on creating Final Cut Pro L-Cuts and J-Cuts, all the best for your first video project!
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -134,5 +129,26 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-uncovering-illegal-gain-from-false-subscriber-sales/"><u>[New] Uncovering Illegal Gain From False Subscriber Sales</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-remarkable-effects-of-asmr-on-you/"><u>[Updated] The Remarkable Effects of ASMR on You</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unlock-social-potential-xbox-games-via-facebook-livestream-for-2024/"><u>[Updated] Unlock Social Potential Xbox Games via Facebook Livestream for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/behebung-der-tatsache-der-papierkorb-scheint-leer-zu-sein-jedoch-ist-dies-ein-irrglaube/"><u>Behebung Der Tatsache: Der Papierkorb Scheint Leer Zu Sein – Jedoch Ist Dies Ein Irrglaube!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-installation-of-updated-graphics-drivers-for-your-amd-rx-480-card/"><u>Effortless Installation of Updated Graphics Drivers for Your AMD RX 480 Card</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fast-fix-resolving-windows-failed-to-install-issues/"><u>Fast Fix: Resolving 'Windows Failed To Install' Issues</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-lava-storm-5g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Lava Storm 5G online without jailbreak</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-seamless-integration-of-phone-and-pc-timelines-with-zoom-meetings/"><u>In 2024, Seamless Integration of Phone & PC Timelines with Zoom Meetings</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-best-video-editing-software-for-chrome-os-users/"><u>New 2024 Approved Best Video Editing Software for Chrome OS Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-condense-time-amplify-impact-time-lapse-video-creation-in-final-cut-pro/"><u>New 2024 Approved Condense Time, Amplify Impact Time Lapse Video Creation in Final Cut Pro</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-cut-and-split-wmv-videos-for-free-top-software-picks/"><u>New 2024 Approved Cut and Split WMV Videos for Free Top Software Picks</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-fcpx-productivity-hacks-top-40-keyboard-shortcuts-for-editors/"><u>New 2024 Approved FCPX Productivity Hacks Top 40 Keyboard Shortcuts for Editors</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-mastering-wax-a-step-by-step-guide-to-free-video-editing/"><u>New 2024 Approved Mastering Wax A Step-by-Step Guide to Free Video Editing</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-protect-your-edits-a-beginners-guide-to-saving-in-final-cut-pro/"><u>New 2024 Approved Protect Your Edits A Beginners Guide to Saving in Final Cut Pro</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-discover-the-best-glitch-video-editors-for-windows-mac-and-online-use/"><u>New In 2024, Discover the Best Glitch Video Editors for Windows, Mac, and Online Use</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-avi-video-editor-reviews-top-5-picks/"><u>New In 2024, Free AVI Video Editor Reviews Top 5 Picks</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-s-best-stop-motion-animation-programs-for-mac-and-pc-computers/"><u>New In 2024, S Best Stop Motion Animation Programs for Mac and PC Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-fixing-system-call-failure-in-win11/"><u>Strategies for Fixing System Call Failure in Win11</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/various-methods-to-transfer-pictures-from-apple-iphone-14-pro-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Various Methods to Transfer Pictures from Apple iPhone 14 Pro to PC | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Linux on a Chromebook The Complete Installation and Setup Guide
-date: 2024-08-31T10:40:49.660Z
-updated: 2024-09-01T10:40:49.660Z
+date: 2024-11-28T01:44:49.860Z
+updated: 2024-12-03T02:55:42.312Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/f02c60ec75f846fa2b4ccaf9e1cd79d7d6223ca42
 
 # How to Install Linux on Chromebook
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -38,8 +35,9 @@ Chrome OS is a Linux based environment and for that reason, Chromebook owners wh
 * [Part 5: Recommended Linux Video Editing Software](#part5)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: Preparing before installing Linux OS on Chromebook
 
 The first step of the process of installing the Linux OS is the decision itself, and you need to have all the necessary information before you decide to install a Linux OS on your Chromebook.
@@ -49,8 +47,9 @@ The first step of the process of installing the Linux OS is the decision itself,
 * Now that you are aware of the requirements and risks, you will have to backup all the files you have on your Chromebook because once you switch to the Developer Mode all the information stored locally will be erased. You can save the files on another computer or on the cloud depending on how much data you need to move and which one is more convenient for you.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: How to Install Linux as a Chroot Using Crouton on Chromebook
 
 After you have stored all your data safely, your Chromebook is ready for the beginning of the installation process of the secondary operating system. You will have to perform a series of actions that will allow you to start the installation, starting from accessing the Developer Mode.
@@ -65,9 +64,6 @@ The first step of the process is to reboot your system, while your Chromebook is
 
 At this stage of the process, your Chromebook is ready for the installation of the Crouton environment. Crouton is a series of scripts that makes running a Linux OS much easier, especially for inexperienced users. In order to download Crouton, go to [GitHub](https://github.com/dnschneid/crouton) and find the download link, detailed instructions or extensions that can add more functionality to your OS. Once the installation file or files are in the Download folder, your next step is to access the Chromebook's terminal a feature called 'Crosh'. The fastest way to do this is to hold CTRL + ALT keys and then hit the T key. This action will cause the Chrome window to appear on the screen, and you will need to type the 'shell' command without using quotation marks. Afterwards, enter the following command: 'sudo sh \~/Downloads/crouton -t xfce' and if you want to install extensions you will have to add 'xfce,extension' command at the end.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Install Linux on Chromebook](https://images.wondershare.com/filmora/article-images/install-linux-on-chromebook-2.jpg)
 
 Press the Enter key and wait for the system to start setting up the Chroot. This process may take a while, so it is important to be patient, but more importantly, do not interfere with it in any way. Installation of your secondary OS is now on the way, and you may be asked to insert your login data, like your Gmail username and password. Wait patiently until the process is over and then return to shell and enter this command: 'sudo enter-chroot startxfce4'. Your screen will go black for a while, but after the black screen is gone your Chromebook will be in the freshly installed Linux OS.
@@ -94,10 +90,11 @@ Once the partitioning of your hard-drive is completed, you will have to repeat t
 
 Once the installation is completed, restart your Chromebook to finalize the process, and when you see the 'OS Verification is Off' notification press Ctrl+L to access Linux or Ctrl+D boot into Chrome OS.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Install Linux on Chromebook](https://images.wondershare.com/filmora/article-images/install-linux-on-chromebook-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 3. Uninstall ChrUbuntu
 
@@ -106,8 +103,9 @@ Removing ChrUbuntu is a relatively painless process that can be completed with j
 This Linux removal method will also require you to have a USB stick with a minimum of 4GB of storage space. After you created the disk, you can go into the Recovery Mode, by holding Esc and Refresh buttons simultaneously and then pressing the Power button. In the Recovery Mode, you will be asked to insert the recovery disk and the process will be on the way.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 4: How to Dual-Boot a Chromebook Using Gallium OS
 
 If neither Chroot nor ChrUbuntu work for you, using Gallium OS may be the right choice. The Gallium is Xbuntu-based OS that is equipped with touchpad mouse drivers among other advantages it offers over other operating systems. The installation process isn't complicated, although it may require more effort than installing Crouton.
@@ -144,13 +142,15 @@ The software is compatible with Mac, Windows, and Linux OS, which makes it a per
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -159,5 +159,19 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-standout-soundstage-sagas-and-plots/"><u>[New] 2024 Approved Standout Soundstage Sagas and Plots</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-roadmap-to-a-top-ranked-facebook-profile/"><u>[Updated] 2024 Approved The Roadmap to a Top-Ranked Facebook Profile</u></a></li>
+<li><a href="https://games-able.techidaily.com/enlighten-your-switch-experience-with-best-ftp-games/"><u>Enlighten Your Switch Experience with Best FTP Games</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exploring-funimates-full-potential/"><u>Exploring Funimate's Full Potential</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-endurance-are-electric-vehicles-on-par-with-gasoline-powered-counterparts-in-terms-of-lifespan/"><u>Exploring the Endurance: Are Electric Vehicles on Par with Gasoline-Powered Counterparts in Terms of Lifespan?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-this-article-shows-the-detail-steps-to-create-a-chromakey-ie-greenscreen-effect-in-final-cut-pro-x/"><u>New In 2024, This Article Shows the Detail Steps to Create a Chromakey, I.e. Greenscreen Effect in Final Cut Pro X</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-vn-video-editor-pro-does-it-deliver-on-its-promises/"><u>New In 2024, VN Video Editor Pro Does It Deliver on Its Promises?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-top-10-free-plugins-you-should-know-for-final-cut-pro-x-for-2024/"><u>New Top 10 Free Plugins You Should Know for Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-top-5-best-imovie-replacements-for-windows-10/"><u>New Top 5 Best iMovie Replacements for Windows 10</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-transform-your-mp4-files-a-step-by-step-video-editing-tutorial-for-mac-and-windows-for-2024/"><u>New Transform Your MP4 Files A Step-by-Step Video Editing Tutorial for Mac and Windows for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/photo-perfection-how-to-erase-background-noise-with-ease/"><u>Photo Perfection How to Erase Background Noise with Ease</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/smooth-sailing-with-4k-uploads-key-tips-and-strategies-for-youtube-success/"><u>Smooth Sailing with 4K Uploads Key Tips and Strategies for YouTube Success</u></a></li>
+</ul></div>
 
