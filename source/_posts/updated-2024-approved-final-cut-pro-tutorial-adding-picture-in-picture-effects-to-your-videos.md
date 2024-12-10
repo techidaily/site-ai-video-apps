@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Final Cut Pro Tutorial Adding Picture-in-Picture Effects to Your Videos
-date: 2024-11-28T04:49:29.814Z
-updated: 2024-12-02T21:47:57.879Z
+date: 2024-12-02T19:58:42.046Z
+updated: 2024-12-09T16:59:48.906Z
 tags: 
   - video editing software
   - video editing
@@ -30,10 +30,6 @@ This tool can help you to use the picture-in-picture effect with ease. However, 
 
 The article below contains complete details about how to add PIP effects using Final Cut Pro. You will be glad to know that FCP also works with few integrated plugins that assist in the free picture in picture effect generation.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Create PIP Effect with FCP
 
 If you are ready with two videos and now want to bring them to the same screen then prefer to follow these simple steps:
@@ -52,11 +48,19 @@ Note that lower clips use to stay in the background in final results whereas upp
 
 ![transform button](https://images.wondershare.com/filmora/article-images/transform-button-in-fcp.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 3: Apply PIP effect
 
 As now you have added both videos on-screen now you have to select the higher video and then click over the rectangular transform button that is available on the lower-left corner of viewer screen. As soon as you make this selection, the icon will turn into blue color, and naturally 8 dots will appear around the selected image or video. Use any one of these dots for scaling your selection in asymmetrical order.
 
 ![adjust pip effect](https://images.wondershare.com/filmora/article-images/adjust-pip-effect-in-fcp.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 4: Adjust PIP Effect
 
@@ -72,7 +76,7 @@ Simply select the top clip and then hit Command + 4 to open the inspector. Now c
 ![precise adjustment](https://images.wondershare.com/filmora/article-images/precise-adjustment-in-fcp.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 6: Apply Cross- Dissolve
@@ -83,13 +87,13 @@ Simply select the top clip and then hit Command + 4 to open the inspector. Now c
 ![dissolve effect](https://images.wondershare.com/filmora/article-images/dissolve-effect-in-fcp.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Check this video tutorial to know more details:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Picture in Picture Plug-ins for Final Cut Pro
@@ -108,10 +112,6 @@ ProPIP is the best choice for newscasting, commentaries, and many other applicat
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -127,18 +127,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-number-8s-expert-image-fusion-web-utility/"><u>[New] Number 8'S Expert Image Fusion Web Utility</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-elite-virtual-gamescape-essentials-guide/"><u>[Updated] 2024 Approved Elite Virtual Gamescape Essentials Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-haste-assessment-of-windows-documents/"><u>[Updated] In 2024, Haste Assessment of Windows Documents</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-mastering-authenticity-on-instagrams-platform/"><u>[Updated] Mastering Authenticity on Instagram's Platform</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/how-to-transfer-photos-and-videos-from-iphone-to-pc-on-windows-11-10-8-and-7/"><u>How to Transfer Photos and Videos From iPhone to PC on Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-quickest-online-platforms-transforming-gif-into-video/"><u>In 2024, Quickest Online Platforms Transforming GIF Into Video</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-sound-fidelity-preservation-computer-sounds-and-dialogue/"><u>In 2024, Sound Fidelity Preservation Computer Sounds & Dialogue</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-we-tried-vn-video-editor-pro-heres-what-we-found-out-for-2024/"><u>New We Tried VN Video Editor Pro Heres What We Found Out for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-watermark-less-video-combining-7-expert-approved-tools/"><u>Updated 2024 Approved Watermark-Less Video Combining 7 Expert-Approved Tools</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-do-you-have-any-idea-to-save-projects-on-the-final-cut-pro-app-if-you-are-in-search-of-this-content-then-you-are-in-the-right-place-to-obtain-the-va/"><u>Updated Do You Have Any Idea to Save Projects on the Final Cut Pro App? If You Are in Search of This Content, Then You Are in the Right Place to Obtain the Valuable Facts About It in Detail for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-how-to-import-and-export-videos-in-adobe-premiere-for-2024/"><u>Updated How to Import and Export Videos in Adobe Premiere for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-gopro-footage-no-problem-top-alternative-video-editors-to-gopro-studio/"><u>Updated In 2024, GoPro Footage? No Problem! Top Alternative Video Editors to GoPro Studio</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-reshape-your-videos-a-step-by-step-guide/"><u>Updated In 2024, Reshape Your Videos A Step-by-Step Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-realme-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-can-you-spot-a-photo-created-by-machine-learning-tips-and-techniques/"><u>How Can You Spot a Photo Created by Machine Learning? Tips & Techniques</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-v30-lite-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo V30 Lite 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-connectivity-at-its-peak-usb-c-and-the-hp-envy-27-monitor/"><u>In 2024, Connectivity at Its Peak USB-C & the HP Envy 27 Monitor</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-the-potential-of-pip-in-microsoft-edge-browser/"><u>In 2024, Unleash the Potential of PIP in Microsoft Edge Browser</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-quick-fixes-for-windows-11-and-errorcode-0x80072f8f/"><u>Mastering Quick Fixes for Windows 11 and #ErrorCode 0X80072F8f</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-top-10plus-best-free-online-video-editors-for-video-editing-online/"><u>New In 2024, Top 10+ Best Free Online Video Editors for Video Editing Online</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-make-movies-like-a-pro-16-free-and-easy-to-use-tools-for-2024/"><u>New Make Movies Like a Pro 16 Free and Easy-to-Use Tools for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-stabilize-your-footage-for-free-the-best-online-video-stabilizers/"><u>New Stabilize Your Footage for Free The Best Online Video Stabilizers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-text-motion-tracking-expert-approved-software-for-2024/"><u>New Text Motion Tracking Expert-Approved Software for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-top-10-free-video-rotators-to-fix-your-orientation-issues/"><u>New The Top 10 Free Video Rotators to Fix Your Orientation Issues</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-top-10-webm-to-mp4-converters-for-flawless-video-conversion/"><u>New The Top 10 WebM to MP4 Converters for Flawless Video Conversion</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-list-5-best-hd-video-editing-tools-for-creators-for-2024/"><u>New The Ultimate List 5 Best HD Video Editing Tools for Creators for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-transition-like-a-pro-10-best-premiere-pro-plugins-for-smooth-edits/"><u>New Transition Like a Pro 10 Best Premiere Pro Plugins for Smooth Edits</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-gaming-made-easy-resolving-yakuza-eb-game-crashing-problems-and-enjoying-the-song-of-life/"><u>PC Gaming Made Easy: Resolving Yakuza Eb Game Crashing Problems and Enjoying 'The Song of Life'</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/stepwise-guide-to-travel-back-in-time-with-facebooks-archive-laptop-and-mobile-for-2024/"><u>Stepwise Guide to Travel Back in Time with Facebook's Archive (Laptop & Mobile) for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Itel P55T? | Dr.fone</u></a></li>
 </ul></div>
 

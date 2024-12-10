@@ -1,7 +1,7 @@
 ---
 title: New Video Rotation Made Easy Top Free Solutions for Windows, Mac, Android, and iPhone
-date: 2024-12-01T00:00:52.686Z
-updated: 2024-12-02T22:36:59.176Z
+date: 2024-12-08T05:43:54.107Z
+updated: 2024-12-09T20:36:02.903Z
 tags: 
   - video editing software
   - video editing
@@ -52,6 +52,10 @@ Visit Filmora Video Editor's [official website](https://tools.techidaily.com/won
 
 ![avi video rotators](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-rotators-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After downloading the setup, double-click the file to install the video editor. Then, open the program.
 
 Feel free to judge the interface (see the image below), as it is pretty simple to understand. So, even if you’re a beginner, you can learn this tool within a few minutes of practice.
@@ -86,6 +90,10 @@ Right after the above step, you will get another message to help you decide whet
 
 ![avi video rotators](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-rotators-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 However, if you’re a professional video editor, feel free to select the option that suits you the most.
 
 **Step 4: Rotate Your Video with Filmora**
@@ -98,6 +106,10 @@ You will see three tabs – “Video,” “Color,” and “Animation.” So ch
 
 ![avi video rotators](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-rotators-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once done, you will see three important options, which will help you rotate the video.
 
 First, you will notice the “Rotate” option with an adjustment bar. This option will turn your video to different angles of your choice.
@@ -106,13 +118,13 @@ All you need to do is play with the adjustments by grabbing the “Round” knob
 
 ![avi video rotators](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-rotators-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Just below “Rotate,” you will see the “Flip” option with “Horizontal” and “Vertical” mirror icons. Choosing any one of the icons will make your video mirror flip in horizontal or vertical directions.
 
 ![avi video rotators](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-rotators-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The third option is “Scale” beneath the “Flip” option. Similar to the rotate option, this tool also has an adjustment bar. You can make adjustments to magnify or de-magnify the clip to fit the screen. Although this option isn’t mandatory, you can still use it if you find the need.
 
@@ -140,16 +152,12 @@ Rename your file and click on the “Save” button.
 
 ![avi video rotators](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-rotators-17.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The new name will appear at the top of Filmora’s interface.
 
 ![avi video rotators](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-rotators-18.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lastly, click the “Export” button to save the file on your computer.
@@ -198,6 +206,10 @@ It has a simple interface with user-friendly options, which permits you to rotat
 ### XMedia Recode
 
 ![avi video rotators](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-rotators-21.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [XMedia Recode](https://www.xmedia-recode.de/en/index.php) is a free tool for Windows users. While the software is meant to convert videos into different formats, you can also use it for video rotation. Nevertheless, XMedia Recode has various other options, making it perfect for basic video editing.
 
@@ -274,6 +286,10 @@ Also, unlike XMedia Recode, Altrasoft comes with limited options. So, if you onl
 
 Have you already lost your MAC storage on downloading some incompetent video rotators which claim to support AVI files? You can try these three video rotators for MAC, which are free and compatible with AVI video formats.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Kdenlive
 
 ![avi video rotators](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-rotators-23.jpg)
@@ -315,10 +331,6 @@ Besides, from the video rotation point of view, Kdenlive allows you to turn your
 **Cons**
 
 * Extremely unstable on Windows OS
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### IMovie
 
@@ -395,10 +407,6 @@ Although OpenShot can be installed for free on multiple operating systems, it st
 
 * Limited editing options for professionals
 * Not suitable for old Windows OS versions
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: Top 3 Free Video Rotators for Android
 
@@ -496,7 +504,7 @@ Rotate Video FREE is designed by LKR Studio. From 2014 till now, this app develo
 * Hard to find the location of the saved videos
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 5: Top 3 Free Video Rotators for iPhone
@@ -506,10 +514,6 @@ Are you struggling to find a good video rotator for iPhone? Here’s the list of
 ### Video Rotate + Flip Video Easy
 
 ![avi video rotators](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-rotators-29.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Finding a video rotator for iPhone is a bit difficult, as most valuable applications comes after paying the price. But [Video Rotate + Flip Video Easy](https://apps.apple.com/us/app/video-rotate-flip-video-easy/id1071677375) app is totally free to download and use.
 
@@ -543,6 +547,10 @@ The app is also available in different languages, including German, French, Japa
 ### RFV
 
 ![avi video rotators](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-rotators-30.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here’s another free app to rotate and flip your videos. You can download RFV on both Android and iPhone smartphones. However, the iPhone version of the app works flawlessly. In fact, the ratings on both platforms also confirm that there are more happy iPhone users of this app than Android users.
 
@@ -595,17 +603,9 @@ Once you’re done rotating your video, you can save the new clip directly to yo
 * The app shows advertisements until you buy it
 * No reset option – you have to start all over again
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 6: Top 3 Free Video Rotators Online
 
 Don’t want to fill your device’s storage with software? Well! You can rotate videos online for free in AVI format with ease. Here are the 3 best online video rotating tools.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Flixier
 
@@ -719,6 +719,10 @@ Moreover, the developers claim that the videos are deleted automatically from th
 
 Despite a long list of free video editors, finding the right one that simplifies the task without any trouble is hard. But with these **top 16 best free AVI video rotators,** you can flip and rotate videos in a couple of minutes. You can find the most suitable rotator Windows, MAC, iPhone, and Android. Or, you can use the online platforms to enjoy rotations at different angles. However, regardless of device or operating system, each rotator has pros and cons. So don’t hesitate to opt for the tool that fulfills all your needs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 8: FAQs
 
 ### Q1\. How do I rotate a video for free?
@@ -732,10 +736,6 @@ There are many software that helps you rotate videos. However, most of them are 
 ### Q3\. How can I rotate a video without losing quality?
 
 Not all video rotators can promise high-quality results. So if you want to rotate your clip without damaging the quality, you must choose top-notch video editors, like Filmora or iMovie.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Q4\. How do you rotate an AVI file on a MAC?
 
@@ -756,22 +756,24 @@ Did you rush to record a video in a mistaken direction? Or were you just excited
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagrams-most-impactful-personalities-top-25-edition/"><u>[New] 2024 Approved Instagram's Most Impactful Personalities Top 25 Edition</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-easy-to-follow-guide-to-time-lapse-phenomena-with-gopro/"><u>[Updated] In 2024, Easy-to-Follow Guide to Time-Lapse Phenomena with GoPro</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-perfected-pixelated-photos-follow-the-10-key-composition-guidelines/"><u>2024 Approved Perfected Pixelated Photos Follow the 10 Key Composition Guidelines</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-the-hot-swappable-magic-razers-blackwidow-v4-unveiled/"><u>Discover the Hot-Swappable Magic: Razer's BlackWidow V4 Unveiled</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/explore-these-10-playful-linux-tricks-perfect-for-curiosity-and-downtime/"><u>Explore These 10 Playful Linux Tricks - Perfect for Curiosity and Downtime!</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-12-mini-how-to-unlock-a-disabled-iphone-12-mini-by-drfone-ios/"><u>In 2024, Disabled iPhone 12 mini How to Unlock a Disabled iPhone 12 mini?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Itel P55T? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/masterclass-in-choosing-your-best-live-streamer/"><u>Masterclass in Choosing Your Best Live Streamer</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-watermark-less-video-combining-7-expert-approved-tools/"><u>New Watermark-Less Video Combining 7 Expert-Approved Tools</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/understanding-memory-shortages-why-your-system-may-crash-insights-from-yl-computing/"><u>Understanding Memory Shortages: Why Your System May Crash - Insights From YL Computing</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-discover-the-best-video-editing-apps-for-kids-free-paid-and-fun/"><u>Updated 2024 Approved Discover the Best Video Editing Apps for Kids Free, Paid, and Fun</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-fre-for-2024/"><u>Updated Fre for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-best-movie-trailer-apps-for-ios-devices/"><u>Updated In 2024, Best Movie Trailer Apps for iOS Devices</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-windows-10-photos-not-your-cup-of-tea-try-these-8-alternatives/"><u>Updated In 2024, Windows 10 Photos Not Your Cup of Tea? Try These 8 Alternatives</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-take-your-videos-to-the-next-level-editing-tips-and-tricks-for-2024/"><u>Updated Take Your Videos to the Next Level Editing Tips and Tricks for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-the-cream-of-the-crop-2024s-top-4k8k-video-editing-software/"><u>Updated The Cream of the Crop 2024S Top 4K/8K Video Editing Software</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-vn-video-editor-pro-does-it-deliver-on-its-promises-for-2024/"><u>Updated VN Video Editor Pro Does It Deliver on Its Promises for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-essential-steps-to-record-your-hp-laptop-screen-efficiently/"><u>[New] In 2024, Essential Steps to Record Your HP Laptop Screen Efficiently</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-canons-timelapse-a-quick-guide/"><u>[New] Mastering Canon's Timelapse A Quick Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-mastering-the-interface-key-win11-tricks/"><u>2024 Approved Mastering the Interface Key Win11 Tricks</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-tecno-camon-20-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-infinix-smart-7-hd-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Infinix Smart 7 HD to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/inside-look-at-googles-telephony-offerings-pros-cons-and-user-satisfaction/"><u>Inside Look at Google's Telephony Offerings – Pros, Cons, and User Satisfaction</u></a></li>
+<li><a href="https://fox-links.techidaily.com/optimizing-your-mac-for-big-sur-release-for-2024/"><u>Optimizing Your Mac for Big Sur Release for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Lava Agni 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-addressing-fortnites-out-of-memory-situation/"><u>Troubleshooting Tips: Addressing Fortnite’s Out-of-Memory Situation</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/unbranded-video-combining-7-best-software-options-for-2024/"><u>Unbranded Video Combining 7 Best Software Options for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-chromebook-video-editor-roundup-top-picks/"><u>Updated 2024 Approved Chromebook Video Editor Roundup Top Picks</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-get-the-most-out-of-your-nikon-footage-video-editing-essentials/"><u>Updated 2024 Approved Get the Most Out of Your Nikon Footage Video Editing Essentials</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-guide-to-converting-webm-to-mp4-top-10-converters/"><u>Updated 2024 Approved The Ultimate Guide to Converting WebM to MP4 Top 10 Converters</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-vn-video-editor-for-windows-a-brief-overview/"><u>Updated 2024 Approved VN Video Editor for Windows A Brief Overview</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-5-best-free-solutions-to-merge-mpeg-files-for-2024/"><u>Updated 5 Best Free Solutions to Merge MPEG Files for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-6-essential-video-dubbing-tools-for-pc-users-free-and-paid-for-2024/"><u>Updated 6 Essential Video Dubbing Tools for PC Users - Free and Paid for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-bringing-your-drawings-to-life-the-best-animation-software-for-artists-for-2024/"><u>Updated Bringing Your Drawings to Life The Best Animation Software for Artists for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/video-editing-software-like-virtualdub-top-picks-and-reviews-for-2024/"><u>Video Editing Software Like VirtualDub Top Picks and Reviews for 2024</u></a></li>
 </ul></div>
 

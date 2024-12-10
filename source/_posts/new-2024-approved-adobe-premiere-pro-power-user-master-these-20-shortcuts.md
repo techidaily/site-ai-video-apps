@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Adobe Premiere Pro Power User Master These 20 Shortcuts
-date: 2024-08-02T06:20:58.059Z
-updated: 2024-08-03T06:20:58.059Z
+date: 2024-12-08T21:26:47.954Z
+updated: 2024-12-10T00:32:19.528Z
 tags: 
   - video editing software
   - video editing
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
  This is a basic tutorial about Adobe Premiere, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/), which is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -61,18 +58,6 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
  Whilst the shortcuts for editing and manipulating clips are extremely important for efficient workflow, it should be remembered that those relating to the basic operation of the program are just as useful, as we see here. Using Control and I (Command and I on Mac) brings up the import media dialogue box instantly.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-3.png)
 
 #### 3Capture Panel
@@ -90,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 * Step Back - Left Arrow
 * Step Forward - Right Arrow
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-2.jpg)
 
 #### 4 Timeline Panel
@@ -115,9 +97,6 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 * Arc Tool - A
 * Ellipse Tool – E
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-4.jpg)
 
 #### 5 Navigation within a clip
@@ -148,9 +127,6 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
  To get the best from this it is necessary to set some options beforehand, as Play Around plays the portion of the timeline around the Playhead, and where it plays is dependent on the options set. This is done through the menu via edit > preferences > playback, here I have preroll and postroll set to 4 seconds, meaning that it plays 4 seconds prior and following the point where the playhead is placed.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-5.jpg)
 
  In addition, turning on looping for this can help to fine tune edits.
@@ -191,9 +167,6 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
  You can view all added edits within a sequence by selecting show through edits within the sequence menu.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-6.jpg)
 
 #### 15Add the default Transition
@@ -234,8 +207,6 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -243,5 +214,30 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-secrets-to-successful-hash-tag-application-for-improved-campaigns-on-facebook/"><u>[New] In 2024, Secrets to Successful Hash Tag Application for Improved Campaigns on Facebook</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-instilling-illusions-blur-wonders-in-adobes-visual-staging-tools-for-2024/"><u>[New] Instilling Illusions Blur Wonders in Adobe's Visual Staging Tools for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-outstanding-asmr-audio-experience-for-minimal-spending/"><u>[New] Outstanding ASMR Audio Experience for Minimal Spending</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/revent-these-8-key-mishaps-on-your-youtube-journey/"><u>[New] Prevent These 8 Key Mishaps on Your YouTube Journey</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-seconds-for-a-high-quality-20mb-video/"><u>[New] Seconds for a High-Quality 20MB Video</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-zero-intrusions-check-out-our-list-of-top-7-android-apps/"><u>[Updated] Zero Intrusions? Check Out Our List of Top 7 Android Apps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-key-industry-figures-transforming-vr-gaming/"><u>2024 Approved Key Industry Figures Transforming VR Gaming</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/embrace-innovative-writing-hixplusgpt-4-combo/"><u>Embrace Innovative Writing: HIX+GPT-4 Combo</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-4k-gimbal-picks-top-ten-mirrorless-companions/"><u>In 2024, 4K Gimbal Picks Top Ten Mirrorless Companions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-oppo-a78-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Oppo A78 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/mp4-file-editing-on-mavericks-a-step-by-step-tutorial-for-2024/"><u>MP4 File Editing on Mavericks A Step-by-Step Tutorial for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-accurate-timing-made-simple-8-best-timecode-conversion-apps-and-websites/"><u>New 2024 Approved Accurate Timing Made Simple 8 Best Timecode Conversion Apps and Websites</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-mac-video-trimming-made-easy-fast-and-efficient-methods/"><u>New 2024 Approved Mac Video Trimming Made Easy Fast and Efficient Methods</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-best-of-the-best-text-motion-tracking-software-2023/"><u>New 2024 Approved The Best of the Best Text Motion Tracking Software 2023</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-animate-like-a-pro-the-top-7-drawing-software-for-aspiring-animators-for-2024/"><u>New Animate Like a Pro The Top 7 Drawing Software for Aspiring Animators for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-breathe-new-life-into-your-mac-how-to-clear-space-for-fcpx-and-more-for-2024/"><u>New Breathe New Life Into Your Mac How to Clear Space for FCPX and More for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-crafting-compelling-lower-thirds-fcpx-essentials-for-2024/"><u>New Crafting Compelling Lower Thirds FCPX Essentials for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-game-on-top-10plus-websites-for-free-game-downloads-for-2024/"><u>New Game On! Top 10+ Websites for Free Game Downloads for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-cinematic-mastery-expert-tips-for-editing-in-final-cut-pro-x/"><u>New In 2024, Cinematic Mastery Expert Tips for Editing in Final Cut Pro X</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Evaluation of the CAT S42 Durable Smartphone: High Security at Low Speeds"
-date: 2024-12-01T02:28:21.067Z
-updated: 2024-12-02T18:49:37.881Z
+date: 2024-12-08T03:43:43.990Z
+updated: 2024-12-09T17:19:29.749Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Evaluation of the CAT S42 Durable Smartphone: High Security at Low Speeds"
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 4.5
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## TCL 50S425 50-inch 4K Smart LED Roku TV
@@ -41,6 +41,10 @@ Lifewire / Yoona Wagener
 [View On Amazon $365](https://www.amazon.com/dp/B07JK98NNQ?tag=lifewire-onsite-prod-20&ascsubtag=4772224%7Cncb1b59c8053a4396b09c2b498e91e26317%7CB07JK98NNQ)
 
 4.5
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## TCL 50S425 50-inch 4K Smart LED Roku TV
 
@@ -72,7 +76,15 @@ Lifewire / Yoona Wagener
 
 ![TCL 50S425 50-inch Roku TV (2019)](https://www.lifewire.com/thmb/8IJD6mxL-mHDn0MMWWRd5yZERlc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4061017_04-bbd6d026c9ec48df9f12c934b7def674.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Yoona Wagener
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Design: Lightweight and straightforward**
 
@@ -88,11 +100,11 @@ Lifewire / Yoona Wagener
 
 ![TCL 50S425 50-inch Roku TV (2019)](https://www.lifewire.com/thmb/cT13RJhaMjC05v7eMym3vtM8M0s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4061017_05-70fc23cf6c2b4a13ac9d46f9372010ef.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Yoona Wagener
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Setup Process** :**Up and running in minutes**
 
@@ -105,7 +117,7 @@ Lifewire / Yoona Wagener
  Additionally, if you plan to use a set-top cable box or antenna, the user manual offers straightforward instructions for doing so. You also have the option of enabling the Smart TV experience when you use antenna TV mode. This setting uses automatic content recognition (ACR) to make viewing recommendations based on what you view through your antenna or connected HDMI devices.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Image Quality: Clear and vivid without any tweaking**
@@ -126,15 +138,7 @@ Lifewire / Yoona Wagener
 
 ![TCL 50S425 50-inch Roku TV (2019)](https://www.lifewire.com/thmb/Lv4B9e6LaJSHW7NSl-Braa2vnmc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4061017_03-b8155781e440420aa0c6c2bf19f9fe6a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Yoona Wagener
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Audio Quality: Solid but not spellbinding**
 
@@ -159,10 +163,6 @@ Lifewire / Yoona Wagener
 ## **Price: A great bargain on a budget**
 
  If you don’t want to spend a fortune on a 4K TV, but you want to get as much value as possible, the TCL 50S425 50-inch Roku TV is a compelling option. It retails for $350, which situates it in the growing and competitive class of 4K TVs under $500\. In the TCL 4-Series alone you have several other models to consider that all share the same specifications except for size. The larger 55-inch TCL Roku TV retails for just $30 more than the 50-inch version and features a larger screen size of 54.6 inches. It may not seem considerable, but if you’re limited with space, the extra width and height (five and two inches, respectively) can actually feel like a pretty massive difference. And if you opt for a smaller display and a lower price tag, the 43-inch TCL Roku TV retails for about $280, but you’re sacrificing 7 inches of display.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **TCL 50S425 50-inch Roku TV (2019) vs. Toshiba 55LF711U20 55-inch Fire TV Edition**
 
@@ -218,21 +218,24 @@ Lifewire / Yoona Wagener
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-effortless-film-logging-how-to-use-devices-like-pros/"><u>[New] 2024 Approved Effortless Film Logging How to Use Devices Like Pros</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-android-gaming-elevated-in-depth-look-at-the-breakthrough-app-kinemaster/"><u>2024 Approved Android Gaming Elevated - In-Depth Look at the Breakthrough App, KineMaster</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/amazon-fire-hd-10-review/"><u>Amazon Fire HD 10 Review</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-unlock-efficient-video-editing-6-adobe-premiere-hacks-you-need-to-know/"><u>New Unlock Efficient Video Editing 6 Adobe Premiere Hacks You Need to Know</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-windows-8-avi-file-editor-simplify-video-editing-for-2024/"><u>New Windows 8 AVI File Editor Simplify Video Editing for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/preserving-youtube-music-3-secure-complimentary-techniques/"><u>Preserving YouTube Music 3 Secure, Complimentary Techniques</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-syncing-and-editing-iphone-contacts-via-windows-pc-using-dearmob/"><u>Step-by-Step Guide: Syncing and Editing iPhone Contacts via Windows PC Using DearMob</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/trasformare-file-mpeg-in-formato-mp4-su-windows-11-e-mac-senza-costi-ingiustificati/"><u>Trasformare File MPEG in Formato MP4 Su Windows 11 E Mac Senza Costi Ingiustificati</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-social-networking-giants-insights-into-facebook-twitter-instagram-and-youtube-usage/"><u>Understanding Social Networking Giants: Insights Into Facebook, Twitter, Instagram, and YouTube Usage</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/unleash-creativity-10-top-public-domain-image-sources-for-2024/"><u>Unleash Creativity 10 Top Public Domain Image Sources for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-compress-mpeg2-files-with-virtualdub-a-step-by-step-guide/"><u>Updated 2024 Approved Compress MPEG2 Files with VirtualDub A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-s-top-picks-android-video-editor-apps-compatible-with-chromebook/"><u>Updated S Top Picks Android Video Editor Apps Compatible with Chromebook</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-shake-it-off-8-excellent-free-video-stabilizers-to-try-this-year/"><u>Updated Shake It Off 8 Excellent Free Video Stabilizers to Try This Year</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-top-video-highlight-editors-for-desktop-and-mobile-for-2024/"><u>Updated Top Video Highlight Editors for Desktop and Mobile for 2024</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/khaya-haaa-vadaza-1011-ma-fail-panaraparapata-karana-ka-thasha-sacana/"><u>खोया हुआ विंडोज़ 10/11 में फाइलें पुनर्प्राप्त करने की दिशा: सूचना</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-lost-legacies-found-revelations-from-the-canon-of-classical-works/"><u>[New] In 2024, Lost Legacies Found Revelations From the Canon of Classical Works</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-streamline-social-sharing-integrate-your-fb-story-for-2024/"><u>[Updated] Streamline Social Sharing Integrate Your FB Story for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-strategies-for-enhancing-instagram-post-performance/"><u>2024 Approved Strategies for Enhancing Instagram Post Performance</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-ultimate-setup-of-msi-x470-gaming-plus-motherboard-drivers/"><u>Free Download: Ultimate Setup of MSI X470 Gaming Plus Motherboard Drivers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/home-cinematographers-review-best-video-recorders/"><u>Home Cinematographer's Review Best Video Recorders</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-selecting-superior-capture-cards-switch-style/"><u>In 2024, Selecting Superior Capture Cards, Switch Style</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-this-article-introduces-some-of-the-best-web-based-online-vertical-video-editors/"><u>New In 2024, This Article Introduces some of the Best Web-Based Online Vertical Video Editors</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-video-to-audio-conversion-made-easy-best-mobile-apps/"><u>New In 2024, Video to Audio Conversion Made Easy Best Mobile Apps</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-online-video-combination-made-easy-top-5-free-tools/"><u>New Online Video Combination Made Easy Top 5 Free Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-shaky-videos-be-gone-10-free-online-stabilizers-to-try/"><u>New Shaky Videos Be Gone! 10 Free Online Stabilizers to Try</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-simple-and-free-the-best-online-tone-generators-reviewed/"><u>New Simple and Free The Best Online Tone Generators Reviewed</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-art-of-storytelling-video-editing-tips-to-bring-your-home-movies-to-life/"><u>New The Art of Storytelling Video Editing Tips to Bring Your Home Movies to Life</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-best-of-the-best-top-10-4k-video-conversion-tools/"><u>New The Best of the Best Top 10 4K Video Conversion Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-transform-your-videos-10-best-webm-to-mp4-converters-online-for-2024/"><u>New Transform Your Videos 10 Best WebM to MP4 Converters Online for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unleash-your-creativity-top-rated-online-animation-software-for-video-making/"><u>New Unleash Your Creativity Top-Rated Online Animation Software for Video Making</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-zoom-issues-in-windows-11-and-10-expert-guidance-to-prevent-crashes/"><u>Resolving Zoom Issues in Windows 11 & 10: Expert Guidance to Prevent Crashes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/siriusxm-all-access-bring-back-memories-from-old-school-fm-radio-days/"><u>SiriusXM All Access: Bring Back Memories From Old-School FM Radio Days!</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719170858411-top-10-ps-summer-discount-extravaganza/"><u>Top 10 PS Summer Discount Extravaganza!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-world-of-gadgets-a-journey-with-toms-hardware/"><u>Unveiling the World of Gadgets: A Journey with Tom's Hardware</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Retrograde Your Footage Easy VHS Effects in Final Cut Pro
-date: 2024-09-26T01:40:11.564Z
-updated: 2024-10-01T10:54:15.086Z
+date: 2024-12-03T04:57:51.046Z
+updated: 2024-12-09T19:44:23.394Z
 tags: 
   - video editing software
   - video editing
@@ -50,6 +50,10 @@ Open the Effects, and in the search bar, type Add Noise. Select the Add Noise ef
 
 ![add_noise_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/add_noise_in_final_cut_pro.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Go to the option Blend Mode and select Color Dodge. Now click on Type and select Gaussian Noise (Film Grain). In the Amount section, add the amount between 0.23-0.32.
 
 Now go back to the search bar and type Gaussian Blur. Select that and drop it to your footage in FCPX.
@@ -62,11 +66,19 @@ Go back to the search bar in FCPX and type Sharpen. Select the Sharpen effect an
 
 ![add_sharpness_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/add_sharpness_in_final_cut_pro.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Set the amount of sharpness to around 8.0-9.0.
 
 Now in the search bar type Bad TV effect. Select it and drop it on your footage in FCPX.
 
 ![add_bad_tv_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/add_bad_tv_effect_in_final_cut_pro.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Set the amount of the effect to roughly around 8.0-9.0\. In the option, Static Type, select Gaussian Noise (Film Grain). Select Soft Light in Static Blend mode option.
 
@@ -86,6 +98,14 @@ After your video is rendered, you will get the final results using the VHS filte
 
 ![final_result_of_vhs_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/final_result_of_vhs_effect_in_final_cut_pro.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part2: How to do VHS effect in easy steps?
 
 If you want to quickly add VHS effect to your video, you can use Filmora X. You will have to add different effects and values to get the final results. You can use VHS effects on your lyric video, intro, outro, or any other video that you like by following the same process.
@@ -93,13 +113,6 @@ If you want to quickly add VHS effect to your video, you can use Filmora X. You 
 First, if you haven't got Filmora, click here to download it for free!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 To do VHS effects quickly, follow these steps:
 
@@ -114,6 +127,10 @@ To do VHS effects quickly, follow these steps:
 * Stretch it all the way to the black image. Change all the text in it as you like.
 
 ![select_end_credits](https://images.wondershare.com/filmora/images/final-cut-pro/select_end_credits.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Go to Effect, and in the search bar, type **VHS**.
 
@@ -131,6 +148,10 @@ Go to Effect, and in the search bar, type **VHS**.
 * Change its Alpha value to 10 and click Ok.
 
 ![add_vhs_rewind](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_rewind.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now search for the **Strong Glitch effect**.
 
@@ -150,10 +171,7 @@ Search for **Chromatic Aberration effect**.
 ![add_chromatic_abberation](https://images.wondershare.com/filmora/images/final-cut-pro/add_chromatic_abberation.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now Search for **VCR Distortion** in the search bar.
@@ -195,13 +213,6 @@ Click to learn more about [glitch effect in Filmstock.](https://tools.techidaily
 
 ![filmstock-effects](https://images.wondershare.com/filmora/images/final-cut-pro/filmstock-effects.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Stories – Glitch & VHS Edition**
 
 This template is ideal for use with mobile apps like Instagram Stories. You'll get two vertical video openers, complete with glitches and VHS effects. Premiere Pro CC 2017 and newer are supported!
@@ -215,13 +226,6 @@ The look of a VHS glitch effect is basic yet incredibly authentic. This one was 
 The appearance and feel of your production may be significantly enhanced by using VHS video effects. Nothing brings back memories for a viewer like a VHS video. By following the steps mentioned above, you can easily use the VHS effect in your video. However, we recommend you use Wondershare Filmore to create VHS effect as you wouldn't require any plugin. What are some of your favorite VHS effects?
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -238,22 +242,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-dynamic-unpriced-visual-bonding-games/"><u>[Updated] Dynamic Unpriced Visual Bonding Games</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-unlocking-the-full-potential-of-iphone-7-screen-save/"><u>[Updated] Unlocking the Full Potential of iPhone 7 Screen Save</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/aiming-high-selecting-the-best-webcams-for-live-gameplay-streams/"><u>Aiming High Selecting the Best Webcams for Live Gameplay Streams</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/descarga-gratuita-convertidor-de-archivos-flac-a-wma-sin-problemas/"><u>Descarga Gratuita: Convertidor De Archivos FLAC a WMA Sin Problemas</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-sony-xperia-10-v-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Sony Xperia 10 V Location Settings | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-zte-nubia-z60-ultra-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From ZTE Nubia Z60 Ultra to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-sony-bdp-s3700-review-updated/"><u>In 2024, Sony BDP- S3700 Review - Updated</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-safe-listing-a-step-by-step-guide-to-adding-your-email/"><u>Mastering the Art of Safe Listing: A Step-by-Step Guide to Adding Your Email</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/the-2024-guide-quick-fixes-for-users-facing-issues-with-opening-battlenet/"><u>The 2024 Guide: Quick Fixes for Users Facing Issues with Opening Battle.net</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-animation-powerhouses-top-8-software-for-mac-and-windows-creators-for-2024/"><u>Updated Animation Powerhouses Top 8 Software for Mac and Windows Creators for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-final-cut-pro-x-crash-fix-get-back-to-editing-for-2024/"><u>Updated Final Cut Pro X Crash Fix Get Back to Editing for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-create-a-standout-video-resume-4-best-tools-with-free-templates/"><u>Updated In 2024, Create a Standout Video Resume 4 Best Tools with Free Templates</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-merge-videos-without-a-trace-7-best-options/"><u>Updated In 2024, Merge Videos Without a Trace 7 Best Options</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-make-unforgettable-invitations-top-video-apps-for-mobile/"><u>Updated Make Unforgettable Invitations Top Video Apps for Mobile</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-professional-grade-glitch-video-editors-paid-and-free-solutions-compared-for-2024/"><u>Updated Professional-Grade Glitch Video Editors Paid and Free Solutions Compared for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-unleash-dynamic-text-top-motion-tracking-software-for-2024/"><u>Updated Unleash Dynamic Text Top Motion Tracking Software for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-unlock-the-power-of-animation-converting-digital-videos-into-cartoons-made-easy-for-2024/"><u>Updated Unlock the Power of Animation Converting Digital Videos Into Cartoons Made Easy for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-intense-presentation-review-8x-version/"><u>[New] 2024 Approved Intense Presentation Review 8X Version</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-incorporating-melodic-essence-into-your-creative-videos-with-premiere-pro-for-2024/"><u>[New] Incorporating Melodic Essence Into Your Creative Videos with Premiere Pro for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-navigating-the-path-free-and-safe-vlc-installer-for-macos-users/"><u>[Updated] 2024 Approved Navigating the Path Free and Safe VLC Installer for macOS Users</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-auto-captioned-mastery-enhancing-visual-narratives/"><u>2024 Approved Auto-Captioned Mastery Enhancing Visual Narratives</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-pinnacle-creator-the-duo-of-media-elements/"><u>2024 Approved Pinnacle Creator The Duo of Media Elements</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>Hacks to do pokemon go trainer battles For Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016914107-troubleshooting-iphones-noisy-and-muffled-sounds-solutions-inside/"><u>Troubleshooting iPhone's Noisy and Muffled Sounds – Solutions Inside</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/unlock-efficient-video-compression-download-virtualdub-mpeg2-now-for-2024/"><u>Unlock Efficient Video Compression Download VirtualDub MPEG2 Now for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-get-recording-the-10-best-webcam-software-for-windows-10-users/"><u>Updated 2024 Approved Get Recording The 10 Best Webcam Software for Windows 10 Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-transform-low-res-videos-into-high-definition-masterpieces/"><u>Updated 2024 Approved Transform Low-Res Videos Into High-Definition Masterpieces</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-unleash-your-creativity-with-final-cut-pros-90-day-free-trial/"><u>Updated In 2024, Unleash Your Creativity with Final Cut Pros 90-Day Free Trial</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-mac-vlc-trimmer-the-best-way-to-shorten-videos-without-sacrificing-quality-for-2024/"><u>Updated Mac VLC Trimmer The Best Way to Shorten Videos Without Sacrificing Quality for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-subtitle-your-way-to-success-fcpx-captioning-made-easy-for-2024/"><u>Updated Subtitle Your Way to Success FCPX Captioning Made Easy for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-vn-video-editor-pc-review-is-it-the-right-choice-for-you-in-2024/"><u>Updated VN Video Editor PC Review Is It the Right Choice for You, In 2024</u></a></li>
 </ul></div>
 

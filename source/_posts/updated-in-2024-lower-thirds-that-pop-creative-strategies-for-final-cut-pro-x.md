@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Lower Thirds That Pop Creative Strategies for Final Cut Pro X
-date: 2024-11-13T23:50:49.011Z
-updated: 2024-11-14T17:45:22.483Z
+date: 2024-12-06T05:09:32.477Z
+updated: 2024-12-09T16:03:41.280Z
 tags: 
   - video editing software
   - video editing
@@ -48,16 +48,7 @@ On a short note, you can define the lower third module as a piece of a graphical
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part2: What factors contribute to a good lower third?**
@@ -99,10 +90,7 @@ Proper alignment and the best coordinates on the screen make the lower third mod
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part3: How to make a lower third quickly in final cut pro X?**
@@ -121,19 +109,6 @@ Features of Final Cut Pro X to design lower third module element
 
 ![final-cut-pro-x](https://images.wondershare.com/filmora/images/final-cut-pro/final-cut-pro-x.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 In this section, you will learn to make a lower third element using a Final Cut Pro X tool. It is high to check out the steps in detail.
 
 **1Step 1: Download the tool**
@@ -141,13 +116,6 @@ In this section, you will learn to make a lower third element using a Final Cut 
 You can download the app and install them in your system. Launch the tool by double-tapping the tool icon.
 
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2Step 2: Add the Title**
 
@@ -166,6 +134,14 @@ Use the above instructions, insert the lower third element in your video effortl
 For those who still need more guides about making lower thirds, this Filmora tutorial may help a lot.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
@@ -193,6 +169,10 @@ Display the texts promptly to enlighten the audience. Connect the texts to the t
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -208,18 +188,24 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-pioneering-the-next-level-of-streaming-setups/"><u>[Updated] 2024 Approved Pioneering the Next Level of Streaming Setups</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-premium-pcmac-screen-capture-application/"><u>[Updated] In 2024, Premium PC/Mac Screen Capture Application</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-your-inner-comedy-with-gif-mastery/"><u>2024 Approved Unleash Your Inner Comedy with GIF Mastery</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-oppo-a78-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Oppo A78 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-15-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-apple-iphone-8ipadipod-by-drfone-ios/"><u>In 2024, 3 Easy Methods to Unlock iCloud Locked Apple iPhone 8/iPad/iPod</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-poco-c51-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Poco C51</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/solve-common-fcpx-problems-with-a-simple-reset-for-2024/"><u>Solve Common FCPX Problems with a Simple Reset for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-unleash-your-creativity-top-online-stop-motion-animation-software/"><u>Updated 2024 Approved Unleash Your Creativity Top Online Stop Motion Animation Software</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-new-to-cartoon-making-here-are-the-top-10-tools-to-get-you-started/"><u>Updated In 2024, New to Cartoon Making? Here Are the Top 10 Tools to Get You Started</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-ultimate-list-16-best-free-video-makers-for-creating-stunning-videos/"><u>Updated In 2024, The Ultimate List 16 Best Free Video Makers for Creating Stunning Videos</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-s-hottest-explainer-video-creation-software-reviews-and-comparisons-for-2024/"><u>Updated S Hottest Explainer Video Creation Software Reviews and Comparisons for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-split-screen-video-editing-made-easy-free-online-and-offline-solutions/"><u>Updated Split Screen Video Editing Made Easy Free Online and Offline Solutions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-capturing-gotomeet-pc-and-mobile-recording-tutorial/"><u>[Updated] 2024 Approved Capturing GoToMeet PC & Mobile Recording Tutorial</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-deciding-between-30fps-and-60fps-whats-best-for-video-for-2024/"><u>[Updated] Deciding Between 30Fps and 60Fps What's Best For Video for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-innovation-and-performance-metrics-for-top-screen-recorders-featuring-apeaksoft/"><u>2024 Approved Innovation and Performance Metrics for Top Screen Recorders, Featuring Apeaksoft</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cost-prohibits-new-ai-capabilities-from-landing-on-previous-generation-iphones-insight-by-zdnet/"><u>Cost Prohibits New AI Capabilities From Landing on Previous Generation iPhones - Insight by ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-11-pro-max-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 11 Pro Max without Losing Data? | Stellar</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-oneplus-ace-2v-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on OnePlus Ace 2V to Protect Your Individual Information</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfecting-online-photos-the-cropping-guide-for-2024/"><u>Perfecting Online Photos The Cropping Guide for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/smart-spending-on-action-cams-find-your-bargains-under-100-for-2024/"><u>Smart Spending on ACTION Cams Find Your Bargains Under $100 for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-complete-rundown-on-dji-inspire-2/"><u>The Complete Rundown on DJI Inspire 2</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-mac-tutorial-downloading-and-setting-up-kinemaster-made-easy/"><u>Updated 2024 Approved Mac Tutorial Downloading and Setting Up KineMaster Made Easy</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-top-rated-online-webm-video-minifiers/"><u>Updated In 2024, Top-Rated Online WebM Video Minifiers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-private-and-business-video-hosting-10-free-options-to-consider-for-2024/"><u>Updated Private and Business Video Hosting 10 Free Options to Consider for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-s-best-ipad-video-editing-tools-a-comprehensive-review-for-2024/"><u>Updated S Best iPad Video Editing Tools A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-stop-motion-made-easy-best-apps-for-mobile-animation-for-2024/"><u>Updated Stop Motion Made Easy Best Apps for Mobile Animation for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-list-of-free-online-video-trimmers-2023-edition-for-2024/"><u>Updated The Ultimate List of Free Online Video Trimmers 2023 Edition for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-vn-video-editor-on-pc-features-pros-and-cons-for-2024/"><u>Updated VN Video Editor on PC Features, Pros, and Cons for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-voice-over-mastery-essential-fcp-recording-hacks-for-2024/"><u>Updated Voice Over Mastery Essential FCP Recording Hacks for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-whats-better-than-subtitle-edit-for-mac-explore-these-options-for-2024/"><u>Updated Whats Better Than Subtitle Edit for Mac? Explore These Options for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/view-count-rewards-on-youtube-per-million/"><u>View Count Rewards on YouTube – Per Million?</u></a></li>
 </ul></div>
 
