@@ -1,7 +1,7 @@
 ---
 title: Take Your Videos to the Next Level Mastering the Ken Burns Effect in Final Cut Pro for 2024
-date: 2024-12-04T22:15:06.121Z
-updated: 2024-12-09T21:01:26.399Z
+date: 2024-12-12T11:34:28.399Z
+updated: 2024-12-16T07:24:49.454Z
 tags: 
   - video editing software
   - video editing
@@ -29,6 +29,10 @@ Those new to the Final Cut Pro or Pro X programs will be finding it a little cha
 * [**Part 1: How to Make Ken Burns Effect Final Cut Pro**](#Make-Ken-Burns-Effect)
 * [**Part 2: How to Zoom in Final Cut Pro Using Keyframing**](#Zoom-in-Final-Cut-Pro-Keyframing)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Make Ken Burns Effect Final Cut Pro
 
 To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut, since they are both extensions of one another) simply follow our guide.
@@ -51,6 +55,10 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
 
 **Step 3** – Hold down both the shift key and the letter C. This is the fast way to cut out what you need. You can always stick to the right-click to cut a clip if you are more comfortable with this.
@@ -58,7 +66,7 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Ken Burns Customization
@@ -71,17 +79,9 @@ You can also customize the ken burns effects in Final Cut.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
 
@@ -98,7 +98,7 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
@@ -116,7 +116,7 @@ The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places t
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -134,20 +134,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-circles-vs-cubes-unraveling-camera-types/"><u>[New] Circles vs Cubes Unraveling Camera Types</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/aunchpad-essentials-your-first-steps-in-streaming-for-2024/"><u>[New] Launchpad Essentials Your First Steps in Streaming for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-top-vr-bike-games-a-compreayers-guide-for-2024/"><u>[New] TOP VR Bike Games A Compreayer’s Guide for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-specialist-recommendations-the-quintessential-5-cameras/"><u>2024 Approved Specialist Recommendations The Quintessential 5 Cameras</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/boost-user-engagement-through-cookiebot-integration/"><u>Boost User Engagement Through Cookiebot Integration</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/discover-how-roku-express-offers-great-value-for-money-with-a-massive-library-of-entertainment/"><u>Discover How Roku Express Offers Great Value for Money with a Massive Library of Entertainment</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-itel-p55-5g-s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Itel P55 5G’s lock screen pattern, PIN or password</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-best-online-webm-video-compressors/"><u>Updated 2024 Approved Best Online WebM Video Compressors</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-fast-forward-your-footage-top-time-lapse-apps-for-mobile-for-2024/"><u>Updated Fast Forward Your Footage Top Time-Lapse Apps for Mobile for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-highlight-video-creation-made-easy-top-desktop-and-mobile-software/"><u>Updated In 2024, Highlight Video Creation Made Easy Top Desktop and Mobile Software</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-mac-video-editing-made-easy-a-beginners-guide-to-movie-creation/"><u>Updated Mac Video Editing Made Easy A Beginners Guide to Movie Creation</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-revolutionize-your-video-content-converting-to-vr-made-easy/"><u>Updated Revolutionize Your Video Content Converting to VR Made Easy</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-top-10-best-free-mkv-cutters-2023-update-for-2024/"><u>Updated Top 10 Best Free MKV Cutters-2023 Update for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-unleash-your-creativity-a-step-by-step-sony-camcorder-video-editing-guide/"><u>Updated Unleash Your Creativity A Step-by-Step Sony Camcorder Video Editing Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/hanneling-creativity-get-green-screen-tips-from-youtube-for-2024/"><u>[New] Channeling Creativity Get Green Screen Tips From YouTube for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-art-of-package-revelation-amplifying-initial-impressions-for-2024/"><u>[New] The Art of Package Revelation Amplifying Initial Impressions for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-blueprints-for-constructing-a-high-definition-video-editing-beast-for-2024/"><u>[Updated] Blueprints for Constructing a High-Definition Video Editing Beast for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-first-foray-into-fashionable-mac-made-videos-for-youtube/"><u>[Updated] In 2024, First Foray Into Fashionable Mac-Made Videos for YouTube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-unlocking-android-video-brilliance-easy-procedures/"><u>[Updated] In 2024, Unlocking Android Video Brilliance - Easy Procedures</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-lifes-journey-videos-creating-authentic-online-experiences/"><u>[Updated] Life's Journey Videos Creating Authentic Online Experiences</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro To Other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-oneplus-ace-3-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from OnePlus Ace 3 to Gmail | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-mastering-compressor-a-step-by-step-guide-for-final-cut-pro-x/"><u>New Mastering Compressor A Step-by-Step Guide for Final Cut Pro X</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-picture-in-picture-made-easy-a-final-cut-pro-tutorial/"><u>New Picture-in-Picture Made Easy A Final Cut Pro Tutorial</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-retro-revival-achieve-vhs-style-in-final-cut-pro-for-2024/"><u>New Retro Revival Achieve VHS Style in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-s-top-avchd-video-editing-tools-a-comprehensive-review-for-2024/"><u>New S Top AVCHD Video Editing Tools A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-top-gif-accelerators-online-and-mobile-solutions/"><u>New Top GIF Accelerators Online and Mobile Solutions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-top-mac-video-editors-of-reviews-and-comparisons/"><u>New Top Mac Video Editors of Reviews and Comparisons</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-transform-mp4-videos-into-mp3-audio-files-top-converters-for-2024/"><u>New Transform MP4 Videos Into MP3 Audio Files Top Converters for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unify-your-visuals-how-to-match-colors-across-video-clips-in-final-cut-pro/"><u>New Unify Your Visuals How to Match Colors Across Video Clips in Final Cut Pro</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unleash-your-creativity-10-free-whiteboard-animation-tools-for-windows-and-mac-for-2024/"><u>New Unleash Your Creativity 10 Free Whiteboard Animation Tools for Windows and Mac for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/winning-hearts-with-these-6-compelling-videos-for-2024/"><u>Winning Hearts with These 6 Compelling Videos for 2024</u></a></li>
 </ul></div>
 

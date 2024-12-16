@@ -1,7 +1,7 @@
 ---
 title: Updated The Ultimate FCPX Skin Smoothing Hack No Plugins Needed for 2024
-date: 2024-12-08T01:06:24.780Z
-updated: 2024-12-10T02:12:59.685Z
+date: 2024-12-11T04:25:41.668Z
+updated: 2024-12-16T04:46:14.375Z
 tags: 
   - video editing software
   - video editing
@@ -47,16 +47,12 @@ step1Choose the starting image and edit the clip into the timeline. Press Option
 ![Skin_Smoother_Effect_1](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 step2Open the Inspector pan and select Compositing from its bottom. Switch the Blend Mode to Lighten and adjust the Opacity slider as per your desired glow. Usually, 40 to 45% is ideal.
 
 ![Skin_Smoother_Effect_2](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 step3Now, go to the top of the Inspector and turn on the blue checkbox next to Gaussian. Adjust the blurring effect until you achieve your desired level of skin softening. It is highly recommended to blur using the horizontal setting to soften the skin while keeping the eyes sharp. Here, the glow is controlled by Opacity while skin softening is controlled by the Blue Amount.
 
@@ -87,6 +83,10 @@ Skin Smoother 2 is a powerful and easy-to-use plugin that allows you to smooth o
 Color Finale is a user-friendly, fine-tuned, and fully-featured professional skin smoother plugin purpose bit for FCP.
 
 ![color-finale-2](https://images.wondershare.com/filmora/article-images/top-10-free-fcpx-plugins-color-finale-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Price:** $152
 
@@ -121,16 +121,16 @@ Follow these steps to use the Skin Smooth 2 Plugin for Final Cut Pro X:
 3. To apply the skin-smoothing effect, click on Add Color Mask, and select the areas of the face where the color mask has to be added.![Skin_Smoother_Effect_5](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Adjust the Skin Smoothing, Smoothing Mix, and the Softness of the color mask as per your requirements.![Skin_Smoother_Effect_6](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_6.png)
 
 5. Finally, click on Add Shape Mask, two circles will appear on the image. Adjust the covering area of both circles for Shape Mask 1 to add a smiling face.![Skin_Smoother_Effect_7](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How to Smooth Skin in Filmora?
 
@@ -139,7 +139,7 @@ Wondershare Filmora features advanced tuning tools and a variety of video filter
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Open Filmora, open New Project and click Import to load your videos to the timeline.
@@ -183,17 +183,16 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-optimize-your-chrome-vocal-experience-select-the-best-text-to-speech-apps-online/"><u>[New] 2024 Approved Optimize Your Chrome Vocal Experience Select the Best Text-to-Speech Apps Online</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-mastering-the-art-of-viral-videos-1mplus-audience-journey/"><u>[New] In 2024, Mastering the Art of Viral Videos 1M+ Audience Journey</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-in-depth-analysis-of-green-screen-technology-in-kinemaster/"><u>[Updated] In 2024, In-Depth Analysis of Green Screen Technology in Kinemaster</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-leading-digital-adjustments-optimal-photo-framing-software-2023/"><u>2024 Approved Leading Digital Adjustments Optimal Photo Framing Software, 2023</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-steps-for-obtaining-the-latest-drivers-of-canoscan-lide-220-scanner/"><u>Easy Steps for Obtaining the Latest Drivers of CanoScan LiDE 220 Scanner</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/les-meilleures-applications-dextraction-de-dvd-gratuites-pour-windows-1011-telechargement-complet-et-guide-dutilisation/"><u>Les Meilleures Applications D'extraction De DVD Gratuites Pour Windows 10/11 - Téléchargement Complet Et Guide D'utilisation</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-try-the-easy-movie-maker-software-using-the-following-guide/"><u>New In 2024, Try the Easy Movie Maker Software Using the Following Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-video-cropping-101-learn-how-to-use-avidemux-like-a-pro/"><u>New In 2024, Video Cropping 101 Learn How to Use Avidemux Like a Pro</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-mastering-canon-camcorder-video-editing-software-techniques-and-more/"><u>New Mastering Canon Camcorder Video Editing Software, Techniques, and More</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-solve-avidemux-no-audio-problem-easy-fixes-for-2024/"><u>New Solve Avidemux No Audio Problem Easy Fixes for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/professional-steinberg-drivers-bundle/"><u>Professional Steinberg Drivers Bundle</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/ringtone-vox-transcription-device-iphone-for-2024/"><u>Ringtone VOX Transcription Device (iPhone) for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-grappling-glory-selecting-the-ultimate-fight-simulator-for-2024/"><u>[Updated] Grappling Glory Selecting the Ultimate Fight Simulator for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exclusive-list-affordable-efficient-high-quality-passport-photos-creators/"><u>Exclusive List Affordable, Efficient, High-Quality Passport Photos Creators</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Lava Storm 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-oppo-reno-11-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Oppo Reno 11 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-ultimate-guide-to-video-call-capturing-on-devices/"><u>In 2024, The Ultimate Guide to Video Call Capturing on Devices</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-mac-video-creation-made-easy-best-tools-and-apps/"><u>New 2024 Approved Mac Video Creation Made Easy Best Tools and Apps</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-s-hottest-face-changer-apps-for-ios-and-android-devices/"><u>New 2024 Approved S Hottest Face Changer Apps for iOS and Android Devices</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-combine-multiple-avi-files-into-one-10-best-free-freeware-for-2024/"><u>New Combine Multiple AVI Files Into One 10 Best Free Freeware for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-from-snapshots-to-masterpieces-best-online-photo-and-video-collage-creators-for-2024/"><u>New From Snapshots to Masterpieces Best Online Photo and Video Collage Creators for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-how-to-download-4k-videos-in-mp4-format-a-beginners-guide-for-2024/"><u>New How to Download 4K Videos in MP4 Format A Beginners Guide for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/search-for-printer-device-failed-on-pc-os/"><u>Search for Printer Device Failed on PC OS</u></a></li>
 </ul></div>
 

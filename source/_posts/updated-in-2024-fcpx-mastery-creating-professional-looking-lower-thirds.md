@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, FCPX Mastery Creating Professional-Looking Lower Thirds
-date: 2024-12-08T17:09:55.317Z
-updated: 2024-12-09T17:16:35.455Z
+date: 2024-12-15T09:13:34.008Z
+updated: 2024-12-16T04:26:07.240Z
 tags: 
   - video editing software
   - video editing
@@ -48,11 +48,11 @@ On a short note, you can define the lower third module as a piece of a graphical
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part2: What factors contribute to a good lower third?**
@@ -94,11 +94,7 @@ Proper alignment and the best coordinates on the screen make the lower third mod
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part3: How to make a lower third quickly in final cut pro X?**
@@ -125,6 +121,10 @@ You can download the app and install them in your system. Launch the tool by dou
 
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2Step 2: Add the Title**
 
 In the home screen, import the video that requires the edits and then tap the ‘Titles’ tab at the left top of the screen. Click the ‘Build-in/Build-out’ option to custom the Title element. According to your needs, you can repeat it to insert the desired titles on the video screen.
@@ -136,10 +136,6 @@ In the home screen, import the video that requires the edits and then tap the �
 Now, you can edit the texts in the inserted titles and add animation to the element using the attributes under the ‘Generator’ tab. Modify the title’s textures, background, and positions using the relevant options displayed. Choose accordingly to personalize the title element based on your requirement.
 
 ![customize-lower-third](https://images.wondershare.com/filmora/images/final-cut-pro/customize-lower-third.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Use the above instructions, insert the lower third element in your video effortlessly. Simple click and drag actions are sufficient to carry out the desired effects on the element.
 
@@ -173,6 +169,10 @@ Display the texts promptly to enlighten the audience. Connect the texts to the t
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -188,17 +188,20 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-budget-friendly-vlogging-cameras-unveiled-our-picks/"><u>[New] 2024 Approved Budget-Friendly Vlogging Cameras Unveiled Our Picks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-building-profitable-collaborations-with-brands-on-youtube/"><u>2024 Approved Building Profitable Collaborations with Brands on Youtube</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-maximize-content-by-merging-apple-music-to-videos/"><u>2024 Approved Maximize Content by Merging Apple Music to Videos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bioshock-2-ultimate-fix-enhanced-graphics-and-stability-patch/"><u>Bioshock 2 Ultimate Fix: Enhanced Graphics & Stability Patch</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-find-the-perfect-green-screen-software-for-your-mac-workflow/"><u>New Find the Perfect Green Screen Software for Your Mac Workflow</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-secure-your-footage-top-video-editing-software-for-face-anonymity/"><u>New Secure Your Footage Top Video Editing Software for Face Anonymity</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-subtitle-edit-not-your-cup-of-tea-try-these-mac-friendly-alternatives/"><u>New Subtitle Edit Not Your Cup of Tea? Try These Mac-Friendly Alternatives</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-the-complete-online-video-editing-course-from-basics-to-advanced-techniques/"><u>New The Complete Online Video Editing Course From Basics to Advanced Techniques</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-top-10-video-editing-software-options-to-replace-final-cut-pro-x-for-2024/"><u>New Top 10 Video Editing Software Options to Replace Final Cut Pro X for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/step-by-step-guide-to-joining-and-initiating-zoom-meetings-on-android/"><u>Step-By-Step Guide to Joining & Initiating Zoom Meetings on Android</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/the-elevation-of-professional-display-an-in-depth-examination-of-the-bl2711u/"><u>The Elevation of Professional Display An In-Depth Examination of the BL2711U</u></a></li>
-<li><a href="https://techtrends.techidaily.com/trasforma-il-tuo-file-di-video-mp4-nel-formato-wmv-online-senza-costi/"><u>Trasforma Il Tuo File Di Video MP4 Nel Formato WMV Online Senza Costi</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-ultimate-list-top-18-high-def-camcorders/"><u>[New] 2024 Approved Ultimate List Top 18 High-Def Camcorders</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-seo-power-play-strategies-to-amplify-your-podcasts-impact/"><u>2024 Approved SEO Power Play Strategies To Amplify Your Podcast's Impact</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-spectacular-free-image-editors-the-new-era/"><u>2024 Approved Spectacular Free Image Editors The New Era</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/brother-scandrive-software-updates-enhancements-and-fixes-for-windows-pcs/"><u>Brother ScanDrive Software Updates – Enhancements and Fixes for Windows PCs</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-infamous-video-dxgkrnl-bsod-issue-in-windows-11-step-by-step-guide/"><u>Fixing the Infamous Video Dxgkrnl BSOD Issue in Windows 11: Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-change-a-word-file-into-easy-reading-kindle-mobi-books/"><u>How to Change a Word File Into Easy-Reading Kindle MOBI Books</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-through-the-best-pc-vr-headset-lineup-of-2023/"><u>Navigating Through the Best PC VR Headset Lineup of 2023</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-1-free-top-10-best-android-video-editors-for-2024/"><u>New 1-FREE Top 10 Best Android Video Editors for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-edit-like-a-pro-with-wax-a-free-video-editing-software-guide/"><u>New 2024 Approved Edit Like a Pro with Wax A Free Video Editing Software Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-s-top-rated-free-wmv-video-concatenation-software/"><u>New 2024 Approved S Top-Rated Free WMV Video Concatenation Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-easiest-way-to-share-ps4-screenshots-on-social-media-2023-update/"><u>New 2024 Approved The Easiest Way to Share PS4 Screenshots on Social Media (2023 Update)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-effortless-gopro-video-editing-a-beginners-guide/"><u>New In 2024, Effortless GoPro Video Editing A Beginners Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-final-cut-pro-x-for-filmmakers-creating-visually-stunning-videos/"><u>New In 2024, Final Cut Pro X for Filmmakers Creating Visually Stunning Videos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-guide-to-free-sound-effects-for-final-cut-pro-editors/"><u>New In 2024, The Ultimate Guide to Free Sound Effects for Final Cut Pro Editors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-restore-google-hangouts-speaking-capability/"><u>Step-by-Step Guide to Restore Google Hangouts Speaking Capability</u></a></li>
 </ul></div>
 

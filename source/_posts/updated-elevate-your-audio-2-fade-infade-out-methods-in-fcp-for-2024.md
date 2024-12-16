@@ -1,7 +1,7 @@
 ---
 title: Updated Elevate Your Audio 2 Fade-In/Fade-Out Methods in FCP for 2024
-date: 2024-12-08T23:26:18.895Z
-updated: 2024-12-10T01:18:50.429Z
+date: 2024-12-12T07:00:12.498Z
+updated: 2024-12-16T02:46:38.980Z
 tags: 
   - video editing software
   - video editing
@@ -45,7 +45,7 @@ Before we get started, you can firstly detach the audio from video to better edi
 Check more articles here, if you are also interested in other [audio editing tips](https://tools.techidaily.com/wondershare/filmora/download/) in Final Cut Pro or want to know how to [record a voice over](https://tools.techidaily.com/wondershare/filmora/download/) with FCP.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Fade Audio by using the Modify Menu
@@ -57,28 +57,28 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 ![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
 ![Apply fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You should remember that the fades appear at the beginning and the end of each clip. The default duration of the fade is one half-second. If you want to modify that duration, you just have to drag the fade handle up to the point where your fade is supposed to begin or end.
 
 ![Modify duration of fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3**: If you want to remove the fades, choose Modify > Adjust Volume > Remove Fades.
 
 See more details on how to fade audio in Final Cut Pro from the following video.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Fade Music by using Fade Handles
 
@@ -96,15 +96,15 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -134,20 +134,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-obs-settings-for-smooth-skype-video-streaming/"><u>[New] 2024 Approved OBS Settings for Smooth Skype Video Streaming</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-unveiling-the-top-gopro-models-max-vs-hero-11-for-2024/"><u>[Updated] Unveiling the Top GoPro Models Max Vs. Hero 11 for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/circumventing-verify-errors-for-third-party-windows-apps/"><u>Circumventing Verify Errors for Third-Party Windows Apps</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-solve-lg-monitor-drivers-errors-across-windows-10-7-and-81-platforms/"><u>How to Solve LG Monitor Drivers Errors Across Windows 10, 7 & 8.1 Platforms</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-break-down-barriers-with-cost-free-vob-player/"><u>In 2024, Break Down Barriers with Cost-Free VOB Player</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-motorola-moto-g04-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Motorola Moto G04 Is Unlocked</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-setting-up-and-enabling-revo-uninstaller-application-manager/"><u>Step-by-Step Guide: Setting Up & Enabling Revo Uninstaller Application Manager</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-best-free-wmv-video-combining-software-for-this-year/"><u>Updated In 2024, Best Free WMV Video Combining Software for This Year</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-gopro-quik-limitations-discover-top-pc-video-editing-software-alternatives/"><u>Updated In 2024, GoPro Quik Limitations? Discover Top PC Video Editing Software Alternatives</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-unleash-your-creativity-90-days-of-free-final-cut-pro-usage-waiting-for-you/"><u>Updated In 2024, Unleash Your Creativity 90 Days of Free Final Cut Pro Usage Waiting for You</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-mastering-video-editing-on-mac-fast-and-easy-techniques-for-cutting-large-files/"><u>Updated Mastering Video Editing on Mac Fast and Easy Techniques for Cutting Large Files</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-guide-to-compressing-videos-in-final-cut-pro-x-for-2024/"><u>Updated The Ultimate Guide to Compressing Videos in Final Cut Pro X for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-guide-to-the-most-downloaded-iphone-apps-for-2024/"><u>Updated The Ultimate Guide to the Most Downloaded iPhone Apps for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-review-of-vn-video-editor-mobile-app-for-2024/"><u>Updated The Ultimate Review of VN Video Editor Mobile App for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-unleash-your-creativity-best-free-and-paid-glitch-video-editing-tools-for-2024/"><u>Updated Unleash Your Creativity Best Free and Paid Glitch Video Editing Tools for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-key-strategies-for-efficient-screenshare-experience-with-discord-for-2024/"><u>[New] Key Strategies for Efficient Screenshare Experience with Discord for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-revolutionizing-podcast-titles-leading-10-ai-generators/"><u>[New] Revolutionizing Podcast Titles Leading 10 AI Generators</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-pushing-the-limits-of-visual-impact-in-ae-titles/"><u>[Updated] 2024 Approved Pushing the Limits of Visual Impact in AE Titles</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024mp4top4tsmp4/"><u>2024年度最新のMP4変換ツールTOP4!TS形式を高品質に安全にMP4へ変更可能</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhancing-reading-capacity-with-microsoft-word-for-lengthy-document-handling/"><u>Enhancing Reading Capacity with Microsoft Word for Lengthy Document Handling</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-nba-2k23-pc-game-crashes-top-7-reliable-solutions/"><u>Fixing NBA 2K23 PC Game Crashes: Top 7 Reliable Solutions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-mac-video-editor-mkvtoolnix-features-and-benefits/"><u>New In 2024, The Ultimate Mac Video Editor MKVtoolnix Features and Benefits</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-mac-video-editor-mkvtoolnix-features-and-benefits-2023/"><u>New In 2024, The Ultimate Mac Video Editor MKVtoolnix Features and Benefits 2023</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-top-15-adobe-premiere-plugins-free-download/"><u>New In 2024, Top 15 Adobe Premiere Plugins Free Download</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-why-does-fcpx-keep-crashing-find-out-and-fix-it/"><u>New In 2024, Why Does FCPX Keep Crashing? Find Out and Fix It</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-mobile-video-production-made-easy-top-apps-with-music-features-for-2024/"><u>New Mobile Video Production Made Easy Top Apps with Music Features for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-best-mp4-to-mp3-conversion-software-for-windows-and-mac-for-2024/"><u>New The Best MP4 to MP3 Conversion Software for Windows and Mac for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-transform-your-footage-expert-techniques-for-creating-breathtaking-movies-for-2024/"><u>New Transform Your Footage Expert Techniques for Creating Breathtaking Movies for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/prepare-for-the-metaverse-the-7-indispensable-tools/"><u>Prepare for the Metaverse - The 7 Indispensable Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-verdict-on-inshot-master-editor-for-2024/"><u>The Verdict on InShot Master Editor for 2024</u></a></li>
 </ul></div>
 

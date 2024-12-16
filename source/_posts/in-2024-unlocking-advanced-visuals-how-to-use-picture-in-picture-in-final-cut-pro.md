@@ -1,7 +1,7 @@
 ---
 title: In 2024, Unlocking Advanced Visuals How to Use Picture-in-Picture in Final Cut Pro
-date: 2024-08-02T06:18:58.412Z
-updated: 2024-08-03T06:18:58.412Z
+date: 2024-12-15T03:54:28.517Z
+updated: 2024-12-16T10:22:42.319Z
 tags: 
   - video editing software
   - video editing
@@ -30,9 +30,6 @@ This tool can help you to use the picture-in-picture effect with ease. However, 
 
 The article below contains complete details about how to add PIP effects using Final Cut Pro. You will be glad to know that FCP also works with few integrated plugins that assist in the free picture in picture effect generation.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Create PIP Effect with FCP
 
 If you are ready with two videos and now want to bring them to the same screen then prefer to follow these simple steps:
@@ -49,19 +46,21 @@ It is time to choose the higher video clip so that the PIP effect can be applied
 
 Note that lower clips use to stay in the background in final results whereas upper clips will appear in the foreground. By default, both clips use to have 100% full screen with 100% opaque settings.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![transform button](https://images.wondershare.com/filmora/article-images/transform-button-in-fcp.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 3: Apply PIP effect
 
 As now you have added both videos on-screen now you have to select the higher video and then click over the rectangular transform button that is available on the lower-left corner of viewer screen. As soon as you make this selection, the icon will turn into blue color, and naturally 8 dots will appear around the selected image or video. Use any one of these dots for scaling your selection in asymmetrical order.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![adjust pip effect](https://images.wondershare.com/filmora/article-images/adjust-pip-effect-in-fcp.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 4: Adjust PIP Effect
 
@@ -74,22 +73,24 @@ As now you have added both videos on-screen now you have to select the higher vi
 
 Simply select the top clip and then hit Command + 4 to open the inspector. Now click on that blue show button over your FCP screen and it will provide you complete information about the transform category of available built-in effects. If you use inspector for this task then it can help you to get very precise results for scaling needs. It assists users to manage images with accurate position and size.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![precise adjustment](https://images.wondershare.com/filmora/article-images/precise-adjustment-in-fcp.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 6: Apply Cross- Dissolve
 
 * Now choose the leading edge of effect and use Command + T. It will immediately apply the default cross-dissolve option for starting clip.
 * You will be glad to know that the PIP effect does not restrict users to work just upon a single image rather it can be used to process as many pictures as your project needs and that can fit inside the frame.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dissolve effect](https://images.wondershare.com/filmora/article-images/dissolve-effect-in-fcp.jpg)
 
 Check this video tutorial to know more details:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Picture in Picture Plug-ins for Final Cut Pro
 
@@ -105,18 +106,17 @@ Those who need to enjoy a higher level of customizations are advised to work ove
 
 ProPIP is the best choice for newscasting, commentaries, and many other applications. It helps in generating fine controls for initial as well as end position, rotation, and scaling effects along with easy-to-use media controls over the screen. ProPIP also provides personalized borders with endless opportunities to develop impressive projects on Final Cut Pro platform.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -125,5 +125,22 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-power-of-precision-in-slug-line-writing-techniques/"><u>[New] 2024 Approved The Power of Precision in Slug Line Writing Techniques</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-affordable-free-screen-capture/"><u>[New] In 2024, The Ultimate Guide to Affordable, Free Screen Capture</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-sony-x1000d-vivid-full-action-cam-test/"><u>2024 Approved Sony X1000D Vivid - Full Action Cam Test</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-oneplus-12-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring OnePlus 12 PC | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-visuals-a-users-manual-for-diagnosing-the-dark-display-dilemma-on-windows-11/"><u>How to Restore Visuals: A User's Manual for Diagnosing the Dark Display Dilemma on Windows 11</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-translate-videos-with-subtitle-cat-your-essential-guide/"><u>New In 2024, Translate Videos with Subtitle Cat Your Essential Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/principles-of-crafting-alluring-video-scripts/"><u>Principles of Crafting Alluring Video Scripts</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-samsung-galaxy-f15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-best-reaction-video-editing-apps-for-ios-and-android-users/"><u>Updated 2024 Approved Best Reaction Video Editing Apps for iOS and Android Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-edit-and-organize-your-mp4-videos-with-these-tag-editors/"><u>Updated 2024 Approved Edit and Organize Your MP4 Videos with These Tag Editors</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-windows-live-movie-maker-slow-motion-effect-tips-tricks-and-techniques/"><u>Updated 2024 Approved Windows Live Movie Maker Slow Motion Effect Tips, Tricks, and Techniques</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-speed-up-your-video-editing-how-to-cut-large-files-fast-on-mac/"><u>Updated In 2024, Speed Up Your Video Editing How to Cut Large Files Fast on Mac</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-watermark-free-video-editing-top-10-online-tools-you-need/"><u>Updated In 2024, Watermark-Free Video Editing Top 10 Online Tools You Need</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-make-your-instagram-feed-pop-with-stop-motion-animation-for-2024/"><u>Updated Make Your Instagram Feed Pop with Stop Motion Animation for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-guide-to-split-screen-video-apps-for-mobile/"><u>Updated The Ultimate Guide to Split Screen Video Apps for Mobile</u></a></li>
+</ul></div>
 

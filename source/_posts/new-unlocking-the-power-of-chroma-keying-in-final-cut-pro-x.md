@@ -1,7 +1,7 @@
 ---
 title: New Unlocking the Power of Chroma Keying in Final Cut Pro X
-date: 2024-12-07T05:42:23.861Z
-updated: 2024-12-09T17:59:15.134Z
+date: 2024-12-11T01:56:30.213Z
+updated: 2024-12-16T04:22:42.982Z
 tags: 
   - video editing software
   - video editing
@@ -33,6 +33,10 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Getting Started
 
@@ -67,7 +71,7 @@ Click the **Sample Color** icon. This allows fine-tuning the selection of the ba
 ![fx chroma 04](https://images.wondershare.com/multimedia/fx-chroma-04.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In the green-screen image, drag to select a representative section of the background. I try to get close to the face, but not so close that I accidentally select loose hair or skin.
@@ -80,39 +84,27 @@ Your key should look better immediately. Most of the time, you can probably stop
 
 ![fx chroma 06](https://images.wondershare.com/multimedia/fx-chroma-06.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Click the **Matte** button to display your key as a white foreground on a black background.
 
 ![fx chroma 07](https://images.wondershare.com/multimedia/fx-chroma-07.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Your goal is the make the foreground solid white, which means opaque, and the background solid black, which means transparent. Adjust the **Fill Holes** and **Edge Distance** sliders until your key looks solid. (For REALLY bad keys, you'll need to also adjust Color Selection, mentioned below.)
 
 ![fx chroma 05](https://images.wondershare.com/multimedia/fx-chroma-05.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If an edge is too pronounced, or needs help, click the **Edges** icon.
 
 ![fx chroma 09](https://images.wondershare.com/multimedia/fx-chroma-09.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Tweaks Video**
 
 Then, click and drag a line from the foreground to the background in the Canvas. Drag the midpoint slider (where my cursor is) until the edge looks the best it can. Different video formats make this easy (ProRes), while others (HDV, avchd) make this much harder. Perfection is impossible – do the best you can.
 
 ![fx chroma 09a](https://images.wondershare.com/multimedia/fx-chroma-09a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Final Cut provides four additional tweaks at the bottom of the keyer filter:
 
@@ -129,11 +121,23 @@ This is a subtle effect, but very cool.
 
 ![fx chroma 10](https://images.wondershare.com/multimedia/fx-chroma-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Twirl down Light Wrap and adjust the Amount slider and watch what happens. Drag the other sliders around and see what happens. The nice thing about this setting is that when it looks good to you, it is good. The amount of the effect is totally up to you. Remember, Light Wrap only affects the edges of the foreground and should be used subtly.
 
 ![fx chroma 11](https://images.wondershare.com/multimedia/fx-chroma-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When you are done, you have a great looking key!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Clean up the Image with a Garbage Mask
 
@@ -145,10 +149,6 @@ Once you pull the key – which is film-speak for creating a green-screen shot, 
 
 ![fx chroma 13](https://images.wondershare.com/multimedia/fx-chroma-13.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Once you get your key looking as good as you can – which in this case isn't all that good – drag the Mask effect (**Effects > Keying > Mask**) on top of the green-screen clip.
 
 **NOTE**: The Mask effect should always be added after the Keying effect, so that the Mask is below the Keyer in the Inspector.
@@ -156,7 +156,7 @@ Once you get your key looking as good as you can – which in this case isn't al
 ![fx chroma 14](https://images.wondershare.com/multimedia/fx-chroma-14.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Then, drag each of the four circles to create a shape such that your foreground image is contained inside it, and everything you want to exclude is outside. Here, for instance, we removed the light stand, the edge of the green background and the tearing at the top of the image. I've found this Mask effect works best when applied to a connected clip.
@@ -196,20 +196,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-instalment-insight-getting-vrecord-running/"><u>[Updated] 2024 Approved Instalment Insight Getting VRecord Running</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-live-and-record-flawlessly-find-the-best-conference-tech-today/"><u>[Updated] 2024 Approved Live and Record Flawlessly - Find the Best Conference Tech Today</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-top-10-web-based-subtitle-editor-tools/"><u>[Updated] 2024 Approved Top 10 Web-Based Subtitle Editor Tools</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-hidden-facets-of-instagram-story-consumption/"><u>[Updated] In 2024, The Hidden Facets of Instagram Story Consumption</u></a></li>
-<li><a href="https://facebook.techidaily.com/customizing-your-fb-experience-to-escape-annoying-ads/"><u>Customizing Your FB Experience to Escape Annoying Ads</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discovering-the-superiority-of-netgear-orbi-for-seamless-internet-connectivity/"><u>Discovering the Superiority of Netgear Orbi for Seamless Internet Connectivity</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-a-broken-qr-scanner-on-your-iphone-a-step-by-step-guide-to-6-remedies/"><u>Fixing a Broken QR Scanner on Your iPhone: A Step-by-Step Guide to 6 Remedies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-your-tunes-curated-list-of-websites-for-youtuberingtones/"><u>In 2024, Unlock Your Tunes Curated List of Websites For YouTubeRingtones</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-zero-cost-flv-video-editing-top-5-tools-to-get-the-job-done-for-2024/"><u>New Zero-Cost FLV Video Editing Top 5 Tools to Get the Job Done for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/step-by-step-journey-mastering-the-art-of-gs-with-kinemaster-for-2024/"><u>Step-by-Step Journey Mastering the Art of GS with KineMaster for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/the-best-free-video-cutters-for-mov-file-editing-for-2024/"><u>The Best Free Video Cutters for MOV File Editing for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-edit-mp4-videos-on-windows-8-a-simple-guide/"><u>Updated 2024 Approved Edit MP4 Videos on Windows 8 A Simple Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-editing-videos-in-mavericks-tips-tricks-and-techniques/"><u>Updated 2024 Approved Editing Videos in Mavericks Tips, Tricks, and Techniques</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-and-easy-video-stabilization-top-picks/"><u>Updated 2024 Approved Free and Easy Video Stabilization Top Picks</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-mac-users-install-lumafusion-or-discover-its-top-competitors/"><u>Updated 2024 Approved Mac Users Install Lumafusion or Discover Its Top Competitors</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-enhancing-audience-experience-four-ways-to-livestream-on-tv-for-2024/"><u>[New] Enhancing Audience Experience Four Ways to Livestream on TV for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-avoiding-piracy-safe-techniques-for-youtube-to-mp4/"><u>[Updated] 2024 Approved Avoiding Piracy Safe Techniques for Youtube-to-MP4</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-hand-tracked-futures-visionary-technologies/"><u>[Updated] 2024 Approved Hand-Tracked Futures Visionary Technologies</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-ultimate-guide-to-boosting-views-on-tiktok-unboxings-for-2024/"><u>[Updated] The Ultimate Guide to Boosting Views on TikTok Unboxings for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-precision-photography-snippets-from-videos-on-windows-11/"><u>2024 Approved Precision Photography Snippets From Videos on Windows 11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/commanding-stage-confidence-with-powerpoint-voiceover-skills/"><u>Commanding Stage Confidence with PowerPoint Voiceover Skills</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-vivo-s17e-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Vivo S17e Safely | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-easily-create-stunning-home-dvds-with-the-best-video-editing-tools/"><u>New 2024 Approved Easily Create Stunning Home DVDs with the Best Video Editing Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-edit-avchd-like-a-pro-top-5-software-recommendations/"><u>New 2024 Approved Edit AVCHD Like a Pro Top 5 Software Recommendations</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-video-orientation-correction-top-10-tools-for-rotating-and-flipping/"><u>New 2024 Approved Free Video Orientation Correction Top 10 Tools for Rotating and Flipping</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-from-bland-to-grand-enhancing-lower-thirds-in-final-cut-pro-x/"><u>New 2024 Approved From Bland to Grand Enhancing Lower Thirds in Final Cut Pro X</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-meme-maker-apps-for-android-and-ios-devices-2023-update/"><u>New 2024 Approved Top Meme Maker Apps for Android & iOS Devices (2023 Update)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unresponsive-plugins-in-fcpx-heres-what-you-need-to-do/"><u>New 2024 Approved Unresponsive Plugins in FCPX? Heres What You Need to Do</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-create-a-heartfelt-valentines-day-message-a-step-by-step-guide-for-2024/"><u>New Create a Heartfelt Valentines Day Message A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-cut-edit-share-the-10-best-free-and-paid-android-video-editors/"><u>New In 2024, Cut, Edit, Share The 10 Best Free and Paid Android Video Editors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-brightness-on-windows-volume-controls/"><u>Restore Brightness on Windows' Volume Controls</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-to-address-vcompdll-not-available-errors/"><u>Troubleshooting Tips to Address vcomp.dll Not Available Errors</u></a></li>
 </ul></div>
 

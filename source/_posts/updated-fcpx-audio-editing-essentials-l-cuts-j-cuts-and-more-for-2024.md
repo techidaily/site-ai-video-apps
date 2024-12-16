@@ -1,7 +1,7 @@
 ---
 title: Updated FCPX Audio Editing Essentials L-Cuts, J-Cuts, and More for 2024
-date: 2024-12-04T21:20:41.957Z
-updated: 2024-12-10T05:19:28.103Z
+date: 2024-12-10T03:00:37.656Z
+updated: 2024-12-15T19:27:41.285Z
 tags: 
   - video editing software
   - video editing
@@ -29,7 +29,7 @@ If you wish to edit or create videos like a pro, you do not need to be a profess
 It could be surprising, but yes, your well-known Final Cut Pro X has this powerful feature still overlooked by many people. So, today, we take it on hand and shall share what L-Cuts and J-Cuts mean. You will be able to create it on your own by the end of this article.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: The Use of L-Cuts and J-Cuts in Video Editing
@@ -43,7 +43,7 @@ When you look at the above interface, you will see the basic phenomenon behind t
 Then, **what is a J cut in Final Cut Pro**? It is ultimately reverse or opposite of L-Cuts. Yes, the second clip's audio starts a while before the scene of the first video ends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Step-by-step Guide on Using L-Cuts and J-Cuts in Final Cut Pro X
@@ -77,7 +77,7 @@ In the case of Final Cut Pro **J-Cuts**, the process is reverse, where you need 
 When you look at the transition closely, you can see that it resembles the letter J.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Final Cut Pro X Keyboard Shortcuts for L-Cuts and J-Cuts
@@ -103,7 +103,7 @@ Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts a
 * Using timecode to add or subtract the present edit: press the “**Plus (+)**” or “**Minus (-)**” key with the timecode duration.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -113,7 +113,7 @@ Are you wondering and puzzled that you are a popular Final Cut Pro X user but we
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -131,19 +131,15 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/taying-within-the-limits-key-youtube-policies-for-2024/"><u>[New] Staying Within the Limits Key YouTube Policies for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-xiaomi-redmi-note-13-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Xiaomi Redmi Note 13 5G Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://win-premium.techidaily.com/effortless-incremental-backup-strategies-for-windows-server-2019-users/"><u>Effortless Incremental Backup Strategies for Windows Server 2019 Users</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-tecno-spark-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Tecno Spark 10 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-mastering-the-art-of-spoofing-your-smartphones-gps-coordinates/"><u>Guide: Mastering the Art of Spoofing Your Smartphone's GPS Coordinates</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-crafting-compelling-instagram-stories-a-guide-to-scaled-visuals/"><u>In 2024, Crafting Compelling Instagram Stories A Guide to Scaled Visuals</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-webm-video-editing-made-easy-top-10-free-tools/"><u>New In 2024, WebM Video Editing Made Easy Top 10 Free Tools</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-this-article-i-will-show-you-how-to-change-the-shape-of-a-video-in-3-different-ways-with-filmora-for-2024/"><u>New In This Article, I Will Show You How to Change the Shape of a Video in 3 Different Ways with Filmora for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-the-best-video-editor-for-beginners-videopad-review-and-recommendation/"><u>New The Best Video Editor for Beginners? Videopad Review and Recommendation</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-avs-video-editor-review-a-beginners-guide-for-2024/"><u>New The Ultimate AVS Video Editor Review A Beginners Guide for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-review-of-vn-video-editor-mobile-app-for-2024/"><u>New The Ultimate Review of VN Video Editor Mobile App for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/value-airborne-inventors-budget-friendly-flight-tools/"><u>Value Airborne Inventors Budget-Friendly Flight Tools</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-honor-magic-6-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Honor Magic 6 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movaiv/"><u>모비 페이지에서 영상 클로닝을 위해 MOVAIV 솔루션: 무료, 쉽거리는 오븐화 - 동영상</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-streaming-supremacy-duo-for-2024/"><u>[New] Streaming Supremacy Duo for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-insights-on-common-filmora-editing-issues/"><u>2024 Approved Expert Insights on Common Filmora Editing Issues</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-viral-video-showdown-is-it-time-for-likee-to-outshine-tiktok/"><u>2024 Approved Viral Video Showdown Is It Time for Likee to Outshine TikTok?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intermittent-wireless-mouse-functionality-issues-with-win-10/"><u>Intermittent Wireless Mouse Functionality Issues with Win 10</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/motion-tracking-software-for-text-top-picks-for-2024/"><u>Motion Tracking Software for Text Top Picks for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-here-are-some-of-the-best-free-and-paid-split-screen-video-editors-and-makers-that-you-can-use-online-and-offline/"><u>New 2024 Approved Here Are some of the Best Free and Paid Split-Screen Video Editors and Makers that You Can Use Online and Offline</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-mobile-video-editing-showdown-powerdirector-alternatives/"><u>New 2024 Approved Mobile Video Editing Showdown PowerDirector Alternatives</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-green-screen-magic-top-10-free-apps-for-android-and-ios-updated-list/"><u>New In 2024, Green Screen Magic Top 10 Free Apps for Android and iOS Updated List</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-poco-c51-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-unveiled-pathfinder-game-stability-enhanced-to-prevent-recurring-crashes/"><u>Solution Unveiled: Pathfinder Game Stability Enhanced to Prevent Recurring Crashes</u></a></li>
 </ul></div>
 
