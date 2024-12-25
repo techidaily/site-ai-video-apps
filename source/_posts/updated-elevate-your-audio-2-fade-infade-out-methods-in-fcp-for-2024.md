@@ -1,7 +1,7 @@
 ---
 title: Updated Elevate Your Audio 2 Fade-In/Fade-Out Methods in FCP for 2024
-date: 2024-12-12T07:00:12.498Z
-updated: 2024-12-16T02:46:38.980Z
+date: 2024-12-17T17:24:09.885Z
+updated: 2024-12-25T04:55:18.817Z
 tags: 
   - video editing software
   - video editing
@@ -45,7 +45,7 @@ Before we get started, you can firstly detach the audio from video to better edi
 Check more articles here, if you are also interested in other [audio editing tips](https://tools.techidaily.com/wondershare/filmora/download/) in Final Cut Pro or want to know how to [record a voice over](https://tools.techidaily.com/wondershare/filmora/download/) with FCP.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Fade Audio by using the Modify Menu
@@ -57,28 +57,24 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 ![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
 ![Apply fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You should remember that the fades appear at the beginning and the end of each clip. The default duration of the fade is one half-second. If you want to modify that duration, you just have to drag the fade handle up to the point where your fade is supposed to begin or end.
 
 ![Modify duration of fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3**: If you want to remove the fades, choose Modify > Adjust Volume > Remove Fades.
 
 See more details on how to fade audio in Final Cut Pro from the following video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Fade Music by using Fade Handles
 
@@ -96,15 +92,15 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -118,6 +114,10 @@ You can easily change the sound of your fades by modifying the default fade shap
 [](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -134,20 +134,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-key-strategies-for-efficient-screenshare-experience-with-discord-for-2024/"><u>[New] Key Strategies for Efficient Screenshare Experience with Discord for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-revolutionizing-podcast-titles-leading-10-ai-generators/"><u>[New] Revolutionizing Podcast Titles Leading 10 AI Generators</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-pushing-the-limits-of-visual-impact-in-ae-titles/"><u>[Updated] 2024 Approved Pushing the Limits of Visual Impact in AE Titles</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/2024mp4top4tsmp4/"><u>2024年度最新のMP4変換ツールTOP4!TS形式を高品質に安全にMP4へ変更可能</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhancing-reading-capacity-with-microsoft-word-for-lengthy-document-handling/"><u>Enhancing Reading Capacity with Microsoft Word for Lengthy Document Handling</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-nba-2k23-pc-game-crashes-top-7-reliable-solutions/"><u>Fixing NBA 2K23 PC Game Crashes: Top 7 Reliable Solutions</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-mac-video-editor-mkvtoolnix-features-and-benefits/"><u>New In 2024, The Ultimate Mac Video Editor MKVtoolnix Features and Benefits</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-mac-video-editor-mkvtoolnix-features-and-benefits-2023/"><u>New In 2024, The Ultimate Mac Video Editor MKVtoolnix Features and Benefits 2023</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-top-15-adobe-premiere-plugins-free-download/"><u>New In 2024, Top 15 Adobe Premiere Plugins Free Download</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-why-does-fcpx-keep-crashing-find-out-and-fix-it/"><u>New In 2024, Why Does FCPX Keep Crashing? Find Out and Fix It</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-mobile-video-production-made-easy-top-apps-with-music-features-for-2024/"><u>New Mobile Video Production Made Easy Top Apps with Music Features for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-the-best-mp4-to-mp3-conversion-software-for-windows-and-mac-for-2024/"><u>New The Best MP4 to MP3 Conversion Software for Windows and Mac for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-transform-your-footage-expert-techniques-for-creating-breathtaking-movies-for-2024/"><u>New Transform Your Footage Expert Techniques for Creating Breathtaking Movies for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/prepare-for-the-metaverse-the-7-indispensable-tools/"><u>Prepare for the Metaverse - The 7 Indispensable Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-verdict-on-inshot-master-editor-for-2024/"><u>The Verdict on InShot Master Editor for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-uncover-the-best-8-open-source-video-conferencing-tools-of-now/"><u>[Updated] In 2024, Uncover the Best 8 Open-Source Video Conferencing Tools of Now</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-the-ultimate-guide-to-designing-powerful-youtube-logos/"><u>2024 Approved The Ultimate Guide to Designing Powerful YouTube Logos</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1725286734621-dvd/"><u>DVDストレッチに対応してください:安全なダウンロード手順を学ぶ</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/future-proof-your-workflow-leading-microsoft-office-alternatives-of-2024/"><u>Future-Proof Your Workflow: Leading Microsoft Office Alternatives of 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-a25-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy A25 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-v30t-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme V30T Phones with/without a PC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-oppo-k11x-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Oppo K11x Android SIM Unlock APK</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/maximizing-your-evs-potential-understanding-distance-per-charge/"><u>Maximizing Your EV's Potential: Understanding Distance per Charge</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/s-top-picks-16-free-video-editing-software-for-beginners-for-2024/"><u>S Top Picks 16 Free Video Editing Software for Beginners for 2024</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/telechargement-gratuit-du-codec-h265-pour-compresser-et-encoder-en-video-hevc/"><u>Téléchargement Gratuit Du Codec H.265 Pour Compresser Et Encoder en Vidéo HEVC</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-best-avi-video-editor-for-windows-8-effortless-editing-made-easy-for-2024/"><u>Updated Best AVI Video Editor for Windows 8 Effortless Editing Made Easy for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-master-1080p-video-editing-expert-approved-software-for-2024/"><u>Updated Master 1080P Video Editing Expert-Approved Software for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-streamline-your-mpeg2-videos-with-virtualdub-compression/"><u>Updated Streamline Your MPEG2 Videos with VirtualDub Compression</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-video-editing-without-limits-how-to-use-windows-and-mac-apps-on-your-chromebook/"><u>Updated Video Editing Without Limits How to Use Windows and Mac Apps on Your Chromebook</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/webs-finest-vertical-video-editors-for-online-creators-for-2024/"><u>Webs Finest Vertical Video Editors for Online Creators for 2024</u></a></li>
 </ul></div>
 

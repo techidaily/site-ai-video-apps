@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Retrograde Your Footage Easy VHS Effects in Final Cut Pro
-date: 2024-12-03T04:57:51.046Z
-updated: 2024-12-09T19:44:23.394Z
+date: 2024-12-21T04:11:12.844Z
+updated: 2024-12-25T03:46:27.709Z
 tags: 
   - video editing software
   - video editing
@@ -30,6 +30,10 @@ Fortunately, you don't have to reshoot your video using an analog camera and tra
 
 In this article, you will learn how to add VHS effects to a video in Final Cut Pro X, how to use VHS video effects, and some common VHS filter choices to use in your next project, so keep reading:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part1: How to do VHS effect in FCPX?
 
 A VHS effect is a textured, warped effect that looks like an outdated analog videotape cassette recording. Adding this antique effect to an edit adds a fantastic old-school discord. How often should you utilize these glitchy and vintage effects? When the mood you're trying to create begs for some visual or aural distortion. Perhaps you need to recreate the appearance of discovered film or express a dramatic flashback to a character's history. In any case, VHS tapes and glitch effects are pretty trendy right now.
@@ -50,15 +54,15 @@ Open the Effects, and in the search bar, type Add Noise. Select the Add Noise ef
 
 ![add_noise_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/add_noise_in_final_cut_pro.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Go to the option Blend Mode and select Color Dodge. Now click on Type and select Gaussian Noise (Film Grain). In the Amount section, add the amount between 0.23-0.32.
 
 Now go back to the search bar and type Gaussian Blur. Select that and drop it to your footage in FCPX.
 
 ![add_guassian_blur_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/add_guassian_blur_in_final_cut_pro.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Go to the Gaussian settings and set the amount to roughly 2.0-3.0.
 
@@ -66,19 +70,11 @@ Go back to the search bar in FCPX and type Sharpen. Select the Sharpen effect an
 
 ![add_sharpness_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/add_sharpness_in_final_cut_pro.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Set the amount of sharpness to around 8.0-9.0.
 
 Now in the search bar type Bad TV effect. Select it and drop it on your footage in FCPX.
 
 ![add_bad_tv_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/add_bad_tv_effect_in_final_cut_pro.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Set the amount of the effect to roughly around 8.0-9.0\. In the option, Static Type, select Gaussian Noise (Film Grain). Select Soft Light in Static Blend mode option.
 
@@ -92,6 +88,10 @@ Go back to the search bar and type Color Correction. Drag and drop this effect t
 
 ![color_correction_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/color_correction_in_final_cut_pro.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Click on Exposure and adjust the Highlights, Midtones, and Shadow. Go to the Saturation option and lower it. Now go to the Color and adjust the tint of your video by changing the Global option. Also, adjust the Highlights, Midtones, and Shadows. Wait for a few minutes for it to render.
 
 After your video is rendered, you will get the final results using the VHS filter in Final Cut Pro. Your video will look like it was made in a VCR Video format.
@@ -99,11 +99,7 @@ After your video is rendered, you will get the final results using the VHS filte
 ![final_result_of_vhs_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/final_result_of_vhs_effect_in_final_cut_pro.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part2: How to do VHS effect in easy steps?
@@ -129,7 +125,7 @@ To do VHS effects quickly, follow these steps:
 ![select_end_credits](https://images.wondershare.com/filmora/images/final-cut-pro/select_end_credits.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Go to Effect, and in the search bar, type **VHS**.
@@ -138,6 +134,10 @@ Go to Effect, and in the search bar, type **VHS**.
 * Double click on it and change the Alpha value to 25 and click Ok.
 
 ![add_vhs_distortion_bad](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion_bad.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Now drag the VHS Distortion effect and place it above the previous one.
 * Double click on it and change its Alpha value to 35 and click Ok.
@@ -150,7 +150,7 @@ Go to Effect, and in the search bar, type **VHS**.
 ![add_vhs_rewind](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_rewind.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now search for the **Strong Glitch effect**.
@@ -161,6 +161,10 @@ Go to Effect, and in the search bar, type **VHS**.
 
 ![add_strong_glitch](https://images.wondershare.com/filmora/images/final-cut-pro/add_strong_glitch.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Search for **Chromatic Aberration effect**.
 
 * Drag and drop it above the previous layer.
@@ -169,10 +173,6 @@ Search for **Chromatic Aberration effect**.
 * Change its Alpha value to 60 and Fade to 0.05 and click Ok.
 
 ![add_chromatic_abberation](https://images.wondershare.com/filmora/images/final-cut-pro/add_chromatic_abberation.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now Search for **VCR Distortion** in the search bar.
 
@@ -242,20 +242,14 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-intense-presentation-review-8x-version/"><u>[New] 2024 Approved Intense Presentation Review 8X Version</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-incorporating-melodic-essence-into-your-creative-videos-with-premiere-pro-for-2024/"><u>[New] Incorporating Melodic Essence Into Your Creative Videos with Premiere Pro for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-navigating-the-path-free-and-safe-vlc-installer-for-macos-users/"><u>[Updated] 2024 Approved Navigating the Path Free and Safe VLC Installer for macOS Users</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-auto-captioned-mastery-enhancing-visual-narratives/"><u>2024 Approved Auto-Captioned Mastery Enhancing Visual Narratives</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-pinnacle-creator-the-duo-of-media-elements/"><u>2024 Approved Pinnacle Creator The Duo of Media Elements</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>Hacks to do pokemon go trainer battles For Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016914107-troubleshooting-iphones-noisy-and-muffled-sounds-solutions-inside/"><u>Troubleshooting iPhone's Noisy and Muffled Sounds – Solutions Inside</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/unlock-efficient-video-compression-download-virtualdub-mpeg2-now-for-2024/"><u>Unlock Efficient Video Compression Download VirtualDub MPEG2 Now for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-get-recording-the-10-best-webcam-software-for-windows-10-users/"><u>Updated 2024 Approved Get Recording The 10 Best Webcam Software for Windows 10 Users</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-transform-low-res-videos-into-high-definition-masterpieces/"><u>Updated 2024 Approved Transform Low-Res Videos Into High-Definition Masterpieces</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-unleash-your-creativity-with-final-cut-pros-90-day-free-trial/"><u>Updated In 2024, Unleash Your Creativity with Final Cut Pros 90-Day Free Trial</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-mac-vlc-trimmer-the-best-way-to-shorten-videos-without-sacrificing-quality-for-2024/"><u>Updated Mac VLC Trimmer The Best Way to Shorten Videos Without Sacrificing Quality for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-subtitle-your-way-to-success-fcpx-captioning-made-easy-for-2024/"><u>Updated Subtitle Your Way to Success FCPX Captioning Made Easy for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-vn-video-editor-pc-review-is-it-the-right-choice-for-you-in-2024/"><u>Updated VN Video Editor PC Review Is It the Right Choice for You, In 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1715860670607-updated-maximizing-ipad-audio-record-best-tips/"><u>[Updated] Maximizing iPad Audio Record Best Tips!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-y56-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo Y56 5G</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oneplus-nord-n30-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track OnePlus Nord N30 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-fre-for-2024/"><u>Updated Fre for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-take-your-videos-to-the-next-level-editing-tips-and-tricks-for-2024/"><u>Updated Take Your Videos to the Next Level Editing Tips and Tricks for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-cream-of-the-crop-2024s-top-4k8k-video-editing-software/"><u>Updated The Cream of the Crop 2024S Top 4K/8K Video Editing Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-vn-video-editor-pro-does-it-deliver-on-its-promises-for-2024/"><u>Updated VN Video Editor Pro Does It Deliver on Its Promises for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/which-is-it-for-you-air-or-pro-with-m1-upgrade-for-2024/"><u>Which Is It for You, Air or Pro with M1 Upgrade for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Final Cut Pro (FCP) Is One of the Most Powerful Editing Tools Often Used by Professional Editors Around the Globe for 2024
-date: 2024-12-03T07:16:58.485Z
-updated: 2024-12-09T22:25:02.217Z
+date: 2024-12-24T07:32:30.927Z
+updated: 2024-12-25T07:27:47.692Z
 tags: 
   - video editing software
   - video editing
@@ -46,16 +46,12 @@ While dragging the audio or video clip onto the timeline you have surely seen th
 
 ![ Clip-level audio editing ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
 ![](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Related Article:** [How to fade in/out audio in Final Cut Pro >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -67,6 +63,10 @@ The job of the tiny white points on the right and left side of the clip is to ap
 The audio of the video can be detached for editing the audio file separately. The Audio Inspector of FCP provides you with all precise controls of audio edit like pan, effect, volume, equalization and audio configuration.
 
 ![ The Audio Inspector ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
 
@@ -81,12 +81,16 @@ The Audio Inspector would allow you to apply the following effects:
 
 ![ Audio Equalization ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
 
 ![Pan](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Effects- for this option one needs to go to the effects browser of the **Audio Inspector** or just hit comd5\. This would allow you to choose many different audio effects such as echo, distortion, spaces and much more. Just double-click on any effect to find a range of editing options.
@@ -94,7 +98,7 @@ The Audio Inspector would allow you to apply the following effects:
 ![Effects](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-7.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Audio Configuration: The audio configuration tool would allow the user to modify the audio channel with mono, stereo, or reverse stereo.
@@ -102,10 +106,6 @@ The Audio Inspector would allow you to apply the following effects:
 **Here's the video tutorial on how to edit audios in Final Cut Pro:**
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -122,20 +122,15 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-capturing-screen-content-via-built-in-recorders-in-the-mate-and-p-series/"><u>[New] 2024 Approved Capturing Screen Content via Built-In Recorders in the Mate and P Series</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-unveiling-social-media-stars-your-niches-influencers-guide/"><u>[New] Unveiling Social Media Stars Your Niche’s Influencers Guide</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-streamlining-quality-youtubes-best-video-improvement-strategies/"><u>[Updated] In 2024, Streamlining Quality YouTube's Best Video Improvement Strategies</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-the-ultimate-surveillance-avoidance-tips-for-instagrams-livestreams/"><u>[Updated] The Ultimate Surveillance Avoidance Tips for Instagram's Livestreams</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-executing-a-successful-facebook-live-from-previous-recordings/"><u>2024 Approved Executing a Successful Facebook Live From Previous Recordings</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-securing-stipends-by-scrutinizing-subscriptions-on-streaming-services/"><u>2024 Approved Securing Stipends by Scrutinizing Subscriptions on Streaming Services</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-sony-xperia-10-v-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Sony Xperia 10 V FRP Bypass</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-age-of-empires-3-launch-problems-a-comprehensive-guide/"><u>Overcoming Age of Empires 3 Launch Problems: A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/quicktime-player-tutorial-fast-forward-your-videos-for-2024/"><u>QuickTime Player Tutorial Fast Forward Your Videos for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/the-ultimate-canon-video-editing-handbook-software-tips-and-trends-for-2024/"><u>The Ultimate Canon Video Editing Handbook Software, Tips, and Trends for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/top-rated-switch-capture-cards-revealed-for-2024/"><u>Top-Rated Switch Capture Cards Revealed for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-avidemux-essentials-cropping-trimming-and-perfecting-your-video-edits/"><u>Updated 2024 Approved Avidemux Essentials Cropping, Trimming, and Perfecting Your Video Edits</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-edit-wmv-files-for-free-top-5-video-editor-options/"><u>Updated 2024 Approved Edit WMV Files for Free Top 5 Video Editor Options</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-make-movies-like-a-pro-16-free-and-easy-to-use-tools/"><u>Updated Make Movies Like a Pro 16 Free and Easy-to-Use Tools</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-guide-to-creating-a-photo-video-with-music-for-2024/"><u>Updated The Ultimate Guide to Creating a Photo Video with Music for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-worlds-beyond-borders-best-10-mmo-adventures-for-free/"><u>[New] In 2024, Worlds Beyond Borders Best 10 MMO Adventures for Free</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-unleash-potential-best-gaming-content-to-elevate-your-channel/"><u>[Updated] 2024 Approved Unleash Potential Best Gaming Content to Elevate Your Channel</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-turn-on-volume-for-anthem-while-playing-on-a-windows-10-device/"><u>How to Turn On Volume for Anthem While Playing on a Windows 10 Device</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/simplified-mac-solution-audioplusscreen-capture/"><u>Simplified Mac Solution Audio+Screen Capture</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/ultimate-step-by-step-guide-convert-mp4-videos-into-dvd-format-with-a-live-demonstration/"><u>Ultimate Step-by-Step Guide: Convert MP4 Videos Into DVD Format with a Live Demonstration</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-techniques-to-overcome-stringing-challenges-in-3d-prints/"><u>Ultimate Techniques to Overcome Stringing Challenges in 3D Prints</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-dailymotion-video-conversion-made-easy-free-tool-for-2024/"><u>Updated Dailymotion Video Conversion Made Easy - Free Tool for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-best-vlc-trimmer-for-mac-zero-quality-loss-every-time/"><u>Updated The Best VLC Trimmer for Mac Zero Quality Loss, Every Time</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-unleash-the-filmmaker-within-a-kids-guide-to-movie-creation-for-2024/"><u>Updated Unleash the Filmmaker Within A Kids Guide to Movie Creation for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-zero-cost-flv-video-editing-top-5-tools-to-get-the-job-done/"><u>Updated Zero-Cost FLV Video Editing Top 5 Tools to Get the Job Done</u></a></li>
 </ul></div>
 

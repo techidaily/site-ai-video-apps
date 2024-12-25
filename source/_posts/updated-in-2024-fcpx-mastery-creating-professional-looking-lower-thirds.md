@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, FCPX Mastery Creating Professional-Looking Lower Thirds
-date: 2024-12-15T09:13:34.008Z
-updated: 2024-12-16T04:26:07.240Z
+date: 2024-12-18T02:24:29.386Z
+updated: 2024-12-25T03:17:36.102Z
 tags: 
   - video editing software
   - video editing
@@ -48,11 +48,11 @@ On a short note, you can define the lower third module as a piece of a graphical
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part2: What factors contribute to a good lower third?**
@@ -93,10 +93,6 @@ Proper alignment and the best coordinates on the screen make the lower third mod
 
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part3: How to make a lower third quickly in final cut pro X?**
 
 The Final Cut Pro X is a fabulous program to edit your videos professionally. Insert the desired elements and customize them quickly. To work on this platform, you do not require any special skills.
@@ -113,6 +109,10 @@ Features of Final Cut Pro X to design lower third module element
 
 ![final-cut-pro-x](https://images.wondershare.com/filmora/images/final-cut-pro/final-cut-pro-x.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In this section, you will learn to make a lower third element using a Final Cut Pro X tool. It is high to check out the steps in detail.
 
 **1Step 1: Download the tool**
@@ -120,10 +120,6 @@ In this section, you will learn to make a lower third element using a Final Cut 
 You can download the app and install them in your system. Launch the tool by double-tapping the tool icon.
 
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2Step 2: Add the Title**
 
@@ -136,6 +132,10 @@ In the home screen, import the video that requires the edits and then tap the �
 Now, you can edit the texts in the inserted titles and add animation to the element using the attributes under the ‘Generator’ tab. Modify the title’s textures, background, and positions using the relevant options displayed. Choose accordingly to personalize the title element based on your requirement.
 
 ![customize-lower-third](https://images.wondershare.com/filmora/images/final-cut-pro/customize-lower-third.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Use the above instructions, insert the lower third element in your video effortlessly. Simple click and drag actions are sufficient to carry out the desired effects on the element.
 
@@ -170,7 +170,7 @@ Display the texts promptly to enlighten the audience. Connect the texts to the t
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -188,20 +188,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-ultimate-list-top-18-high-def-camcorders/"><u>[New] 2024 Approved Ultimate List Top 18 High-Def Camcorders</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-seo-power-play-strategies-to-amplify-your-podcasts-impact/"><u>2024 Approved SEO Power Play Strategies To Amplify Your Podcast's Impact</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-spectacular-free-image-editors-the-new-era/"><u>2024 Approved Spectacular Free Image Editors The New Era</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/brother-scandrive-software-updates-enhancements-and-fixes-for-windows-pcs/"><u>Brother ScanDrive Software Updates – Enhancements and Fixes for Windows PCs</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-infamous-video-dxgkrnl-bsod-issue-in-windows-11-step-by-step-guide/"><u>Fixing the Infamous Video Dxgkrnl BSOD Issue in Windows 11: Step-by-Step Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-change-a-word-file-into-easy-reading-kindle-mobi-books/"><u>How to Change a Word File Into Easy-Reading Kindle MOBI Books</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/navigating-through-the-best-pc-vr-headset-lineup-of-2023/"><u>Navigating Through the Best PC VR Headset Lineup of 2023</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-1-free-top-10-best-android-video-editors-for-2024/"><u>New 1-FREE Top 10 Best Android Video Editors for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-edit-like-a-pro-with-wax-a-free-video-editing-software-guide/"><u>New 2024 Approved Edit Like a Pro with Wax A Free Video Editing Software Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-s-top-rated-free-wmv-video-concatenation-software/"><u>New 2024 Approved S Top-Rated Free WMV Video Concatenation Software</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-easiest-way-to-share-ps4-screenshots-on-social-media-2023-update/"><u>New 2024 Approved The Easiest Way to Share PS4 Screenshots on Social Media (2023 Update)</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-effortless-gopro-video-editing-a-beginners-guide/"><u>New In 2024, Effortless GoPro Video Editing A Beginners Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-final-cut-pro-x-for-filmmakers-creating-visually-stunning-videos/"><u>New In 2024, Final Cut Pro X for Filmmakers Creating Visually Stunning Videos</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-guide-to-free-sound-effects-for-final-cut-pro-editors/"><u>New In 2024, The Ultimate Guide to Free Sound Effects for Final Cut Pro Editors</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-restore-google-hangouts-speaking-capability/"><u>Step-by-Step Guide to Restore Google Hangouts Speaking Capability</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-step-by-step-instructions-for-universal-recording-of-youtube-lives/"><u>[New] Step-by-Step Instructions for Universal Recording of YouTube Lives</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-beginners-guide-to-zoom-webinars-for-2024/"><u>[Updated] Beginner’s Guide to Zoom Webinars for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-marketing-havens-for-youtube-videos/"><u>[Updated] Ideal Marketing Havens for YouTube Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-prime-websites-boosting-youtube-video-popularity/"><u>[Updated] Prime Websites Boosting YouTube Video Popularity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-the-smallest-palms-struggle-with-the-mighty-google-pixel-9-pro-fold/"><u>How the Smallest Palms Struggle with the Mighty Google Pixel 9 Pro Fold</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-vivo-y78plus-t1-edition-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Vivo Y78+ (T1) Edition FRP In 3 Different Ways</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-unleash-your-creativity-the-top-10-free-green-screen-apps-for-mobile-video-editing/"><u>New In 2024, Unleash Your Creativity The Top 10 Free Green Screen Apps for Mobile Video Editing</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-make-this-valentines-day-unforgettable-tips-for-creating-a-personalized-video-gift/"><u>New Make This Valentines Day Unforgettable Tips for Creating a Personalized Video Gift</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-avs-video-editor-review-a-beginners-guide/"><u>New The Ultimate AVS Video Editor Review A Beginners Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-top-video-editing-apps-with-soundtracks-for-mobile-devices/"><u>New Top Video Editing Apps with Soundtracks for Mobile Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-issue-step-by-step-guide-to-fixing-windows-update-error-code-0x8024402c/"><u>Resolving the Issue: Step-by-Step Guide to Fixing Windows Update Error Code 0X8024402C</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-application-boot-issues-overcoming-error-code-0xc00n000007b/"><u>Troubleshooting Application Boot Issues: Overcoming Error Code 0Xc00n000007b</u></a></li>
 </ul></div>
 

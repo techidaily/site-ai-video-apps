@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Newest Gadgets with Tom - A Hardware Journey
-date: 2024-12-04T18:05:16.614Z
-updated: 2024-12-09T17:57:08.029Z
+date: 2024-12-23T02:39:55.333Z
+updated: 2024-12-25T04:35:02.003Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,20 +78,19 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-ai-powered-best-titles-makers-online/"><u>[New] 2024 Approved AI-Powered Best Titles Makers Online</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-incorporating-youtube-videos-in-google-slides/"><u>[New] In 2024, Guide Incorporating YouTube Videos in Google Slides</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-advanced-video-conferencing-applications-guide/"><u>[Updated] Advanced Video Conferencing Applications Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-best-screens-ever-the-ultimate-top-ten/"><u>2024 Approved Best Screens Ever – The Ultimate Top Ten</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-in-computing-with-toms-gear-hub/"><u>Discover the Latest in Computing with Tom's Gear Hub</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-realme-c67-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Realme C67 5G Phones with/without a PC</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-se-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone SE Prevention & Solution | Dr.fone</u></a></li>
-<li><a href="https://solve-help.techidaily.com/sieben-effektive-methoden-zum-erfolg/"><u>Sieben Effektive Methoden Zum Erfolg</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/social-media-mastery-surpassing-the-competition-in-popularity-rankings-for-2024/"><u>Social Media Mastery Surpassing the Competition in Popularity Rankings for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-kinemaster-for-mac-a-step-by-step-installation-tutorial/"><u>Updated 2024 Approved KineMaster for Mac A Step-by-Step Installation Tutorial</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-top-5-best-free-iphone-video-rotators/"><u>Updated 2024 Approved Top 5 Best Free iPhone Video Rotators</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-edit-large-videos-in-no-time-a-step-by-step-guide-for-mac-users-for-2024/"><u>Updated Edit Large Videos in No Time A Step-by-Step Guide for Mac Users for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-split-3gp-files-into-multiple-segments-easy-guide-2023/"><u>Updated In 2024, Split 3GP Files Into Multiple Segments Easy Guide 2023</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-top-vlog-editing-tools-for-popular-platforms-free-and-paid-options/"><u>Updated In 2024, Top Vlog Editing Tools for Popular Platforms Free and Paid Options</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-revolutionize-your-job-search-best-video-resume-software-free-templates/"><u>Updated Revolutionize Your Job Search Best Video Resume Software (Free Templates)</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/mbedding-youtube-playlists-with-minimal-complexity-and-maximum-impact-for-2024/"><u>[New] Embedding YouTube Playlists with Minimal Complexity and Maximum Impact for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unveiling-the-secrets-of-popularity-a-guide-to-15-best-opener-plans/"><u>[New] Unveiling the Secrets of Popularity A Guide to 15 Best Opener Plans</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/counterview-commentary-review-for-2024/"><u>CounterView Commentary Review for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gratis-mp4-versie-naar-wma-omzetten-onlinelastige-oplossing-met-movavi/"><u>Gratis MP4-Versie Naar WMA Omzetten - Onlinelastige Oplossing Met Movavi</u></a></li>
+<li><a href="https://media-tips.techidaily.com/leading-wav-encoders-simplify-your-audio-file-conversion-from-amraaccdampegmov-to-wav/"><u>Leading WAV Encoders: Simplify Your Audio File Conversion - From AMR/AAC/CDA/MPEG/MOV to WAV</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/metaverse-laughs-crafting-funny-virtual-memes-for-2024/"><u>Metaverse Laughs Crafting Funny Virtual Memes for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/restore-your-lost-iphone-notes-a-step-by-step-guide/"><u>Restore Your Lost iPhone Notes: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-top-5-key-discovery-solutions-of-the-year-2024/"><u>The Top 5 Key Discovery Solutions of the Year 2024</u></a></li>
+<li><a href="https://techidaily.com/update-hardware-drivers-with-device-manager-in-windows-11107-by-drivereasy-guide/"><u>Update hardware drivers with Device Manager in Windows 11/10/7</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-effortless-mp4-video-tagging-top-editor-recommendations/"><u>Updated 2024 Approved Effortless MP4 Video Tagging Top Editor Recommendations</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-create-stunning-animations-on-the-go-top-mobile-apps-for-2024/"><u>Updated Create Stunning Animations On-the-Go Top Mobile Apps for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-a-beginners-guide-to-video-editing-on-mac-create-stunning-movies/"><u>Updated In 2024, A Beginners Guide to Video Editing on Mac Create Stunning Movies</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-filmora-13-download-free-unleash-your-creativity/"><u>Updated In 2024, Filmora 13 Download Free Unleash Your Creativity</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-pip-like-a-pro-mastering-picture-in-picture-video-editing-in-final-cut-pro/"><u>Updated In 2024, PiP Like a Pro Mastering Picture-in-Picture Video Editing in Final Cut Pro</u></a></li>
 </ul></div>
 

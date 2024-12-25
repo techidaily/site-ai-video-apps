@@ -1,7 +1,7 @@
 ---
 title: Updated FCPX Audio Editing Essentials L-Cuts, J-Cuts, and More for 2024
-date: 2024-12-10T03:00:37.656Z
-updated: 2024-12-15T19:27:41.285Z
+date: 2024-12-19T07:34:12.230Z
+updated: 2024-12-24T16:27:28.412Z
 tags: 
   - video editing software
   - video editing
@@ -29,7 +29,7 @@ If you wish to edit or create videos like a pro, you do not need to be a profess
 It could be surprising, but yes, your well-known Final Cut Pro X has this powerful feature still overlooked by many people. So, today, we take it on hand and shall share what L-Cuts and J-Cuts mean. You will be able to create it on your own by the end of this article.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: The Use of L-Cuts and J-Cuts in Video Editing
@@ -43,7 +43,7 @@ When you look at the above interface, you will see the basic phenomenon behind t
 Then, **what is a J cut in Final Cut Pro**? It is ultimately reverse or opposite of L-Cuts. Yes, the second clip's audio starts a while before the scene of the first video ends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Step-by-step Guide on Using L-Cuts and J-Cuts in Final Cut Pro X
@@ -77,7 +77,7 @@ In the case of Final Cut Pro **J-Cuts**, the process is reverse, where you need 
 When you look at the transition closely, you can see that it resembles the letter J.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Final Cut Pro X Keyboard Shortcuts for L-Cuts and J-Cuts
@@ -103,7 +103,7 @@ Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts a
 * Using timecode to add or subtract the present edit: press the “**Plus (+)**” or “**Minus (-)**” key with the timecode duration.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -113,7 +113,7 @@ Are you wondering and puzzled that you are a popular Final Cut Pro X user but we
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -131,15 +131,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-streaming-supremacy-duo-for-2024/"><u>[New] Streaming Supremacy Duo for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-insights-on-common-filmora-editing-issues/"><u>2024 Approved Expert Insights on Common Filmora Editing Issues</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-viral-video-showdown-is-it-time-for-likee-to-outshine-tiktok/"><u>2024 Approved Viral Video Showdown Is It Time for Likee to Outshine TikTok?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/intermittent-wireless-mouse-functionality-issues-with-win-10/"><u>Intermittent Wireless Mouse Functionality Issues with Win 10</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/motion-tracking-software-for-text-top-picks-for-2024/"><u>Motion Tracking Software for Text Top Picks for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-here-are-some-of-the-best-free-and-paid-split-screen-video-editors-and-makers-that-you-can-use-online-and-offline/"><u>New 2024 Approved Here Are some of the Best Free and Paid Split-Screen Video Editors and Makers that You Can Use Online and Offline</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-mobile-video-editing-showdown-powerdirector-alternatives/"><u>New 2024 Approved Mobile Video Editing Showdown PowerDirector Alternatives</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-green-screen-magic-top-10-free-apps-for-android-and-ios-updated-list/"><u>New In 2024, Green Screen Magic Top 10 Free Apps for Android and iOS Updated List</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-poco-c51-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solution-unveiled-pathfinder-game-stability-enhanced-to-prevent-recurring-crashes/"><u>Solution Unveiled: Pathfinder Game Stability Enhanced to Prevent Recurring Crashes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-million-view-achievement-and-its-monetary-benefit/"><u>[Updated] Million View Achievement and Its Monetary Benefit</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-top-action-hunting-cameras-of-the-year-for-2024/"><u>[Updated] Top Action Hunting Cameras of the Year for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlimited-audio-processing-at-zero-cost/"><u>[Updated] Unlimited Audio Processing at Zero Cost</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-as-a-catalyst-for-mental-resilience/"><u>Artificial Intelligence as a Catalyst for Mental Resilience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-tips-to-zoom-in-on-your-favorite-roblox-locales/"><u>Expert Tips to Zoom In on Your Favorite Roblox Locales</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/time-lapse-software-create-time-lapse-video-for-2024/"><u>Time Lapse Software Create Time Lapse Video for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/trabajando-con-av1-en-adobe-premiere-pro-posibilidades-de-transferencia-entre-archivos/"><u>Trabajando Con AV1 en Adobe Premiere Pro: Posibilidades De Transferencia Entre Archivos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unearthing-the-top-10-sleeper-social-media-stars-for-2024/"><u>Unearthing the Top 10 Sleeper Social Media Stars for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-fcpx-lower-thirds-mastery-best-practices-and-techniques/"><u>Updated 2024 Approved FCPX Lower Thirds Mastery Best Practices and Techniques</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-stop-looking-for-filmora-coupon-code-on-reddit-weve-got-it-here/"><u>Updated 2024 Approved Stop Looking for Filmora Coupon Code on Reddit - Weve Got It Here</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-create-cartoons-like-a-pro-top-10-tools-for-beginners-for-2024/"><u>Updated Create Cartoons Like a Pro Top 10 Tools for Beginners for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-smooth-out-the-shakes-8-free-online-video-stabilizers-to-try/"><u>Updated In 2024, Smooth Out the Shakes 8 Free Online Video Stabilizers to Try</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Honor Play 7T | Dr.fone</u></a></li>
 </ul></div>
 

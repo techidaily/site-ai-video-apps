@@ -1,7 +1,7 @@
 ---
 title: Take Your Videos to the Next Level Mastering the Ken Burns Effect in Final Cut Pro for 2024
-date: 2024-12-12T11:34:28.399Z
-updated: 2024-12-16T07:24:49.454Z
+date: 2024-12-22T18:28:22.136Z
+updated: 2024-12-24T22:35:22.582Z
 tags: 
   - video editing software
   - video editing
@@ -30,7 +30,7 @@ Those new to the Final Cut Pro or Pro X programs will be finding it a little cha
 * [**Part 2: How to Zoom in Final Cut Pro Using Keyframing**](#Zoom-in-Final-Cut-Pro-Keyframing)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Make Ken Burns Effect Final Cut Pro
@@ -55,10 +55,6 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
 
 **Step 3** – Hold down both the shift key and the letter C. This is the fast way to cut out what you need. You can always stick to the right-click to cut a clip if you are more comfortable with this.
@@ -66,7 +62,7 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Ken Burns Customization
@@ -78,6 +74,10 @@ You can also customize the ken burns effects in Final Cut.
 **Step 2** – Adjust the green box’s size, shape, and height until you are happy with where it is placed.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
@@ -97,15 +97,15 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Ken Burns Conclusion
 
@@ -116,7 +116,7 @@ The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places t
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -134,24 +134,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/hanneling-creativity-get-green-screen-tips-from-youtube-for-2024/"><u>[New] Channeling Creativity Get Green Screen Tips From YouTube for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-art-of-package-revelation-amplifying-initial-impressions-for-2024/"><u>[New] The Art of Package Revelation Amplifying Initial Impressions for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-blueprints-for-constructing-a-high-definition-video-editing-beast-for-2024/"><u>[Updated] Blueprints for Constructing a High-Definition Video Editing Beast for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-first-foray-into-fashionable-mac-made-videos-for-youtube/"><u>[Updated] In 2024, First Foray Into Fashionable Mac-Made Videos for YouTube</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-unlocking-android-video-brilliance-easy-procedures/"><u>[Updated] In 2024, Unlocking Android Video Brilliance - Easy Procedures</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-lifes-journey-videos-creating-authentic-online-experiences/"><u>[Updated] Life's Journey Videos Creating Authentic Online Experiences</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro To Other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-oneplus-ace-3-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from OnePlus Ace 3 to Gmail | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-mastering-compressor-a-step-by-step-guide-for-final-cut-pro-x/"><u>New Mastering Compressor A Step-by-Step Guide for Final Cut Pro X</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-picture-in-picture-made-easy-a-final-cut-pro-tutorial/"><u>New Picture-in-Picture Made Easy A Final Cut Pro Tutorial</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-retro-revival-achieve-vhs-style-in-final-cut-pro-for-2024/"><u>New Retro Revival Achieve VHS Style in Final Cut Pro for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-s-top-avchd-video-editing-tools-a-comprehensive-review-for-2024/"><u>New S Top AVCHD Video Editing Tools A Comprehensive Review for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-top-gif-accelerators-online-and-mobile-solutions/"><u>New Top GIF Accelerators Online and Mobile Solutions</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-top-mac-video-editors-of-reviews-and-comparisons/"><u>New Top Mac Video Editors of Reviews and Comparisons</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-transform-mp4-videos-into-mp3-audio-files-top-converters-for-2024/"><u>New Transform MP4 Videos Into MP3 Audio Files Top Converters for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-unify-your-visuals-how-to-match-colors-across-video-clips-in-final-cut-pro/"><u>New Unify Your Visuals How to Match Colors Across Video Clips in Final Cut Pro</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-unleash-your-creativity-10-free-whiteboard-animation-tools-for-windows-and-mac-for-2024/"><u>New Unleash Your Creativity 10 Free Whiteboard Animation Tools for Windows and Mac for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/winning-hearts-with-these-6-compelling-videos-for-2024/"><u>Winning Hearts with These 6 Compelling Videos for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-a-comprehensive-guide-to-understanding-and-using-slug-lines/"><u>[New] 2024 Approved A Comprehensive Guide to Understanding and Using Slug Lines</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-biting-snippets-to-captivating-narratives-an-experts-guide-to-youtube-edits-for-2024/"><u>[Updated] From Biting Snippets to Captivating Narratives An Expert's Guide to Youtube Edits for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-screen-saviors-ranked-top-8-for-ios-filmmaking-apps/"><u>[Updated] Screen Saviors Ranked Top 8 for iOS Filmmaking Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-select-8-dynamic-backgrounds-for-your-mbp/"><u>[Updated] Select 8 Dynamic Backgrounds for Your MBP</u></a></li>
+<li><a href="https://win11.techidaily.com/integrating-new-folders-into-windows-11s-menu/"><u>Integrating New Folders Into Windows 11'S Menu</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-connecting-your-subwoofer-with-samsung-home-theater-system/"><u>Step-by-Step Guide: Connecting Your Subwoofer with Samsung Home Theater System</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ssential-guide-to-aspect-ratio-standards-on-yt/"><u>The Essential Guide to Aspect Ratio Standards on YT</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/top-5-best-free-m4a-editor-software-for-2024/"><u>Top 5 Best Free M4A Editor Software for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-maximize-video-clarity-expert-recommended-enhancement-tools/"><u>Updated In 2024, Maximize Video Clarity Expert-Recommended Enhancement Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-mobile-video-editing-made-easy-best-free-special-effects-apps-for-2024/"><u>Updated Mobile Video Editing Made Easy Best Free Special Effects Apps for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-top-rated-4k-video-conversion-software-2023s-best-picks-for-2024/"><u>Updated Top-Rated 4K Video Conversion Software 2023S Best Picks for 2024</u></a></li>
 </ul></div>
 

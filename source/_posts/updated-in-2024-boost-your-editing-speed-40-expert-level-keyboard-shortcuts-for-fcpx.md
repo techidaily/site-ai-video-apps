@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Boost Your Editing Speed 40 Expert-Level Keyboard Shortcuts for FCPX
-date: 2024-12-07T22:55:01.782Z
-updated: 2024-12-10T03:37:28.142Z
+date: 2024-12-22T18:40:37.563Z
+updated: 2024-12-24T18:51:51.590Z
 tags: 
   - video editing software
   - video editing
@@ -102,7 +102,7 @@ In this article, I share my Top 40 keyboard shortcuts. I use these beauties ever
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -122,7 +122,7 @@ Above are the top useful shortcuts that I used most when editing videos in Final
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -140,18 +140,21 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-the-final-showdown-is-obs-studio-superior-to-bandicam/"><u>[Updated] 2024 Approved The Final Showdown Is OBS Studio Superior to Bandicam?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-conquering-challenges-advanced-hdr-workflows-in-ps/"><u>[Updated] Conquering Challenges Advanced HDR Workflows in PS</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-the-rich-world-of-gaming-with-these-9-top-rated-emulators/"><u>Explore the Rich World of Gaming with These 9 Top-Rated Emulators</u></a></li>
-<li><a href="https://win-unique.techidaily.com/extract-and-save-your-favorite-gracie-kids-videos-as-mp4-files-easily/"><u>Extract and Save Your Favorite Gracie Kids Videos as MP4 Files Easily</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-mp3-songs-download-how-to-transfer-tunes-to-mobile-phones-and-laptops/"><u>Free MP3 Songs Download: How to Transfer Tunes to Mobile Phones and Laptops</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-responsive-microphone-in-fortnite-a-step-by-step-guide/"><u>How to Fix a Non-Responsive Microphone in Fortnite: A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-iphone-xeasy-simple-guide-to-screen-capture/"><u>In 2024, IPhone Xeasy Simple Guide to Screen Capture</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-premium-selection-of-mp4-devices/"><u>In 2024, Premium Selection of MP4 Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-your-android-device-the-ultimate-guide-to-using-quick-settings/"><u>Mastering Your Android Device: The Ultimate Guide to Using Quick Settings</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/the-ultimate-list-of-3d-video-software-you-cant-miss-for-2024/"><u>The Ultimate List of 3D Video Software You Cant Miss for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-and-fabulous-10-public-domain-image-websites/"><u>Updated 2024 Approved Free and Fabulous 10 Public Domain Image Websites</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-capture-your-best-moments-3-simple-video-game-recording-solutions/"><u>Updated In 2024, Capture Your Best Moments 3 Simple Video Game Recording Solutions</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-top-10-premiere-pro-transition-effects-to-elevate-your-edits/"><u>Updated Top 10 Premiere Pro Transition Effects to Elevate Your Edits</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-empower-your-digital-tales-with-complimentary-upgrades/"><u>[Updated] 2024 Approved Empower Your Digital Tales with Complimentary Upgrades</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-ultimate-pcmobile-mkv-viewer/"><u>[Updated] 2024 Approved Ultimate PC/Mobile MKV Viewer</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-sky-high-streams-on-facebook-a-dji-drone-users-guide/"><u>[Updated] Sky-High Streams on Facebook A DJI Drone User's Guide</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/dos-metodos-esenciales-para-hacer-una-copia-de-seguridad-local-de-tu-correo-gmail-un-guia-completa/"><u>Dos Métodos Esenciales Para Hacer Una Copia De Seguridad Local De Tu Correo Gmail: Un Guía Completa</u></a></li>
+<li><a href="https://common-error.techidaily.com/gadget-glitch-gone-keys-now-good-as-gold/"><u>Gadget Glitch Gone: Keys Now Good as Gold</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-elevating-your-instagram-posts-with-background-tunes/"><u>How To: Elevating Your Instagram Posts with Background Tunes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixing-compiling-shaders-issue-in-call-of-duty-black-ops-cold-war/"><u>Resolved: Fixing 'Compiling Shaders' Issue in Call of Duty: Black Ops Cold War</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-public-broadcast-the-c-span-journey/"><u>Unlocking Public Broadcast The C-Span Journey</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-best-video-editing-software-for-chrome-os-users/"><u>Updated 2024 Approved Best Video Editing Software for Chrome OS Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-maximize-your-reach-learn-how-to-make-viral-reaction-videos-with-filmora/"><u>Updated 2024 Approved Maximize Your Reach Learn How to Make Viral Reaction Videos with Filmora</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-minitool-movie-maker-a-detailed-review-and-comparison-to-alternatives/"><u>Updated 2024 Approved Minitool Movie Maker A Detailed Review and Comparison to Alternatives</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-seamless-storytelling-3-ways-to-use-transitions-in-final-cut-pro/"><u>Updated In 2024, Seamless Storytelling 3 Ways to Use Transitions in Final Cut Pro</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-mastering-home-video-production-top-dvd-creation-tools-for-2024/"><u>Updated Mastering Home Video Production Top DVD Creation Tools for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-tone-generation-made-simple-5-online-tools/"><u>Updated Tone Generation Made Simple 5 Online Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-vllo-for-mac-download-guide-and-alternatives/"><u>Updated VLLO for Mac Download Guide and Alternatives</u></a></li>
 </ul></div>
 

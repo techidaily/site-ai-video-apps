@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Reduce MPEG2 File Size with VirtualDub A Beginners Guide
-date: 2024-12-11T00:28:35.694Z
-updated: 2024-12-16T10:11:45.502Z
+date: 2024-12-23T20:45:43.606Z
+updated: 2024-12-24T23:47:40.157Z
 tags: 
   - video editing software
   - video editing
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
 VirtualDub is a free video capture/processing tool for Windows platforms (2000/XP/Vista/7). And VirtualDub MPEG-2 is a modified version of VirtualDub that supports MPEG-2 import originally. However, just as the author said "This software is obsolete and will no longer be updated. For MPEG-2 and WMV support in the latest VirtualDub, try my plugins (MPEG-2 plugin for VirtualDub 1.8.1 or above - by editor)".
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Download and Install VirtualDub MPEG-2
@@ -38,10 +38,6 @@ You could [download VirtualDub MPEG-2](http://www.videohelp.com/download/Virtual
 
 VirtualDub-MPEG2 is designed to work with mpeg2 video, such as Digital TV shows, un-encrypted DVD files (\*.vob) and these video files are usually in big size. Now you can compress them using VirtualDub MPEG-2.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 1: Set Up Video Compression
 
 Open your MPEG-2 video file through File/Open video file..., then go to Video/Compression to bring up the following dialog.
@@ -49,18 +45,18 @@ Open your MPEG-2 video file through File/Open video file..., then go to Video/Co
 ![virtualdub mpeg2](https://images.wondershare.com/topic/video-editing/virtualdub-video-compression.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 As shown above, select the XVID MPEG-4 codec and click Configure button to make Xvid settings.
 
 ![virtualdub mepg2 tutorial](https://images.wondershare.com/topic/video-editing/virtualdub-mpeg2-compress.jpg)
 
-**Note**: If Compression is disable, switch to Full processing mode first in the Video menu.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**Note**: If Compression is disable, switch to Full processing mode first in the Video menu.
 
 ### Step 2: Set Up Audio Compression
 
@@ -84,10 +80,14 @@ If you don't like VirtualDub MPEG-2 and would like to find some more powerful ed
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -104,24 +104,15 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-decreasing-decibents-deliberately-logic-pros-volume-techniques/"><u>[New] 2024 Approved Decreasing Decibents Deliberately Logic Pro's Volume Techniques</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-macs-most-reliable-snipers-reviewed/"><u>[New] 2024 Approved Mac's Most Reliable Snipers Reviewed</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-147-quotes-to-make-your-tiktok-content-stand-out-and-go-viral/"><u>[New] In 2024, 147 Quotes to Make Your TikTok Content Stand Out and Go Viral</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-starting-and-participating-in-zoom-meetings-from-android-devices/"><u>[Updated] 2024 Approved Starting and Participating in Zoom Meetings From Android Devices</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-chiefs-best-sky-vault-for-firms/"><u>[Updated] Chiefs’ Best Sky Vault for Firms</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-bigo-live-intro-video-details-area-px-format-run/"><u>[Updated] In 2024, Bigo Live Intro Video Details Area (Px²), Format, Run</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-best-auto-tracking-camera-mount/"><u>2024 Approved Best Auto Tracking Camera Mount</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/accelerated-viewer-of-best-images-in-os/"><u>Accelerated Viewer of Best Images in OS</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-master-the-art-of-broadcasting-optimal-cameras-for-your-twitch-channel/"><u>In 2024, Master the Art of Broadcasting Optimal Cameras For Your Twitch Channel</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/in-2024-vignette-perfection-the-best-mobile-apps-for-adding-frames-and-effects/"><u>In 2024, Vignette Perfection The Best Mobile Apps for Adding Frames and Effects</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-dual-approaches-to-audio-fades-in-final-cut-pro-a-step-by-step-guide/"><u>New 2024 Approved Dual Approaches to Audio Fades in Final Cut Pro A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-and-fantastic-the-best-flv-video-editors/"><u>New 2024 Approved Free and Fantastic The Best FLV Video Editors</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-make-a-heartfelt-video-montage-with-pictures-and-songs/"><u>New 2024 Approved Make a Heartfelt Video Montage with Pictures and Songs</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-squeeze-the-most-out-of-your-storage-5-best-free-video-compression-apps/"><u>New 2024 Approved Squeeze the Most Out of Your Storage 5 Best Free Video Compression Apps</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-beyond-adobe-top-10-premiere-elements-alternatives-for-video-creators-for-2024/"><u>New Beyond Adobe Top 10 Premiere Elements Alternatives for Video Creators for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-3gp-cutter-how-to-cut-3gp-files/"><u>New In 2024, 3GP Cutter How to Cut 3GP Files</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-video-rotator-tools-a-comprehensive-guide-for-windows-mac-and-mobile/"><u>New In 2024, Free Video Rotator Tools A Comprehensive Guide for Windows, Mac, and Mobile</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-no-plugins-required-how-to-achieve-smooth-skin-in-fcpx/"><u>New In 2024, No Plugins Required How to Achieve Smooth Skin in FCPX</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-learn-to-harness-funimates-downloading-power-for-2024/"><u>[Updated] Learn to Harness Funimate's Downloading Power for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-caller-id-changers-and-their-enchanting-alternatives-for-2024/"><u>Best Caller ID Changers & Their Enchanting Alternatives for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-vivo-y28-5g-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Vivo Y28 5G.</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-oneplus-12r-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For OnePlus 12R by Name | Dr.fone</u></a></li>
+<li><a href="https://discover-great.techidaily.com/modo-facilissimo-per-revocare-labbandono-definitivo-su-windows-10-guida-dettagliata/"><u>Modo Facilissimo per Revocare L’Abbandono Definitivo Su Windows 10 - Guida Dettagliata</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-transform-your-footage-how-to-add-stunning-effects-in-fcp-x-3-steps/"><u>New In 2024, Transform Your Footage How to Add Stunning Effects in FCP X (3 Steps)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-webm-video-editing-made-easy-top-10-free-tools/"><u>New In 2024, WebM Video Editing Made Easy Top 10 Free Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-rotate-videos-in-a-flash-a-step-by-step-guide/"><u>New Rotate Videos in a Flash A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-trim-avi-videos-with-ease-top-picks-for-desktop-and-mobile-devices-for-2024/"><u>New Trim AVI Videos with Ease Top Picks for Desktop and Mobile Devices for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-definitive-guide-to-choosing-a-quadcopter-spotlight-on-dji-air-2s/"><u>The Definitive Guide to Choosing a Quadcopter - Spotlight on DJI Air 2S</u></a></li>
 </ul></div>
 

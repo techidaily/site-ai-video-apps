@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Evaluation of the CAT S42 Durable Smartphone: High Security at Low Speeds"
-date: 2024-12-14T20:58:03.030Z
-updated: 2024-12-15T16:22:47.757Z
+date: 2024-12-20T16:14:27.459Z
+updated: 2024-12-24T20:28:23.247Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Evaluation of the CAT S42 Durable Smartphone: High Security at Low Speeds"
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 ## TCL 50S425 50-inch 4K Smart LED Roku TV
 
 ![TCL 50S425 50-inch Roku TV (2019)](https://www.lifewire.com/thmb/xdZO-ddLXgWQIKHYaUynllKab-w=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4061017_HeroSquare-beccb9820dfd4a878196fac8bdf1d541.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
 
@@ -38,13 +42,13 @@ Lifewire / Yoona Wagener
 
 4.5
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## TCL 50S425 50-inch 4K Smart LED Roku TV
 
 ![TCL 50S425 50-inch Roku TV (2019)](https://www.lifewire.com/thmb/3k1MkB4svn07bDvaUq6CGgLhZl8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4061017_HeroSquare-beccb9820dfd4a878196fac8bdf1d541.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
 
@@ -74,6 +78,10 @@ Lifewire / Yoona Wagener
 
  Lifewire / Yoona Wagener
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Lightweight and straightforward**
 
  Smart TVs range in size, typically starting from 32 inches and reaching all the way up to 85 inches and beyond. If you can’t accommodate or don’t want a really large television, the TCL 50-inch Roku TV offers a decent middle ground that will appeal to shoppers who want an apartment or dorm-friendly TV without sacrificing quality.
@@ -88,10 +96,6 @@ Lifewire / Yoona Wagener
 
 ![TCL 50S425 50-inch Roku TV (2019)](https://www.lifewire.com/thmb/cT13RJhaMjC05v7eMym3vtM8M0s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4061017_05-70fc23cf6c2b4a13ac9d46f9372010ef.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Yoona Wagener
 
 ## **Setup Process** :**Up and running in minutes**
@@ -103,6 +107,10 @@ Lifewire / Yoona Wagener
  Since we already had a Roku account, all of our previously selected channels and apps downloaded to the TV, which just took a few minutes, and then we were free to begin exploring. The amount of additional setup is pretty minimal. By default, you’ll see an HDR notification when you’re viewing HDR-enabled content, but you can turn this off from the settings panel if you like.
 
  Additionally, if you plan to use a set-top cable box or antenna, the user manual offers straightforward instructions for doing so. You also have the option of enabling the Smart TV experience when you use antenna TV mode. This setting uses automatic content recognition (ACR) to make viewing recommendations based on what you view through your antenna or connected HDMI devices.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Image Quality: Clear and vivid without any tweaking**
 
@@ -122,11 +130,11 @@ Lifewire / Yoona Wagener
 
 ![TCL 50S425 50-inch Roku TV (2019)](https://www.lifewire.com/thmb/Lv4B9e6LaJSHW7NSl-Braa2vnmc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4061017_03-b8155781e440420aa0c6c2bf19f9fe6a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Yoona Wagener
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Audio Quality: Solid but not spellbinding**
 
@@ -139,7 +147,7 @@ Lifewire / Yoona Wagener
 ![TCL 50S425 50-inch Roku TV (2019)](https://www.lifewire.com/thmb/oA3AbTZysdVWZbOWuuVGOa56_8c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4061017_02-04183ae8dcd44b778b4da0e7706d5df2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Yoona Wagener
@@ -155,10 +163,6 @@ Lifewire / Yoona Wagener
 ## **Price: A great bargain on a budget**
 
  If you don’t want to spend a fortune on a 4K TV, but you want to get as much value as possible, the TCL 50S425 50-inch Roku TV is a compelling option. It retails for $350, which situates it in the growing and competitive class of 4K TVs under $500\. In the TCL 4-Series alone you have several other models to consider that all share the same specifications except for size. The larger 55-inch TCL Roku TV retails for just $30 more than the 50-inch version and features a larger screen size of 54.6 inches. It may not seem considerable, but if you’re limited with space, the extra width and height (five and two inches, respectively) can actually feel like a pretty massive difference. And if you opt for a smaller display and a lower price tag, the 43-inch TCL Roku TV retails for about $280, but you’re sacrificing 7 inches of display.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **TCL 50S425 50-inch Roku TV (2019) vs. Toshiba 55LF711U20 55-inch Fire TV Edition**
 
@@ -181,10 +185,6 @@ Lifewire / Yoona Wagener
 * [Sony XBR49X900F 49-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/sony-xbr49x900f-49-inch-4k-ultra-hd-smart-led-tv-review-4796665)
 * [Insignia NS-43DF710NA19 Fire TV Edition](https://www.lifewire.com/insignia-ns-43df710na19-fire-tv-edition-review-4770716)
 * [LG 27UD58-B 27-Inch 4K UHD IPS Monitor](https://www.lifewire.com/lg-27ud58-b27-inch-4k-uhd-ips-monitor-review-4778916)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -218,22 +218,22 @@ Lifewire / Yoona Wagener
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/approved-enjoy-uninterrupted-youtube-with-effective-adblocking-methods/"><u>2024 Approved Enjoy Uninterrupted YouTube with Effective Adblocking Methods</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-noise-free-ai-transcription-technology/"><u>2024 Approved Noise-Free AI Transcription Technology</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-teleport-your-gps-location-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Lava Yuva 2? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-backdrop-beats-curating-cinematic-tunes/"><u>In 2024, Backdrop Beats Curating Cinematic Tunes</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-se-2022-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone SE (2022) With or Without Password</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-y100i-power-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo Y100i Power 5G</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-below-is-a-get-starting-guide-for-wevideo-follow-it-to-easily-create-videos-online/"><u>New 2024 Approved Below Is a Get-Starting Guide for WeVideo. Follow It to Easily Create Videos Online</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-and-easy-the-best-3gp-video-rotators/"><u>New 2024 Approved Free and Easy The Best 3GP Video Rotators</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-no-budget-no-problem-16-free-and-easy-to-use-video-editing-tools/"><u>New 2024 Approved No Budget, No Problem 16 Free and Easy-to-Use Video Editing Tools</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-top-5-free-mov-video-splicing-tools/"><u>New 2024 Approved The Top 5 Free MOV Video Splicing Tools</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-discover-the-best-10-animated-text-software-for-stunning-visuals-for-2024/"><u>New Discover the Best 10 Animated Text Software for Stunning Visuals for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-mov-file-editors-the-ultimate-2023-list/"><u>New In 2024, Free MOV File Editors The Ultimate 2023 List</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-video-splitter-software-our-top-picks-of-the-year/"><u>New In 2024, Free Video Splitter Software Our Top Picks of the Year</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-speed-up-your-storytelling-time-lapse-video-creation-in-final-cut-pro/"><u>New In 2024, Speed Up Your Storytelling Time Lapse Video Creation in Final Cut Pro</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/setting-up-codegpt-a-step-by-step-guide-for-visual-studio-code-integration/"><u>Setting Up CodeGPT: A Step-by-Step Guide for Visual Studio Code Integration</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-resolving-mfc71dll-absence-or-inaccessibility-problems/"><u>Step-by-Step Guide: Resolving mfc71.dll Absence or Inaccessibility Problems</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-ultimate-iphone-selfie-sticks-8-for-2024/"><u>Unveiling the Ultimate IPhone Selfie Sticks (#8) for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-how-to-assemble-a-personalized-youtube-music-list/"><u>[Updated] 2024 Approved How to Assemble a Personalized YouTube Music List</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-countdown-chronicles-the-best-mobile-clocks-for-weddings/"><u>[Updated] In 2024, Countdown Chronicles The Best Mobile Clocks For Weddings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dvd-cloning-tutorial-copying-dvd-content-onto-hard-drive-in-windows-11107-and-macos/"><u>DVD Cloning Tutorial: Copying DVD Content Onto Hard Drive in Windows 11/10/7 and macOS</u></a></li>
+<li><a href="https://fox-info.techidaily.com/essential-tips-for-kinemasters-chroma-keying-for-2024/"><u>Essential Tips for KineMaster's Chroma Keying for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-se-2020-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone SE (2020) Without a Home Button</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-olympic-thaw-figure-skating-extravaganza/"><u>In 2024, Olympic Thaw Figure Skating Extravaganza</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-art-of-audio-mastery-with-iphones-voice-recording/"><u>In 2024, The Art of Audio Mastery with iPhone's Voice Recording</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-voice-over-recording-made-easy-fcp-tips-for-beginners-and-pros/"><u>New In 2024, Voice Over Recording Made Easy FCP Tips for Beginners and Pros</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-rotate-your-avi-videos-with-ease-top-16-free-software-and-apps/"><u>New Rotate Your AVI Videos with Ease Top 16 Free Software and Apps</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-10-best-free-avi-concatenators-for-seamless-video-editing/"><u>New The 10 Best Free AVI Concatenators for Seamless Video Editing</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-list-top-10-free-green-screen-apps-for-android-and-ios/"><u>New The Ultimate List Top 10 Free Green Screen Apps for Android & iOS</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-top-3d-animation-tools-free-and-premium-options-compared-for-2024/"><u>New Top 3D Animation Tools Free and Premium Options Compared for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-top-tiktok-watermark-removal-tools-to-boost-your-videos-for-2024/"><u>New Top TikTok Watermark Removal Tools to Boost Your Videos for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-top-rated-green-screen-software-for-mobile-devices-free-and-updated/"><u>New Top-Rated Green Screen Software for Mobile Devices Free & Updated</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-transform-your-gopro-footage-easy-video-editing-for-all-for-2024/"><u>New Transform Your GoPro Footage Easy Video Editing for All for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simplifying-windows-cmd-a-step-by-step-guide-to-modifying-the-path-environment-variable/"><u>Simplifying Windows CMD: A Step-by-Step Guide to Modifying the PATH Environment Variable</u></a></li>
 </ul></div>
 

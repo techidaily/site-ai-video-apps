@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, From Photos to Film How to Create an Unforgettable Video
-date: 2024-12-05T05:21:28.485Z
-updated: 2024-12-09T21:35:05.673Z
+date: 2024-12-21T03:52:28.940Z
+updated: 2024-12-24T22:57:27.294Z
 tags: 
   - video editing software
   - video editing
@@ -31,15 +31,15 @@ Want to make your own video but don't have a camcorder? Don't worry, you can sti
 * [How to make a video with pictures using Wondershare Filmora](#part1)
 * [What to look for when choosing a good slideshow maker](#part2)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to make a video with pictures and music using Wondershare Filmora?
 
 Filmora has built-in royalty free audio effects that you can use to touch up your video. It includes various video effects, elements and filters to maker your video more attractive. More than that, more than 150 video transitions can also make video more natural to watch. Check this video below to know more about Filmora. Now download it to have a try!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 1\. Import media files
 
@@ -51,17 +51,21 @@ The still image default duration is 5 seconds, you can shorten or extend it by d
 
 ![change duration](https://images.wondershare.com/filmora/article-images/drag-slideshow-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Adding motion and trasitions can make your photo slideshow more attractive. To add motions, just double click on the image clip in the timeline, and there are over 50 motion options for you to choose. Select the one you prefer (the effect will be shown in the preview window) and double click on it to apply it on the selected image.
 
 ![add motion](https://images.wondershare.com/filmora/guide/apply-motions-to-overlays-win.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Adding transitions between images can make the story go smoothly. Go Transitions, choose one transition, and click the Play button on the preview window to check the effect. Click the plus icon on the transition you like to apply it to the clip.
 
 ![add transition](https://images.wondershare.com/filmora/article-images/add-transition-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 3\. Apply title and effects
 
@@ -81,14 +85,6 @@ Save your slideshow in different formats, choose from ready-made presets for all
 
 ![export](https://images.wondershare.com/filmora/guide/export-9-win.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What to look for when choosing a good slideshow maker?
 
 Get a smart video slideshow maker to edit and create your own video, you need take those things into consideration:
@@ -100,7 +96,7 @@ Get a smart video slideshow maker to edit and create your own video, you need ta
 * 5\. Save video slideshows for any device, burn them to DVD or upload them online.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why Choose Wondershare Filmora?
@@ -121,6 +117,10 @@ Save your slideshow in different formats, choose from ready-made presets for all
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -136,20 +136,24 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-decoding-the-mystery-insider-knowledge-on-story-watchers-for-2024/"><u>[New] Decoding the Mystery Insider Knowledge on Story Watchers for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/he-sprinkle-of-life-in-your-text-animations-for-2024/"><u>[New] The Sprinkle of Life in Your Text Animations for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-transforming-spontaneitous-tunes-into-structured-youtube-playlists/"><u>[Updated] 2024 Approved Transforming Spontaneitous Tunes Into Structured YouTube Playlists</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/engaging-audiences-the-role-of-chatgpt-in-storytelling/"><u>Engaging Audiences: The Role of ChatGPT in Storytelling</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-insights-on-keeping-windows-11s-notifications-alive/"><u>Essential Insights on Keeping Windows 11'S Notifications Alive</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-oppo-find-x7-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Oppo Find X7</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/most-anticipated-new-horror-films-released-on-dvd-your-ultimate-guide/"><u>Most Anticipated New Horror Films Released on DVD: Your Ultimate Guide!</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-easy-avi-file-splitting-and-trimming-a-comprehensive-guide/"><u>Updated 2024 Approved Easy AVI File Splitting and Trimming A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-nikon-video-file-editing-a-comprehensive-guide/"><u>Updated 2024 Approved Nikon Video File Editing A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-video-editing-essentials-freezing-frames-like-a-pro/"><u>Updated 2024 Approved Video Editing Essentials Freezing Frames Like a Pro</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-free-divx-video-trimming-software-top-picks/"><u>Updated In 2024, Free Divx Video Trimming Software Top Picks</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-mp4-to-mp3-conversion-made-easy-top-apps-for-mobile/"><u>Updated In 2024, MP4 to MP3 Conversion Made Easy Top Apps for Mobile</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-unleash-your-creativity-the-best-online-stop-motion-animation-studios/"><u>Updated In 2024, Unleash Your Creativity The Best Online Stop Motion Animation Studios</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-low-cost-video-editing-options-that-deliver-for-2024/"><u>Updated Low-Cost Video Editing Options That Deliver for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/your-ultimate-guide-to-top-5-ios-tools-for-extracting-facebook-videos/"><u>Your Ultimate Guide to Top 5 iOS Tools for Extracting Facebook Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-mastering-aspects-for-impactful-facebook-posts-and-videos/"><u>[New] Mastering Aspects for Impactful Facebook Posts & Videos</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-to-follow-audio-driver-upgrade-realtek-asio-for-windows-1e-step-by-step-guide/"><u>Easy-to-Follow Audio Driver Upgrade: RealTek Asio for Windows 1E | Step by Step Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/871902-9781780991863-greenspirit/"><u>GreenSpirit | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-address-the-requires-privilege-error-error-0x80070522-on-pcs/"><u>How To Address the “Requires Privilege” Error (Error 0X80070522) on PCs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-razr-40-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Razr 40 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-whip-up-a-stunning-facebook-collage-post/"><u>How to Whip Up a Stunning Facebook Collage Post</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-nokia-c12-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Nokia C12 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/izing-mastery-comparing-streaming-giants-strategies/"><u>Monetizing Mastery Comparing Streaming Giants' Strategies</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-animators-odyssey-crafting-your-own-fx-realm/"><u>The Animator's Odyssey Crafting Your Own FX Realm</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-selecting-the-ideal-livestream-service-for-2024/"><u>The Art of Selecting the Ideal Livestream Service for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/top-bokeh-blur-apps-for-mobile-photography-for-2024/"><u>Top Bokeh Blur Apps for Mobile Photography for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-elevate-your-video-editing-a-comprehensive-guide-to-using-the-ken-burns-effect-in-final-cut-pro/"><u>Updated 2024 Approved Elevate Your Video Editing A Comprehensive Guide to Using the Ken Burns Effect in Final Cut Pro</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-expert-recommended-free-video-splitters-top-5-list/"><u>Updated 2024 Approved Expert-Recommended Free Video Splitters Top 5 List</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-filmmaking-for-all-7-accessible-software-for-low-budget-productions/"><u>Updated 2024 Approved Filmmaking for All 7 Accessible Software for Low-Budget Productions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-avs-video-editor-2023-review-a-beginners-guide-to-video-editing-software/"><u>Updated In 2024, AVS Video Editor 2023 Review A Beginners Guide to Video Editing Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-from-capture-to-cinematic-canon-video-editing-software-and-best-practices/"><u>Updated In 2024, From Capture to Cinematic Canon Video Editing Software and Best Practices</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-reverse-your-footage-a-step-by-step-guide-for-final-cut-pro-users/"><u>Updated In 2024, Reverse Your Footage A Step-by-Step Guide for Final Cut Pro Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-unleash-your-creativity-top-5-iphone-video-editing-apps-you-need/"><u>Updated Unleash Your Creativity Top 5 iPhone Video Editing Apps You Need</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-video-metadata-management-best-mp4-tag-editors-for-pc-and-mac/"><u>Updated Video Metadata Management Best MP4 Tag Editors for PC and Mac</u></a></li>
 </ul></div>
 

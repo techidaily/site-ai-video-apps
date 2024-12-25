@@ -1,7 +1,7 @@
 ---
 title: "Experience Computing Redefined - The Atomman G7 PT Mini PC by AMD Advantage: Equipped with the Latest R9 7945HX and RX 760MTX GPUs"
-date: 2024-12-07T19:13:49.584Z
-updated: 2024-12-09T21:51:52.166Z
+date: 2024-12-17T17:48:43.379Z
+updated: 2024-12-24T18:59:20.205Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
  So, what happened? Did the static buildup short out the PC or something? Fortunately, nothing so mundane. Instead, the fan PC was tested at increasingly higher speeds until the[weighty cooler](https://www.tomshardware.com/news/noctua-fanless-cooler-enters-production) was violently flung from the PC in the last moments of the original video. No wonder Sodabaka hid behind a riot shield for much of the video demo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -62,24 +62,24 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-melodic-matchmaking-music-that-matters-on-social-media-for-2024/"><u>[Updated] Melodic Matchmaking Music That Matters on Social Media for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/best-instagram-highlight-cover-maker-online/"><u>Best Instagram Highlight Cover Maker Online</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/chilling-yet-heating-top-5-winter-scenes-for-vids-for-2024/"><u>Chilling Yet Heating Top 5 Winter Scenes for Vids for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/combine-multiple-avi-files-into-one-10-best-free-freeware-for-2024/"><u>Combine Multiple AVI Files Into One 10 Best Free Freeware for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/esports-enthusiasts-guide-cut-costs-with-a-budget-friendly-ibuypower-custom-gaming-rig/"><u>Esports Enthusiast's Guide: Cut Costs with a Budget-Friendly iBUYPOWER Custom Gaming Rig</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210431603-9780646851525-find-your-way/"><u>Find Your Way | Free Book</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-finding-the-perfect-dj-template-video-download-for-your-events/"><u>In 2024, Finding the Perfect DJ Template Video Download for Your Events</u></a></li>
-<li><a href="https://win-superb.techidaily.com/kmode-error-unresolved-on-windows-11-discovering-the-top-18-solutions/"><u>KMode Error Unresolved on Windows 11: Discovering the Top 18 Solutions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-brother-mfc-j480dw-printer-software-upgrade-for-windows-pcs/"><u>Latest Brother MFC-J480DW Printer Software Upgrade for Windows PCs</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/sx720hs-powershot-camera-portable-long-range-shooting-magic/"><u>SX720HS PowerShot Camera: Portable, Long-Range Shooting Magic</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/unlock-youtubes-monetizing-potential-with-strategic-short-videos/"><u>Unlock YouTube's Monetizing Potential with Strategic Short Videos</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-top-10-4k-video-samples/"><u>Updated 2024 Approved Top 10 4K Video Samples</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-digitalize-your-dvd-collection-a-comprehensive-conversion-guide-for-2024/"><u>Updated Digitalize Your DVD Collection A Comprehensive Conversion Guide for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-dvd-magic-transforming-your-home-videos-into-cinematic-masterpieces-for-2024/"><u>Updated DVD Magic Transforming Your Home Videos Into Cinematic Masterpieces for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-film-like-a-pro-easy-movie-creation-for-beginners-for-2024/"><u>Updated Film Like a Pro Easy Movie Creation for Beginners for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-split-trim-and-perfect-video-editing-techniques-in-windows-live-movie-maker/"><u>Updated In 2024, Split, Trim, and Perfect Video Editing Techniques in Windows Live Movie Maker</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-top-notch-free-video-splitters-our-favorites/"><u>Updated In 2024, Top-Notch Free Video Splitters Our Favorites</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-s-top-video-players-for-smooth-slow-motion-playback-for-2024/"><u>Updated S Top Video Players for Smooth Slow Motion Playback for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/vn-video-editor-pc-version-a-compact-review-for-2024/"><u>VN Video Editor PC Version A Compact Review for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-ideal-methods-to-archive-playstation-4-gaming-sessions/"><u>[New] Ideal Methods to Archive PlayStation 4 Gaming Sessions</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-decoding-automatic-high-dynamic-range-auto-hdr-in-windows-11/"><u>[Updated] Decoding Automatic High Dynamic Range (Auto HDR) in Windows 11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-maximizing-profits-ensuring-proper-youtube-channel-monetization/"><u>[Updated] Maximizing Profits Ensuring Proper YouTube Channel Monetization</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/embarking-on-an-exciting-path-a-guide-to-starting-as-a-prompt-engineer/"><u>Embarking on an Exciting Path: A Guide to Starting as a Prompt Engineer</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/from-quills-to-keystrokes-enduring-elizabethan-expressions/"><u>From Quills to Keystrokes: Enduring Elizabethan Expressions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-hp-laserjet-p1007-up-to-date-with-new-driver-software-download-now/"><u>Get Your HP LaserJet P1007 Up to Date with New Driver Software - Download Now!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-picks-7-premium-mac-videos/"><u>In 2024, Expert Picks 7 Premium Mac Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/is-aurora-hdr-setting-photography-trends-for-2024/"><u>Is Aurora HDR Setting Photography Trends for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unleash-the-power-of-countdown-timers-in-final-cut-pro-x/"><u>New Unleash the Power of Countdown Timers in Final Cut Pro X</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unlock-new-dimensions-a-beginners-guide-to-video-resizing-for-2024/"><u>New Unlock New Dimensions A Beginners Guide to Video Resizing for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/stream-anything-to-chromecast-the-ultimate-video-format-guide-for-2024/"><u>Stream Anything to Chromecast The Ultimate Video Format Guide for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-get-started-with-video-editing-15-free-and-easy-to-use-tools-for-2024/"><u>Updated Get Started with Video Editing 15 Free and Easy-to-Use Tools for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-ultimate-guide-3-easy-video-game-recording-solutions/"><u>Updated In 2024, The Ultimate Guide 3 Easy Video Game Recording Solutions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-two-screens-one-goal-the-best-split-screen-video-apps-for-ios-and-android-users/"><u>Updated In 2024, Two Screens, One Goal The Best Split-Screen Video Apps for iOS and Android Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-uncovering-the-truth-about-vn-video-editor-pro-a-worthy-alternative/"><u>Updated In 2024, Uncovering the Truth About VN Video Editor Pro A Worthy Alternative?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-no-watermark-no-problem-7-best-video-merger-software/"><u>Updated No Watermark, No Problem 7 Best Video Merger Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-top-rated-free-video-storage-sites-for-online-sharing/"><u>Updated Top-Rated Free Video Storage Sites for Online Sharing</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-valentines-day-2023-a-step-by-step-guide-to-making-a-romantic-video-for-2024/"><u>Updated Valentines Day 2023 A Step-by-Step Guide to Making a Romantic Video for 2024</u></a></li>
 </ul></div>
 

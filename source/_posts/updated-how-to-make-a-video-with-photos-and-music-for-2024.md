@@ -1,7 +1,7 @@
 ---
 title: Updated How to Make a Video with Photos and Music for 2024
-date: 2024-12-10T10:37:32.927Z
-updated: 2024-12-15T17:56:35.017Z
+date: 2024-12-18T23:16:06.814Z
+updated: 2024-12-25T02:29:06.695Z
 tags: 
   - video editing software
   - video editing
@@ -38,7 +38,7 @@ Filmora has built-in royalty free audio effects that you can use to touch up you
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 1\. Import media files
@@ -51,21 +51,17 @@ The still image default duration is 5 seconds, you can shorten or extend it by d
 
 ![change duration](https://images.wondershare.com/filmora/article-images/drag-slideshow-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Adding motion and trasitions can make your photo slideshow more attractive. To add motions, just double click on the image clip in the timeline, and there are over 50 motion options for you to choose. Select the one you prefer (the effect will be shown in the preview window) and double click on it to apply it on the selected image.
 
 ![add motion](https://images.wondershare.com/filmora/guide/apply-motions-to-overlays-win.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Adding transitions between images can make the story go smoothly. Go Transitions, choose one transition, and click the Play button on the preview window to check the effect. Click the plus icon on the transition you like to apply it to the clip.
 
 ![add transition](https://images.wondershare.com/filmora/article-images/add-transition-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 3\. Apply title and effects
 
@@ -73,21 +69,25 @@ If you want to express your feelings or explain something in the slideshow, you 
 
 ![add titles](https://images.wondershare.com/filmora/article-images/add-titles-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 4\. Select music
 
 Music is the must-have element in a photo slideshow. In Filmora, there are over 50 royalty free music for you to choose to make your slideshow more engaging. Just drag the one you like to timeline.
 
 ![add audio](https://images.wondershare.com/filmora/article-images/add-audio-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 5\. Export
 
 Save your slideshow in different formats, choose from ready-made presets for all popular mobile devices, upload it to YouTube or burn it a DVD collection.
 
 ![export](https://images.wondershare.com/filmora/guide/export-9-win.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to look for when choosing a good slideshow maker?
 
@@ -98,10 +98,6 @@ Get a smart video slideshow maker to edit and create your own video, you need ta
 * 3\. Personalize video slideshow with stunning transitions, intro/credits, and sound effects.
 * 4\. Apply more advanced video effects like Mosaic, Face Off, Jump Cut and more.
 * 5\. Save video slideshows for any device, burn them to DVD or upload them online.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Why Choose Wondershare Filmora?
 
@@ -118,6 +114,10 @@ Easily rotate photos, enhance brightness and color balance to fine tune your vid
 Save your slideshow in different formats, choose from ready-made presets for all popular mobile devices, upload it to Facebook and YouTube or burn it a DVD collection.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
@@ -136,24 +136,17 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-asus-rog-phone-8-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Asus ROG Phone 8 in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-oppo-reno-9a-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Oppo Reno 9A Pattern Lock Screen</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-conquering-snapchat-send-gifs-with-ease/"><u>In 2024, Conquering Snapchat Send Gifs with Ease</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-how-to-create-metaverse-avatar-with-ease-an-ultimate-guide/"><u>In 2024, How to Create Metaverse Avatar with Ease An Ultimate Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/maximizing-reach-posting-on-social-media-careers/"><u>Maximizing Reach: Posting on Social Media Careers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/mobvoi-ticwatch-pro-with-lte-an-in-depth-evaluation-of-the-ultimate-smartwatch-experience/"><u>Mobvoi Ticwatch Pro with LTE - An In-Depth Evaluation of the Ultimate Smartwatch Experience</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-animate-on-the-move-best-3d-animation-apps-for-android-iphone-and-ipad/"><u>New 2024 Approved Animate on the Move Best 3D Animation Apps for Android, iPhone, and iPad</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-filmora-on-a-budget-how-to-get-it-without-breaking-the-bank-or-the-law/"><u>New 2024 Approved Filmora on a Budget How to Get It Without Breaking the Bank or the Law</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-best-music-video-production-software-for-professional-results-for-2024/"><u>New Best Music Video Production Software for Professional Results for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-dont-lose-your-work-how-to-properly-save-a-final-cut-pro-project-for-2024/"><u>New Dont Lose Your Work! How to Properly Save a Final Cut Pro Project for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-edit-flv-videos-on-windows-8-with-ease-a-beginner-friendly-editor-for-2024/"><u>New Edit FLV Videos on Windows 8 with Ease A Beginner-Friendly Editor for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-and-fabulous-20-adobe-premiere-intro-templates/"><u>New In 2024, Free and Fabulous 20 Adobe Premiere Intro Templates</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-make-your-own-cartoons-10-essential-animation-apps-for-mobile/"><u>New In 2024, Make Your Own Cartoons 10 Essential Animation Apps for Mobile</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-shrink-your-videos-the-best-free-compression-tools-for-windows-10/"><u>New In 2024, Shrink Your Videos The Best Free Compression Tools for Windows 10</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-list-10-best-free-green-screen-apps-for-mobile-phones/"><u>New In 2024, The Ultimate List 10 Best Free Green Screen Apps for Mobile Phones</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/pro-action-recorder-guide-top-15-camcorder-list-for-2024/"><u>Pro Action Recorder Guide Top 15 Camcorder List for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/speedy-resizing-your-youtube-videos-for-mac-view-for-2024/"><u>Speedy Resizing Your Youtube Videos for Mac View for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-cost-benefit-of-selecting-the-m3-macbook-air/"><u>The Cost-Benefit of Selecting the M3 MacBook Air</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-rectifying-windows-resolution-problems/"><u>The Ultimate Guide to Rectifying Windows Resolution Problems</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-demystifying-how-to-access-youtube-via-facebook/"><u>[New] 2024 Approved Demystifying How to Access YouTube via Facebook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-faster-adjustment-of-youtube-videos-for-mac-pixels-for-2024/"><u>[Updated] Faster Adjustment of YouTube Videos for Mac Pixels for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-lava-storm-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Lava Storm 5G Phone that is Locked?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-why-apple-discontinued-final-cut-express-in-2024-what-are-the-major-differences-between-final-cut-express-and-final-cut-pro/"><u>New Why Apple Discontinued Final Cut Express, In 2024 What Are the Major Differences Between Final Cut Express and Final Cut Pro?</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/resolving-hard-drive-problems-in-windows-11-step-by-step-solutions/"><u>Resolving Hard Drive Problems in Windows 11 - Step-by-Step Solutions</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ess-sound-shift-ultimate-guide-to-video-to-audio-tools-for-2024/"><u>Seamless Sound Shift Ultimate Guide to Video-to-Audio Tools for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/step-by-step-guide-to-high-quality-zoom-recordings-for-podcasters/"><u>Step-by-Step Guide to High-Quality Zoom Recordings for Podcasters</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/the-ultimate-mp4-video-editing-tutorial-for-mac-and-windows-users-for-2024/"><u>The Ultimate MP4 Video Editing Tutorial for Mac and Windows Users for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-premiere-pro-cs6-free-download-for-mac-a-comprehensive-guide/"><u>Updated Premiere Pro CS6 Free Download for Mac A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-premiere-vs-after-effects-which-video-editing-software-reigns-supreme-for-2024/"><u>Updated Premiere vs After Effects Which Video Editing Software Reigns Supreme for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-watermark-free-video-editing-the-top-7-merging-solutions-for-2024/"><u>Updated Watermark-Free Video Editing The Top 7 Merging Solutions for 2024</u></a></li>
 </ul></div>
 
