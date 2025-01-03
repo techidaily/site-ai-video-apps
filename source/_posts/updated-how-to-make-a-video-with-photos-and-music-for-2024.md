@@ -1,7 +1,7 @@
 ---
 title: Updated How to Make a Video with Photos and Music for 2024
-date: 2024-12-18T23:16:06.814Z
-updated: 2024-12-25T02:29:06.695Z
+date: 2024-12-27T12:36:30.812Z
+updated: 2025-01-02T23:13:34.306Z
 tags: 
   - video editing software
   - video editing
@@ -37,10 +37,6 @@ Filmora has built-in royalty free audio effects that you can use to touch up you
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 1\. Import media files
 
 Download and open [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), create a new prtoject and import your photos or video footage into the program, drag and drop the files into the timeline to start editing.
@@ -55,13 +51,13 @@ Adding motion and trasitions can make your photo slideshow more attractive. To a
 
 ![add motion](https://images.wondershare.com/filmora/guide/apply-motions-to-overlays-win.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Adding transitions between images can make the story go smoothly. Go Transitions, choose one transition, and click the Play button on the preview window to check the effect. Click the plus icon on the transition you like to apply it to the clip.
 
 ![add transition](https://images.wondershare.com/filmora/article-images/add-transition-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 3\. Apply title and effects
 
@@ -75,10 +71,6 @@ Music is the must-have element in a photo slideshow. In Filmora, there are over 
 
 ![add audio](https://images.wondershare.com/filmora/article-images/add-audio-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 5\. Export
 
 Save your slideshow in different formats, choose from ready-made presets for all popular mobile devices, upload it to YouTube or burn it a DVD collection.
@@ -86,7 +78,11 @@ Save your slideshow in different formats, choose from ready-made presets for all
 ![export](https://images.wondershare.com/filmora/guide/export-9-win.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What to look for when choosing a good slideshow maker?
@@ -98,6 +94,10 @@ Get a smart video slideshow maker to edit and create your own video, you need ta
 * 3\. Personalize video slideshow with stunning transitions, intro/credits, and sound effects.
 * 4\. Apply more advanced video effects like Mosaic, Face Off, Jump Cut and more.
 * 5\. Save video slideshows for any device, burn them to DVD or upload them online.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Why Choose Wondershare Filmora?
 
@@ -115,11 +115,11 @@ Save your slideshow in different formats, choose from ready-made presets for all
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -136,17 +136,16 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-demystifying-how-to-access-youtube-via-facebook/"><u>[New] 2024 Approved Demystifying How to Access YouTube via Facebook</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-faster-adjustment-of-youtube-videos-for-mac-pixels-for-2024/"><u>[Updated] Faster Adjustment of YouTube Videos for Mac Pixels for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-lava-storm-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Lava Storm 5G Phone that is Locked?</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-why-apple-discontinued-final-cut-express-in-2024-what-are-the-major-differences-between-final-cut-express-and-final-cut-pro/"><u>New Why Apple Discontinued Final Cut Express, In 2024 What Are the Major Differences Between Final Cut Express and Final Cut Pro?</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/resolving-hard-drive-problems-in-windows-11-step-by-step-solutions/"><u>Resolving Hard Drive Problems in Windows 11 - Step-by-Step Solutions</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ess-sound-shift-ultimate-guide-to-video-to-audio-tools-for-2024/"><u>Seamless Sound Shift Ultimate Guide to Video-to-Audio Tools for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/step-by-step-guide-to-high-quality-zoom-recordings-for-podcasters/"><u>Step-by-Step Guide to High-Quality Zoom Recordings for Podcasters</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/the-ultimate-mp4-video-editing-tutorial-for-mac-and-windows-users-for-2024/"><u>The Ultimate MP4 Video Editing Tutorial for Mac and Windows Users for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-premiere-pro-cs6-free-download-for-mac-a-comprehensive-guide/"><u>Updated Premiere Pro CS6 Free Download for Mac A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-premiere-vs-after-effects-which-video-editing-software-reigns-supreme-for-2024/"><u>Updated Premiere vs After Effects Which Video Editing Software Reigns Supreme for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-watermark-free-video-editing-the-top-7-merging-solutions-for-2024/"><u>Updated Watermark-Free Video Editing The Top 7 Merging Solutions for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-tiktok-titans-the-ultimate-list-of-30-stellar-handle-ideas/"><u>[New] TikTok Titans The Ultimate List of 30 Stellar Handle Ideas</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-recording-the-next-level-of-play/"><u>[Updated] 2024 Approved Recording the Next Level of Play</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-droning-made-simple-top-picks-for-kids-and-newbies-for-2024/"><u>[Updated] Droning Made Simple Top Picks for Kids & Newbies for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-viral-amazon-prime-videos-from-twitter/"><u>[Updated] Viral Amazon Prime Videos From Twitter</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-addressing-game-crash-problems-in-persona-3-portable-edition-for-pc-users/"><u>Expert Tips: Addressing Game Crash Problems in Persona 3: Portable Edition for PC Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-10-best-introduction-editors-apps/"><u>In 2024, Top 10 Best Introduction Editors (Apps)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-unleash-your-artistry-top-10-music-video-creation-services/"><u>In 2024, Unleash Your Artistry Top 10 Music Video Creation Services</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-elevate-your-gaming-content-best-free-video-editing-software/"><u>New 2024 Approved Elevate Your Gaming Content Best Free Video Editing Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-lego-movies-are-painstaking-but-you-will-get-quicker-and-better-with-practice-here-are-5-best-stop-motion-apps-for-lego-movie-on-iphone-ip/"><u>New 2024 Approved Lego Movies Are Painstaking, but You Will Get Quicker and Better with Practice. Here Are 5 Best Stop Motion Apps for Lego Movie on iPhone, iPad and Android Devices</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-final-cut-pro-x-captioning-a-step-by-step-guide/"><u>New In 2024, Final Cut Pro X Captioning A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/top-10-overlooked-yet-best-free-speech-transcribers-for-mac/"><u>Top 10 Overlooked, Yet Best Free Speech Transcribers for Mac</u></a></li>
 </ul></div>
 

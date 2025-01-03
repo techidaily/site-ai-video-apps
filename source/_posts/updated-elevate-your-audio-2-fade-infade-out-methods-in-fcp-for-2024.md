@@ -1,7 +1,7 @@
 ---
 title: Updated Elevate Your Audio 2 Fade-In/Fade-Out Methods in FCP for 2024
-date: 2024-12-17T17:24:09.885Z
-updated: 2024-12-25T04:55:18.817Z
+date: 2025-01-01T19:16:32.111Z
+updated: 2025-01-02T20:48:55.752Z
 tags: 
   - video editing software
   - video editing
@@ -44,10 +44,6 @@ Before we get started, you can firstly detach the audio from video to better edi
 
 Check more articles here, if you are also interested in other [audio editing tips](https://tools.techidaily.com/wondershare/filmora/download/) in Final Cut Pro or want to know how to [record a voice over](https://tools.techidaily.com/wondershare/filmora/download/) with FCP.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Fade Audio by using the Modify Menu
 
 You can go to the **Modify** menu and easily apply fade-in or fade-outs to the audio clip you are editing. The Final Cut Pro preferences also allow you to adjust the fade duration.
@@ -57,24 +53,28 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 ![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
 ![Apply fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You should remember that the fades appear at the beginning and the end of each clip. The default duration of the fade is one half-second. If you want to modify that duration, you just have to drag the fade handle up to the point where your fade is supposed to begin or end.
 
 ![Modify duration of fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3**: If you want to remove the fades, choose Modify > Adjust Volume > Remove Fades.
 
 See more details on how to fade audio in Final Cut Pro from the following video.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Fade Music by using Fade Handles
 
@@ -92,6 +92,10 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
@@ -99,7 +103,7 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
@@ -114,10 +118,6 @@ You can easily change the sound of your fades by modifying the default fade shap
 [](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -134,20 +134,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-uncover-the-best-8-open-source-video-conferencing-tools-of-now/"><u>[Updated] In 2024, Uncover the Best 8 Open-Source Video Conferencing Tools of Now</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-the-ultimate-guide-to-designing-powerful-youtube-logos/"><u>2024 Approved The Ultimate Guide to Designing Powerful YouTube Logos</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/1725286734621-dvd/"><u>DVDストレッチに対応してください:安全なダウンロード手順を学ぶ</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/future-proof-your-workflow-leading-microsoft-office-alternatives-of-2024/"><u>Future-Proof Your Workflow: Leading Microsoft Office Alternatives of 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-a25-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy A25 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-v30t-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme V30T Phones with/without a PC</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-oppo-k11x-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Oppo K11x Android SIM Unlock APK</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/maximizing-your-evs-potential-understanding-distance-per-charge/"><u>Maximizing Your EV's Potential: Understanding Distance per Charge</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/s-top-picks-16-free-video-editing-software-for-beginners-for-2024/"><u>S Top Picks 16 Free Video Editing Software for Beginners for 2024</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/telechargement-gratuit-du-codec-h265-pour-compresser-et-encoder-en-video-hevc/"><u>Téléchargement Gratuit Du Codec H.265 Pour Compresser Et Encoder en Vidéo HEVC</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-best-avi-video-editor-for-windows-8-effortless-editing-made-easy-for-2024/"><u>Updated Best AVI Video Editor for Windows 8 Effortless Editing Made Easy for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-master-1080p-video-editing-expert-approved-software-for-2024/"><u>Updated Master 1080P Video Editing Expert-Approved Software for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-streamline-your-mpeg2-videos-with-virtualdub-compression/"><u>Updated Streamline Your MPEG2 Videos with VirtualDub Compression</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-video-editing-without-limits-how-to-use-windows-and-mac-apps-on-your-chromebook/"><u>Updated Video Editing Without Limits How to Use Windows and Mac Apps on Your Chromebook</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/webs-finest-vertical-video-editors-for-online-creators-for-2024/"><u>Webs Finest Vertical Video Editors for Online Creators for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-spark-the-flame-top-10-motivational-films-for-you/"><u>[Updated] 2024 Approved Spark the Flame Top 10 Motivational Films for You</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-gain-free-photo-footage-via-essential-4-youtube-picks/"><u>[Updated] Gain Free Photo Footage via Essential 4 YouTube Picks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-mastering-gaming-snaps-top-5-windows-11-tactics/"><u>[Updated] Mastering Gaming Snaps Top 5 Windows 11 Tactics</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-navigate-motion-sickness-in-virtual-reality-with-ease/"><u>[Updated] Navigate Motion Sickness in Virtual Reality with Ease</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-the-complete-obs-toolkit-for-flawless-instagram-streams/"><u>2024 Approved The Complete OBS Toolkit for Flawless Instagram Streams</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-urban-pursuit-without-the-need-for-gta/"><u>2024 Approved Urban Pursuit Without the Need for GTA</u></a></li>
+<li><a href="https://win-updates.techidaily.com/hoe-vervolg-je-het-snel-herstellen-na-het-verwijderen-van-bestandsdaten-met-quickformat/"><u>Hoe Vervolg Je Het Snel Herstellen Na Het Verwijderen Van Bestandsdaten Met QuickFormat?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Reasons why Pokémon GPS does not Work On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-capture-the-essence-two-effective-ways-to-create-time-lapse-videos-that-impress/"><u>New In 2024, Capture the Essence Two Effective Ways to Create Time Lapse Videos That Impress</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-capture-the-love-a-simple-guide-to-creating-a-valentines-day-video-montage/"><u>New In 2024, Capture the Love A Simple Guide to Creating a Valentines Day Video Montage</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-cast-any-video-a-step-by-step-guide-to-chromecast-compatibility/"><u>New In 2024, Cast Any Video A Step-by-Step Guide to Chromecast Compatibility</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-video-blur-tool-a-step-by-step-guide/"><u>New In 2024, Free Video Blur Tool A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-if-you-want-to-download-some-free-pc-and-android-games-here-is-a-list-of-10-best-free-websites-to-providing-free-games-available-for-download/"><u>New In 2024, If You Want to Download some Free PC and Android Games, Here Is a List of 10 Best Free Websites to Providing Free Games Available for Download</u></a></li>
 </ul></div>
 

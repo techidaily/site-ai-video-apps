@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Final Cut Pro Color Grading Essentials
-date: 2024-12-20T06:36:26.461Z
-updated: 2024-12-24T20:43:04.873Z
+date: 2024-12-29T22:37:34.330Z
+updated: 2025-01-03T10:26:59.942Z
 tags: 
   - video editing software
   - video editing
@@ -57,13 +57,13 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 ![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
 ![Effect Browser](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Choose **Window** and then click on **Go To**, you will find **Color Board** on the appeared drop-down menu.
 
@@ -74,7 +74,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 ![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 2
@@ -84,7 +84,7 @@ As soon as you start working on **Color Board**, it is good to open Video Scopes
 ![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
@@ -99,20 +99,20 @@ Now it is time to work on color correction directly. There are three types of co
 
 ![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
 ![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
 ![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 4
@@ -140,22 +140,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-crystal-carousel-at-the-olympics/"><u>2024 Approved Crystal Carousel at the Olympics</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-synchronizing-soundscapes-a-guide-to-multi-service-moves/"><u>2024 Approved Synchronizing Soundscapes A Guide to Multi-Service Moves</u></a></li>
-<li><a href="https://win-dash.techidaily.com/hassle-free-setup-epson-printer-downloads-and-updates-for-windows-users/"><u>Hassle-Free Setup: Epson Printer Downloads & Updates for Windows Users</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-stop-tower-of-fantasy-from-frequently-freezing-and-crashing-on-your-computer/"><u>How to Stop Tower of Fantasy From Frequently Freezing and Crashing on Your Computer</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-v30-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme V30 to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/lightning-fast-windows-photo-inspector-for-2024/"><u>Lightning-Fast Windows Photo Inspector for 2024</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/methode-de-mise-a-jour-partielle-pour-google-drive-instructions-detaillees/"><u>Méthode De Mise À Jour Partielle Pour Google Drive - Instructions Détaillées</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oppo-reno-11f-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 11F 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/ultimate-guide-to-no-cost-dvd-player-apps-for-pc-users-selecting-the-best-6-options/"><u>Ultimate Guide to No-Cost DVD Player Apps for PC Users: Selecting the Best 6 Options</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-adobe-premiere-pro-for-mac-the-video-editor-for-professionals-for-2024/"><u>Updated Adobe Premiere Pro for Mac The Video Editor for Professionals for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-create-stunning-time-lapses-with-final-cut-pro-a-beginners-guide-for-2024/"><u>Updated Create Stunning Time Lapses with Final Cut Pro A Beginners Guide for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-create-engaging-reaction-content-with-these-mobile-apps/"><u>Updated In 2024, Create Engaging Reaction Content with These Mobile Apps</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-from-hero-to-pro-easy-gopro-hd-video-editing-techniques/"><u>Updated In 2024, From Hero to Pro Easy GoPro HD Video Editing Techniques</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-seamless-storytelling-3-transition-techniques-for-final-cut-pro/"><u>Updated In 2024, Seamless Storytelling 3 Transition Techniques for Final Cut Pro</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-unleash-your-creativity-best-online-collage-makers-for-photos-and-videos/"><u>Updated In 2024, Unleash Your Creativity Best Online Collage Makers for Photos and Videos</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-this-article-will-recommend-you-with-3-best-dvd-burning-tools-to-let-you-easily-burn-video-to-dvd-for-2024/"><u>Updated This Article Will Recommend You with 3 Best DVD Burning Tools to Let You Easily Burn Video to DVD for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-unleash-the-power-of-high-definition-best-video-enhancement-software-for-2024/"><u>Updated Unleash the Power of High-Definition Best Video Enhancement Software for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-enabling-successful-video-sharing-in-messenger-for-ios-and-android-users/"><u>[New] Enabling Successful Video Sharing in Messenger for iOS and Android Users</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-subtlety-in-chords-pc-and-mac-music-settings/"><u>[Updated] 2024 Approved Subtlety in Chords PC & Mac Music Settings</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-fixing-blank-sequences-during-obs-recording/"><u>[Updated] Fixing Blank Sequences During OBS Recording</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-oppo-reno-8t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-honor-100-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Honor 100</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-watermark-free-video-editing-the-best-free-options/"><u>In 2024, Watermark-Free Video Editing The Best Free Options</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-how-to-watch-videos-quickly-and-smoothly/"><u>Instagram How to Watch Videos Quickly & Smoothly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/key-blunders-to-steer-clear-of-with-gpt-conversations/"><u>Key Blunders to Steer Clear of with GPT Conversations</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-choosing-the-right-green-screen-tool-for-your-mac/"><u>New 2024 Approved Choosing the Right Green Screen Tool for Your Mac</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-get-the-most-out-of-your-nikon-footage-video-editing-essentials/"><u>New 2024 Approved Get the Most Out of Your Nikon Footage Video Editing Essentials</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-5-avchd-video-editing-software/"><u>New 2024 Approved Top 5 AVCHD Video Editing Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-rated-avchd-editors-expert-recommendations/"><u>New 2024 Approved Top-Rated AVCHD Editors Expert Recommendations</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-chromebook-video-editing-made-easy-top-picks-for-2024/"><u>New Chromebook Video Editing Made Easy Top Picks for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-complete-guide-how-to-edit-movies-or-video-download-online-for-2024/"><u>New Complete Guide How to Edit Movies or Video Download Online for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-divx-video-trimming-tools-top-picks/"><u>New In 2024, Free Divx Video Trimming Tools Top Picks</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellars-essential-mac-deletion-software-customize-and-schedule-your-file-removals-with-ease/"><u>Stellar's Essential Mac Deletion Software: Customize and Schedule Your File Removals with Ease</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-14-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 14 Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
 </ul></div>
 

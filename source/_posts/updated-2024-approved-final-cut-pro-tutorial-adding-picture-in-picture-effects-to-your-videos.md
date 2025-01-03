@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Final Cut Pro Tutorial Adding Picture-in-Picture Effects to Your Videos
-date: 2024-12-18T18:53:53.368Z
-updated: 2024-12-25T04:40:23.855Z
+date: 2024-12-28T14:46:57.491Z
+updated: 2025-01-03T01:14:03.156Z
 tags: 
   - video editing software
   - video editing
@@ -31,7 +31,7 @@ This tool can help you to use the picture-in-picture effect with ease. However, 
 The article below contains complete details about how to add PIP effects using Final Cut Pro. You will be glad to know that FCP also works with few integrated plugins that assist in the free picture in picture effect generation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Create PIP Effect with FCP
@@ -44,10 +44,6 @@ The very first step that you need to follow for PIP effect generation using FCP 
 
 ![add pip video](https://images.wondershare.com/filmora/article-images/add-pip-videos-in-fcp.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Step 2: Add PIP videos
 
 It is time to choose the higher video clip so that the PIP effect can be applied. This task can be done either by using on-screen type controls available on the viewer or you can move ahead with transform controls available on the inspector.
@@ -56,15 +52,15 @@ Note that lower clips use to stay in the background in final results whereas upp
 
 ![transform button](https://images.wondershare.com/filmora/article-images/transform-button-in-fcp.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 3: Apply PIP effect
 
 As now you have added both videos on-screen now you have to select the higher video and then click over the rectangular transform button that is available on the lower-left corner of viewer screen. As soon as you make this selection, the icon will turn into blue color, and naturally 8 dots will appear around the selected image or video. Use any one of these dots for scaling your selection in asymmetrical order.
 
 ![adjust pip effect](https://images.wondershare.com/filmora/article-images/adjust-pip-effect-in-fcp.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Step 4: Adjust PIP Effect
 
@@ -79,6 +75,10 @@ Simply select the top clip and then hit Command + 4 to open the inspector. Now c
 
 ![precise adjustment](https://images.wondershare.com/filmora/article-images/precise-adjustment-in-fcp.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 6: Apply Cross- Dissolve
 
 * Now choose the leading edge of effect and use Command + T. It will immediately apply the default cross-dissolve option for starting clip.
@@ -86,11 +86,11 @@ Simply select the top clip and then hit Command + 4 to open the inspector. Now c
 
 ![dissolve effect](https://images.wondershare.com/filmora/article-images/dissolve-effect-in-fcp.jpg)
 
-Check this video tutorial to know more details:
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Check this video tutorial to know more details:
 
 ## Picture in Picture Plug-ins for Final Cut Pro
 
@@ -109,7 +109,7 @@ ProPIP is the best choice for newscasting, commentaries, and many other applicat
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -127,16 +127,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-help.techidaily.com/2024s-market-leaders-a-comprehensive-review-of-premium-server-rack-units/"><u>2024'S Market Leaders: A Comprehensive Review of Premium Server Rack Units</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/expert-tips-for-intimate-filmmaking-approaches-for-2024/"><u>Expert Tips for Intimate Filmmaking Approaches for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-s18e-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-make-movies-without-breaking-the-bank-7-best-low-cost-film-software/"><u>New Make Movies Without Breaking the Bank 7 Best Low-Cost Film Software</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-streamline-your-movie-collection-how-to-convert-dvds-to-digital-formats-for-2024/"><u>New Streamline Your Movie Collection How to Convert DVDs to Digital Formats for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-top-10-free-video-stabilization-tools-to-smooth-out-your-footage-2024-update/"><u>New Top 10 Free Video Stabilization Tools to Smooth Out Your Footage (2024 Update)</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-top-hd-video-editors-for-creators-and-professionals-for-2024/"><u>New Top HD Video Editors for Creators and Professionals for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-unleash-the-power-of-reverse-a-tiktok-video-editing-tutorial-for-2024/"><u>New Unleash the Power of Reverse A TikTok Video Editing Tutorial for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-xiaomi-14-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Xiaomi 14 Phone Now with These Tips</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-evolution-of-action-cams-comparing-hero5-and-yis-newest-models/"><u>The Evolution of Action Cams Comparing Hero5 and Yi's Newest Models</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-for-core-dll-errors-on-your-pc/"><u>The Ultimate Fix for Core DLL Errors on Your PC</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-avoid-hassles-simple-iphone-screen-sharing/"><u>[New] 2024 Approved Avoid Hassles Simple Iphone Screen Sharing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-easy-to-use-screen-recording-software-including-apowersoft/"><u>[Updated] 2024 Approved Easy-to-Use Screen Recording Software, Including Apowersoft</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/decoding-the-mysteries-of-windows-10-mastery/"><u>Decoding the Mysteries of Windows 10 Mastery</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dyson-unveils-ontrac-wireless-earbuds-a-potential-competitor-for-apples-airpods-pro/"><u>Dyson Unveils OnTrac Wireless Earbuds: A Potential Competitor for Apple's AirPods Pro?</u></a></li>
+<li><a href="https://games-able.techidaily.com/examining-amds-new-frontier-rdna-35-and-release-date-clues/"><u>Examining AMD's New Frontier: RDNA 3.5 & Release Date Clues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-reset-and-repair-an-iphone-when-the-proximity-detector-fails/"><u>How To Reset and Repair an iPhone When the Proximity Detector Fails</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-xiaomi-redmi-13c-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Xiaomi Redmi 13C 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-huawei-nova-y71-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Huawei Nova Y71 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/mp4-file-editing-on-mavericks-a-step-by-step-tutorial-for-2024/"><u>MP4 File Editing on Mavericks A Step-by-Step Tutorial for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-accurate-timing-made-simple-8-best-timecode-conversion-apps-and-websites/"><u>New 2024 Approved Accurate Timing Made Simple 8 Best Timecode Conversion Apps and Websites</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-blur-faces-like-a-pro-top-free-apps-and-tutorials-for-photos-and-videos/"><u>New 2024 Approved Blur Faces Like a Pro Top Free Apps and Tutorials for Photos and Videos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-mac-video-trimming-made-easy-fast-and-efficient-methods/"><u>New 2024 Approved Mac Video Trimming Made Easy Fast and Efficient Methods</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-best-of-the-best-4k-video-editing-software/"><u>New 2024 Approved The Best of the Best 4K Video Editing Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-animate-like-a-pro-the-top-7-drawing-software-for-aspiring-animators-for-2024/"><u>New Animate Like a Pro The Top 7 Drawing Software for Aspiring Animators for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-crafting-compelling-lower-thirds-fcpx-essentials-for-2024/"><u>New Crafting Compelling Lower Thirds FCPX Essentials for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-game-on-top-10plus-websites-for-free-game-downloads-for-2024/"><u>New Game On! Top 10+ Websites for Free Game Downloads for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-cinematic-mastery-expert-tips-for-editing-in-final-cut-pro-x/"><u>New In 2024, Cinematic Mastery Expert Tips for Editing in Final Cut Pro X</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719267835321-reactivating-silenced-pc-speakers-easy-fixes-ahead/"><u>Reactivating Silenced PC Speakers – Easy Fixes Ahead!</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-from-novice-to-expert-a-complete-guide-to-editing-mp4-videos-on-mac-and-windows/"><u>Updated 2024 Approved From Novice to Expert A Complete Guide to Editing MP4 Videos on Mac and Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Reduce MPEG2 File Size A Guide to Using VirtualDub
-date: 2024-12-18T03:27:21.164Z
-updated: 2024-12-24T20:27:03.148Z
+date: 2024-12-29T22:17:46.163Z
+updated: 2025-01-03T03:53:59.948Z
 tags: 
   - video editing software
   - video editing
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 VirtualDub is a free video capture/processing tool for Windows platforms (2000/XP/Vista/7). And VirtualDub MPEG-2 is a modified version of VirtualDub that supports MPEG-2 import originally. However, just as the author said "This software is obsolete and will no longer be updated. For MPEG-2 and WMV support in the latest VirtualDub, try my plugins (MPEG-2 plugin for VirtualDub 1.8.1 or above - by editor)".
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Download and Install VirtualDub MPEG-2
@@ -38,33 +38,33 @@ You could [download VirtualDub MPEG-2](http://www.videohelp.com/download/Virtual
 
 VirtualDub-MPEG2 is designed to work with mpeg2 video, such as Digital TV shows, un-encrypted DVD files (\*.vob) and these video files are usually in big size. Now you can compress them using VirtualDub MPEG-2.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1: Set Up Video Compression
 
 Open your MPEG-2 video file through File/Open video file..., then go to Video/Compression to bring up the following dialog.
 
 ![virtualdub mpeg2](https://images.wondershare.com/topic/video-editing/virtualdub-video-compression.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 As shown above, select the XVID MPEG-4 codec and click Configure button to make Xvid settings.
 
 ![virtualdub mepg2 tutorial](https://images.wondershare.com/topic/video-editing/virtualdub-mpeg2-compress.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note**: If Compression is disable, switch to Full processing mode first in the Video menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Set Up Audio Compression
 
 Audio compression setup is similar to video compression, go to Audio/Full processing mode, and again Audio/Compression to open the dialog, where MPEG Layer-3 is recommended.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 3: Start Compressing
 
@@ -76,7 +76,7 @@ Now it's the time to start processing your video, here is how:
 4. Click Save.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -104,16 +104,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-best-introduction-maker-apps-ios-vs-android-comparison-for-2024/"><u>[New] Best Introduction Maker Apps IOS vs Android Comparison for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-depth-guide-to-installing-microsofts-movie-maker/"><u>[New] In-Depth Guide to Installing Microsoft's Movie Maker</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-go-incognito-your-step-by-step-instagram-live-guide/"><u>[Updated] Go Incognito Your Step-by-Step Instagram Live Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/canvas-mastery-top-10-editing-strategies-unveiled-for-2024/"><u>Canvas Mastery Top 10 Editing Strategies Unveiled for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/final-cut-pros-greatest-hits-10-memorable-movies-for-2024/"><u>Final Cut Pros Greatest Hits 10 Memorable Movies for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-the-art-of-fixed-remote-gameplay-with-steam-and-windows/"><u>Mastering the Art of Fixed Remote Gameplay with Steam & Windows</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-best-free-online-collage-makers-for-photos-videos-and-more/"><u>Updated 2024 Approved Best Free Online Collage Makers for Photos, Videos, and More</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-mov-video-combiner-software-top-picks/"><u>Updated 2024 Approved Free MOV Video Combiner Software Top Picks</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-loop-your-videos-with-ease-10-free-online-video-looping-tools/"><u>Updated 2024 Approved Loop Your Videos with Ease 10 Free Online Video Looping Tools</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-fcp-file-management-101-saving-and-organizing-your-projects-for-2024/"><u>Updated FCP File Management 101 Saving and Organizing Your Projects for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-split-cut-and-edit-videos-for-free-our-top-recommendations/"><u>Updated In 2024, Split, Cut, and Edit Videos for Free Our Top Recommendations</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-discovering-dormant-dialogues-among-youtube-watchers-for-2024/"><u>[New] Discovering Dormant Dialogues Among YouTube Watchers for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-exploring-open-source-options-is-vlc-bound-to-beat-mpc/"><u>[New] In 2024, Exploring Open-Source Options Is VLC Bound to Beat MPC?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-enhancing-photos-with-cropping-tools/"><u>[Updated] Step-by-Step Enhancing Photos with Cropping Tools</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-sony-xperia-5-v-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Sony Xperia 5 V without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/binary-bonds-cybercrimes-romantic-ruse/"><u>Binary Bonds: Cybercrime's Romantic Ruse</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-motorola-moto-g13-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Motorola Moto G13 to Another | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-8-tips-on-how-to-vlog-confidently-like-popular-youtubers/"><u>In 2024, 8 Tips on How to Vlog Confidently Like Popular YouTubers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-10-essential-animation-programs-for-interactive-learning-for-2024/"><u>New 10 Essential Animation Programs for Interactive Learning for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-gif-accelerators-online-and-mobile-solutions/"><u>New 2024 Approved Top GIF Accelerators Online and Mobile Solutions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-fcpx-not-working-try-resetting-a-simple-solution-to-common-issues-for-2024/"><u>New FCPX Not Working? Try Resetting A Simple Solution to Common Issues for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-flip-it-how-to-reverse-your-tiktok-videos-like-a-pro-for-2024/"><u>New Flip It! How to Reverse Your TikTok Videos Like a Pro for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-no-downloads-needed-10-free-online-video-compression-solutions/"><u>New In 2024, No Downloads Needed 10 Free Online Video Compression Solutions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-final-cut-pro-slideshow-tutorial-for-beginners/"><u>New In 2024, The Ultimate Final Cut Pro Slideshow Tutorial for Beginners</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-guide-to-3d-animation-software-free-and-paid/"><u>New In 2024, The Ultimate Guide to 3D Animation Software Free and Paid</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-in-page-kernel-data-error-and-blue-screen-of-death-comprehensive-fix-guide/"><u>Resolved: In-Page Kernel Data Error and Blue Screen of Death - Comprehensive Fix Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ew-age-of-income-generation-for-youtube-visionaries/"><u>The New Age of Income Generation for YouTube Visionaries</u></a></li>
 </ul></div>
 

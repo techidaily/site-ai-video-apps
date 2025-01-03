@@ -1,7 +1,7 @@
 ---
 title: Take Your Videos to the Next Level Mastering the Ken Burns Effect in Final Cut Pro for 2024
-date: 2024-12-22T18:28:22.136Z
-updated: 2024-12-24T22:35:22.582Z
+date: 2024-12-26T18:53:52.544Z
+updated: 2025-01-03T07:46:41.645Z
 tags: 
   - video editing software
   - video editing
@@ -30,7 +30,7 @@ Those new to the Final Cut Pro or Pro X programs will be finding it a little cha
 * [**Part 2: How to Zoom in Final Cut Pro Using Keyframing**](#Zoom-in-Final-Cut-Pro-Keyframing)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Make Ken Burns Effect Final Cut Pro
@@ -47,6 +47,10 @@ The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, sl
 
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steps to Making the Ken Burns Effect Final Cut Pro
 
 Now that we know what is Ken Burns Effect. Let’s go over the steps to making the Ken Burns Effect in Final Cut Pro.
@@ -55,15 +59,15 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
 
 **Step 3** – Hold down both the shift key and the letter C. This is the fast way to cut out what you need. You can always stick to the right-click to cut a clip if you are more comfortable with this.
 
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Ken Burns Customization
 
@@ -74,10 +78,6 @@ You can also customize the ken burns effects in Final Cut.
 **Step 2** – Adjust the green box’s size, shape, and height until you are happy with where it is placed.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
@@ -97,6 +97,10 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
@@ -104,7 +108,7 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Ken Burns Conclusion
@@ -114,10 +118,6 @@ The Ken Burns Effect is famous for a reason. It allows you to fill up space if y
 The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places that they wouldn’t otherwise get to. It is excellent for both glimpsing into the past, and for flashing forward into imagined futures. Best of all, it lets you go there when you aren’t a big-budget Hollywood film producer. We love anything that saves a buck or two while we edit.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -134,16 +134,15 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-a-comprehensive-guide-to-understanding-and-using-slug-lines/"><u>[New] 2024 Approved A Comprehensive Guide to Understanding and Using Slug Lines</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-biting-snippets-to-captivating-narratives-an-experts-guide-to-youtube-edits-for-2024/"><u>[Updated] From Biting Snippets to Captivating Narratives An Expert's Guide to Youtube Edits for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-screen-saviors-ranked-top-8-for-ios-filmmaking-apps/"><u>[Updated] Screen Saviors Ranked Top 8 for iOS Filmmaking Apps</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-select-8-dynamic-backgrounds-for-your-mbp/"><u>[Updated] Select 8 Dynamic Backgrounds for Your MBP</u></a></li>
-<li><a href="https://win11.techidaily.com/integrating-new-folders-into-windows-11s-menu/"><u>Integrating New Folders Into Windows 11'S Menu</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-connecting-your-subwoofer-with-samsung-home-theater-system/"><u>Step-by-Step Guide: Connecting Your Subwoofer with Samsung Home Theater System</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ssential-guide-to-aspect-ratio-standards-on-yt/"><u>The Essential Guide to Aspect Ratio Standards on YT</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/top-5-best-free-m4a-editor-software-for-2024/"><u>Top 5 Best Free M4A Editor Software for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-maximize-video-clarity-expert-recommended-enhancement-tools/"><u>Updated In 2024, Maximize Video Clarity Expert-Recommended Enhancement Tools</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-mobile-video-editing-made-easy-best-free-special-effects-apps-for-2024/"><u>Updated Mobile Video Editing Made Easy Best Free Special Effects Apps for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-top-rated-4k-video-conversion-software-2023s-best-picks-for-2024/"><u>Updated Top-Rated 4K Video Conversion Software 2023S Best Picks for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-mastering-the-art-of-import-in-windows-10-photo-space-for-2024/"><u>[New] Mastering the Art of Import in Windows 10 Photo Space for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-10-strategies-for-boosting-your-youtube-visibility-for-2024/"><u>[Updated] 10 Strategies for Boosting Your YouTube Visibility for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-honor-x8b-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Honor X8b</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/video-to-animation-easy-youtube-gif-creation-tips-for-2024/"><u>From Video to Animation Easy YouTube GIF Creation Tips for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-filmora-without-the-risk-safe-and-legal-alternatives/"><u>New 2024 Approved Free Filmora Without the Risk Safe and Legal Alternatives</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-adding-subtitles-in-fcpx-a-beginners-tutorial-for-2024/"><u>New Adding Subtitles in FCPX A Beginners Tutorial for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-match-made-in-heaven-syncing-colors-across-video-clips-in-powerdirector/"><u>New In 2024, Match Made in Heaven Syncing Colors Across Video Clips in PowerDirector</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-s-top-rated-free-video-editors-for-32-bit-windows-users/"><u>New In 2024, S Top-Rated Free Video Editors for 32-Bit Windows Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resetting-made-simple-the-ultimate-guide-for-your-samsung-soundbar/"><u>Resetting Made Simple: The Ultimate Guide for Your Samsung Soundbar</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Motorola Edge+ (2023) | Dr.fone</u></a></li>
 </ul></div>
 
