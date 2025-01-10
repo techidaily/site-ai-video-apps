@@ -1,7 +1,7 @@
 ---
 title: Take Your Videos to the Next Level Mastering the Ken Burns Effect in Final Cut Pro for 2024
-date: 2024-12-26T18:53:52.544Z
-updated: 2025-01-03T07:46:41.645Z
+date: 2025-01-06T00:11:31.013Z
+updated: 2025-01-10T08:23:56.010Z
 tags: 
   - video editing software
   - video editing
@@ -30,7 +30,7 @@ Those new to the Final Cut Pro or Pro X programs will be finding it a little cha
 * [**Part 2: How to Zoom in Final Cut Pro Using Keyframing**](#Zoom-in-Final-Cut-Pro-Keyframing)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Make Ken Burns Effect Final Cut Pro
@@ -38,6 +38,10 @@ Those new to the Final Cut Pro or Pro X programs will be finding it a little cha
 To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut, since they are both extensions of one another) simply follow our guide.
 
 First, let’s talk about what Ken Burns is and why he has an effect named after him in Final Cut programs!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What is the Ken Burns Effect
 
@@ -48,7 +52,7 @@ The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, sl
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Steps to Making the Ken Burns Effect Final Cut Pro
@@ -59,15 +63,15 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
 
 **Step 3** – Hold down both the shift key and the letter C. This is the fast way to cut out what you need. You can always stick to the right-click to cut a clip if you are more comfortable with this.
 
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Ken Burns Customization
 
@@ -97,19 +101,11 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Ken Burns Conclusion
 
@@ -118,6 +114,10 @@ The Ken Burns Effect is famous for a reason. It allows you to fill up space if y
 The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places that they wouldn’t otherwise get to. It is excellent for both glimpsing into the past, and for flashing forward into imagined futures. Best of all, it lets you go there when you aren’t a big-budget Hollywood film producer. We love anything that saves a buck or two while we edit.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -134,15 +134,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-mastering-the-art-of-import-in-windows-10-photo-space-for-2024/"><u>[New] Mastering the Art of Import in Windows 10 Photo Space for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-10-strategies-for-boosting-your-youtube-visibility-for-2024/"><u>[Updated] 10 Strategies for Boosting Your YouTube Visibility for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-honor-x8b-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Honor X8b</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/video-to-animation-easy-youtube-gif-creation-tips-for-2024/"><u>From Video to Animation Easy YouTube GIF Creation Tips for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-filmora-without-the-risk-safe-and-legal-alternatives/"><u>New 2024 Approved Free Filmora Without the Risk Safe and Legal Alternatives</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-adding-subtitles-in-fcpx-a-beginners-tutorial-for-2024/"><u>New Adding Subtitles in FCPX A Beginners Tutorial for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-match-made-in-heaven-syncing-colors-across-video-clips-in-powerdirector/"><u>New In 2024, Match Made in Heaven Syncing Colors Across Video Clips in PowerDirector</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-s-top-rated-free-video-editors-for-32-bit-windows-users/"><u>New In 2024, S Top-Rated Free Video Editors for 32-Bit Windows Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resetting-made-simple-the-ultimate-guide-for-your-samsung-soundbar/"><u>Resetting Made Simple: The Ultimate Guide for Your Samsung Soundbar</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-expertly-curated-green-screen-gear-list/"><u>[New] 2024 Approved Expertly Curated Green Screen Gear List</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-real-time-game-capture-aps4-strategies-in-obs-for-2024/"><u>[New] Real-Time Game Capture APS4 Strategies in OBS for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-social-media-showdown-youtubes-shorts-versus-tiktoks-short-forms/"><u>[Updated] 2024 Approved Social Media Showdown YouTubes Shorts Versus TikToks Short Forms</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/beijings-big-leap-ambitious-goal-to-boost-public-supercomputing-performance-by-30-reaching-300-exaflops-in-two-years/"><u>Beijing's Big Leap: Ambitious Goal to Boost Public Supercomputing Performance by 30%, Reaching 300 ExaFLOPS in Two Years</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/bridging-gaps-building-relationships-with-your-audience/"><u>Bridging Gaps Building Relationships with Your Audience</u></a></li>
+<li><a href="https://discover-great.techidaily.com/easy-steps-to-retrieving-your-data-after-a-computer-malfunction/"><u>Easy Steps to Retrieving Your Data After a Computer Malfunction</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/enhanced-angular-ui-kit-professional-edition-with-integrated-bootstrap-4-for-developers-creative-tim/"><u>Enhanced Angular UI Kit - Professional Edition with Integrated Bootstrap 4 for Developers | Creative Tim</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-real-deal-with-daws-separating-fact-from-fiction-in-audio-production-for-2024/"><u>New The Real Deal with DAWs Separating Fact From Fiction in Audio Production for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-vr-video-conversion-made-simple-top-tools-and-techniques/"><u>New VR Video Conversion Made Simple Top Tools and Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/pioneering-computer-components-the-ultimate-guide-by-toms-technology-hub/"><u>Pioneering Computer Components: The Ultimate Guide by Tom's Technology Hub</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/slow-motion-magic-unlocking-the-power-of-windows-live-movie-maker-for-2024/"><u>Slow Motion Magic Unlocking the Power of Windows Live Movie Maker for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-oppo-find-x6-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Oppo Find X6 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-value-pick-premium-screen-quality-in-a-lightweight-and-inexpensive-laptop-insights-from-zdnet/"><u>Top Value Pick: Premium Screen Quality in a Lightweight and Inexpensive Laptop - Insights From ZDNET</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-from-zero-to-hero-top-video-editing-software-for-beginners/"><u>Updated 2024 Approved From Zero to Hero Top Video Editing Software for Beginners</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-list-10-cartoon-video-creation-apps-for-mobile/"><u>Updated 2024 Approved The Ultimate List 10 Cartoon Video Creation Apps for Mobile</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-revolutionize-your-content-10-best-animated-text-creators/"><u>Updated In 2024, Revolutionize Your Content 10 Best Animated Text Creators</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-rotate-mov-videos-for-free-best-solutions/"><u>Updated In 2024, Rotate MOV Videos for Free Best Solutions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-mac-video-editing-made-easy-avs-editor/"><u>Updated Mac Video Editing Made Easy AVS Editor</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-premiere-pro-compatibility-what-you-need-to-know-about-system-requirements-for-2024/"><u>Updated Premiere Pro Compatibility What You Need to Know About System Requirements for 2024</u></a></li>
 </ul></div>
 

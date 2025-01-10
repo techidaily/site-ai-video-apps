@@ -1,7 +1,7 @@
 ---
 title: Updated The Ultimate FCPX Skin Smoothing Hack No Plugins Needed for 2024
-date: 2025-01-02T01:26:52.774Z
-updated: 2025-01-03T06:27:09.190Z
+date: 2025-01-06T17:39:32.346Z
+updated: 2025-01-10T06:31:58.527Z
 tags: 
   - video editing software
   - video editing
@@ -47,25 +47,25 @@ step1Choose the starting image and edit the clip into the timeline. Press Option
 ![Skin_Smoother_Effect_1](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 step2Open the Inspector pan and select Compositing from its bottom. Switch the Blend Mode to Lighten and adjust the Opacity slider as per your desired glow. Usually, 40 to 45% is ideal.
 
 ![Skin_Smoother_Effect_2](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 step3Now, go to the top of the Inspector and turn on the blue checkbox next to Gaussian. Adjust the blurring effect until you achieve your desired level of skin softening. It is highly recommended to blur using the horizontal setting to soften the skin while keeping the eyes sharp. Here, the glow is controlled by Opacity while skin softening is controlled by the Blue Amount.
 
 ![Skin_Smoother_Effect_3](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 For better results, add a Vignette by selecting and combining the two clips into a Compound Clip. From the Effects Browser, select Stylize > Vignette and adjust drag the vignette. Now, customize the compound clip settings in the Inspector pane until you achieve your desired look. Compare the results between two images before and after editing
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Where to Find Good Skin Smoother Plugins?
@@ -129,7 +129,7 @@ Follow these steps to use the Skin Smooth 2 Plugin for Final Cut Pro X:
 5. Finally, click on Add Shape Mask, two circles will appear on the image. Adjust the covering area of both circles for Shape Mask 1 to add a smiling face.![Skin_Smoother_Effect_7](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_7.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: How to Smooth Skin in Filmora?
@@ -143,6 +143,10 @@ Wondershare Filmora features advanced tuning tools and a variety of video filter
 3. Open the toolbar, click the Advanced Color Tuning icon, go to the advanced color tuning window, and adjust the white balance, color tint and temperature, HSL, 3D LUT, Vignette, and Light. If you are a beginner, try applying the present templates.
 4. To set a specific tone or beautify your video, open the Tools tab and click the Color Correction option to change the color tones.
 5. Open Effects and Transitions and select the skin smooth filter. Hover the cursor over the filter and click the plus icon in the middle to add that effect. You can also apply the effect to the whole clip by dragging and dropping it directly onto the video clip.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: How to smooth skin in Adobe Pro?
 
@@ -164,10 +168,6 @@ There are two methods to add a skin smooth effect with FCPX: By using in-built s
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -183,19 +183,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-blog.techidaily.com/modern-warfare-2-pc-game-optimization-guide-eliminating-frame-rate-drops-and-stuttering-issues-for-a-smooth-experience/"><u>'Modern Warfare 2' PC Game Optimization Guide: Eliminating Frame Rate Drops and Stuttering Issues for a Smooth Experience</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-premier-mobile-podcast-apps/"><u>[New] Premier Mobile Podcast Apps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastery-of-spotify-ad-formats-and-best-practices/"><u>[Updated] Mastery of Spotify Ad Formats and Best Practices</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-science-of-naming-your-podcast-for-success-for-2024/"><u>[Updated] The Science of Naming Your Podcast for Success for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-ps5xbox-x-visuals-the-leading-game-screens-ranked/"><u>In 2024, PS5/Xbox X Visuals The Leading Game Screens Ranked</u></a></li>
-<li><a href="https://driver-error.techidaily.com/iphone-xs-not-detected-by-windows-xp-fixed/"><u>IPhone XS Not Detected by Windows XP [Fixed]</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-video-editing-essentials-how-to-resize-and-crop-videos/"><u>New 2024 Approved Video Editing Essentials How to Resize and Crop Videos</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-cut-and-split-wmv-videos-with-these-top-free-tools/"><u>New In 2024, Cut and Split WMV Videos with These Top Free Tools</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-image-to-video-10-best-online-converters-and-makers/"><u>New In 2024, Image to Video 10 Best Online Converters and Makers</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-avs-video-editor-review-a-beginners-guide/"><u>New In 2024, The Ultimate AVS Video Editor Review A Beginners Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-guide-to-video-collage-apps-for-iphone-and-ipad/"><u>New In 2024, The Ultimate Guide to Video Collage Apps for iPhone and iPad</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/perfect-emulators-to-replay-playstation-1-classics/"><u>Perfect Emulators to Replay PlayStation 1 Classics</u></a></li>
-<li><a href="https://some-tips.techidaily.com/taking-flight-with-confidence-over-8000-embrace-new-era-in-southwest-airlines-journey-zdnet-report/"><u>Taking Flight with Confidence: Over 8,000 Embrace New Era in Southwest Airlines Journey | ZDNET Report</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-truth-about-magix-video-pro-xs-performance-for-2024/"><u>The Truth About Magix Video Pro X's Performance for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-explore-twitter-videos-in-high-fidelity-format/"><u>[New] Explore Twitter Videos in High Fidelity Format</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-how-to-make-your-instagram-pop-with-sharing-gifs-in-4-easy-steps/"><u>[Updated] In 2024, How to Make Your Instagram Pop with Sharing GIFs in 4 Easy Steps</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/hide-and-seek-top-5-for-secret-story-lovers-for-2024/"><u>Hide & Seek Top 5 For Secret Story Lovers for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-y36i-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo Y36i to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simplifying-the-complexity-of-artificial-intelligence-for-everyone/"><u>Simplifying the Complexity of Artificial Intelligence for Everyone</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategize-victory-without-paying-play-champion-managers-for-free/"><u>Strategize Victory Without Paying: Play Champion Managers for Free</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/the-best-free-video-cutters-for-mov-file-editing-for-2024/"><u>The Best Free Video Cutters for MOV File Editing for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-oneplus-11r-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track OnePlus 11R without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-help.techidaily.com/unsicher-der-ipod-support-auf-windows-10-nicht-aktiviert/"><u>Unsicher: Der iPod-Support Auf Windows 10 Nicht Aktiviert</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-edit-mp4-videos-on-windows-8-a-simple-guide/"><u>Updated 2024 Approved Edit MP4 Videos on Windows 8 A Simple Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-editing-videos-in-mavericks-tips-tricks-and-techniques/"><u>Updated 2024 Approved Editing Videos in Mavericks Tips, Tricks, and Techniques</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-mac-users-install-lumafusion-or-discover-its-top-competitors/"><u>Updated 2024 Approved Mac Users Install Lumafusion or Discover Its Top Competitors</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/why-now-is-the-perfect-moment-to-begin-your-blu-ray-treasury-believe-us/"><u>Why Now Is the Perfect Moment to Begin Your Blu-Ray Treasury – Believe Us!</u></a></li>
 </ul></div>
 

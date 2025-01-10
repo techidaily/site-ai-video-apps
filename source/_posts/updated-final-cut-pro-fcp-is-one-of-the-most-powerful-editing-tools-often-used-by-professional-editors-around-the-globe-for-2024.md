@@ -1,7 +1,7 @@
 ---
 title: Updated Final Cut Pro (FCP) Is One of the Most Powerful Editing Tools Often Used by Professional Editors Around the Globe for 2024
-date: 2025-01-01T01:16:36.707Z
-updated: 2025-01-03T03:18:28.652Z
+date: 2025-01-04T17:55:47.464Z
+updated: 2025-01-10T06:21:59.569Z
 tags: 
   - video editing software
   - video editing
@@ -37,7 +37,7 @@ Those of you reading this article as a guide to audio editing of videos on Final
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to edit audio on FCP
@@ -51,16 +51,12 @@ While dragging the audio or video clip onto the timeline you have surely seen th
 ![ Clip-level audio editing ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
 ![](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Related Article:** [How to fade in/out audio in Final Cut Pro >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -76,6 +72,10 @@ In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or
 
 ![ Detach audio ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** There is a fine difference between ‘Detach Audio’ and ‘Expand Audio’. In Expand Audio, the audio clip is synced with the video. For instance, while moving the audio to the timeline, the video clip would also go with it. In case of detaching audio however the audio file would remain as a standalone clip that can be inserted into any portion of the video.
 
 The Audio Inspector would allow you to apply the following effects:
@@ -85,21 +85,21 @@ The Audio Inspector would allow you to apply the following effects:
 
 ![ Audio Equalization ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
 
 ![Pan](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Effects- for this option one needs to go to the effects browser of the **Audio Inspector** or just hit comd5\. This would allow you to choose many different audio effects such as echo, distortion, spaces and much more. Just double-click on any effect to find a range of editing options.
 
 ![Effects](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-7.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Audio Configuration: The audio configuration tool would allow the user to modify the audio channel with mono, stereo, or reverse stereo.
 
@@ -122,21 +122,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-dissecting-video-platform-distinctions-youtube-vs-dailymention/"><u>[New] 2024 Approved Dissecting Video Platform Distinctions YouTube Vs. DailyMention</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/macx-avchd-macavchd/"><u>無料 MacX AVCHD動画編集プログラム - 優れたパフォーマンスでMac用AVCHD動画変換ソリューションダウンロード</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/advantages-and-disadvantages-of-using-pidgin-chat/"><u>Advantages & Disadvantages of Using Pidgin Chat</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/boosting-workspace-vibe-and-health-5-ideal-indoor-plants-every-home-office-needs-insights-by-zdnet/"><u>Boosting Workspace Vibe & Health: 5 Ideal Indoor Plants Every Home Office Needs (Insights by ZDNET)</u></a></li>
-<li><a href="https://fox-info.techidaily.com/bring-your-stories-alive-techniques-for-animation-in-text/"><u>Bring Your Stories Alive Techniques for Animation in Text</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/introducing-the-iphone/"><u>Introducing the iPhone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-release-enhanced-amd-radeon-pro-w5700-drivers-for-windows-users-on-11-10-and-7-platforms/"><u>Latest Release: Enhanced AMD Radeon Pro W5700 Drivers for Windows Users on 11, 10 & 7 Platforms</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-master-adobe-premiere-with-these-20-must-know-shortcuts-for-2024/"><u>New Master Adobe Premiere with These 20 Must-Know Shortcuts for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-no-budget-no-problem-free-animation-software-for-windows-and-mac/"><u>New No Budget? No Problem! Free Animation Software for Windows and Mac</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-proxy-perfection-the-top-8-video-editing-apps-for-4k/"><u>New Proxy Perfection The Top 8 Video Editing Apps for 4K</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-take-your-video-editing-to-the-next-level-6-advanced-adobe-premiere-techniques/"><u>New Take Your Video Editing to the Next Level 6 Advanced Adobe Premiere Techniques</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-guide-to-getting-filmora-for-free-no-hidden-fees/"><u>New The Ultimate Guide to Getting Filmora for Free No Hidden Fees</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-top-mp4-metadata-editors-for-video-enthusiasts/"><u>New Top MP4 Metadata Editors for Video Enthusiasts</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-top-video-rotation-tools-flip-spin-and-rotate-your-videos-online-for-2024/"><u>New Top Video Rotation Tools Flip, Spin, and Rotate Your Videos Online for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/premier-5-high-resolution-film-makers/"><u>Premier 5 High-Resolution Film Makers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-bring-your-text-to-life-techniques-for-3d-design-in-ps/"><u>[New] 2024 Approved Bring Your Text to Life Techniques for 3D Design in PS</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-professional-filmmakers-pick-is-it-filmora-or-democreator/"><u>[New] In 2024, Professional Filmmakers' Pick Is It Filmora or Democreator?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nnovative-hubs-of-affordable-visual-content-sources/"><u>[New] Innovative Hubs of Affordable Visual Content Sources</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-discover-the-ultimate-5-gaming-webcam-winners-for-streaming/"><u>[Updated] In 2024, Discover the Ultimate 5 Gaming Webcam Winners for Streaming</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-audiovisual-decision-making-is-podcast-or-youtube-more-appealing/"><u>2024 Approved Audiovisual Decision-Making Is Podcast or YouTube More Appealing?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ating-mobility-in-film-crafting-youtubes-best-thumbnails/"><u>Navigating Mobility in Film Crafting YouTubes' Best Thumbnails</u></a></li>
+<li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-12-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone 12 Pro Max | Stellar</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-best-of-the-best-top-10-free-webm-video-editors-this-year/"><u>Updated 2024 Approved Best of the Best Top 10 Free WebM Video Editors This Year</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-discover-the-best-imovie-alternative-for-windows-10-free-paid-and-everything-in-between-for-2024/"><u>Updated Discover the Best iMovie Alternative for Windows 10 Free, Paid, and Everything in Between for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-ultimate-guide-3-easy-video-game-recording-solutions/"><u>Updated In 2024, The Ultimate Guide 3 Easy Video Game Recording Solutions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-two-screens-one-goal-the-best-split-screen-video-apps-for-ios-and-android-users/"><u>Updated In 2024, Two Screens, One Goal The Best Split-Screen Video Apps for iOS and Android Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-uncovering-the-truth-about-vn-video-editor-pro-a-worthy-alternative/"><u>Updated In 2024, Uncovering the Truth About VN Video Editor Pro A Worthy Alternative?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-valentines-day-2023-a-step-by-step-guide-to-making-a-romantic-video-for-2024/"><u>Updated Valentines Day 2023 A Step-by-Step Guide to Making a Romantic Video for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/usb-connection-issues-beat-device-descriptor-request-failed-with-our-expert-tips/"><u>USB Connection Issues? Beat 'Device Descriptor Request Failed' With Our Expert Tips!</u></a></li>
 </ul></div>
 
