@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Newest Gadgets with Tom - A Hardware Journey
-date: 2024-12-23T02:39:55.333Z
-updated: 2024-12-25T04:35:02.003Z
+date: 2025-01-14T19:49:23.725Z
+updated: 2025-01-15T21:07:09.108Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,19 +78,22 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/mbedding-youtube-playlists-with-minimal-complexity-and-maximum-impact-for-2024/"><u>[New] Embedding YouTube Playlists with Minimal Complexity and Maximum Impact for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unveiling-the-secrets-of-popularity-a-guide-to-15-best-opener-plans/"><u>[New] Unveiling the Secrets of Popularity A Guide to 15 Best Opener Plans</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/counterview-commentary-review-for-2024/"><u>CounterView Commentary Review for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gratis-mp4-versie-naar-wma-omzetten-onlinelastige-oplossing-met-movavi/"><u>Gratis MP4-Versie Naar WMA Omzetten - Onlinelastige Oplossing Met Movavi</u></a></li>
-<li><a href="https://media-tips.techidaily.com/leading-wav-encoders-simplify-your-audio-file-conversion-from-amraaccdampegmov-to-wav/"><u>Leading WAV Encoders: Simplify Your Audio File Conversion - From AMR/AAC/CDA/MPEG/MOV to WAV</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/metaverse-laughs-crafting-funny-virtual-memes-for-2024/"><u>Metaverse Laughs Crafting Funny Virtual Memes for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/restore-your-lost-iphone-notes-a-step-by-step-guide/"><u>Restore Your Lost iPhone Notes: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-top-5-key-discovery-solutions-of-the-year-2024/"><u>The Top 5 Key Discovery Solutions of the Year 2024</u></a></li>
-<li><a href="https://techidaily.com/update-hardware-drivers-with-device-manager-in-windows-11107-by-drivereasy-guide/"><u>Update hardware drivers with Device Manager in Windows 11/10/7</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-effortless-mp4-video-tagging-top-editor-recommendations/"><u>Updated 2024 Approved Effortless MP4 Video Tagging Top Editor Recommendations</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-create-stunning-animations-on-the-go-top-mobile-apps-for-2024/"><u>Updated Create Stunning Animations On-the-Go Top Mobile Apps for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-a-beginners-guide-to-video-editing-on-mac-create-stunning-movies/"><u>Updated In 2024, A Beginners Guide to Video Editing on Mac Create Stunning Movies</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-filmora-13-download-free-unleash-your-creativity/"><u>Updated In 2024, Filmora 13 Download Free Unleash Your Creativity</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-pip-like-a-pro-mastering-picture-in-picture-video-editing-in-final-cut-pro/"><u>Updated In 2024, PiP Like a Pro Mastering Picture-in-Picture Video Editing in Final Cut Pro</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-leading-list-of-16-youtube-openers-for-audience-expansion/"><u>[New] In 2024, Leading List of 16 YouTube Openers for Audience Expansion</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-the-most-reliable-zero-price-online-photo-editors-guide/"><u>[Updated] 2024 Approved The Most Reliable Zero-Price Online Photo Editors Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-streamline-marketing-with-top-rated-video-tags-generators/"><u>[Updated] In 2024, Streamline Marketing with Top-Rated Video Tags Generators</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-capture-the-action-the-fastest-most-effective-home-filmmaking-tricks/"><u>2024 Approved Capture the Action The Fastest, Most Effective Home Filmmaking Tricks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-choreographing-content-and-music-in-powerpoint/"><u>2024 Approved Choreographing Content and Music in PowerPoint</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-tutorial-setting-up-shared-folders-on-your-mac/"><u>Complete Tutorial: Setting Up Shared Folders on Your Mac</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-expert-ff-video-extractor-kit-efficient-file-grabbing-firefox-compatibility/"><u>In 2024, Expert FF Video Extractor Kit Efficient File Grabbing, Firefox Compatibility</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-transform-your-canon-footage-advanced-video-editing-software-and-strategies/"><u>In 2024, Transform Your Canon Footage Advanced Video Editing Software and Strategies</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-extracting-still-moments-top-10-video-to-photo-converters/"><u>New 2024 Approved Extracting Still Moments Top 10 Video to Photo Converters</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-slow-and-steady-wins-the-game-top-10-video-players/"><u>New 2024 Approved Slow and Steady Wins the Game Top 10 Video Players</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-adobe-premiere-pro-the-complete-guide-to-importing-and-exporting-videos-for-2024/"><u>New Adobe Premiere Pro The Complete Guide to Importing and Exporting Videos for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-create-stunning-3d-videos-top-free-and-paid-makers-for-2024/"><u>New Create Stunning 3D Videos Top Free and Paid Makers for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-music-making-software-the-top-10-picks/"><u>New In 2024, Free Music Making Software The Top 10 Picks</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-how-to-create-a-video-slideshow-with-final-cut-pro/"><u>New In 2024, How to Create a Video Slideshow with Final Cut Pro</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-maximize-your-fcpx-experience-10-free-plugins-to-try/"><u>New In 2024, Maximize Your FCPX Experience 10 Free Plugins to Try</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-art-of-condensation-editing-youtube-video-durations/"><u>The Art of Condensation Editing YouTube Video Durations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/utilizing-picture-in-picture-feature-effectively-on-android-devices/"><u>Utilizing Picture-in-Picture Feature Effectively on Android Devices</u></a></li>
 </ul></div>
 

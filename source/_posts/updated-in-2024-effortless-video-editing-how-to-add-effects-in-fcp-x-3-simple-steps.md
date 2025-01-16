@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Effortless Video Editing How to Add Effects in FCP X (3 Simple Steps)
-date: 2024-12-19T07:16:40.065Z
-updated: 2024-12-25T04:18:53.046Z
+date: 2025-01-15T01:37:42.620Z
+updated: 2025-01-16T02:15:44.541Z
 tags: 
   - video editing software
   - video editing
@@ -36,10 +36,6 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Apply Effects to Video in Final Cut Pro X
 
 * [Find and apply an effect](#part1)
@@ -58,7 +54,7 @@ To apply an effect, first select the clip in the Timeline.
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx002.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
@@ -68,6 +64,10 @@ Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx004.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here, for example, I've selected the Blur category, with my cursor near the Gaussian blur effect. (Gaussian blur is the best effect to use when you want a clip to look blurry.)
 
@@ -82,6 +82,10 @@ To modify an effect, click this icon in the Toolbar to open the Inspector (or ty
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx005.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Click the Video tab in the Inspector. Effects from the Effects Browser are always listed at the top of the Inspector.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx006.jpg "add effects in fcp")
@@ -90,10 +94,6 @@ Grab a slider and drag it to see what happens. For example, to make an image blu
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx007.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Disable and delete an effect
 
 To temporarily disable an effect, without deleting it, click the blue box so that it turns gray.
@@ -101,7 +101,7 @@ To temporarily disable an effect, without deleting it, click the blue box so tha
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx008.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To enable an effect, click the gray box so it turns blue again.
@@ -109,6 +109,10 @@ To enable an effect, click the gray box so it turns blue again.
 To delete an effect, click the name of the effect - in this example: Gaussian - and press the big Delete key.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx009.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The effect will be deleted from the selected clip.
 
@@ -121,10 +125,6 @@ You can apply, modify, even delete the same effect to multiple clips by first se
 The process of applying effects is the same for all effects you apply from the Effects Browser. In future articles I'll show you how to use this technique to create a wide variety of different effects in Final Cut Pro X.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -141,22 +141,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-transforming-your-iphone-footage-into-vr/"><u>[New] 2024 Approved Transforming Your iPhone Footage Into VR</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-elevate-the-visual-appeal-of-your-video-credits/"><u>[Updated] 2024 Approved Elevate the Visual Appeal of Your Video Credits</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-snap-shooting-techniques-for-zoom-calls/"><u>[Updated] Snap Shooting Techniques for Zoom Calls</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/best-free-luts-to-use-in-shotcut/"><u>Best Free LUTs To Use in Shotcut</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-iphone-13-pro-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From iPhone 13 Pro? Complete Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/how-to-save-your-video-tweets-as-high-quality-mp3-files/"><u>How to Save Your Video Tweets as High-Quality MP3 Files</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-fusing-cinematics-with-soundtracks-innovations-and-tips/"><u>New 2024 Approved Fusing Cinematics with Soundtracks Innovations and Tips</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-unlock-minitool-movie-makers-full-potential-tips-tricks-and-alternatives-for-2024/"><u>New Unlock Minitool Movie Makers Full Potential Tips, Tricks, and Alternatives for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-and-effective-methods-to-configure-dns-in-win11/"><u>Quick and Effective Methods to Configure DNS in Win11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-installing-universal-color-pickers-on-windows-11/"><u>Step-by-Step Guide: Installing Universal Color Pickers on Windows 11</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-free-video-stabilization-made-easy-top-8-online-tools-and-tutorials-for-2024/"><u>Updated Free Video Stabilization Made Easy Top 8 Online Tools and Tutorials for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-get-noticed-by-recruiters-the-best-video-resume-creation-tools-free-templates/"><u>Updated In 2024, Get Noticed by Recruiters The Best Video Resume Creation Tools Free Templates</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-looking-beyond-sony-vegas-top-video-editing-software-for-windows-users/"><u>Updated In 2024, Looking Beyond Sony Vegas Top Video Editing Software for Windows Users</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-quik-but-not-limited-a-review-of-gopros-video-editor-and-pc-based-options/"><u>Updated In 2024, Quik, But Not Limited A Review of GoPros Video Editor and PC-Based Options</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-make-them-laugh-best-video-dubbing-apps-for-comedy-and-entertainment-for-2024/"><u>Updated Make Them Laugh Best Video Dubbing Apps for Comedy and Entertainment for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-streamline-your-edit-efficient-color-matching-techniques-for-final-cut-pro-users/"><u>Updated Streamline Your Edit Efficient Color Matching Techniques for Final Cut Pro Users</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-unleash-your-creativity-avi-editor-for-windows-8-with-advanced-features-for-2024/"><u>Updated Unleash Your Creativity AVI Editor for Windows 8 with Advanced Features for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-deciphering-disguised-dialogues-with-youtube-viewers/"><u>[New] 2024 Approved Deciphering Disguised Dialogues with YouTube Viewers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-effective-legal-strategies-for-content-visibility/"><u>[New] In 2024, Effective, Legal Strategies for Content Visibility</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-stop-misplaced-story-tags-on-facebook/"><u>[New] In 2024, Stop Misplaced Story Tags on Facebook</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-leveraging-youtube-insights-for-content-growth/"><u>[Updated] 2024 Approved Leveraging YouTube Insights for Content Growth</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-ensuring-tiktok-authenticity-pre-upload-rights-confirmation/"><u>[Updated] In 2024, Ensuring TikTok Authenticity Pre-Upload Rights Confirmation</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-from-filer-to-fanfare-transmitting-videos-across-services/"><u>[Updated] In 2024, From Filer to Fanfare Transmitting Videos Across Services</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-still-to-story-the-art-of-adding-text-to-photos-os-style/"><u>2024 Approved From Still to Story The Art of Adding Text to Photos, OS Style</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-vivo-x100-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Vivo X100 FRP Without Computer</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-edit-flv-videos-on-windows-8-with-ease-a-beginner-friendly-editor-for-2024/"><u>New Edit FLV Videos on Windows 8 with Ease A Beginner-Friendly Editor for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-and-fabulous-20-adobe-premiere-intro-templates/"><u>New In 2024, Free and Fabulous 20 Adobe Premiere Intro Templates</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-fun-ahead-top-10-game-download-sites-for-pc-android-and-beyond/"><u>New In 2024, Free Fun Ahead Top 10 Game Download Sites for PC, Android, and Beyond</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-to-download-top-rated-3d-animation-apps-for-mobile-devices/"><u>New In 2024, Free to Download Top-Rated 3D Animation Apps for Mobile Devices</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-protect-your-creative-assets-a-quick-guide-to-saving-fcp-projects/"><u>New In 2024, Protect Your Creative Assets A Quick Guide to Saving FCP Projects</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-list-10-best-free-green-screen-apps-for-mobile-phones/"><u>New In 2024, The Ultimate List 10 Best Free Green Screen Apps for Mobile Phones</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Say Goodbye to Blemishes FCPX Skin Smoothing Without Plugins for 2024
-date: 2025-01-09T02:28:04.633Z
-updated: 2025-01-09T19:27:15.165Z
+date: 2025-01-12T20:01:01.683Z
+updated: 2025-01-15T16:35:13.551Z
 tags: 
   - video editing software
   - video editing
@@ -46,6 +46,10 @@ step1Choose the starting image and edit the clip into the timeline. Press Option
 
 ![Skin_Smoother_Effect_1](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 step2Open the Inspector pan and select Compositing from its bottom. Switch the Blend Mode to Lighten and adjust the Opacity slider as per your desired glow. Usually, 40 to 45% is ideal.
 
 ![Skin_Smoother_Effect_2](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_2.jpg)
@@ -55,10 +59,6 @@ step3Now, go to the top of the Inspector and turn on the blue checkbox next to G
 ![Skin_Smoother_Effect_3](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_3.jpg)
 
 For better results, add a Vignette by selecting and combining the two clips into a Compound Clip. From the Effects Browser, select Stylize > Vignette and adjust drag the vignette. Now, customize the compound clip settings in the Inspector pane until you achieve your desired look. Compare the results between two images before and after editing
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: Where to Find Good Skin Smoother Plugins?
 
@@ -85,7 +85,7 @@ Color Finale is a user-friendly, fine-tuned, and fully-featured professional ski
 ![color-finale-2](https://images.wondershare.com/filmora/article-images/top-10-free-fcpx-plugins-color-finale-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Price:** $152
@@ -112,10 +112,6 @@ A comprehensive FCP tool with 89 individual plugins to apply the next-generation
 * A variety of cool presents and text generators; and
 * Number counters, chromatic aberration, VHS looks, camera shake, glitch effects.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: How to adopt Skin Smoothing Plugins into FCPX?
 
 Follow these steps to use the Skin Smooth 2 Plugin for Final Cut Pro X:
@@ -128,7 +124,7 @@ Follow these steps to use the Skin Smooth 2 Plugin for Final Cut Pro X:
 5. Finally, click on Add Shape Mask, two circles will appear on the image. Adjust the covering area of both circles for Shape Mask 1 to add a smiling face.![Skin_Smoother_Effect_7](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_7.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: How to Smooth Skin in Filmora?
@@ -137,6 +133,10 @@ Wondershare Filmora features advanced tuning tools and a variety of video filter
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Open Filmora, open New Project and click Import to load your videos to the timeline.
 2. Double click on the video to open the editing window. Open the Color panel and adjust parameters according to your preference such as white balance, tone, and 3D LUT, etc.
 3. Open the toolbar, click the Advanced Color Tuning icon, go to the advanced color tuning window, and adjust the white balance, color tint and temperature, HSL, 3D LUT, Vignette, and Light. If you are a beginner, try applying the present templates.
@@ -144,7 +144,7 @@ Wondershare Filmora features advanced tuning tools and a variety of video filter
 5. Open Effects and Transitions and select the skin smooth filter. Hover the cursor over the filter and click the plus icon in the middle to add that effect. You can also apply the effect to the whole clip by dragging and dropping it directly onto the video clip.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 5: How to smooth skin in Adobe Pro?
@@ -182,15 +182,19 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-beyond-basics-tips-for-effective-qanda-sticker-usage-on-instagram/"><u>[New] Beyond Basics Tips for Effective Q&A Sticker Usage on Instagram</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-miniature-asian-houses-innovative-designs-for-mcers-for-2024/"><u>[New] Miniature Asian Houses Innovative Designs for MCers for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-oppo-reno-11f-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/rotate-your-videos-with-ease-10-top-online-tools-for-2024/"><u>Rotate Your Videos with Ease 10 Top Online Tools for 2024</u></a></li>
-<li><a href="https://win-tips.techidaily.com/step-by-step-guide-converting-and-saving-ifeng-streaming-content-in-multiple-video-formats/"><u>Step-by-Step Guide: Converting and Saving Ifeng Streaming Content in Multiple Video Formats</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-ai-weak-points-the-art-and-science-of-prompt-injection-attacks/"><u>Unveiling AI Weak Points: The Art and Science of Prompt Injection Attacks</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-efficient-sound-management-cutting-down-video-audio-in-imovie-across-mac-and-iphone/"><u>Updated 2024 Approved Efficient Sound Management Cutting Down Video Audio in iMovie Across Mac and iPhone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-make-stunning-videos-microsoft-video-editor-tips-and-tricks-for-windows/"><u>Updated Make Stunning Videos Microsoft Video Editor Tips and Tricks for Windows</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-mkvtoolnix-for-mac-an-easy-editing-application-for-all-mac-users/"><u>Updated MKVtoolnix for Mac An Easy Editing Application for All Mac Users</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-mp4-tag-editor-reviews-top-picks-for-windows-and-mac-users/"><u>Updated MP4 Tag Editor Reviews Top Picks for Windows and Mac Users</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-immediate-image-revamp-the-six-top-iphone-object-removal-apps-for-2024/"><u>[Updated] Immediate Image Revamp The Six Top iPhone Object-Removal Apps for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-gain-traction-in-the-digital-sphere-explore-the-quintessential-five-youtube-tactics/"><u>[Updated] In 2024, Gain Traction in the Digital Sphere - Explore the Quintessential Five YouTube Tactics</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-framefusion-media-suite/"><u>2024 Approved FrameFusion Media Suite</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/from-concept-to-screen-channel-yt-for-pioneering-filmmaking-techniques-for-2024/"><u>From Concept to Screen Channel YT for Pioneering Filmmaking Techniques for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-premium-psd-aesthetic-optimization/"><u>In 2024, Premium PSD Aesthetic Optimization</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-hidden-details-roblox-closeup-secrets/"><u>In 2024, Unlocking Hidden Details Roblox Closeup Secrets</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-audio-post-production-in-fcp-tips-and-tricks/"><u>New 2024 Approved Audio Post-Production in FCP Tips and Tricks</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-online-video-editing-for-free-the-top-options-compared/"><u>New 2024 Approved Online Video Editing for Free The Top Options Compared</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unlocking-fcpx-advanced-freeze-frame-and-slow-motion-techniques/"><u>New 2024 Approved Unlocking FCPX Advanced Freeze Frame and Slow Motion Techniques</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-video-editors-paradise-10-essential-software-solutions/"><u>New 2024 Approved Video Editors Paradise 10 Essential Software Solutions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-face-swap-frenzy-the-top-rated-apps-for-iphone-and-android-this-year-for-2024/"><u>New Face Swap Frenzy The Top-Rated Apps for iPhone and Android This Year for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-final-cut-pro-x-essentials-adding-and-customizing-titles-for-2024/"><u>New Final Cut Pro X Essentials Adding and Customizing Titles for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/troubleshooting-automatic-vmware-reboots-tips-for-stability-and-continuity/"><u>Troubleshooting Automatic VMware Reboots: Tips for Stability and Continuity</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-secure-storage-unchanging-file-locations-post-restart/"><u>Windows 11 Secure Storage: Unchanging File Locations Post Restart</u></a></li>
 </ul></div>
 

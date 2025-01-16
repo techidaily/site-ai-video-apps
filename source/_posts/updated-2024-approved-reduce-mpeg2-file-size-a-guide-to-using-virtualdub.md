@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Reduce MPEG2 File Size A Guide to Using VirtualDub
-date: 2025-01-04T01:52:57.279Z
-updated: 2025-01-09T23:35:45.270Z
+date: 2025-01-09T21:47:57.052Z
+updated: 2025-01-16T03:24:23.221Z
 tags: 
   - video editing software
   - video editing
@@ -35,7 +35,7 @@ You could [download VirtualDub MPEG-2](http://www.videohelp.com/download/Virtual
 VirtualDub-MPEG2 is designed to work with mpeg2 video, such as Digital TV shows, un-encrypted DVD files (\*.vob) and these video files are usually in big size. Now you can compress them using VirtualDub MPEG-2.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 1: Set Up Video Compression
@@ -49,7 +49,7 @@ As shown above, select the XVID MPEG-4 codec and click Configure button to make 
 ![virtualdub mepg2 tutorial](https://images.wondershare.com/topic/video-editing/virtualdub-mpeg2-compress.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note**: If Compression is disable, switch to Full processing mode first in the Video menu.
@@ -59,7 +59,7 @@ As shown above, select the XVID MPEG-4 codec and click Configure button to make 
 Audio compression setup is similar to video compression, go to Audio/Full processing mode, and again Audio/Compression to open the dialog, where MPEG Layer-3 is recommended.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 3: Start Compressing
@@ -71,10 +71,6 @@ Now it's the time to start processing your video, here is how:
 3. Select where you want to save the AVI and name it.
 4. Click Save.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 The VirtualDub MPEG-2 needs some time to compress your video. The larger the video file is, the longer. But VirtualDub MPEG2 is a fast video processing software. Take a cup of coffee and relax. Once finished, use your favorite video player to see the compressing result.
@@ -84,10 +80,14 @@ If you don't like VirtualDub MPEG-2 and would like to find some more powerful ed
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -104,19 +104,15 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-list-complimentary-3d-text-psds/"><u>[New] The Ultimate List Complimentary 3D Text PSDs</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-13-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 13 Pro Max/iPad | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-fixes-for-errors-related-to-gsdll32dll-not-foundmissing/"><u>Comprehensive Fixes for Errors Related to gsdll32.dll Not Found/Missing</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Oppo Find X6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Oppo Reno 11F 5G? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/is-ios-17-a-significant-improvement-over-the-previous-version/"><u>Is iOS 17 a Significant Improvement Over the Previous Version?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/phone-upgrading-strategy-how-frequent-should-you-switch-to-new-tech/"><u>Phone Upgrading Strategy: How Frequent Should You Switch to New Tech?</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-sony-camcorder-video-post-production-made-easy-a-beginners-guide/"><u>Updated 2024 Approved Sony Camcorder Video Post-Production Made Easy A Beginners Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-top-3d-video-creation-tools-you-need-to-try/"><u>Updated 2024 Approved Top 3D Video Creation Tools You Need to Try</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-discover-the-power-of-wax-a-free-video-editor-tutorial-for-2024/"><u>Updated Discover the Power of Wax A Free Video Editor Tutorial for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-from-ingest-to-delivery-mastering-video-import-and-export-in-adobe-premiere-for-2024/"><u>Updated From Ingest to Delivery Mastering Video Import and Export in Adobe Premiere for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-new-year-new-animations-10-top-rated-2d-software/"><u>Updated New Year, New Animations 10 Top-Rated 2D Software</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-transform-your-videos-into-cinematic-masterpieces-with-fcpx-for-2024/"><u>Updated Transform Your Videos Into Cinematic Masterpieces with FCPX for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-video-perfection-made-easy-the-top-10-free-online-stabilizers-you-need/"><u>Updated Video Perfection Made Easy The Top 10 Free Online Stabilizers You Need</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-craft-cinematic-magic-learn-green-screen-wonders-with-youtube/"><u>[New] In 2024, Craft Cinematic Magic Learn Green Screen Wonders with YouTube</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-dismantle-bots-elevate-youtube-watch-time/"><u>[Updated] 2024 Approved Dismantle Bots, Elevate YouTube Watch Time</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-movavi-pro-video-review-the-new-standard/"><u>2024 Approved Movavi Pro Video Review – The New Standard</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-downloads-qualcomm-network-adapter-driver-suite-for-latest-windows-os/"><u>Free Downloads: Qualcomm Network Adapter Driver Suite for Latest Windows OS</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/unlock-seamless-edits-3-effective-transition-strategies-in-final-cut-pro-for-2024/"><u>Unlock Seamless Edits 3 Effective Transition Strategies in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-art-of-dvd-creation-tips-and-tricks-for-amateur-filmmakers/"><u>Updated 2024 Approved The Art of DVD Creation Tips and Tricks for Amateur Filmmakers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-slow-mo-showdown-top-10-video-players-compared/"><u>Updated The Slow-Mo Showdown Top 10 Video Players Compared</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-trim-and-cut-mov-files-without-spending-a-dime/"><u>Updated Trim and Cut MOV Files without Spending a Dime</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/virtual-reality-of-genuine-ppc-games/"><u>Virtual Reality of Genuine PPC Games</u></a></li>
 </ul></div>
 

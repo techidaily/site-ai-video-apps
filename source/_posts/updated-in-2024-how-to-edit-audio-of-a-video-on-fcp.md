@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Edit Audio of a Video on FCP
-date: 2024-12-20T03:34:46.085Z
-updated: 2024-12-24T19:46:00.461Z
+date: 2025-01-15T02:29:46.238Z
+updated: 2025-01-15T17:18:19.680Z
 tags: 
   - video editing software
   - video editing
@@ -46,9 +46,17 @@ While dragging the audio or video clip onto the timeline you have surely seen th
 
 ![ Clip-level audio editing ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
 ![](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Related Article:** [How to fade in/out audio in Final Cut Pro >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -61,7 +69,7 @@ The audio of the video can be detached for editing the audio file separately. Th
 ![ The Audio Inspector ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
@@ -69,7 +77,7 @@ In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or
 ![ Detach audio ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** There is a fine difference between ‘Detach Audio’ and ‘Expand Audio’. In Expand Audio, the audio clip is synced with the video. For instance, while moving the audio to the timeline, the video clip would also go with it. In case of detaching audio however the audio file would remain as a standalone clip that can be inserted into any portion of the video.
@@ -82,7 +90,7 @@ The Audio Inspector would allow you to apply the following effects:
 ![ Audio Equalization ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
@@ -93,19 +101,11 @@ The Audio Inspector would allow you to apply the following effects:
 
 ![Effects](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Audio Configuration: The audio configuration tool would allow the user to modify the audio channel with mono, stereo, or reverse stereo.
 
 **Here's the video tutorial on how to edit audios in Final Cut Pro:**
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -122,20 +122,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exploring-advanced-gameplay-with-kinemaster-on-android/"><u>[New] Exploring Advanced Gameplay with KineMaster on Android</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ratis-design-elements-for-youtube-channel-for-2024/"><u>[New] Gratis Design Elements for YouTube Channel for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-maximize-engagement-with-proper-youtube-video-dimensions/"><u>[New] In 2024, Maximize Engagement with Proper YouTube Video Dimensions</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-stealth-instagram-story-viewing-guide-for-desktops-android-and-ios/"><u>[Updated] In 2024, Stealth Instagram Story Viewing Guide for Desktops, Android & iOS</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-boosting-views-a-guide-for-tiktok-unboxing-gurus/"><u>In 2024, Boosting Views A Guide for TikTok Unboxing Gurus</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-atandt-apple-iphone-11-pro-with-3-methods-by-drfone-ios/"><u>In 2024, How to Unlock AT&T Apple iPhone 11 Pro with 3 Methods</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-effortless-video-editing-on-windows-microsoft-video-editor-review-for-2024/"><u>New Effortless Video Editing on Windows Microsoft Video Editor Review for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-this-article-shows-the-detail-steps-to-create-a-chromakey-ie-greenscreen-effect-in-final-cut-pro-x/"><u>Updated 2024 Approved This Article Shows the Detail Steps to Create a Chromakey, I.e. Greenscreen Effect in Final Cut Pro X</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-top-10-video-rotation-tools-for-a-dynamic-online-presence/"><u>Updated 2024 Approved Top 10 Video Rotation Tools for a Dynamic Online Presence</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-unbiased-comparison-final-cut-pro-vs-lumafusion-for-video-post-production/"><u>Updated 2024 Approved Unbiased Comparison Final Cut Pro vs LumaFusion for Video Post-Production</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-ezvid-for-mac-create-slideshows-and-home-videos-easily-in-mac-os-for-2024/"><u>Updated Ezvid for Mac Create Slideshows and Home Videos Easily in Mac OS for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-free-quicktime-video-editing-software-top-10-choices-for-2024/"><u>Updated Free QuickTime Video Editing Software Top 10 Choices for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-save-big-on-final-cut-pro-explore-our-exclusive-education-offer/"><u>Updated In 2024, Save Big on Final Cut Pro Explore Our Exclusive Education Offer</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/web-based-video-teaser-creators-for-2024/"><u>Web-Based Video Teaser Creators for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-navigating-the-world-of-laughter-how-to-create-memes-on-9gag/"><u>[New] In 2024, Navigating the World of Laughter How to Create Memes on 9GAG</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/he-essential-guide-to-editing-youtube-videos-seamlessly-in-imovie/"><u>[New] The Essential Guide to Editing YouTube Videos Seamlessly in iMovie</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-enhance-creativity-with-these-top-6-instagram-reel-tools/"><u>2024 Approved Enhance Creativity with These Top 6 Instagram Reel Tools</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/custom-regional-chat-features-for-enhanced-engagement/"><u>Custom Regional Chat Features for Enhanced Engagement</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/free-online-conversion-of-nsv-wmv-files-moveavi/"><u>Free Online Conversion of NSV WMV Files - MoveAVI</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Vivo X90S? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-snap-up-engagement-streamlined-methods-for-crop-and-export-to-instagram/"><u>In 2024, Snap Up Engagement Streamlined Methods for Crop & Export to Instagram</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-5-best-free-solutions-to-merge-mpeg-files/"><u>New 2024 Approved 5 Best Free Solutions to Merge MPEG Files</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-adjusting-video-playback-speed-in-quicktime-a-beginners-guide/"><u>New 2024 Approved Adjusting Video Playback Speed in QuickTime A Beginners Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-crack-free-and-worry-free-how-to-get-filmora-for-free-legally/"><u>New 2024 Approved Crack-Free and Worry-Free How to Get Filmora for Free Legally</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-final-cut-pro-for-less-take-advantage-of-education-pricing/"><u>New 2024 Approved Final Cut Pro for Less Take Advantage of Education Pricing</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-video-editing-learn-to-blur-videos-online-in-minutes/"><u>New 2024 Approved Free Video Editing Learn to Blur Videos Online in Minutes</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-iphone-video-rotation-made-simple-top-5-free-apps/"><u>New In 2024, IPhone Video Rotation Made Simple Top 5 Free Apps</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-online-webm-video-optimization-tools-for-smaller-files/"><u>New In 2024, Online WebM Video Optimization Tools for Smaller Files</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-best-free-wmv-video-merging-solutions/"><u>New In 2024, The Best Free WMV Video Merging Solutions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-quality-fitness-tracking-at-great-value-inside-look-at-the-fitbit-versa-lite/"><u>Top-Quality Fitness Tracking at Great Value: Inside Look at the Fitbit Versa Lite</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-resolving-wi-fi-connection-issues-on-your-surface-pro/"><u>Troubleshooting Steps: Resolving Wi-Fi Connection Issues on Your Surface Pro</u></a></li>
 </ul></div>
 

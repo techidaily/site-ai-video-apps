@@ -1,7 +1,7 @@
 ---
 title: Updated FCPX Audio Editing Essentials L-Cuts, J-Cuts, and More for 2024
-date: 2025-01-02T18:41:50.663Z
-updated: 2025-01-10T01:15:26.436Z
+date: 2025-01-11T03:15:17.768Z
+updated: 2025-01-16T02:20:08.280Z
 tags: 
   - video editing software
   - video editing
@@ -29,7 +29,7 @@ If you wish to edit or create videos like a pro, you do not need to be a profess
 It could be surprising, but yes, your well-known Final Cut Pro X has this powerful feature still overlooked by many people. So, today, we take it on hand and shall share what L-Cuts and J-Cuts mean. You will be able to create it on your own by the end of this article.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: The Use of L-Cuts and J-Cuts in Video Editing
@@ -43,7 +43,7 @@ When you look at the above interface, you will see the basic phenomenon behind t
 Then, **what is a J cut in Final Cut Pro**? It is ultimately reverse or opposite of L-Cuts. Yes, the second clip's audio starts a while before the scene of the first video ends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Step-by-step Guide on Using L-Cuts and J-Cuts in Final Cut Pro X
@@ -77,7 +77,7 @@ In the case of Final Cut Pro **J-Cuts**, the process is reverse, where you need 
 When you look at the transition closely, you can see that it resembles the letter J.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Final Cut Pro X Keyboard Shortcuts for L-Cuts and J-Cuts
@@ -103,7 +103,7 @@ Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts a
 * Using timecode to add or subtract the present edit: press the “**Plus (+)**” or “**Minus (-)**” key with the timecode duration.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -113,7 +113,7 @@ Are you wondering and puzzled that you are a popular Final Cut Pro X user but we
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -131,20 +131,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-revolutionizing-reality-best-vr-gadgets-today-for-2024/"><u>[Updated] Revolutionizing Reality Best VR Gadgets Today for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-enhancing-your-content-with-effortlessly-added-youtube-subtitles/"><u>2024 Approved Enhancing Your Content with Effortlessly Added YouTube Subtitles</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-infinix-hot-40-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Infinix Hot 40 FRP Bypass Instantly</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-300-risc-v-developers-laptop-by-chinese-tech-startup/"><u>Affordable $300 RISC-V Developer's Laptop by Chinese Tech Startup</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-add-captions-to-your-mkv-files-with-these-3-easy-methods/"><u>How to Add Captions to Your MKV Files with These 3 Easy Methods</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-uncover-and-revive-inaudible-fb-video-posts-the-ultimate-list-of-12-fixes/"><u>In 2024, Uncover & Revive Inaudible FB Video Posts – The Ultimate List of 12 Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/powershell-command-for-extracting-ip-and-mac-addresses/"><u>PowerShell Command for Extracting IP & MAC Addresses</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/psycho-social-signal-customization-ps-console-edition-for-2024/"><u>Psycho-Social Signal Customization PS Console Edition for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/sometimes-you-may-come-across-avidemux-no-sound-issue-after-exporting-the-project-want-to-find-a-solution-just-read-on-this-article-for-2024/"><u>Sometimes You May Come Across Avidemux No Sound Issue After Exporting the Project. Want to Find a Solution? Just Read on This Article for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/unleashing-the-power-of-color-in-final-cut-pro-for-2024/"><u>Unleashing the Power of Color in Final Cut Pro for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-best-of-the-web-10-free-online-video-compressors-with-no-downloads/"><u>Updated 2024 Approved The Best of the Web 10 Free Online Video Compressors with No Downloads</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-top-10-music-video-creators-for-stunning-visuals/"><u>Updated 2024 Approved Top 10 Music Video Creators for Stunning Visuals</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-s-leading-movie-trailer-creation-tools-for-mac-and-windows/"><u>Updated In 2024, S Leading Movie Trailer Creation Tools for Mac and Windows</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-mod-video-editing-without-the-cost-top-5-free-editors/"><u>Updated MOD Video Editing Without the Cost Top 5 Free Editors</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-transform-your-footage-a-beginners-guide-to-gopro-quik-editing-on-macbook-for-2024/"><u>Updated Transform Your Footage A Beginners Guide to GoPro Quik Editing on MacBook for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-hdr-tips-for-captivating-portrait-masterpieces-for-2024/"><u>[New] HDR Tips for Captivating Portrait Masterpieces for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-sensory-storytelling-crafting-engaging-food-videos/"><u>[New] Sensory Storytelling Crafting Engaging Food Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-insiders-edge-to-editing-your-look-back-story-for-2024/"><u>[Updated] The Insider's Edge to Editing Your Look Back Story for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-realme-v30-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-look-at-apples-latest-innovation-in-wearables-with-direct-audio-functionality-rumors-confirmed/"><u>Inside Look at Apple's Latest Innovation in Wearables with Direct Audio Functionality - Rumors Confirmed</u></a></li>
+<li><a href="https://article-files.techidaily.com/mastering-iphone-flipping-and-tilting-photos-perfectly-for-2024/"><u>Mastering iPhone Flipping & Tilting Photos Perfectly for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/swede-speak-simplified-phonetics-unleashed/"><u>Swede Speak Simplified: Phonetics Unleashed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-three-ai-assistants-face-off-which-provides-the-best-chatting-experience/"><u>Top Three AI Assistants Face-Off: Which Provides the Best Chatting Experience?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-internet-is-flooded-with-poorly-edited-videos-movies-and-photos-despite-the-huge-number-of-free-green-screen-apps-so-we-choose-the/"><u>Updated 2024 Approved The Internet Is Flooded with Poorly Edited Videos, Movies and Photos Despite the Huge Number of Free Green Screen Apps, so We Choose the Best Programs to Help You</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-unbiased-avs-video-editor-review-is-it-the-right-choice-for-you/"><u>Updated 2024 Approved Unbiased AVS Video Editor Review Is It the Right Choice for You?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-color-enhancement-essentials-for-final-cut-pro-users-for-2024/"><u>Updated Color Enhancement Essentials for Final Cut Pro Users for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-adobe-premiere-pro-for-mac-the-ultimate-pro-video-editing-tool/"><u>Updated In 2024, Adobe Premiere Pro for Mac The Ultimate Pro Video Editing Tool</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-say-goodbye-to-frustration-easy-filmora-discount-codes/"><u>Updated Say Goodbye to Frustration Easy Filmora Discount Codes</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-free-dailymotion-converter-tool-for-2024/"><u>Updated The Ultimate Free Dailymotion Converter Tool for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-guide-to-gopro-quik-for-pc-and-alternative-solutions/"><u>Updated The Ultimate Guide to GoPro Quik for PC and Alternative Solutions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-top-video-editing-apps-for-chromebook-users-for-2024/"><u>Updated Top Video Editing Apps for Chromebook Users for 2024</u></a></li>
 </ul></div>
 
