@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Final Cut Pro Tutorial Adding Picture-in-Picture Effects to Your Videos
-date: 2025-01-13T20:20:43.197Z
-updated: 2025-01-15T21:25:15.058Z
+date: 2025-01-19T17:14:31.079Z
+updated: 2025-01-21T19:47:53.786Z
 tags: 
   - video editing software
   - video editing
@@ -30,10 +30,6 @@ This tool can help you to use the picture-in-picture effect with ease. However, 
 
 The article below contains complete details about how to add PIP effects using Final Cut Pro. You will be glad to know that FCP also works with few integrated plugins that assist in the free picture in picture effect generation.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Create PIP Effect with FCP
 
 If you are ready with two videos and now want to bring them to the same screen then prefer to follow these simple steps:
@@ -44,10 +40,6 @@ The very first step that you need to follow for PIP effect generation using FCP 
 
 ![add pip video](https://images.wondershare.com/filmora/article-images/add-pip-videos-in-fcp.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Step 2: Add PIP videos
 
 It is time to choose the higher video clip so that the PIP effect can be applied. This task can be done either by using on-screen type controls available on the viewer or you can move ahead with transform controls available on the inspector.
@@ -56,11 +48,19 @@ Note that lower clips use to stay in the background in final results whereas upp
 
 ![transform button](https://images.wondershare.com/filmora/article-images/transform-button-in-fcp.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 3: Apply PIP effect
 
 As now you have added both videos on-screen now you have to select the higher video and then click over the rectangular transform button that is available on the lower-left corner of viewer screen. As soon as you make this selection, the icon will turn into blue color, and naturally 8 dots will appear around the selected image or video. Use any one of these dots for scaling your selection in asymmetrical order.
 
 ![adjust pip effect](https://images.wondershare.com/filmora/article-images/adjust-pip-effect-in-fcp.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 4: Adjust PIP Effect
 
@@ -75,10 +75,6 @@ Simply select the top clip and then hit Command + 4 to open the inspector. Now c
 
 ![precise adjustment](https://images.wondershare.com/filmora/article-images/precise-adjustment-in-fcp.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Step 6: Apply Cross- Dissolve
 
 * Now choose the leading edge of effect and use Command + T. It will immediately apply the default cross-dissolve option for starting clip.
@@ -87,10 +83,14 @@ Simply select the top clip and then hit Command + 4 to open the inspector. Now c
 ![dissolve effect](https://images.wondershare.com/filmora/article-images/dissolve-effect-in-fcp.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Check this video tutorial to know more details:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Picture in Picture Plug-ins for Final Cut Pro
 
@@ -109,7 +109,7 @@ ProPIP is the best choice for newscasting, commentaries, and many other applicat
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -127,22 +127,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-secure-extraction-of-audio-from-youtube-at-zero-cost/"><u>[New] In 2024, Secure Extraction of Audio From YouTube at Zero Cost</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-new-horizons-windows-11s-latest-advances/"><u>[New] New Horizons Windows 11'S Latest Advances</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-mastering-live-tv-is-vmix-or-wirecast-your-go-to-tool-in-2024/"><u>[Updated] Mastering LIVE TV Is VMix or Wirecast Your Go-To Tool, In 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-personalize-and-edit-iphone-ringtones-easily/"><u>[Updated] Personalize & Edit iPhone Ringtones Easily</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-starlight-moment-capture-analysis/"><u>[Updated] Starlight Moment Capture Analysis</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-achieving-vintage-looks-with-photoshop-distortions/"><u>2024 Approved Achieving Vintage Looks with Photoshop Distortions</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-vivo-y100a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/how-to-spot-and-solve-common-pc-mistakes-with-no-cost-tools-guided-by-experts-at-yl-computing/"><u>How To Spot And Solve Common PC Mistakes with No Cost Tools, Guided by Experts at YL Computing</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-xiaomi-civi-3-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Xiaomi Civi 3? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-video-rotation-made-easy-top-free-solutions-for-windows-mac-android-and-iphone/"><u>New Video Rotation Made Easy Top Free Solutions for Windows, Mac, Android, and iPhone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-windows-users-ditch-sony-vegas-try-these-awesome-alternatives/"><u>New Windows Users, Ditch Sony Vegas! Try These Awesome Alternatives</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-flip-and-rotate-avi-videos-for-free-best-tools/"><u>Updated 2024 Approved Flip and Rotate AVI Videos for Free Best Tools</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-voice-over-mastery-essential-fcp-recording-hacks/"><u>Updated 2024 Approved Voice Over Mastery Essential FCP Recording Hacks</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-discover-the-best-green-screen-software-for-your-mac-workflow-for-2024/"><u>Updated Discover the Best Green Screen Software for Your Mac Workflow for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-free-online-face-creation-the-top-generators-for-artificial-faces-for-2024/"><u>Updated Free Online Face Creation The Top Generators for Artificial Faces for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-slideshow-mastery-a-step-by-step-guide-to-final-cut-pro/"><u>Updated Slideshow Mastery A Step-by-Step Guide to Final Cut Pro</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-vn-video-editor-android-app-is-it-worth-downloading-for-2024/"><u>Updated VN Video Editor Android App Is It Worth Downloading for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-masterclass-in-eliminating-youtube-content/"><u>[New] 2024 Approved Masterclass in Eliminating YouTube Content</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-jest-jacket-picture-fabricator/"><u>[Updated] Jest Jacket Picture Fabricator</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-boosting-vfx-efficiency-with-free-lut-downloads/"><u>2024 Approved Boosting VFX Efficiency with FREE LUT Downloads</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypass-locked-steam-nine-effective-strategies-explored/"><u>Bypass Locked Steam: Nine Effective Strategies Explored</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-grasping-virtual-realitys-revolutionary-gear/"><u>In 2024, Grasping Virtual Reality's Revolutionary Gear</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-12-wildlife-wonders-for-your-android-device/"><u>In 2024, Top 12 Wildlife Wonders for Your Android Device</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/secure-your-information-with-expert-guides-on-data-destruction-by-cosmic-specialists/"><u>Secure Your Information with Expert Guides on Data Destruction by Cosmic Specialists</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-the-full-potential-of-high-dynamic-range-photos-using-lightroom/"><u>Unlocking the Full Potential of High Dynamic Range Photos Using Lightroom</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-list-of-online-vertical-video-editing-software/"><u>Updated 2024 Approved The Ultimate List of Online Vertical Video Editing Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-no-cost-high-reward-top-10-free-online-video-quality-enhancement-tools-for-2024/"><u>Updated No Cost, High Reward Top 10 Free Online Video Quality Enhancement Tools for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-10-best-free-video-cutters-for-mp4-files/"><u>Updated The 10 Best Free Video Cutters for MP4 Files</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-top-windows-10-video-editing-programs-for-beginners/"><u>Updated Top Windows 10 Video Editing Programs for Beginners</u></a></li>
 </ul></div>
 

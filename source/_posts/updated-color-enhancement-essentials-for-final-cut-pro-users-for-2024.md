@@ -1,7 +1,7 @@
 ---
 title: Updated Color Enhancement Essentials for Final Cut Pro Users for 2024
-date: 2025-01-11T19:17:30.047Z
-updated: 2025-01-15T19:56:30.346Z
+date: 2025-01-17T04:23:03.476Z
+updated: 2025-01-22T06:43:25.138Z
 tags: 
   - video editing software
   - video editing
@@ -57,13 +57,13 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 ![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
 ![Effect Browser](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Choose **Window** and then click on **Go To**, you will find **Color Board** on the appeared drop-down menu.
 
@@ -73,19 +73,23 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 ![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
 ![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
 ![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Step 3
 
@@ -95,17 +99,9 @@ Now it is time to work on color correction directly. There are three types of co
 
 ![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
 ![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
@@ -117,12 +113,16 @@ It is possible to preview all the corrections on the original image before makin
 
 ![correction On and Off options](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-10.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Here's the video tutorial on how to correct color in Final Cut Pro:**
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -140,16 +140,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-optimal-earnings-scaling-your-youtube-channels-revenue-on-mobile-devices/"><u>[Updated] In 2024, Optimal Earnings Scaling Your YouTube Channel's Revenue on Mobile Devices</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-swift-strategies-for-instagram-reel-success/"><u>[Updated] In 2024, Swift Strategies for Instagram Reel Success</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-perfect-screen-capture-on-mac-the-top-5-recommended-approaches/"><u>2024 Approved Perfect Screen Capture on Mac The Top 5 Recommended Approaches</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-uncomplicated-technique-changing-vocal-pattern-in-winos/"><u>2024 Approved Uncomplicated Technique Changing Vocal Pattern in WinOS</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/blissful-bites-best-stress-busting-gaming-for-2024/"><u>Blissful Bites Best Stress-Busting Gaming for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-crack-the-code-4-easy-ways-to-get-filmora-discounts-and-promotions/"><u>New 2024 Approved Crack the Code 4 Easy Ways to Get Filmora Discounts and Promotions</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-create-professional-looking-animations-with-these-12-online-makers/"><u>New 2024 Approved Create Professional-Looking Animations with These 12 Online Makers</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-edit-like-a-pro-top-free-vob-video-editors/"><u>New 2024 Approved Edit Like a Pro Top Free VOB Video Editors</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-flv-video-editor-for-windows-8-a-comprehensive-review-for-2024/"><u>New FLV Video Editor for Windows 8 A Comprehensive Review for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solution-when-phone-app-shows-numbers-not-names-for-callers/"><u>Solution: When Phone App Shows Numbers Not Names for Callers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-airplay-connectivity-errors-for-uninterrupted-media-sharing/"><u>Solve AirPlay Connectivity Errors for Uninterrupted Media Sharing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-zoom-audio-production-comprehensive-tips-and-techniques-for-professionals-for-2024/"><u>[New] Mastering ZOOM Audio Production Comprehensive Tips and Techniques for Professionals for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-step-by-step-strategies-for-discord-video-streamers-for-2024/"><u>[New] Step-By-Step Strategies for Discord Video Streamers for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-assemble-films-for-streaming-organization/"><u>[Updated] 2024 Approved Assemble Films for Streaming Organization</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-strategies-for-bulk-tiktok-video-acquisition/"><u>[Updated] In 2024, Strategies for Bulk TikTok Video Acquisition</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-streamlining-presentations-webcam-recording-tips/"><u>[Updated] In 2024, Streamlining Presentations Webcam Recording Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dissecting-dji-flyer-x20-fpv-headset-capabilities/"><u>Dissecting DJi Flyer X20 FPV Headset Capabilities</u></a></li>
+<li><a href="https://win-guides.techidaily.com/how-to-clone-an-oem-installation-of-windows-7-to-a-solid-state-drive-ssd/"><u>How to Clone an OEM Installation of Windows 7 to a Solid State Drive (SSD)</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-the-ultimate-guide-to-exceptional-live-streamers/"><u>In 2024, The Ultimate Guide to Exceptional Live Streamers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-gopro-studio-replacement-best-video-editors-for-action-camera-footage/"><u>Updated 2024 Approved GoPro Studio Replacement Best Video Editors for Action Camera Footage</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-slow-down-and-freeze-advanced-fcpx-editing-techniques/"><u>Updated 2024 Approved Slow Down and Freeze Advanced FCPX Editing Techniques</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-best-free-vob-video-editing-software-for-beginners-for-2024/"><u>Updated Best Free VOB Video Editing Software for Beginners for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-create-epic-lip-syncs-top-rated-apps-for-android-and-ios-for-2024/"><u>Updated Create Epic Lip Syncs Top-Rated Apps for Android and iOS for 2024</u></a></li>
 </ul></div>
 

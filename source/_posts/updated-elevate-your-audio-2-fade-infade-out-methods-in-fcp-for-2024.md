@@ -1,7 +1,7 @@
 ---
 title: Updated Elevate Your Audio 2 Fade-In/Fade-Out Methods in FCP for 2024
-date: 2025-01-11T18:44:04.576Z
-updated: 2025-01-16T03:06:52.168Z
+date: 2025-01-19T16:46:10.120Z
+updated: 2025-01-21T18:11:11.680Z
 tags: 
   - video editing software
   - video editing
@@ -44,6 +44,10 @@ Before we get started, you can firstly detach the audio from video to better edi
 
 Check more articles here, if you are also interested in other [audio editing tips](https://tools.techidaily.com/wondershare/filmora/download/) in Final Cut Pro or want to know how to [record a voice over](https://tools.techidaily.com/wondershare/filmora/download/) with FCP.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Fade Audio by using the Modify Menu
 
 You can go to the **Modify** menu and easily apply fade-in or fade-outs to the audio clip you are editing. The Final Cut Pro preferences also allow you to adjust the fade duration.
@@ -51,10 +55,6 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 **Step 1** **:** First, you have to select the audio or the video clips with audio in the timeline.
 
 ![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
@@ -65,16 +65,12 @@ You should remember that the fades appear at the beginning and the end of each c
 ![Modify duration of fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3**: If you want to remove the fades, choose Modify > Adjust Volume > Remove Fades.
 
 See more details on how to fade audio in Final Cut Pro from the following video.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Fade Music by using Fade Handles
 
@@ -93,11 +89,7 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -105,6 +97,10 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -118,6 +114,10 @@ You can easily change the sound of your fades by modifying the default fade shap
 [](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -134,18 +134,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-revive-playstation-classics-the-5-best-android-emulation-software/"><u>[New] 2024 Approved Revive PlayStation Classics The 5 Best Android Emulation Software</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-beginners-pathway-to-livestreaming-on-facebook-and-mobile-devices/"><u>[New] In 2024, Beginner's Pathway to Livestreaming on Facebook and Mobile Devices</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-the-path-to-perfect-sims-video-sessions/"><u>[New] The Path to Perfect Sims Video Sessions</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-professional-photography-with-canons-complimentary-luts/"><u>[Updated] In 2024, Professional Photography with Canon's Complimentary LUTs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-complete-beginners-reference-to-final-cut-pro/"><u>2024 Approved Complete Beginner's Reference to Final Cut Pro</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-fullscreen-partnership-how-to-choose-an-mcn/"><u>2024 Approved Fullscreen Partnership How to Choose An MCN</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-motorola-razr-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-iphone-14-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your iPhone 14 and iPad</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-mac-video-trimming-made-easy-fast-and-efficient-methods/"><u>New 2024 Approved Mac Video Trimming Made Easy Fast and Efficient Methods</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-best-of-the-best-text-motion-tracking-software-2023/"><u>New 2024 Approved The Best of the Best Text Motion Tracking Software 2023</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-breathe-new-life-into-your-mac-how-to-clear-space-for-fcpx-and-more-for-2024/"><u>New Breathe New Life Into Your Mac How to Clear Space for FCPX and More for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-game-on-top-10plus-websites-for-free-game-downloads-for-2024/"><u>New Game On! Top 10+ Websites for Free Game Downloads for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-mov-file-editors-the-ultimate-2023-list/"><u>New In 2024, Free MOV File Editors The Ultimate 2023 List</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-add-dynamic-blur-to-images-a-photoshop-journey/"><u>[New] In 2024, Add Dynamic Blur to Images – A Photoshop Journey</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-masterful-phone-apps-altering-speech-patterns/"><u>[New] In 2024, Masterful Phone Apps Altering Speech Patterns</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-transformative-editing-experience-windows-photos-meets-story-remix/"><u>[New] Transformative Editing Experience Windows Photos Meets Story Remix</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-affordable-reliable-a-list-of-the-best-free-mobile-streamers/"><u>[Updated] Affordable, Reliable A List of the Best Free Mobile Streamers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-premium-video-recorder-for-cutting-edge-youtube-content/"><u>[Updated] In 2024, Premium Video Recorder for Cutting-Edge YouTube Content</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-prime-racing-game-selection-top-five-for-2024/"><u>[Updated] Prime Racing Game Selection Top Five for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nt-aesthetics-mastering-youtubes-beauty-landscape-for-2024/"><u>Elegant Aesthetics Mastering YouTube's Beauty Landscape for 2024</u></a></li>
+<li><a href="https://win-news.techidaily.com/get-your-free-video-jockey-clips-now-essential-download-for-enhancing-the-video-link-functionality-in-pioneer-deck-manager-v36-pdm/"><u>Get Your Free Video Jockey Clips Now! Essential Download for Enhancing the 'Video Link' Functionality in Pioneer Deck Manager v3.6 (PDM)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/the-best-of-the-best-top-5-online-stop-motion-creators-for-2024/"><u>The Best of the Best Top 5 Online Stop Motion Creators for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-merge-like-a-pro-the-top-5-free-online-video-editors/"><u>Updated In 2024, Merge Like a Pro The Top 5 Free Online Video Editors</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-ultimate-guide-to-vignette-apps-free-and-paid-options-for-ios-and-android/"><u>Updated In 2024, The Ultimate Guide to Vignette Apps Free and Paid Options for iOS and Android</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-transform-your-job-search-with-these-4-top-video-resume-makers-free/"><u>Updated In 2024, Transform Your Job Search with These 4 Top Video Resume Makers Free</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-mobile-media-mastery-best-mp4-to-mp3-converter-apps/"><u>Updated Mobile Media Mastery Best MP4 to MP3 Converter Apps</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-reverse-video-in-fcp-a-step-by-step-guide-for-beginners-for-2024/"><u>Updated Reverse Video in FCP A Step-by-Step Guide for Beginners for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-list-top-10-free-online-video-editors-with-no-watermark/"><u>Updated The Ultimate List Top 10 Free Online Video Editors with No Watermark</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: AceMagic Discloses Factory-Loaded Malicious Software Detected in Their Initial Production Line of Personalized Mini PCs
-date: 2025-01-14T16:54:03.145Z
-updated: 2025-01-15T18:44:21.474Z
+date: 2025-01-14T16:20:04.983Z
+updated: 2025-01-22T02:42:41.783Z
 tags:
   - desktop
 categories:
@@ -55,7 +55,7 @@ __Ayaneo Retro Mini PC AM01 Specification__
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -81,24 +81,24 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-efficiencyinusingyourwebcamforcapturing-for-2024/"><u>[New] EfficiencyInUsingYourWebcamForCapturing for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-from-visual-messages-to-verbal-understanding-find-the-best-21-tools/"><u>[New] From Visual Messages to Verbal Understanding Find the Best 21 Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-close-up-views-on-ms-teams/"><u>[New] Mastering Close-Up Views on MS Teams</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-top-tier-psd-artistry-tweaks-for-2024/"><u>[Updated] Top-Tier PSD Artistry Tweaks for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-transform-your-live-broadcasting-skills-using-dslr-on-personal-computers/"><u>[Updated] Transform Your Live Broadcasting Skills Using DSLR on Personal Computers</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/achieving-seamless-smoothness-blurring-conference-borders-for-2024/"><u>Achieving Seamless Smoothness Blurring Conference Borders for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-ditch-the-search-get-your-filmora-discount-code-here/"><u>New 2024 Approved Ditch the Search Get Your Filmora Discount Code Here</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-editing-gopro-videos-on-mac-best-practices-and-software/"><u>New 2024 Approved Editing GoPro Videos on Mac Best Practices and Software</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-fcpx-pro-tips-creating-dramatic-pauses-and-slow-mo-effects/"><u>New 2024 Approved FCPX Pro Tips Creating Dramatic Pauses and Slow-Mo Effects</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-s-leading-lego-animation-artists/"><u>New 2024 Approved S Leading Lego Animation Artists</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unlock-pro-quality-videos-gopro-quik-editing-on-macbook-made-simple/"><u>New 2024 Approved Unlock Pro-Quality Videos GoPro Quik Editing on MacBook Made Simple</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-get-animated-the-best-2d-software-for-creators-free-and-paid-for-2024/"><u>New Get Animated The Best 2D Software for Creators (Free and Paid) for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-discover-the-ultimate-video-editing-solution-for-windows-8/"><u>New In 2024, Discover the Ultimate Video Editing Solution for Windows 8</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-ditch-sony-vegas-find-a-better-video-editing-solution-for-your-windows-pc/"><u>New In 2024, Ditch Sony Vegas Find a Better Video Editing Solution for Your Windows PC</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-how-to-edit-videos-with-quicktime-on-mac-step-by-step-guide/"><u>New In 2024, How to Edit Videos with QuickTime on Mac Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/punpictures-pro-jestjokes-network-for-2024/"><u>PunPictures Pro JestJokes Network for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-3-best-free-video-converters-in-2019-for-mac-and-pc-convert-high-resolution-4k-to-hd/"><u>Top 3 Best Free Video Converters in 2019 for Mac & PC: Convert High-Resolution 4K to HD</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Which is the Best Fake GPS Joystick App On Apple iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-getting-your-vlogging-started-key-items-and-software/"><u>[New] 2024 Approved Getting Your Vlogging Started Key Items & Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-understanding-your-profit-revenue-per-thousand-from-youtubes-adsense-income/"><u>[New] Understanding Your Profit Revenue Per Thousand From YouTube's AdSense Income</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-samsung-galaxy-f04-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Samsung Galaxy F04 to Roku | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/comprehensive-huawei-p30-pro-assessment-my-continual-admiration/"><u>Comprehensive Huawei P30 Pro Assessment: My Continual Admiration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721955235580-discover-secure-chat-options-engage-with-duckduckgos-ai-including-chatgpt/"><u>Discover Secure Chat Options: Engage with DuckDuckGo’s AI, Including ChatGPT</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-xiaomi-redmi-note-13-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Xiaomi Redmi Note 13 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-11x-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Realme 11X 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y78plus-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y78+ Phone with Broken Screen</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo Y100A? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/speedy-setup-for-your-wi-fi-install-immediately-linksys-ae2500-router-drivers-available-now/"><u>Speedy Setup for Your Wi-Fi - [INSTALL IMMEDIATELY] Linksys AE2500 Router Drivers Available Now</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-take-your-videos-to-the-next-level-insider-video-editing-tips-and-tricks/"><u>Updated 2024 Approved Take Your Videos to the Next Level Insider Video Editing Tips and Tricks</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-discover-the-best-3d-animation-programs-free-trials-and-paid-favorites-for-2024/"><u>Updated Discover the Best 3D Animation Programs Free Trials and Paid Favorites for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-final-cut-pro-time-lapse-tutorial-create-stunning-videos-in-minutes/"><u>Updated In 2024, Final Cut Pro Time Lapse Tutorial Create Stunning Videos in Minutes</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-stabilize-your-footage-for-free-the-best-online-video-stabilizers/"><u>Updated In 2024, Stabilize Your Footage for Free The Best Online Video Stabilizers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-this-article-introduces-a-stylish-and-versatile-mp4-editor-for-windows-8-that-enables-you-to-create-hollywood-like-home-movies-with-titles-e/"><u>Updated In 2024, This Article Introduces a Stylish and Versatile MP4 Editor for Windows 8 that Enables You to Create Hollywood-Like Home Movies with Titles, Effects and Transitions Easily</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-no-more-wobbles-the-top-10-free-online-video-stabilizers-for-2024/"><u>Updated No More Wobbles The Top 10 Free Online Video Stabilizers for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-top-rated-free-dvd-players-for-windows-10-the-ultimate-guide-for-2024/"><u>Updated Top-Rated Free DVD Players for Windows 10 The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/vob-video-editing-on-a-budget-top-5-free-options-for-2024/"><u>VOB Video Editing on a Budget Top 5 Free Options for 2024</u></a></li>
 </ul></div>
 

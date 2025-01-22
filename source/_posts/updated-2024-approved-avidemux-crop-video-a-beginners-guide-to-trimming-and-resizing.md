@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Avidemux Crop Video A Beginners Guide to Trimming and Resizing
-date: 2025-01-12T20:37:08.146Z
-updated: 2025-01-16T03:28:45.737Z
+date: 2025-01-16T16:25:54.317Z
+updated: 2025-01-22T06:56:58.127Z
 tags: 
   - video editing software
   - video editing
@@ -34,10 +34,6 @@ If Avidemux is too complicate for you, you can consider [Wondershare Filmora](ht
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Crop a Video with Avidemux
 
 #### 1\. Installation
@@ -47,6 +43,10 @@ You can find [Avidemux for download here](http://fixounet.free.fr/avidemux/), it
 One point of note during installation is that you can choose which parts of the program you wish to install. It is a very small footprint and for the best performance it is wise to simply install everything.
 
 ![Installation2](https://images.wondershare.com/multimedia/installation2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once installed you will be presented with the program as seen here.
 
@@ -59,7 +59,7 @@ The next step is importing video. This can be done in two ways, by clicking the 
 ![Importing Video1](https://images.wondershare.com/multimedia/importing-video1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Whichever route you take, you will end up with your video file loaded in like this.
@@ -73,6 +73,10 @@ Now you can edit the video as you need, Avidemux contains a wealth of features t
 Avidemux has some idiosyncrasies in terms of operation, one of those is that to be able to edit any video, you have to choose your output format. Don’t worry though, this is easy, just use the dropdown at the side to choose the output format you want as can be seen here.
 
 ![Editing Video](https://images.wondershare.com/multimedia/editing-video.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once that is set you are free to start editing your footage.
 
@@ -92,9 +96,17 @@ There are two options for cropping, you can use the Auto crop feature, which wil
 
 ![Cropping controls1](https://images.wondershare.com/multimedia/cropping-controls1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can adjust this independently for all 4 edges as you wish.
 
 ![Cropping controls2](https://images.wondershare.com/multimedia/cropping-controls2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once you are happy with the crop, you click Ok and it takes you back to the familiar filter menu where you can use other components to perform more editing if you need.
 
@@ -104,13 +116,13 @@ One of the most common points of confusion with Avidemux comes at this point, as
 
 ![Saving the crop1](https://images.wondershare.com/multimedia/saving-the-crop1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Selecting this presents the familiar export dialogue and allows you to choose the name and destination of the file. Once that is done you click OK and you will see Avidemux processing your file and re-rendering it in this dialogue box.
 
 ![Saving the crop2](https://images.wondershare.com/multimedia/saving-the-crop2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 How long it takes will depend on a few factors, how many other effects have been added, how fast a processor your computer has, and how large and what resolution the video is. Format also plays a part in the process too, with some formats taking less time to encode than others. Once it has finished, you can view your video and see the crop in action.
 
@@ -126,21 +138,17 @@ Avidemux is a great piece of software, it lacks the polish of some of its commer
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 1**: Open a video that you want to edit. Go to “Import” and choose the file that you want to upload and put it in the Media Library.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-12.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2**: Select the "Crop and Zoom" icon in the Filmora editing tool.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3**: To alter the size of the crop frame, drag the pointer from any corner of your video preview window.
 
@@ -150,15 +158,7 @@ Avidemux is a great piece of software, it lacks the polish of some of its commer
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -175,24 +175,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-a-comprehensible-guide-to-instagrams-latest-updates/"><u>[New] 2024 Approved A Comprehensible Guide to Instagram's Latest Updates</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fast-track-to-1000-fans-through-captivating-content/"><u>[New] 2024 Approved Fast-Track To 1,000 Fans Through Captivating Content</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ccelerating-engagement-with-optimized-youtube-video-speeds/"><u>[New] Accelerating Engagement with Optimized YouTube Video Speeds</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-building-wealth-through-video-content-revenue/"><u>[New] Building Wealth Through Video Content Revenue</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-ultimate-video-streaming-channel-lists-films-and-series/"><u>[New] In 2024, Ultimate Video Streaming Channel Lists Films & Series</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-perfected-beats-on-the-go-no-cost-just-download-and-play/"><u>[Updated] In 2024, Perfected Beats on the Go - No Cost, Just Download and Play</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-solutions-when-your-iphone-charging-fails-a-comprehensive-guide/"><u>Effective Solutions When Your iPhone Charging Fails: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-picks-must-have-android-smartwatch-application-suites/"><u>Expert Picks: Must-Have Android Smartwatch Application Suites</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/in-2024-webm-to-mp3-conversion-made-easy-best-software-options/"><u>In 2024, WebM to MP3 Conversion Made Easy Best Software Options</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-google-plays-hottest-apps-editors-picks/"><u>New 2024 Approved Google Plays Hottest Apps Editors Picks</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-ultimate-showdown-final-cut-pro-takes-on-final-cut-express/"><u>New 2024 Approved The Ultimate Showdown Final Cut Pro Takes on Final Cut Express</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-best-stop-motion-apps-for-ios-and-android-devices-for-2024/"><u>New Best Stop Motion Apps for iOS and Android Devices for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-cartoonize-your-photos-instantly/"><u>New In 2024, Cartoonize Your Photos Instantly</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-divx-video-trimming-software-top-picks/"><u>New In 2024, Free Divx Video Trimming Software Top Picks</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-from-slow-to-fast-mastering-time-lapse-video-editing-in-final-cut-pro/"><u>New In 2024, From Slow to Fast Mastering Time Lapse Video Editing in Final Cut Pro</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-get-professional-results-for-free-8-online-video-stabilizers-you-need-to-try/"><u>New In 2024, Get Professional Results for Free 8 Online Video Stabilizers You Need to Try</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-mavericks-video-editing-essentials-a-step-by-step-guide/"><u>New In 2024, Mavericks Video Editing Essentials A Step-by-Step Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/tweet-titans-social-networks-10-most-shared-posts-for-2024/"><u>Tweet Titans Social Network’s 10 Most Shared Posts for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-here-we-are-going-to-show-you-the-best-effects-to-appear-on-camera-made-with-filmora/"><u>Updated 2024 Approved Here We Are Going to Show You the Best Effects to Appear on Camera Made with Filmora</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-tips-for-high-quality-vr-gametime-recordings/"><u>[New] Tips for High-Quality VR Gametime Recordings</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-explore-these-seven-sources-for-youtube-sound-effects/"><u>[Updated] Explore These Seven Sources for YouTube Sound Effects</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977729272-amd-radeon-pro-w5700-driver-fast-download-available-for-windows-users/"><u>AMD Radeon Pro W5700 Driver: Fast Download Available for Windows Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-experiences-testing-the-mistral-ais-le-chat-against-chatgpt/"><u>Comparing Experiences: Testing the Mistral AI's Le Chat Against ChatGPT</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/oader-essentials-the-best-tools-for-offline-viewing/"><u>Downloader Essentials The Best Tools For Offline Viewing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Infinix Note 30? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-smartphones-into-windows-11-webcam-streams/"><u>Integrating Smartphones Into Windows 11 Webcam Streams</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-weve-done-some-extensive-research-on-what-some-consider-to-be-the-best-professional-video-editing-software-that-is-currently-free-downloading-on-the-mar/"><u>New Weve Done some Extensive Research on What some Consider to Be the Best Professional Video Editing Software that Is Currently Free Downloading on the Market, and Were Here to Present What Weve Manag for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/the-top-10-stop-motion-animation-tools-you-need-to-know-for-2024/"><u>The Top 10 Stop Motion Animation Tools You Need to Know for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-ultimate-fix-for-a-broken-rockstar-games-launcher-tips-and-tricks/"><u>The Ultimate Fix for a Broken Rockstar Games Launcher - Tips and Tricks</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-mastering-avi-file-editing-easy-ways-to-trim-cut-and-split-videos-2023-update/"><u>Updated 2024 Approved Mastering AVI File Editing Easy Ways to Trim, Cut, and Split Videos (2023 Update)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-elevate-your-career-best-video-resume-makers-and-templates/"><u>Updated In 2024, Elevate Your Career Best Video Resume Makers and Templates</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-fast-track-your-videos-top-10-free-speed-changer-apps-for-iphone-and-android/"><u>Updated In 2024, Fast Track Your Videos Top 10 Free Speed Changer Apps for iPhone and Android</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-rotate-a-video-in-final-cut-pro-a-4-step-guide/"><u>Updated Rotate a Video in Final Cut Pro A 4-Step Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-sony-camcorder-video-editing-essentials-a-beginners-guide-to-pro-results-for-2024/"><u>Updated Sony Camcorder Video Editing Essentials A Beginners Guide to Pro Results for 2024</u></a></li>
 </ul></div>
 

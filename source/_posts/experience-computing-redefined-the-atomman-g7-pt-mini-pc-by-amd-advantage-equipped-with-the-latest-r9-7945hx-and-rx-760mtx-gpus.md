@@ -1,7 +1,7 @@
 ---
 title: "Experience Computing Redefined - The Atomman G7 PT Mini PC by AMD Advantage: Equipped with the Latest R9 7945HX and RX 760MTX GPUs"
-date: 2025-01-14T23:32:34.103Z
-updated: 2025-01-15T16:59:30.846Z
+date: 2025-01-19T22:08:30.822Z
+updated: 2025-01-21T20:23:45.191Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
  So, what happened? Did the static buildup short out the PC or something? Fortunately, nothing so mundane. Instead, the fan PC was tested at increasingly higher speeds until the[weighty cooler](https://www.tomshardware.com/news/noctua-fanless-cooler-enters-production) was violently flung from the PC in the last moments of the original video. No wonder Sodabaka hid behind a riot shield for much of the video demo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -62,16 +62,16 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-humor-hubs-the-most-enjoyable-ringtone-downloads/"><u>[New] Humor Hubs The Most Enjoyable Ringtone Downloads</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-revealing-the-invisible-an-organized-exploration-of-youtubes-secrets/"><u>[Updated] Revealing the Invisible An Organized Exploration of YouTube's Secrets</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-insiders-guide-to-youtube-money-minimum-video-views-needed-for-2024/"><u>[Updated] The Insider's Guide to YouTube Money Minimum Video Views Needed for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-your-life-your-legacy-youtube-videos-that-matter/"><u>[Updated] Your Life, Your Legacy YouTube Videos That Matter.</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/line-tools-to-retrieve-youtube-graphics-for-2024/"><u>10 Online Tools to Retrieve YouTube Graphics for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/elevated-engagement-awards-on-video-realms-for-2024/"><u>Elevated Engagement Awards on Video Realms for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-easily-animate-your-photos-the-9-best-online-tools/"><u>New 2024 Approved Easily Animate Your Photos The 9 Best Online Tools</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-best-video-collage-creators-for-iphone-and-ipad/"><u>New 2024 Approved The Best Video Collage Creators for iPhone and iPad</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-3d-animation-software-for-mobile-devices-free-to-download/"><u>New 2024 Approved Top 3D Animation Software for Mobile Devices (Free to Download)</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-windows-10-essentials-top-free-video-compressors/"><u>New 2024 Approved Windows 10 Essentials Top Free Video Compressors</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-from-fast-to-slow-a-comprehensive-guide-to-slow-motion-effects-in-windows-live-movie-maker-for-2024/"><u>New From Fast to Slow A Comprehensive Guide to Slow Motion Effects in Windows Live Movie Maker for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-analyzing-the-financial-gains-of-podcasting/"><u>[New] Analyzing the Financial Gains of Podcasting</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-frame-grabbers-companion/"><u>[New] Frame Grabber's Companion</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-iphone-and-androids-best-in-class-top-10-skin-modifiers-reviewed/"><u>2024 Approved IPhone & Android's Best in Class Top 10 Skin Modifiers Reviewed</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-12-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme 12 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-boost-visibility-with-these-20-best-thumbnail-fonts/"><u>In 2024, Boost Visibility with These 20 Best Thumbnail Fonts</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-the-urban-armor-gear-macbook-pro-carrier-tough-meets-functional-design/"><u>The Ultimate Guide to the Urban Armor Gear MacBook Pro Carrier – Tough Meets Functional Design.</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-joining-avi-videos-made-easy-top-10-free-avi-joiner-programs/"><u>Updated In 2024, Joining AVI Videos Made Easy Top 10 Free AVI Joiner Programs</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-tivo-or-comcast-the-ultimate-guide-to-choosing-the-best-dvr-for-your-needs/"><u>Updated In 2024, TiVo or Comcast The Ultimate Guide to Choosing the Best DVR for Your Needs</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-top-gopro-video-editors-alternatives-to-gopro-studio/"><u>Updated In 2024, Top GoPro Video Editors Alternatives to GoPro Studio</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-split-and-trim-mkv-files-best-free-tools-for-2024/"><u>Updated Split and Trim MKV Files Best Free Tools for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/whats-new-in-avs-video-editor-2023-a-comprehensive-review-and-guide-for-2024/"><u>Whats New in AVS Video Editor 2023? A Comprehensive Review and Guide for 2024</u></a></li>
 </ul></div>
 
