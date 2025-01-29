@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, FCPX Mastery Creating Professional-Looking Lower Thirds
-date: 2025-01-17T02:37:12.323Z
-updated: 2025-01-21T19:43:10.211Z
+date: 2025-01-24T20:04:14.174Z
+updated: 2025-01-29T17:53:18.606Z
 tags: 
   - video editing software
   - video editing
@@ -35,10 +35,6 @@ Here comes an enlightening discussion about the lower third modules in your vide
 > * [Part 3: How to make a lower third quickly in final cut pro X?\[3-step-guide\]](#part3)
 > * [Part 4: Where to find great lower thirds templates for final cut pro X?](#part3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part1: What is the lower third?**
 
 Are you aware of lower third elements? If you are a newbie video designer, then this article ignites you with reliable facts about it. The lower third module is a graphical element that takes the lower position of a video.
@@ -52,7 +48,7 @@ On a short note, you can define the lower third module as a piece of a graphical
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part2: What factors contribute to a good lower third?**
@@ -93,10 +89,6 @@ Proper alignment and the best coordinates on the screen make the lower third mod
 
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part3: How to make a lower third quickly in final cut pro X?**
 
 The Final Cut Pro X is a fabulous program to edit your videos professionally. Insert the desired elements and customize them quickly. To work on this platform, you do not require any special skills.
@@ -114,7 +106,7 @@ Features of Final Cut Pro X to design lower third module element
 ![final-cut-pro-x](https://images.wondershare.com/filmora/images/final-cut-pro/final-cut-pro-x.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In this section, you will learn to make a lower third element using a Final Cut Pro X tool. It is high to check out the steps in detail.
@@ -125,15 +117,15 @@ You can download the app and install them in your system. Launch the tool by dou
 
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2Step 2: Add the Title**
 
 In the home screen, import the video that requires the edits and then tap the ‘Titles’ tab at the left top of the screen. Click the ‘Build-in/Build-out’ option to custom the Title element. According to your needs, you can repeat it to insert the desired titles on the video screen.
 
 ![built-in-title](https://images.wondershare.com/filmora/images/final-cut-pro/built-in-title.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3Step 3: Customize the Title**
 
@@ -146,6 +138,10 @@ Use the above instructions, insert the lower third element in your video effortl
 For those who still need more guides about making lower thirds, this Filmora tutorial may help a lot.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
@@ -173,6 +169,10 @@ Display the texts promptly to enlighten the audience. Connect the texts to the t
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -188,16 +188,19 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-stand-out-on-youtube-with-these-20-top-font-choices/"><u>[Updated] 2024 Approved Stand Out on YouTube with These 20 Top Font Choices</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-iphone-landscape-mastery-tips-that-work-like-magic/"><u>[Updated] In 2024, IPhone Landscape Mastery Tips That Work Like Magic</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/affordable-internet-solutions-in-depth-look-at-the-tp-link-archer-c9-router/"><u>Affordable Internet Solutions: In-Depth Look at the TP-Link Archer C9 Router</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/explore-the-best-of-chatgpts-innovative-game-lineup/"><u>Explore: The Best of ChatGPT's Innovative Game Lineup</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/fine-tuning-your-linkedin-headline-for-2024/"><u>Fine-Tuning Your LinkedIn Headline for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-unleash-your-live-stream-potential-with-superior-webcam-tech/"><u>In 2024, Unleash Your Live Stream Potential with Superior Webcam Tech</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-iphone-14-plus-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock From your iPhone 14 Plus</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-visual-magic-how-to-create-stunning-video-effects-like-a-pro/"><u>New Visual Magic How to Create Stunning Video Effects Like a Pro</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-security-camera-solutions-top-picks-and-reviews/"><u>Updated 2024 Approved Free Security Camera Solutions Top Picks and Reviews</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-from-chrome-to-pro-running-professional-video-editing-software-on-your-chromebook-for-2024/"><u>Updated From Chrome to Pro Running Professional Video Editing Software on Your Chromebook for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-6-essential-video-dubbing-tools-for-pc-users-free-and-paid/"><u>Updated In 2024, 6 Essential Video Dubbing Tools for PC Users - Free and Paid</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-capturing-and-saving-your-favorite-facebook-stories-pcmobile/"><u>[Updated] In 2024, Capturing & Saving Your Favorite Facebook Stories (PC/Mobile)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-reinstate-your-airdrop-linkages-simple-fixes-for-iosmacos-issues/"><u>[Updated] Reinstate Your AirDrop Linkages Simple Fixes for iOS/macOS Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/amazing-find-the-most-reliable-alternative-to-appleankers-magsafe-wallet-just-went-on-sale-full-review-by-zdnet/"><u>Amazing Find! The Most Reliable Alternative to Apple/Anker's MagSafe Wallet Just Went on Sale – Full Review by ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-humor-in-ai-can-intelligent-systems-craft-comical-tales/"><u>Exploring Humor in AI: Can Intelligent Systems Craft Comical Tales?</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/guide-comparatif-de-sauvegarde-et-clonage-dhddssd-methodes-a-privilegier/"><u>Guide Comparatif De Sauvegarde Et Clonage D'HDD/SSD - Méthodes À Privilégier</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2019-has-stopped-working-error-by-stellar-guide/"><u>How to fix Microsoft Excel 2019 has stopped working error?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/marvels-spider-man-miles-morales-review/"><u>Marvel’s Spider-Man: Miles Morales Review</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-cut-trim-and-split-the-best-free-mpeg-video-editors/"><u>New 2024 Approved Cut, Trim, and Split The Best Free MPEG Video Editors</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-imovie-not-available-on-windows-10-try-these-excellent-alternatives-instead/"><u>New 2024 Approved IMovie Not Available on Windows 10? Try These Excellent Alternatives Instead</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-10-essential-animated-text-makers-for-unbeatable-engagement/"><u>New In 2024, 10 Essential Animated Text Makers for Unbeatable Engagement</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-final-cut-pro-the-industry-standard-for-a-reason/"><u>New In 2024, Final Cut Pro The Industry Standard for a Reason</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-safe-and-secure-top-10plus-websites-to-download-games-online/"><u>New In 2024, Safe and Secure Top 10+ Websites to Download Games Online</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-meta-quest-3-lite-insider-info-on-speculated-launch-dates-price-range-and-hardware-details-uncovered/"><u>Upcoming Meta Quest 3 Lite – Insider Info on Speculated Launch Dates, Price Range & Hardware Details Uncovered</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-how-to-make-an-emoji-of-yourself-on-android-and-iphone-emoji-yourself/"><u>Updated 2024 Approved How to Make an Emoji of Yourself on Android and iPhone Emoji Yourself</u></a></li>
 </ul></div>
 

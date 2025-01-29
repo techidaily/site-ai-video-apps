@@ -1,7 +1,7 @@
 ---
 title: New VHS-Inspired Video Editing Simplified Techniques for FCP
-date: 2025-01-15T21:23:40.482Z
-updated: 2025-01-21T16:27:43.968Z
+date: 2025-01-27T16:55:49.428Z
+updated: 2025-01-29T20:23:35.968Z
 tags: 
   - video editing software
   - video editing
@@ -36,6 +36,10 @@ A VHS effect is a textured, warped effect that looks like an outdated analog vid
 
 ![vhs_effect](https://images.wondershare.com/filmora/images/final-cut-pro/vhs_effect.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you want to know how to add VHS effect to your videos without any plugins in Final Cut Pro X, then follow these steps:
 
 Open Final Cut Pro and click on New Project.
@@ -44,25 +48,21 @@ Name your project as VHS effect in the Project Name section. Change the Video fo
 
 ![change_project_name_and_format_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/change_project_name_and_format_in_final_cut_pro.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Drag and drop your footage in the timeline of FCPX. After this, scale your project so that it fits the frame.
 
 Open the Effects, and in the search bar, type Add Noise. Select the Add Noise effect and drop it on your footage.
 
 ![add_noise_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/add_noise_in_final_cut_pro.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Go to the option Blend Mode and select Color Dodge. Now click on Type and select Gaussian Noise (Film Grain). In the Amount section, add the amount between 0.23-0.32.
 
 Now go back to the search bar and type Gaussian Blur. Select that and drop it to your footage in FCPX.
 
 ![add_guassian_blur_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/add_guassian_blur_in_final_cut_pro.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Go to the Gaussian settings and set the amount to roughly 2.0-3.0.
 
@@ -76,6 +76,10 @@ Now in the search bar type Bad TV effect. Select it and drop it on your footage 
 
 ![add_bad_tv_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/add_bad_tv_effect_in_final_cut_pro.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Set the amount of the effect to roughly around 8.0-9.0\. In the option, Static Type, select Gaussian Noise (Film Grain). Select Soft Light in Static Blend mode option.
 
 Now go to the search bar again and type Prism. Select the prism effect and drop it to your footage in Final Cut Pro. This will add some 3D effect to your footage.
@@ -88,19 +92,11 @@ Go back to the search bar and type Color Correction. Drag and drop this effect t
 
 ![color_correction_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/color_correction_in_final_cut_pro.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Click on Exposure and adjust the Highlights, Midtones, and Shadow. Go to the Saturation option and lower it. Now go to the Color and adjust the tint of your video by changing the Global option. Also, adjust the Highlights, Midtones, and Shadows. Wait for a few minutes for it to render.
 
 After your video is rendered, you will get the final results using the VHS filter in Final Cut Pro. Your video will look like it was made in a VCR Video format.
 
 ![final_result_of_vhs_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/final_result_of_vhs_effect_in_final_cut_pro.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part2: How to do VHS effect in easy steps?
 
@@ -114,6 +110,10 @@ To do VHS effects quickly, follow these steps:
 
 ![select_sample_color](https://images.wondershare.com/filmora/images/final-cut-pro/select_sample_color.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Open Wondershare Filmora on your device.
 * Go to the Media tab and select Sample Colors.
 * Select the Black Color.
@@ -125,7 +125,7 @@ To do VHS effects quickly, follow these steps:
 ![select_end_credits](https://images.wondershare.com/filmora/images/final-cut-pro/select_end_credits.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Go to Effect, and in the search bar, type **VHS**.
@@ -141,7 +141,7 @@ Go to Effect, and in the search bar, type **VHS**.
 ![add_vhs_distortion](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Drag and Place the VHS Rewind effect above the previous layer.
@@ -150,7 +150,7 @@ Go to Effect, and in the search bar, type **VHS**.
 ![add_vhs_rewind](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_rewind.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now search for the **Strong Glitch effect**.
@@ -169,6 +169,10 @@ Search for **Chromatic Aberration effect**.
 * Change its Alpha value to 60 and Fade to 0.05 and click Ok.
 
 ![add_chromatic_abberation](https://images.wondershare.com/filmora/images/final-cut-pro/add_chromatic_abberation.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now Search for **VCR Distortion** in the search bar.
 
@@ -223,10 +227,6 @@ The appearance and feel of your production may be significantly enhanced by usin
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -242,22 +242,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-prime-shopping-destinations-customizable-presents-with-flair/"><u>[Updated] In 2024, Prime Shopping Destinations Customizable Presents with Flair</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/download-the-latest-dex-361-public-beta-version-now-pcdj/"><u>Download the Latest DEX 3.6.1 Public Beta Version Now - PCDJ</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-asus-rog-phone-8-bootloader-easily-by-drfone-android/"><u>How to Unlock Asus ROG Phone 8 Bootloader Easily</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-seamless-integration-of-dvd-playback-on-your-system/"><u>In 2024, Seamless Integration of DVD Playback on Your System</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/iphone-data-recovery-without-backup-a-complete-guide/"><u>Iphone Data Recovery Without Backup: A Complete Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ourlinks-ultra-mini-usb-wi-fi-nano-adaptor-for-speedier-internet-connection-reliable-and-high-performance/"><u>Ourlink's Ultra Mini USB Wi-Fi Nano Adaptor for Speedier Internet Connection – Reliable & High-Performance</u></a></li>
-<li><a href="https://win-special.techidaily.com/troubleshooting-failed-boot-processes-removing-obstructive-updates-for-smooth-operation/"><u>Troubleshooting Failed Boot Processes: Removing Obstructive Updates for Smooth Operation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-finest-ipad-air-cases-of-2024-expert-evaluations-zdnet-innovations/"><u>Ultimate Guide to the Finest iPad Air Cases of 2024: Expert Evaluations | ZDNet Innovations</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-adobe-premiere-pro-power-user-master-these-20-shortcuts/"><u>Updated 2024 Approved Adobe Premiere Pro Power User Master These 20 Shortcuts</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-unleash-your-creativity-the-best-online-stop-motion-animation-studios/"><u>Updated 2024 Approved Unleash Your Creativity The Best Online Stop Motion Animation Studios</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-video-editing-vs-visual-effects-premiere-vs-after-effects-explained/"><u>Updated 2024 Approved Video Editing vs Visual Effects Premiere vs After Effects Explained</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-best-14-vlog-video-editing-software-for-hot-platformsfree-and-paid-for-2024/"><u>Updated Best 14 Vlog Video Editing Software for Hot PlatformsFree & Paid for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-best-top-intro-makers-for-pc-both-online-and-offline-for-2024/"><u>Updated Best Top Intro Makers for PC, Both Online and Offline for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-powerdirector-color-grading-tips-for-seamless-clip-integration/"><u>Updated In 2024, PowerDirector Color Grading Tips for Seamless Clip Integration</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-vertical-video-editing-made-easy-top-ios-and-android-apps/"><u>Updated In 2024, Vertical Video Editing Made Easy Top iOS and Android Apps</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-ken-burns-effect-in-final-cut-pro-a-beginners-guide-to-professional-results-for-2024/"><u>Updated Ken Burns Effect in Final Cut Pro A Beginners Guide to Professional Results for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/watch-this-selection-of-10-free-alternatives-to-netflix-without-breaking-the-bank/"><u>Watch This Selection of 10 FREE Alternatives to Netflix, Without Breaking the Bank</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-immersive-storytelling-through-total-environmental-capture/"><u>[New] Immersive Storytelling Through Total Environmental Capture</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/elf-balancing-snap-shots-without-supports/"><u>[New] Self-Balancing Snap Shots Without Supports</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-scripting-for-success-filmmakers-secrets/"><u>[Updated] In 2024, Scripting for Success Filmmaker's Secrets</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitch-your-way-mastering-twitter-video-livestreaming-for-2024/"><u>[Updated] Twitch Your Way Mastering Twitter Video Livestreaming for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-trailblazers-crafting-immersive-virtual-landscapes/"><u>2024 Approved Trailblazers Crafting Immersive Virtual Landscapes</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/easy-guide-to-configuring-your-pcs-network-settings-via-windows-control-panel-tips-by-yl-computing/"><u>Easy Guide to Configuring Your PC's Network Settings via Windows Control Panel - Tips by YL Computing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-comprehensive-examination-razer-kiyo-cam/"><u>In 2024, Comprehensive Examination Razer Kiyo Cam</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-headquarters-of-virtual-reality-entertainment/"><u>In 2024, Headquarters of Virtual Reality Entertainment</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-list-of-online-animation-creators-for-jaw-dropping-videos/"><u>New In 2024, The Ultimate List of Online Animation Creators for Jaw-Dropping Videos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-top-10-free-surveillance-software-options/"><u>New In 2024, Top 10 Free Surveillance Software Options</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-mastering-gopro-quik-on-mac-effortless-video-editing-for-2024/"><u>New Mastering GoPro Quik on Mac Effortless Video Editing for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-natural-looking-skin-in-fcpx-no-plugins-required-for-2024/"><u>New Natural-Looking Skin in FCPX No Plugins Required for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-new-year-new-animations-10-top-rated-2d-software-for-2024/"><u>New New Year, New Animations 10 Top-Rated 2D Software for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-rotate-your-videos-with-ease-a-comprehensive-tutorial/"><u>New Rotate Your Videos with Ease A Comprehensive Tutorial</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-list-of-free-video-editing-software-for-gamers/"><u>New The Ultimate List of Free Video Editing Software for Gamers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-top-video-editing-software-minitool-movie-maker-review-and-alternatives/"><u>New Top Video Editing Software Minitool Movie Maker Review and Alternatives</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-facetime-glitches-a-comprehensive-fix-for-black-screen-dilemmas/"><u>Overcoming FaceTime Glitches: A Comprehensive Fix for Black Screen Dilemmas</u></a></li>
 </ul></div>
 

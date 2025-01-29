@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Final Cut Pro Color Grading Essentials
-date: 2025-01-16T07:32:18.740Z
-updated: 2025-01-21T23:58:07.098Z
+date: 2025-01-26T19:16:37.475Z
+updated: 2025-01-29T17:17:08.249Z
 tags: 
   - video editing software
   - video editing
@@ -45,6 +45,10 @@ The steps below can help all beginners to develop easy video edited projects usi
 * [How to Correct Color in iMovie >>](https://tools.techidaily.com/wondershare/filmora/download/)
 * [Color Correction and Color Grading >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Methods to Correct Color in Final Cut Pro
 
 Those who wish to use FCP for color signal editing need to follow these steps:
@@ -57,13 +61,13 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 ![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
 ![Effect Browser](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Choose **Window** and then click on **Go To**, you will find **Color Board** on the appeared drop-down menu.
 
@@ -73,23 +77,19 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 ![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
 ![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
 ![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Step 3
 
@@ -99,20 +99,20 @@ Now it is time to work on color correction directly. There are three types of co
 
 ![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
 ![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
 ![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 4
@@ -140,14 +140,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-an-exclusive-list-of-heartwarming-weddings-youtube-and-vimeo-edition/"><u>[Updated] In 2024, An Exclusive List of Heartwarming Weddings - Youtube & Vimeo Edition</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/1-fixing-hardware-device-related-errors-a-comprehensive-guide-by-yl-computing/"><u>1. Fixing Hardware Device-Related Errors: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-on-your-apple-iphone-se-2022-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID On your Apple iPhone SE (2022) without Security Questions?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/inside-the-owc-mercury-pro-experience-exceptional-speed-and-unmatched-capacity/"><u>Inside the OWC Mercury Pro Experience: Exceptional Speed and Unmatched Capacity</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722968918489-seamless-integration-download-and-setup-for-top-tier-intel-thunderbolt-controller-drivers/"><u>Seamless Integration: Download & Setup for Top-Tier Intel Thunderbolt Controller Drivers</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/unbiased-avs-video-editor-review-is-it-right-for-you-for-2024/"><u>Unbiased AVS Video Editor Review Is It Right for You for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-movie-magic-made-simple-a-step-by-step-guide/"><u>Updated 2024 Approved Movie Magic Made Simple A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-vn-video-editor-pc-edition-a-brief-inspection/"><u>Updated In 2024, VN Video Editor PC Edition A Brief Inspection</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-vlog-editing-made-easy-the-best-free-and-paid-software-solutions/"><u>Updated Vlog Editing Made Easy The Best Free and Paid Software Solutions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-initial-visual-journey-review-with-additional-paths/"><u>[New] 2024 Approved Initial Visual Journey Review with Additional Paths</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-masterful-gameplay-transmission-with-obs-studio/"><u>[New] 2024 Approved Masterful Gameplay Transmission with OBS Studio</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-path-from-hobbyist-to-profitable-video-blogger/"><u>[New] In 2024, The Path From Hobbyist to Profitable Video Blogger</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/digital-artistry-perfecting-your-photoshop-skills/"><u>Digital Artistry Perfecting Your Photoshop Skills</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-se-2020-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock iPhone SE (2020), Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-prime-video-players-our-handpicked-collection/"><u>In 2024, Prime Video Players Our Handpicked Collection</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-mastering-adobe-premiere-top-6-tricks-for-professional-video-editing/"><u>New 2024 Approved Mastering Adobe Premiere Top 6 Tricks for Professional Video Editing</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-take-final-cut-pro-for-a-spin-90-day-free-trial-no-credit-card-required/"><u>New 2024 Approved Take Final Cut Pro for a Spin 90-Day Free Trial, No Credit Card Required</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-breaking-boundaries-running-windows-and-mac-video-editing-software-on-chromebook-for-2024/"><u>New Breaking Boundaries Running Windows and Mac Video Editing Software on Chromebook for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-10-best-free-whiteboard-animation-software-on-windows-and-mac/"><u>New In 2024, 10 Best Free Whiteboard Animation Software on Windows and Mac</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-join-mov-files-together-for-free-5-best-software/"><u>New In 2024, Join MOV Files Together for Free 5 Best Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-transition-between-apple-and-youtube-music-services-how-to-move-your-playlists/"><u>Seamless Transition Between Apple and YouTube Music Services - How to Move Your Playlists</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/egies-for-full-time-workers-who-create-videos/"><u>Strategies for Full-Time Workers Who Create Videos</u></a></li>
 </ul></div>
 
