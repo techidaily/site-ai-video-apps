@@ -1,7 +1,7 @@
 ---
 title: Updated This Article Shows the Detail Steps to Crop an Image in Final Cut Pro with Screenshots for 2024
-date: 2025-01-28T17:37:04.986Z
-updated: 2025-01-29T17:16:26.173Z
+date: 2025-02-06T04:57:27.501Z
+updated: 2025-02-10T00:56:35.919Z
 tags: 
   - video editing software
   - video editing
@@ -53,17 +53,9 @@ Trimming is the process of removing portions of a video clip without changing th
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop001.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 For instance, here an image - courtesy of Pond5 (<www.pond5.com>). Let's say that we want to emphasize the barn and not the sky.
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop002.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The easiest way to do this is to click the icon in the lower left corner of the Viewer and choose "Crop."
 
@@ -77,10 +69,6 @@ Click the Trim button to turn on Trim mode. (This article discusses Trim and Cro
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop005.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Grab one of the blue dots and drag to hide portions of the frame. I generally grab a corner, but any blue dot will do.
 
 NOTE: Press and hold the Option key while dragging to drag opposite edges or corners. Press and hold the Shift key to constrain the trim to the same aspect ratio as the frame.
@@ -88,12 +76,16 @@ NOTE: Press and hold the Option key while dragging to drag opposite edges or cor
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop006.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Drag other corners or edges to further trim the image.
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop007.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 When you have trimmed the image the way you want, click the "Done" button in the top right corner to exit trimming mode.
 
@@ -102,6 +94,10 @@ When you have trimmed the image the way you want, click the "Done" button in the
 If no other clip is below the trimmed clip, the background will be black.
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop009.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 But, it actually isn't black, it's transparent. If you put another clip below it, you'll see the lower clip underneath the trimmed image.
 
@@ -119,6 +115,10 @@ There are several ways we can choose to crop an image:
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop011.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Right-mouse click (or Control-click) inside the Viewer and choose
 * Type Shift+C
 
@@ -129,7 +129,7 @@ There are several ways we can choose to crop an image:
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop013.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If you selected any option except the Inspector, click the Crop button in the Viewer.
@@ -147,16 +147,12 @@ Reposition the frame by grabbing inside the rectangle and dragging.
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop016.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 When you are happy with the results, click the Done button in the top right corner.
 
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop017.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Notice that the selected portion of the image now fills the frame. Even though there is a clip below our cropped clip, we don't see it.
 
@@ -178,6 +174,10 @@ I use both these techniques frequently in my own editing.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -193,20 +193,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-edit-with-ease-10-video-to-mp3-tools-of-the-trade/"><u>[Updated] In 2024, Edit with Ease #10 Video-to-Mp3 Tools of the Trade</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-youtubes-potential-with-targeted-keywords-for-2024/"><u>[Updated] Unlocking YouTube's Potential with Targeted Keywords for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-new-age-smartphone-a-review-of-huawei-p10s-innovations/"><u>2024 Approved The New Age Smartphone? A Review of Huawei P10's Innovations</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-tuf-gaming-a14-laptop-an-expert-review-on-longevity-and-endurance-in-gaming-pcs/"><u>Asus TUF Gaming A14 Laptop: An Expert Review on Longevity & Endurance in Gaming PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/collectors-paradise-unlocked-free-windows-11-for-keys-fan-year-round/"><u>Collector’s Paradise Unlocked: Free Windows 11 For Keys Fan, Year-Round</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-overcome-ios-update-issues-on-your-iphone-or-ipad-top-9-tips/"><u>How to Overcome iOS Update Issues on Your iPhone or iPad - Top 9 Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-resolve-iphone-no-text-messages-dilemma-top-7-solutions/"><u>How to Resolve 'iPhone No Text Messages' Dilemma: Top 7 Solutions</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-grab-and-store-the-quickest-tools-to-save-social-media-videos/"><u>In 2024, Grab & Store The Quickest Tools to Save Social Media Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-strategies-for-boosting-handp-healthcare-fb-campaigns/"><u>In 2024, Top Strategies for Boosting H&P Healthcare FB Campaigns</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/in-2024-turn-your-photos-into-a-beautiful-video-with-music-2023-tutorial/"><u>In 2024, Turn Your Photos Into a Beautiful Video with Music 2023 Tutorial</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-from-watermarks-7-reliable-video-merger-solutions/"><u>New 2024 Approved Free From Watermarks 7 Reliable Video Merger Solutions</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-generate-random-faces-online-top-free-tools-and-websites/"><u>New 2024 Approved Generate Random Faces Online Top Free Tools and Websites</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-5-best-free-vob-video-editors/"><u>New 2024 Approved Top 5 Best Free VOB Video Editors</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-make-a-masterpiece-top-online-photo-and-video-collage-generators/"><u>New In 2024, Make a Masterpiece Top Online Photo and Video Collage Generators</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-best-video-editor-for-beginners-videopad-review-and-recommendation/"><u>New In 2024, The Best Video Editor for Beginners? Videopad Review and Recommendation</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-top-10-igtv-channels-you-should-start-following/"><u>[Updated] In 2024, Top 10 IGTV Channels You Should Start Following</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-high-speed-visual-snapshot-and-voice-commentary-feature/"><u>2024 Approved High-Speed Visual Snapshot & Voice Commentary Feature</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-igtvs-power-boosters-crafting-viral-hash-tags/"><u>2024 Approved IGTV's Power Boosters Crafting Viral Hash Tags</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-strategies-for-time-loop-visual-tricks/"><u>2024 Approved Strategies for Time-Loop Visual Tricks</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-most-recent-logitech-g705g900g910-setup-and-drivers-for-windows-os/"><u>Download the Most Recent Logitech G705/G900/G910 Setup and Drivers for Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-canon-mp280-driver-software-for-your-windows-pc-windows-1087/"><u>Get the Latest Canon MP280 Driver Software for Your Windows PC (Windows 10/8/7)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-ps-gaming-audio-masterclass-vocal-tweaks/"><u>In 2024, PS Gaming Audio Masterclass - Vocal Tweaks</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Car Locator Apps for Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/top-12-free-animation-tools-for-windows-and-macos-for-2024/"><u>Top 12 Free Animation Tools for Windows and macOS for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-troubleshooting-guide-ensuring-a-successful-start-of-assassins-creed-mirage/"><u>Ultimate Troubleshooting Guide: Ensuring a Successful Start of Assassin's Creed Mirage</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-enhance-video-quality-for-free-top-10-online-tools/"><u>Updated 2024 Approved Enhance Video Quality for Free Top 10 Online Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-final-cut-pros-greatest-hits-10-notable-films-you-need-to-see/"><u>Updated 2024 Approved Final Cut Pros Greatest Hits 10 Notable Films You Need to See</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-get-the-perfect-angle-10-best-video-rotators-for-online-use-for-2024/"><u>Updated Get the Perfect Angle 10 Best Video Rotators for Online Use for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-3gp-video-editing-cutting-and-trimming-made-easy/"><u>Updated In 2024, 3GP Video Editing Cutting and Trimming Made Easy</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-free-video-editing-gems-top-picks-for-online-creators/"><u>Updated In 2024, Free Video Editing Gems Top Picks for Online Creators</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-ultimate-collection-20-free-adobe-premiere-title-templates/"><u>Updated In 2024, The Ultimate Collection 20 Free Adobe Premiere Title Templates</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-top-10-vlogging-apps-for-editing-on-the-go/"><u>Updated In 2024, Top 10 Vlogging Apps for Editing on the Go</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-reaction-video-mastery-top-ios-and-android-apps/"><u>Updated Reaction Video Mastery Top iOS and Android Apps</u></a></li>
 </ul></div>
 

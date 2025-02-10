@@ -1,7 +1,7 @@
 ---
 title: Updated FCPX Audio Editing Essentials L-Cuts, J-Cuts, and More for 2024
-date: 2025-01-22T16:28:25.466Z
-updated: 2025-01-29T17:04:23.079Z
+date: 2025-02-09T00:07:47.897Z
+updated: 2025-02-09T20:08:08.647Z
 tags: 
   - video editing software
   - video editing
@@ -29,7 +29,7 @@ If you wish to edit or create videos like a pro, you do not need to be a profess
 It could be surprising, but yes, your well-known Final Cut Pro X has this powerful feature still overlooked by many people. So, today, we take it on hand and shall share what L-Cuts and J-Cuts mean. You will be able to create it on your own by the end of this article.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: The Use of L-Cuts and J-Cuts in Video Editing
@@ -43,7 +43,7 @@ When you look at the above interface, you will see the basic phenomenon behind t
 Then, **what is a J cut in Final Cut Pro**? It is ultimately reverse or opposite of L-Cuts. Yes, the second clip's audio starts a while before the scene of the first video ends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Step-by-step Guide on Using L-Cuts and J-Cuts in Final Cut Pro X
@@ -77,7 +77,7 @@ In the case of Final Cut Pro **J-Cuts**, the process is reverse, where you need 
 When you look at the transition closely, you can see that it resembles the letter J.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Final Cut Pro X Keyboard Shortcuts for L-Cuts and J-Cuts
@@ -103,7 +103,7 @@ Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts a
 * Using timecode to add or subtract the present edit: press the “**Plus (+)**” or “**Minus (-)**” key with the timecode duration.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -113,7 +113,7 @@ Are you wondering and puzzled that you are a popular Final Cut Pro X user but we
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -131,24 +131,15 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-how-to-add-timestamps-to-youtube-video-to-increase-views/"><u>[New] How to Add Timestamps to YouTube Video to Increase Views</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-secrets-of-facebooks-2023-full-screen-video-settings-for-2024/"><u>[New] Secrets of Facebook's 2023 Full Screen Video Settings for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-excellence-engineers-select-laptop-choices-for-4k-editing-pros/"><u>2024 Approved Excellence Engineers Select Laptop Choices for 4K Editing Pros</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-gif-odyssey-navigating-the-most-effective-9-tools-of-memetic-crafting/"><u>2024 Approved The GIF Odyssey Navigating the Most Effective 9 Tools of Memetic Crafting</u></a></li>
-<li><a href="https://win-able.techidaily.com/ace-the-apocalypse-masterful-methods-to-fix-and-avoid-critical-ark-malfunctions/"><u>Ace the Apocalypse: Masterful Methods to Fix and Avoid Critical 'Ark' Malfunctions</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-how-to-boost-your-youtube-revenue-from-mobile-a-comprehensive-guide/"><u>In 2024, How to Boost Your YouTube Revenue From Mobile - A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-adobe-premiere-pro-for-mac-the-ultimate-pro-video-editing-tool/"><u>New 2024 Approved Adobe Premiere Pro for Mac The Ultimate Pro Video Editing Tool</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-get-the-best-of-both-worlds-convert-mp4-to-mp3-with-these-top-converters/"><u>New 2024 Approved Get the Best of Both Worlds Convert MP4 to MP3 with These Top Converters</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-10-mac-video-tag-editors-for-seamless-organization/"><u>New 2024 Approved Top 10 Mac Video Tag Editors for Seamless Organization</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unhappy-with-fcpx-find-your-new-favorite-video-editor-among-these-10-options/"><u>New 2024 Approved Unhappy with FCPX? Find Your New Favorite Video Editor Among These 10 Options</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-animate-your-world-8-must-try-video-animation-apps-for-mobile-for-2024/"><u>New Animate Your World 8 Must-Try Video Animation Apps for Mobile for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-5-best-free-apps-to-compress-videos-on-iphone-and-ipad/"><u>New In 2024, 5 Best Free Apps to Compress Videos on iPhone & iPad</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-public-domain-video-heaven-top-sites-for-free-downloads/"><u>New In 2024, Public Domain Video Heaven Top Sites for Free Downloads</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-recording-made-easy-3-top-options-for-video-game-enthusiasts/"><u>New In 2024, Recording Made Easy 3 Top Options for Video Game Enthusiasts</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-stop-motion-mastery-a-beginners-guide-to-freeze-frames/"><u>New In 2024, Stop Motion Mastery A Beginners Guide to Freeze Frames</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-scroll-wheel-troubleshooting-tips-for-restoring-functionality-on-a-logitech-mouse/"><u>Overcoming Scroll Wheel Troubleshooting: Tips for Restoring Functionality on a Logitech Mouse.</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/recuperation-des-donnees-a-partir-dun-disque-dur-au-format-raw-methodes-et-conseils/"><u>Récupération Des Données À Partir D'un Disque Dur Au Format RAW : Méthodes Et Conseils</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-vivo-v27-pro-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Vivo V27 Pro</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-how-to-make-your-content-explode-in-popularity-on-tiktok/"><u>Unlocking the Secrets: How to Make Your Content Explode in Popularity on TikTok</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nlock-the-power-of-social-sharing-for-your-youtube-videos/"><u>[New] Unlock the Power of Social Sharing for Your YouTube Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-ultimate-guide-to-effective-video-marketing-tools-8/"><u>2024 Approved Ultimate Guide to Effective Video Marketing Tools (8)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/essential-cameras-for-upcoming-4khd-music-video-shootouts/"><u>Essential Cameras for Upcoming 4K/HD Music Video Shootouts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/finding-frame-frames-the-art-of-isolating-images-on-windows-10/"><u>Finding Frame Frames The Art of Isolating Images on Windows 10</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/master-your-game-battles-with-the-superior-alienware-aurora-r11-gaming-computer-reviewed-as-1/"><u>Master Your Game Battles with the Superior Alienware Aurora R11 - Gaming Computer Reviewed as #1</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/methods-for-correcting-cctv-image-distortions/"><u>Methods for Correcting CCTV Image Distortions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-final-cut-pro-x-crash-fix-get-back-to-editing-for-2024/"><u>Updated Final Cut Pro X Crash Fix Get Back to Editing for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-merge-videos-without-a-trace-7-best-options/"><u>Updated In 2024, Merge Videos Without a Trace 7 Best Options</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-professional-grade-glitch-video-editors-paid-and-free-solutions-compared-for-2024/"><u>Updated Professional-Grade Glitch Video Editors Paid and Free Solutions Compared for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-unleash-dynamic-text-top-motion-tracking-software-for-2024/"><u>Updated Unleash Dynamic Text Top Motion Tracking Software for 2024</u></a></li>
 </ul></div>
 

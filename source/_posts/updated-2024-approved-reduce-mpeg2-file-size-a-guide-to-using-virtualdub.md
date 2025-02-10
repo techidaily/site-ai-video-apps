@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Reduce MPEG2 File Size A Guide to Using VirtualDub
-date: 2025-01-23T19:21:15.011Z
-updated: 2025-01-29T19:02:59.605Z
+date: 2025-02-07T19:44:56.454Z
+updated: 2025-02-10T00:30:28.636Z
 tags: 
   - video editing software
   - video editing
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 
 VirtualDub is a free video capture/processing tool for Windows platforms (2000/XP/Vista/7). And VirtualDub MPEG-2 is a modified version of VirtualDub that supports MPEG-2 import originally. However, just as the author said "This software is obsolete and will no longer be updated. For MPEG-2 and WMV support in the latest VirtualDub, try my plugins (MPEG-2 plugin for VirtualDub 1.8.1 or above - by editor)".
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Download and Install VirtualDub MPEG-2
 
 You could [download VirtualDub MPEG-2](http://www.videohelp.com/download/VirtualDub-MPEG224586%20.zip?r=LcPXQgGCmNps) here and extract files to a folder. Now you get a video processing software with MPEG-2 video import supported. To run VirtualDub MPEG-2, double click the VirtualDub.exe.
@@ -35,7 +39,7 @@ You could [download VirtualDub MPEG-2](http://www.videohelp.com/download/Virtual
 VirtualDub-MPEG2 is designed to work with mpeg2 video, such as Digital TV shows, un-encrypted DVD files (\*.vob) and these video files are usually in big size. Now you can compress them using VirtualDub MPEG-2.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 1: Set Up Video Compression
@@ -50,12 +54,16 @@ As shown above, select the XVID MPEG-4 codec and click Configure button to make 
 
 **Note**: If Compression is disable, switch to Full processing mode first in the Video menu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 2: Set Up Audio Compression
 
 Audio compression setup is similar to video compression, go to Audio/Full processing mode, and again Audio/Compression to open the dialog, where MPEG Layer-3 is recommended.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 3: Start Compressing
@@ -67,10 +75,6 @@ Now it's the time to start processing your video, here is how:
 3. Select where you want to save the AVI and name it.
 4. Click Save.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 The VirtualDub MPEG-2 needs some time to compress your video. The larger the video file is, the longer. But VirtualDub MPEG2 is a fast video processing software. Take a cup of coffee and relax. Once finished, use your favorite video player to see the compressing result.
@@ -80,14 +84,10 @@ If you don't like VirtualDub MPEG-2 and would like to find some more powerful ed
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -104,16 +104,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-navigating-lunapic-like-an-ace-photographer/"><u>[New] In 2024, Navigating LunaPic Like an Ace Photographer</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-elevate-your-content-strategy-premier-ranks-apps-explored/"><u>[Updated] In 2024, Elevate Your Content Strategy - Premier Ranks Apps Explored</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-instagram-edge-techniques-for-effective-video-cropping-and-exporting-for-2024/"><u>[Updated] Instagram Edge Techniques for Effective Video Cropping and Exporting for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/achieving-financial-gains-via-snapchat/"><u>Achieving Financial Gains via Snapchat</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-analysis-the-ultimate-guide-to-google-wifi-your-perfect-wireless-mesh-network-solution/"><u>Comprehensive Analysis: The Ultimate Guide to Google WiFi - Your Perfect Wireless Mesh Network Solution</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/in-2024-unwatermark-your-tiktok-videos-top-online-removal-methods/"><u>In 2024, Unwatermark Your TikTok Videos Top Online Removal Methods</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/maximizing-value-with-the-ambient-ws-2902a-osprey-a-high-feature-weather-station-at-a-bargain/"><u>Maximizing Value with the Ambient WS-2902A Osprey - A High Feature Weather Station at a Bargain!</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-ultimate-guide-to-pc-intro-makers-online-vs-offline/"><u>New 2024 Approved The Ultimate Guide to PC Intro Makers Online vs Offline</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-how-to-convert-digital-videos-into-cartoons-in-2024/"><u>New How to Convert Digital Videos Into Cartoons, In 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-editstudio-for-macos/"><u>New In 2024, EditStudio for macOS</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-merge-wmv-files-with-ease-the-best-free-tools/"><u>New In 2024, Merge WMV Files with Ease The Best Free Tools</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-quick-transition-from-original-pictures-to-standout-youtube-thumbnails/"><u>[New] 2024 Approved Quick Transition From Original Pictures To Standout YouTube Thumbnails</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-from-playtime-to-prestige-capturing-sims-mastery/"><u>[New] From Playtime to Prestige Capturing Sims Mastery</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/financial-magnitude-in-mr-beasts-realm/"><u>Financial Magnitude in Mr. Beast's Realm</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-oppo-a18-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Oppo A18 PIN</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-ultimate-pixel-perfect-grids-elevate-your-vision/"><u>In 2024, Ultimate Pixel Perfect Grids Elevate Your Vision</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/quick-correction-quest-how-to-skillfully-edit-images-on-win10-for-2024/"><u>Quick Correction Quest How to Skillfully Edit Images on WIN10 for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-list-10-best-free-green-screen-apps-for-mobile-phones/"><u>Updated 2024 Approved The Ultimate List 10 Best Free Green Screen Apps for Mobile Phones</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-expert-approved-4k-video-editing-software-the-top-choices-for-2024/"><u>Updated Expert-Approved 4K Video Editing Software The Top Choices for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-best-powerdirector-replacement-apps-for-android-and-ios-users/"><u>Updated In 2024, Best PowerDirector Replacement Apps for Android and iOS Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-create-stunning-invites-best-video-apps-for-ios-and-android/"><u>Updated In 2024, Create Stunning Invites Best Video Apps for iOS & Android</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-rotate-avi-videos-for-free-top-16-software-for-multiple-platforms/"><u>Updated In 2024, Rotate AVI Videos for Free Top 16 Software for Multiple Platforms</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-professional-grade-video-editing-on-mac-adobe-premiere-pro-for-2024/"><u>Updated Professional-Grade Video Editing on Mac Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-s-top-free-video-compressor-options-for-windows-10/"><u>Updated S Top Free Video Compressor Options for Windows 10</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/e-down-views-the-art-of-reverse-videos/"><u>Upside Down Views The Art of Reverse Videos</u></a></li>
 </ul></div>
 

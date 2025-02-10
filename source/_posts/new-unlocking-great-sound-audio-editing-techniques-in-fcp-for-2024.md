@@ -1,7 +1,7 @@
 ---
 title: New Unlocking Great Sound Audio Editing Techniques in FCP for 2024
-date: 2025-01-23T19:43:39.418Z
-updated: 2025-01-29T20:38:10.182Z
+date: 2025-02-05T19:59:43.408Z
+updated: 2025-02-10T03:02:12.393Z
 tags: 
   - video editing software
   - video editing
@@ -37,7 +37,7 @@ Those of you reading this article as a guide to audio editing of videos on Final
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to edit audio on FCP
@@ -54,6 +54,10 @@ The job of the tiny white points on the right and left side of the clip is to ap
 
 ![](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Related Article:** [How to fade in/out audio in Final Cut Pro >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 **Note:** In this level, any effects and adjustments in audio are applicable for the entire clip including the audio channels within it. All the adjustments in the individual audio channels made by you would be preserved by FCP. This implies that when one reduces the volume for just one channel but increases the volume of the entire clip, then the single channel’s volume is only raised in proportion to the volume of the other channels. Ideally, you should do your edits at the clip-level when you have only one or two audio channels on your video clip.
@@ -65,7 +69,7 @@ The audio of the video can be detached for editing the audio file separately. Th
 ![ The Audio Inspector ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
@@ -73,7 +77,7 @@ In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or
 ![ Detach audio ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** There is a fine difference between ‘Detach Audio’ and ‘Expand Audio’. In Expand Audio, the audio clip is synced with the video. For instance, while moving the audio to the timeline, the video clip would also go with it. In case of detaching audio however the audio file would remain as a standalone clip that can be inserted into any portion of the video.
@@ -90,7 +94,7 @@ The Audio Inspector would allow you to apply the following effects:
 ![Pan](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Effects- for this option one needs to go to the effects browser of the **Audio Inspector** or just hit comd5\. This would allow you to choose many different audio effects such as echo, distortion, spaces and much more. Just double-click on any effect to find a range of editing options.
@@ -102,10 +106,6 @@ The Audio Inspector would allow you to apply the following effects:
 **Here's the video tutorial on how to edit audios in Final Cut Pro:**
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -122,18 +122,15 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-tactical-timing-for-topic-tracking-via-instagram-story-polls/"><u>[New] In 2024, Tactical Timing for Topic Tracking via Instagram Story Polls</u></a></li>
-<li><a href="https://win-great.techidaily.com/1728492476339-excel/"><u>解決並迅速回收在Excel中消失的文件: 前進五大有效技術</u></a></li>
-<li><a href="https://games-able.techidaily.com/detailed-ps4-reset-procedure-walkthrough/"><u>Detailed PS4 Reset Procedure Walkthrough</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-realme-c67-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Realme C67 5G to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-infinix-hot-30i-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Infinix Hot 30i Device</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-superior-video-recording-apps-on-mac-not-bandicam/"><u>In 2024, Superior Video Recording Apps on Mac, Not Bandicam</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-compress-videos-for-free-top-windows-10-tools/"><u>New 2024 Approved Compress Videos for Free Top Windows 10 Tools</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-3-mkv-trimmer-for-mac-2023/"><u>New 2024 Approved Top 3 MKV Trimmer for Mac 2023</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-canon-camcorder-video-editing-for-beginners-a-comprehensive-guide-for-2024/"><u>New Canon Camcorder Video Editing for Beginners A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-free-and-easy-mov-video-rotation-solutions-for-2024/"><u>New Free and Easy MOV Video Rotation Solutions for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-generate-tones-easily-5-top-online-tools-for-2024/"><u>New Generate Tones Easily 5 Top Online Tools for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-how-to-download-4k-videos-in-mp4-format-a-beginners-guide/"><u>New In 2024, How to Download 4K Videos in MP4 Format A Beginners Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quickly-repair-damaged-pdf-v11-files-stellar-by-stellar-guide/"><u>Quickly Repair Damaged PDF v1.1 Files | Stellar</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-visiovista-android-and-ios-instagram-tile-artisan/"><u>[New] VisioVista Android & iOS Instagram Tile Artisan</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-effortlessly-access-your-most-watched-fb-movies-post-2023/"><u>[Updated] Effortlessly Access Your Most-Watched FB Movies Post-2023</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725290154151-dvdwindows-11/"><u>究極のDVD動画ソフトでWindows 11のパワーアップ - こちらのリンクから即座に無料版を入手</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/erate-yt-growth-strategies-for-1kplus-subscribers/"><u>Accelerate YT Growth Strategies for 1K+ Subscribers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-continuous-buffering-issues-during-discord-live-broadcasts/"><u>How to Fix Continuous Buffering Issues During Discord Live Broadcasts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-xiaomi-13t-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Xiaomi 13T?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unlock-efficient-video-editing-6-adobe-premiere-hacks-you-need-to-know/"><u>New Unlock Efficient Video Editing 6 Adobe Premiere Hacks You Need to Know</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-best-value-video-editing-software-for-your-money/"><u>Updated 2024 Approved The Best Value Video Editing Software for Your Money</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-discover-the-ideal-sony-vegas-substitute-for-windows-for-2024/"><u>Updated Discover the Ideal Sony Vegas Substitute for Windows for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-shake-it-off-8-excellent-free-video-stabilizers-to-try-this-year/"><u>Updated Shake It Off 8 Excellent Free Video Stabilizers to Try This Year</u></a></li>
 </ul></div>
 

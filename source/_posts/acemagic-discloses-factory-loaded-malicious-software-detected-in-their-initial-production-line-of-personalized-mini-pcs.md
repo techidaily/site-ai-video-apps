@@ -1,7 +1,7 @@
 ---
 title: AceMagic Discloses Factory-Loaded Malicious Software Detected in Their Initial Production Line of Personalized Mini PCs
-date: 2025-01-26T20:44:41.146Z
-updated: 2025-01-29T17:35:54.592Z
+date: 2025-02-08T06:01:20.343Z
+updated: 2025-02-10T08:17:32.819Z
 tags:
   - desktop
 categories:
@@ -55,7 +55,7 @@ __Ayaneo Retro Mini PC AM01 Specification__
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -81,16 +81,17 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-essence-of-elegance-in-video-color-balancing/"><u>[New] The Essence of Elegance in Video Color Balancing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unmatched-technique-to-fuse-gopro-clips-into-immersive-360-movies/"><u>[New] Unmatched Technique to Fuse GoPro Clips Into Immersive 360 Movies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/flawless-dialogues-6-things-not-to-miss-in-gpt-conversations/"><u>Flawless Dialogues: 6 Things Not To Miss in GPT Conversations</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-plus-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 Plus to other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/key-strategies-for-tackling-directdraw-glitches-on-windows-1011/"><u>Key Strategies for Tackling DirectDraw Glitches on Windows 10/11</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-tone-generation-made-simple-5-online-tools/"><u>New In 2024, Tone Generation Made Simple 5 Online Tools</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-top-gif-speed-editors-for-every-platform/"><u>New In 2024, Top GIF Speed Editors for Every Platform</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-why-final-cut-pro-beats-final-cut-express/"><u>New In 2024, Why Final Cut Pro Beats Final Cut Express?</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-top-face-swapping-apps-iphone-and-android-edition-for-2024/"><u>New Top Face Swapping Apps IPhone and Android Edition for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/simple-guide-transferring-videos-from-your-iphone-onto-a-windows-10-or-11-pc-without-hitches/"><u>Simple Guide: Transferring Videos From Your iPhone Onto a Windows 10 or 11 PC Without Hitches</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-leading-9-free-logo-design-software-for-youtube-channels/"><u>[Updated] 2024 Approved Leading 9 Free Logo Design Software for YouTube Channels</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gfx-analysis-the-role-of-ms-bda/"><u>GFX Analysis: The Role of MS BDA</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-deciding-the-best-for-screens-is-obs-more-effective-than-fraps/"><u>In 2024, Deciding the Best for Screens Is OBS More Effective than Fraps?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-se-2020-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On iPhone SE (2020)?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/iphone-video-mastery-from-fast-to-extremely-slow-motion-content-for-2024/"><u>IPhone Video Mastery From Fast to Extremely Slow Motion Content for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-potential-unlock-the-most-innovative-windows-powertoy-tips/"><u>Maximize Potential: Unlock the Most Innovative Windows PowerToy Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-efficient-browsers-with-low-resource-impact-on-all-oses/"><u>Top Efficient Browsers with Low Resource Impact on All OSes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-facebooks-visual-library-the-ultimate-photo-search-tutorial/"><u>Unlocking Facebook's Visual Library: The Ultimate Photo Search Tutorial</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-video-merger-software-alternatives-online-tools-you-need/"><u>Updated 2024 Approved Free Video Merger Software Alternatives Online Tools You Need</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-glowing-complexion-in-minutes-fcpx-skin-smoothing-tutorial-for-2024/"><u>Updated Glowing Complexion in Minutes FCPX Skin Smoothing Tutorial for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-bringing-videos-to-life-in-vr-expert-conversion-techniques/"><u>Updated In 2024, Bringing Videos to Life in VR Expert Conversion Techniques</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-vignette-magic-the-best-free-and-paid-apps-for-iphone-and-android-for-2024/"><u>Updated Vignette Magic The Best Free and Paid Apps for iPhone and Android for 2024</u></a></li>
 </ul></div>
 
