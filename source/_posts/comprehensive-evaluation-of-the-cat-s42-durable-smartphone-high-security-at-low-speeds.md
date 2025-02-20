@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Evaluation of the CAT S42 Durable Smartphone: High Security at Low Speeds"
-date: 2025-02-03T16:32:27.041Z
-updated: 2025-02-09T18:11:43.111Z
+date: 2025-02-12T19:56:28.290Z
+updated: 2025-02-20T07:59:10.168Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Evaluation of the CAT S42 Durable Smartphone: High Security at Low Speeds"
@@ -13,13 +13,13 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 
 4.5
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## TCL 50S425 50-inch 4K Smart LED Roku TV
 
 ![TCL 50S425 50-inch Roku TV (2019)](https://www.lifewire.com/thmb/xdZO-ddLXgWQIKHYaUynllKab-w=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4061017_HeroSquare-beccb9820dfd4a878196fac8bdf1d541.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
 
@@ -45,10 +45,6 @@ Lifewire / Yoona Wagener
 ## TCL 50S425 50-inch 4K Smart LED Roku TV
 
 ![TCL 50S425 50-inch Roku TV (2019)](https://www.lifewire.com/thmb/3k1MkB4svn07bDvaUq6CGgLhZl8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4061017_HeroSquare-beccb9820dfd4a878196fac8bdf1d541.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
 
@@ -92,6 +88,10 @@ Lifewire / Yoona Wagener
 
 ![TCL 50S425 50-inch Roku TV (2019)](https://www.lifewire.com/thmb/cT13RJhaMjC05v7eMym3vtM8M0s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4061017_05-70fc23cf6c2b4a13ac9d46f9372010ef.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Yoona Wagener
 
 ## **Setup Process** :**Up and running in minutes**
@@ -122,15 +122,7 @@ Lifewire / Yoona Wagener
 
 ![TCL 50S425 50-inch Roku TV (2019)](https://www.lifewire.com/thmb/Lv4B9e6LaJSHW7NSl-Braa2vnmc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4061017_03-b8155781e440420aa0c6c2bf19f9fe6a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Yoona Wagener
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Audio Quality: Solid but not spellbinding**
 
@@ -145,7 +137,7 @@ Lifewire / Yoona Wagener
  Lifewire / Yoona Wagener
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Software: Intuitive and streamlined**
@@ -156,9 +148,17 @@ Lifewire / Yoona Wagener
 
  While the remote doesn’t come with a built-in speaker, the free Roku app does offer a voice-assistant feature. It’s best when completing a general search for a show or actor or for launching a particular app. If you have a Google Assistant or Amazon Alexa enabled device, this Roku TV will support them, and they offer a generally better experience than using the Roku app voice remote function.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: A great bargain on a budget**
 
  If you don’t want to spend a fortune on a 4K TV, but you want to get as much value as possible, the TCL 50S425 50-inch Roku TV is a compelling option. It retails for $350, which situates it in the growing and competitive class of 4K TVs under $500\. In the TCL 4-Series alone you have several other models to consider that all share the same specifications except for size. The larger 55-inch TCL Roku TV retails for just $30 more than the 50-inch version and features a larger screen size of 54.6 inches. It may not seem considerable, but if you’re limited with space, the extra width and height (five and two inches, respectively) can actually feel like a pretty massive difference. And if you opt for a smaller display and a lower price tag, the 43-inch TCL Roku TV retails for about $280, but you’re sacrificing 7 inches of display.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **TCL 50S425 50-inch Roku TV (2019) vs. Toshiba 55LF711U20 55-inch Fire TV Edition**
 
@@ -176,15 +176,15 @@ Lifewire / Yoona Wagener
 
  The TCL 50S425 50-inch Roku TV is a smart 4K TV that possesses many merits: an appealing price point, excellent 4K HDR picture quality, a size profile that won’t overwhelm small rooms or apartments, and an easy-to-use interface that requires little fuss. You may find better 4K picture and audio quality in a higher-end model, but this TV offers a welcome smart TV upgrade at a price that won’t empty your pockets.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Similar Products We've Reviewed
 
 * [Sony XBR49X900F 49-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/sony-xbr49x900f-49-inch-4k-ultra-hd-smart-led-tv-review-4796665)
 * [Insignia NS-43DF710NA19 Fire TV Edition](https://www.lifewire.com/insignia-ns-43df710na19-fire-tv-edition-review-4770716)
 * [LG 27UD58-B 27-Inch 4K UHD IPS Monitor](https://www.lifewire.com/lg-27ud58-b27-inch-4k-uhd-ips-monitor-review-4778916)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -218,14 +218,14 @@ Lifewire / Yoona Wagener
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-top-audio-transformation-software-magic-and-more/"><u>[New] In 2024, Top Audio Transformation Software Magic and More</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-sony-s6700-revised-whats-new/"><u>[Updated] 2024 Approved Sony S6700 Revised - What's New?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-vector-graphics-101-overview-of-varieties-and-tools/"><u>[Updated] Vector Graphics 101 Overview of Varieties & Tools</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-complete-roadmap-downloading-editing-and-customizing-whatsapp-tones/"><u>2024 Approved The Complete Roadmap Downloading, Editing & Customizing WhatsApp Tones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/balancing-creativity-with-automation-using-chatgpt-wisely/"><u>Balancing Creativity with Automation: Using ChatGPT Wisely</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-visual-magic-how-to-create-stunning-video-effects-like-a-pro/"><u>New Visual Magic How to Create Stunning Video Effects Like a Pro</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-premiere-rush-replacements-4-best-options-for-video-editing/"><u>Updated Premiere Rush Replacements 4 Best Options for Video Editing</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-top-highlight-reel-creators-desktop-and-mobile-apps/"><u>Updated Top Highlight Reel Creators Desktop and Mobile Apps</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-try-the-easy-movie-maker-software-using-the-following-guide-for-2024/"><u>Updated Try the Easy Movie Maker Software Using the Following Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flutter-free-your-videos-a-selection-of-excellent-converters-for-2024/"><u>[New] Flutter Free Your Videos A Selection of Excellent Converters for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-easing-into-your-youtube-watches-3-methods-50-chars/"><u>2024 Approved Easing Into Your YouTube Watches 3 Methods (50 Chars)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsung-unpacked-ahead-detailed-news-roundup-for-the-upcoming-tech-extravaganza-of-2025/"><u>Samsung Unpacked Ahead: Detailed News Roundup for the Upcoming Tech Extravaganza of 2025</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-20-wonderful-stop-motion-ideas-for-beginners-and-kids-for-2024/"><u>Updated 20 Wonderful Stop Motion Ideas for Beginners and Kids for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-desktop-recording-made-easy-a-step-by-step-guide-to-using-filmora-scrn/"><u>Updated 2024 Approved Desktop Recording Made Easy A Step-by-Step Guide to Using Filmora Scrn</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-best-of-the-best-top-iphone-video-editing-apps-revealed/"><u>Updated 2024 Approved The Best of the Best Top iPhone Video Editing Apps Revealed</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-bring-your-vision-to-life-10-best-music-video-production-companies/"><u>Updated In 2024, Bring Your Vision to Life 10 Best Music Video Production Companies</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-mac-video-editing-made-easy-install-lumafusion-or-choose-an-alternative/"><u>Updated Mac Video Editing Made Easy Install Lumafusion or Choose an Alternative</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-to-do-if-your-apple-airpod-is-silent-expert-fixes-for-solo-non-working-units/"><u>What To Do If Your Apple AirPod Is Silent? Expert Fixes for Solo Non-Working Units</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Final Cut Pro Color Grading Essentials
-date: 2025-02-08T18:14:00.504Z
-updated: 2025-02-10T02:13:40.376Z
+date: 2025-02-16T08:48:51.690Z
+updated: 2025-02-19T18:50:40.192Z
 tags: 
   - video editing software
   - video editing
@@ -57,10 +57,6 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 ![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
 ![Effect Browser](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-2.png)
@@ -69,13 +65,13 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 ![Go to Color Board](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
 ![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Step 2
 
@@ -88,7 +84,7 @@ As soon as you make this selection, the video scopes window will automatically a
 ![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 3
@@ -104,7 +100,7 @@ Now it is time to work on color correction directly. There are three types of co
 ![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
@@ -117,12 +113,16 @@ It is possible to preview all the corrections on the original image before makin
 
 ![correction On and Off options](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-10.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Here's the video tutorial on how to correct color in Final Cut Pro:**
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -140,22 +140,21 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ifting-through-mr-beasts-bank-statements-for-2024/"><u>[New] Sifting Through Mr. Beast's Bank Statements for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-disabling-automated-podcast-suggestions-for-privacy/"><u>[Updated] Disabling Automated Podcast Suggestions for Privacy</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-offline-replay-select-playlist-extractors-reviewed/"><u>[Updated] Offline Replay Select Playlist Extractors Reviewed</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-premier-church-live-streaming-services-revealed-for-2024/"><u>[Updated] Premier Church Live Streaming Services Revealed for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/easy-steps-to-open-and-enjoy-your-wav-soundtracks/"><u>Easy Steps to Open and Enjoy Your WAV Soundtracks</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-avoiding-zoom-call-blunders-smart-filters-usage/"><u>In 2024, Avoiding Zoom Call Blunders Smart Filters Usage</u></a></li>
-<li><a href="https://blog-min.techidaily.com/storage-basics-explained-the-relationship-between-gb-and-mb/"><u>Storage Basics Explained: The Relationship Between GB and MB</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/the-comprehensive-guide-to-crafting-effective-reddit-posts-for-2024/"><u>The Comprehensive Guide to Crafting Effective Reddit Posts for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tip-locating-the-right-printer-driver-for-your-windows-pc-fixed/"><u>Troubleshooting Tip: Locating the Right Printer Driver for Your Windows PC [FIXED]</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-kinemaster-for-mac-a-step-by-step-installation-tutorial/"><u>Updated 2024 Approved KineMaster for Mac A Step-by-Step Installation Tutorial</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-top-5-best-free-iphone-video-rotators/"><u>Updated 2024 Approved Top 5 Best Free iPhone Video Rotators</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-top-rated-online-trailer-editing-services/"><u>Updated 2024 Approved Top-Rated Online Trailer Editing Services</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-edit-large-videos-in-no-time-a-step-by-step-guide-for-mac-users-for-2024/"><u>Updated Edit Large Videos in No Time A Step-by-Step Guide for Mac Users for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-split-3gp-files-into-multiple-segments-easy-guide-2023/"><u>Updated In 2024, Split 3GP Files Into Multiple Segments Easy Guide 2023</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-top-vlog-editing-tools-for-popular-platforms-free-and-paid-options/"><u>Updated In 2024, Top Vlog Editing Tools for Popular Platforms Free and Paid Options</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-unleash-your-creativity-top-video-collage-apps-for-iphone-and-ipad/"><u>Updated In 2024, Unleash Your Creativity Top Video Collage Apps for iPhone and iPad</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-revolutionize-your-job-search-best-video-resume-software-free-templates/"><u>Updated Revolutionize Your Job Search Best Video Resume Software (Free Templates)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-breakthrough-beginnings-in-panzoids/"><u>[Updated] 2024 Approved Breakthrough Beginnings in Panzoids</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-troubleshooting-why-are-your-shorts-thumbnails-hiding/"><u>[Updated] 2024 Approved Troubleshooting Why Are Your Shorts' Thumbnails Hiding?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-diving-into-virtual-worlds-iphone-vr-viewing-101-for-2024/"><u>[Updated] Diving Into Virtual Worlds IPhone VR Viewing 101 for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-step-by-step-guide-to-live-stream-your-google-meet-on-youtube/"><u>[Updated] In 2024, Step-By-Step Guide to Live Stream Your Google Meet on YouTube</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-fast-track-building-elegant-google-photo-collage-art-for-2024/"><u>[Updated] The Fast Track Building Elegant Google Photo Collage Art for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unlock-your-fb-potential-with-these-video-engagement-techniques-for-2024/"><u>[Updated] Unlock Your FB Potential with These Video Engagement Techniques for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-systems-showdown-consoles-vs-personal-builds/"><u>Gaming Systems Showdown: Consoles Vs. Personal Builds</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-gionee-f3-pro-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Gionee F3 Pro?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/o-sculpt-the-perfect-youtube-moniker-tips-and-tricks/"><u>How to Sculpt the Perfect YouTube Moniker Tips & Tricks</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/mastering-final-cut-pro-how-to-flip-a-clip-in-4-simple-steps-for-2024/"><u>Mastering Final Cut Pro How to Flip a Clip in 4 Simple Steps for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-elevate-your-video-experience-best-quality-enhancement-software/"><u>New 2024 Approved Elevate Your Video Experience Best Quality Enhancement Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-fast-forward-your-memories-best-time-lapse-video-apps/"><u>New 2024 Approved Fast Forward Your Memories Best Time-Lapse Video Apps</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-from-blurry-to-brilliant-top-free-online-video-quality-enhancement-tools/"><u>New 2024 Approved From Blurry to Brilliant Top Free Online Video Quality Enhancement Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-ultimate-avs-video-editor-review/"><u>New 2024 Approved The Ultimate AVS Video Editor Review</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-change-the-look-how-to-modify-video-dimensions-easily-for-2024/"><u>New Change the Look How to Modify Video Dimensions Easily for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-movie-maker-for-mac-how-to-make-a-movie-on-mac/"><u>New In 2024, Movie Maker for Mac How to Make a Movie on Mac</u></a></li>
 </ul></div>
 
